@@ -1,20 +1,31 @@
 AutoCog is a tool to assess how well an Android application description reveal the security-concerned permission in semantics level. Based on our learning approach, the tool leverages large-scale of Android applications and descriptions to generate a Description-to-Permission Relatedness (DPR) Model (semantic patterns and permission with high correlation). 
 
 Prerequest:
+
 nltk package python: http://nltk.org
+
 ESAlib: https://github.com/ticcky/esalib
 
 To Use it:
-setup the ESAlib
-cp neweval_0103.jar and neweval_0103.jar_lib in src/ to /semant2/esalib
-go to dir: /semant2/esalib
-java -jar neweval_0103.jar noskip(skip) PERMISSION
 
-parameter: noskip - scan the whole description to identify all the pairs of verb and noun phrase revealing the target permission
-	     skip - once a pair of verb and noun phrase revealing the target permission is identified, the description is skipped, for the efficiency of measurement of the Permission-to-description fidelity of the current android market.
+(1) Setup the ESAlib
+
+(2) Copy all the contents in file esalib_data to /AutoCog/esalib/data/
+
+(3) Copy neweval_0103.jar and neweval_0103.jar_lib in src/ to /AutoCog/esalib/
+
+(4) Go to dir: /semant2/esalib
+
+Command: java -jar neweval_0103.jar noskip(skip) PERMISSION
+
+parameter: 
+
+noskip - scan the whole description to identify all the pairs of verb and noun phrase revealing the target permission
+	     
+skip - once a pair of verb and noun phrase revealing the target permission is identified, the description is skipped, for the efficiency of measurement of the Permission-to-description fidelity of the current android market.
+
 
 Example: java -jar neweval_0103.jar noskip READ_CONATCTS
-
 
 Permissions covered:
 
