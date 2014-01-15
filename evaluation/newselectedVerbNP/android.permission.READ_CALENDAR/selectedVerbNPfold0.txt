@@ -1,0 +1,3275 @@
+local business
+leave	1.0	1
+id	1.0	1
+
+traffic condition
+background	1.0	1
+advance	1.0	1
+support	1.0	1
+scan	1.0	1
+rout	1.0	1
+
+custom message
+unread	1.0	1
+greet	1.0	1
+pitch	1.0	1
+name	1.0	1
+outbound	1.0	1
+preferences	1.0	1
+state	1.0	1
+inbound	1.0	1
+destory	1.0	1
+count	1.0	2
+
+busy schedule
+prompt	1.0	1
+postpone	1.0	1
+insert	1.0	1
+enjoy	1.0	1
+instal	1.0	1
+double-check	1.0	1
+search	1.0	1
+transfer	1.0	1
+assign	1.0	3
+activate	1.0	1
+attach	1.0	1
+re-write	1.0	1
+cant	1.0	1
+multiplexes	1.0	1
+transmit	1.0	1
+reminder	1.0	1
+parameterized	1.0	1
+
+new widget
+google	1.0	1
+write	1.0	1
+explain	1.0	1
+specify	1.0	2
+locate	1.0	1
+re-add	1.0	1
+reboot	1.0	1
+label	1.0	1
+mark	1.0	1
+intend	1.0	1
+aim	1.0	1
+clutter	1.0	1
+latest	1.0	1
+
+place locator
+prefer	1.0	1
+encode	1.0	1
+occur	1.0	1
+reflect	1.0	1
+accompany	1.0	6
+visualize	1.0	1
+remind	1.0	1
+head	1.0	1
+
+comprehensive information
+replace	1.0	1
+hotels	1.0	1
+measure	1.0	1
+adaptive	1.0	1
+personalize	1.0	1
+aka	1.0	1
+prioritize	1.0	1
+leak	1.0	1
+stamp	1.0	1
+promise	1.0	1
+prepare	1.0	1
+head	1.0	1
+
+select widget
+google	1.0	1
+write	1.0	1
+explain	1.0	1
+specify	1.0	2
+locate	1.0	1
+re-add	1.0	1
+reboot	1.0	1
+label	1.0	1
+mark	1.0	1
+intend	1.0	1
+aim	1.0	1
+clutter	1.0	1
+assign	1.0	1
+latest	1.0	1
+
+business listing
+leave	1.0	1
+id	1.0	1
+
+photo message
+unread	1.0	1
+greet	1.0	1
+pitch	1.0	1
+name	1.0	1
+outbound	1.0	1
+preferences	1.0	1
+state	1.0	1
+inbound	1.0	1
+destory	1.0	1
+count	1.0	2
+
+current date
+reboot	1.0	1
+determine	1.0	1
+calendar	1.0	2
+initiate	1.0	1
+widget	1.0	1
+customizable	1.0	1
+dedicate	1.0	1
+experience	1.0	1
+convene	1.0	1
+timetable	1.0	1
+long-press	1.0	2
+accompany	1.0	3
+suit	1.0	1
+lower	1.0	1
+cant	1.0	1
+gebruiksvriendelijk	1.0	1
+altijd	1.0	1
+
+severe weather
+background	1.0	1
+redesign	1.0	1
+accord	1.0	1
+widget	1.0	1
+ask	1.0	1
+matter	1.0	1
+write	1.0	1
+expand	1.0	1
+talk	1.0	1
+
+time management
+follow	1.0	1
+base	1.0	1
+reminder	1.0	1
+plan	1.0	1
+
+launcher ex
+save	1.0	1
+scroll	1.0	1
+
+text message
+unread	1.0	1
+greet	1.0	1
+name	1.0	1
+outbound	1.0	1
+preferences	1.0	1
+state	1.0	1
+inbound	1.0	1
+destory	1.0	1
+count	1.0	2
+
+voice message
+unread	1.0	1
+greet	1.0	1
+name	1.0	1
+outbound	1.0	1
+preferences	1.0	1
+state	1.0	1
+inbound	1.0	1
+destory	1.0	1
+count	1.0	2
+
+beautiful widget
+google	1.0	1
+write	1.0	1
+explain	1.0	1
+specify	1.0	2
+locate	1.0	1
+re-add	1.0	1
+reboot	1.0	1
+label	1.0	1
+mark	1.0	1
+intend	1.0	1
+aim	1.0	1
+clutter	1.0	1
+assign	1.0	1
+latest	1.0	1
+
+class schedule
+prompt	1.0	1
+postpone	1.0	1
+transmit	1.0	1
+insert	1.0	1
+enjoy	1.0	1
+instal	1.0	1
+double-check	1.0	1
+transfer	1.0	1
+assign	1.0	3
+activate	1.0	1
+attach	1.0	1
+re-write	1.0	1
+register	1.0	1
+cant	1.0	1
+multiplexes	1.0	1
+reminder	1.0	1
+finish	1.0	1
+resemble	1.0	1
+parameterized	1.0	1
+maximize	0.916666666667	12
+sign	0.846153846154	13
+
+apex launcher
+save	1.0	1
+scroll	1.0	1
+
+notification ringtones
+speed	1.0	1
+blast	1.0	1
+light	1.0	1
+snooze	1.0	1
+issue	1.0	1
+
+new event
+try	1.0	2
+socialize	1.0	1
+confirmations	1.0	1
+account	1.0	1
+figure	1.0	1
+map	1.0	2
+execute	1.0	1
+publish	1.0	1
+ask	1.0	1
+feel	1.0	1
+auto-titles	1.0	1
+copy	1.0	1
+calendar	1.0	4
+group	1.0	1
+decline	1.0	2
+define	1.0	1
+dismiss	1.0	1
+partner	1.0	1
+finish	1.0	1
+weld	1.0	1
+speed	1.0	1
+spread	1.0	1
+easy	1.0	4
+insert	1.0	2
+google	1.0	2
+back	1.0	1
+eliminate	1.0	1
+schedule	1.0	2
+paste	1.0	1
+log	1.0	2
+fabricate	1.0	1
+highlight	1.0	1
+
+expense manager
+follow	1.0	1
+base	1.0	1
+reminder	1.0	1
+plan	1.0	1
+
+ringtones
+speed	1.0	1
+blast	1.0	1
+issue	1.0	1
+notify	1.0	1
+feature	0.806451612903	31
+
+up-to-date information
+customizable	1.0	1
+altijd	1.0	1
+widget	1.0	1
+replace	1.0	1
+hotels	1.0	1
+long-press	1.0	2
+adaptive	1.0	1
+wipe	1.0	1
+measure	1.0	1
+reboot	1.0	1
+convene	1.0	1
+cant	1.0	1
+gebruiksvriendelijk	1.0	1
+lower	1.0	1
+prioritize	1.0	1
+determine	1.0	1
+suit	1.0	1
+head	1.0	1
+
+integral part
+share	1.0	1
+calendar	1.0	1
+provide	1.0	1
+use	1.0	1
+enhance	1.0	1
+
+late date
+reboot	1.0	1
+determine	1.0	1
+initiate	1.0	1
+widget	1.0	1
+dedicate	1.0	1
+experience	1.0	1
+assign	1.0	2
+convene	1.0	1
+long-press	1.0	2
+accompany	1.0	3
+suit	1.0	1
+lower	1.0	1
+cant	1.0	1
+gebruiksvriendelijk	1.0	1
+altijd	1.0	1
+customizable	1.0	1
+
+handcent message
+unread	1.0	1
+greet	1.0	1
+pitch	1.0	1
+name	1.0	1
+outbound	1.0	1
+preferences	1.0	1
+state	1.0	1
+inbound	1.0	1
+destory	1.0	1
+im	1.0	1
+count	1.0	2
+
+event organizer
+try	1.0	1
+socialize	1.0	1
+confirmations	1.0	1
+account	1.0	1
+figure	1.0	1
+map	1.0	2
+operate	1.0	1
+execute	1.0	1
+publish	1.0	1
+ask	1.0	1
+log	1.0	2
+feel	1.0	1
+auto-titles	1.0	1
+copy	1.0	1
+calendar	1.0	4
+group	1.0	1
+decline	1.0	2
+define	1.0	1
+dismiss	1.0	1
+finish	1.0	1
+weld	1.0	1
+speed	1.0	1
+spread	1.0	1
+easy	1.0	4
+insert	1.0	2
+google	1.0	2
+back	1.0	1
+eliminate	1.0	1
+schedule	1.0	1
+paste	1.0	1
+fabricate	1.0	1
+highlight	1.0	1
+recognize	1.0	1
+
+secure message
+unread	1.0	1
+greet	1.0	1
+name	1.0	1
+outbound	1.0	1
+preferences	1.0	1
+state	1.0	1
+inbound	1.0	1
+destory	1.0	1
+count	1.0	2
+
+contact page
+enhance	1.0	1
+wait	1.0	1
+convert	1.0	1
+love	1.0	1
+cloud	1.0	1
+flag	1.0	1
+reminders	1.0	2
+sms	1.0	1
+notify	1.0	2
+accompany	1.0	2
+recover	1.0	1
+perform	1.0	1
+beside	1.0	1
+solve	1.0	1
+ensure	1.0	1
+decode	1.0	1
+push	1.0	1
+
+activation
+affect	1.0	1
+unique	1.0	1
+doesnt	1.0	1
+download	1.0	1
+collect	1.0	1
+determine	1.0	1
+phone	1.0	1
+remote	1.0	1
+watch	1.0	1
+
+popular ringtones
+speed	1.0	1
+blast	1.0	1
+issue	1.0	1
+notify	1.0	1
+feature	0.806451612903	31
+
+different view
+month	1.0	1
+weather	1.0	1
+arrange	1.0	2
+enhance	1.0	1
+adapt	1.0	1
+week	1.0	1
+
+important event
+try	1.0	2
+socialize	1.0	1
+confirmations	1.0	1
+account	1.0	1
+figure	1.0	1
+map	1.0	2
+execute	1.0	1
+publish	1.0	1
+ask	1.0	1
+feel	1.0	1
+auto-titles	1.0	1
+copy	1.0	1
+calendar	1.0	4
+group	1.0	1
+decline	1.0	2
+define	1.0	1
+dismiss	1.0	1
+partner	1.0	1
+finish	1.0	1
+weld	1.0	1
+speed	1.0	1
+spread	1.0	1
+easy	1.0	4
+insert	1.0	2
+google	1.0	2
+back	1.0	1
+eliminate	1.0	1
+schedule	1.0	2
+paste	1.0	1
+log	1.0	2
+fabricate	1.0	1
+highlight	1.0	1
+
+message alert
+unread	1.0	1
+greet	1.0	1
+name	1.0	1
+outbound	1.0	1
+preferences	1.0	1
+state	1.0	1
+inbound	1.0	1
+destory	1.0	1
+count	1.0	1
+
+different ringtones
+speed	1.0	1
+blast	1.0	1
+issue	1.0	1
+notify	1.0	1
+feature	0.806451612903	31
+
+on-top-widget
+google	1.0	1
+write	1.0	1
+explain	1.0	1
+specify	1.0	2
+locate	1.0	1
+re-add	1.0	1
+reboot	1.0	1
+label	1.0	1
+mark	1.0	1
+intend	1.0	1
+aim	1.0	1
+clutter	1.0	1
+assign	1.0	1
+latest	1.0	1
+
+traffic
+background	1.0	1
+advance	1.0	1
+support	1.0	1
+scan	1.0	1
+rout	1.0	1
+
+quick note
+access	1.0	5
+
+message text
+unread	1.0	1
+greet	1.0	1
+name	1.0	1
+outbound	1.0	1
+preferences	1.0	1
+state	1.0	1
+inbound	1.0	1
+destory	1.0	1
+count	1.0	2
+
+contact detail
+enhance	1.0	1
+wait	1.0	1
+convert	1.0	1
+love	1.0	1
+cloud	1.0	1
+flag	1.0	1
+reminders	1.0	2
+sms	1.0	1
+notify	1.0	2
+accompany	1.0	2
+recover	1.0	1
+perform	1.0	1
+beside	1.0	1
+solve	1.0	1
+ensure	1.0	1
+decode	1.0	1
+push	1.0	1
+
+launcher dodol
+save	1.0	1
+scroll	1.0	1
+
+manager
+follow	1.0	1
+base	1.0	1
+reminder	1.0	1
+plan	1.0	1
+
+event information
+try	1.0	2
+socialize	1.0	1
+confirmations	1.0	1
+account	1.0	1
+figure	1.0	1
+map	1.0	2
+execute	1.0	1
+publish	1.0	1
+ask	1.0	1
+feel	1.0	1
+auto-titles	1.0	1
+copy	1.0	1
+calendar	1.0	4
+group	1.0	1
+decline	1.0	2
+define	1.0	1
+dismiss	1.0	1
+partner	1.0	1
+finish	1.0	1
+weld	1.0	1
+speed	1.0	1
+spread	1.0	1
+easy	1.0	4
+insert	1.0	2
+google	1.0	2
+back	1.0	1
+eliminate	1.0	1
+schedule	1.0	2
+paste	1.0	1
+log	1.0	2
+fabricate	1.0	1
+highlight	1.0	1
+
+home launcher
+save	1.0	1
+scroll	1.0	1
+
+message mms
+unread	1.0	1
+greet	1.0	1
+pitch	1.0	1
+name	1.0	1
+outbound	1.0	1
+preferences	1.0	1
+state	1.0	1
+inbound	1.0	1
+destory	1.0	1
+im	1.0	1
+count	1.0	2
+
+best view
+month	1.0	1
+weather	1.0	1
+arrange	1.0	2
+enhance	1.0	1
+adapt	1.0	1
+week	1.0	1
+
+quick link
+access	1.0	5
+
+next widget
+google	1.0	1
+write	1.0	1
+explain	1.0	1
+specify	1.0	2
+locate	1.0	1
+re-add	1.0	1
+reboot	1.0	1
+label	1.0	1
+mark	1.0	1
+intend	1.0	1
+aim	1.0	1
+clutter	1.0	1
+latest	1.0	1
+
+alarm volume
+introduce	1.0	1
+hide	1.0	1
+widget	1.0	1
+distinguish	1.0	1
+recover	1.0	1
+command	1.0	1
+wakevoice	1.0	1
+
+nature sound
+remind	1.0	1
+optional	1.0	1
+shout	1.0	1
+scream	1.0	3
+yell	1.0	1
+
+news weather
+background	1.0	1
+redesign	1.0	1
+accord	1.0	1
+widget	1.0	1
+matter	1.0	1
+write	1.0	1
+expand	1.0	1
+talk	1.0	1
+
+event date
+try	1.0	1
+socialize	1.0	1
+confirmations	1.0	1
+account	1.0	1
+figure	1.0	1
+map	1.0	2
+execute	1.0	1
+publish	1.0	1
+ask	1.0	1
+feel	1.0	1
+auto-titles	1.0	1
+copy	1.0	1
+calendar	1.0	4
+group	1.0	1
+decline	1.0	2
+define	1.0	1
+dismiss	1.0	1
+partner	1.0	1
+finish	1.0	1
+weld	1.0	1
+speed	1.0	1
+spread	1.0	1
+easy	1.0	4
+insert	1.0	2
+google	1.0	2
+back	1.0	1
+eliminate	1.0	1
+schedule	1.0	2
+paste	1.0	1
+log	1.0	2
+fabricate	1.0	1
+highlight	1.0	1
+
+integrated
+share	1.0	1
+calendar	1.0	1
+provide	1.0	1
+use	1.0	1
+enhance	1.0	1
+
+new activity
+affect	1.0	1
+unique	1.0	1
+doesnt	1.0	1
+download	1.0	1
+collect	1.0	1
+determine	1.0	1
+phone	1.0	1
+remote	1.0	1
+watch	1.0	1
+
+convenience
+upgrade	1.0	1
+clean	1.0	1
+maximize	0.933333333333	15
+
+weather
+background	1.0	1
+redesign	1.0	1
+accord	1.0	1
+widget	1.0	1
+matter	1.0	1
+write	1.0	1
+expand	1.0	1
+talk	1.0	1
+
+activity
+affect	1.0	1
+unique	1.0	1
+doesnt	1.0	1
+download	1.0	1
+collect	1.0	1
+determine	1.0	1
+phone	1.0	1
+remote	1.0	1
+watch	1.0	1
+
+quick
+access	1.0	5
+
+event calendar
+restore	1.0	2
+incorporate	1.0	1
+month	1.0	1
+help	1.0	2
+note	1.0	1
+title	1.0	1
+integrate	1.0	5
+synchronisation	1.0	1
+read	1.0	4
+edit	1.0	1
+remove	1.0	1
+gather	1.0	1
+ignore	1.0	1
+synchronize	1.0	2
+fare	1.0	1
+retrieve	1.0	1
+design	1.0	1
+wonder	1.0	1
+schedule	1.0	1
+encourage	1.0	1
+import	1.0	1
+exchange	1.0	1
+meet	1.0	1
+improve	1.0	1
+route	1.0	1
+backup	1.0	2
+support	1.0	2
+google	1.0	1
+motor	1.0	1
+decode	1.0	1
+attach	1.0	1
+encode	1.0	1
+enable	1.0	2
+protect	1.0	1
+phone	1.0	1
+export	1.0	1
+copy	1.0	1
+youre	1.0	1
+recover	1.0	1
+worry	1.0	1
+write	1.0	4
+week	1.0	1
+push	1.0	1
+require	0.833333333333	6
+
+current weather
+background	1.0	1
+redesign	1.0	1
+accord	1.0	1
+widget	1.0	1
+matter	1.0	1
+write	1.0	1
+expand	1.0	1
+talk	1.0	1
+
+view
+month	1.0	1
+weather	1.0	1
+arrange	1.0	2
+enhance	1.0	1
+adapt	1.0	1
+week	1.0	1
+
+appointment
+view	1.0	10
+check	1.0	10
+schedule	1.0	10
+add	1.0	10
+delete	1.0	10
+remove	1.0	10
+create	1.0	10
+show	1.0	10
+look	1.0	10
+set	1.0	10
+save	1.0	10
+keep	1.0	10
+
+time widget
+google	1.0	1
+write	1.0	1
+explain	1.0	1
+specify	1.0	2
+locate	1.0	1
+re-add	1.0	1
+reboot	1.0	1
+label	1.0	1
+mark	1.0	1
+intend	1.0	1
+aim	1.0	1
+clutter	1.0	1
+latest	1.0	1
+
+certain information
+replace	1.0	1
+hotels	1.0	1
+measure	1.0	1
+adaptive	1.0	1
+personalize	1.0	1
+aka	1.0	1
+prioritize	1.0	1
+leak	1.0	1
+stamp	1.0	1
+promise	1.0	1
+prepare	1.0	1
+head	1.0	1
+
+notification area
+instant	1.0	1
+light	1.0	1
+snooze	1.0	1
+
+send message
+unread	1.0	1
+greet	1.0	1
+name	1.0	1
+outbound	1.0	1
+preferences	1.0	1
+state	1.0	1
+inbound	1.0	1
+destory	1.0	1
+count	1.0	2
+
+contact list
+enhance	1.0	1
+wait	1.0	1
+convert	1.0	1
+love	1.0	1
+cloud	1.0	1
+flag	1.0	1
+reminders	1.0	2
+sms	1.0	1
+notify	1.0	2
+accompany	1.0	2
+recover	1.0	1
+perform	1.0	1
+beside	1.0	1
+solve	1.0	1
+ensure	1.0	1
+decode	1.0	1
+push	1.0	1
+
+contact form
+enhance	1.0	1
+wait	1.0	1
+convert	1.0	1
+love	1.0	1
+cloud	1.0	1
+flag	1.0	1
+reminders	1.0	2
+sms	1.0	1
+notify	1.0	2
+accompany	1.0	2
+recover	1.0	1
+perform	1.0	1
+beside	1.0	1
+solve	1.0	1
+ensure	1.0	1
+decode	1.0	1
+push	1.0	1
+
+dodol launcher
+save	1.0	1
+scroll	1.0	1
+
+detailed view
+month	1.0	1
+weather	1.0	1
+arrange	1.0	2
+enhance	1.0	1
+adapt	1.0	1
+week	1.0	1
+
+chat message
+greet	1.0	1
+name	1.0	1
+unread	1.0	1
+outbound	1.0	1
+preferences	1.0	1
+state	1.0	1
+inbound	1.0	1
+catch	1.0	1
+destory	1.0	1
+count	1.0	1
+
+ringtones notification
+speed	1.0	1
+blast	1.0	1
+light	1.0	1
+snooze	1.0	1
+issue	1.0	1
+
+natural sound
+remind	1.0	1
+optional	1.0	1
+shout	1.0	1
+scream	1.0	3
+yell	1.0	1
+
+next launcher
+save	1.0	1
+scroll	1.0	1
+
+advertisement information
+replace	1.0	1
+hotels	1.0	1
+measure	1.0	1
+adaptive	1.0	1
+personalize	1.0	1
+aka	1.0	1
+prioritize	1.0	1
+leak	1.0	1
+stamp	1.0	1
+promise	1.0	1
+prepare	1.0	1
+head	1.0	1
+
+calendar
+restore	1.0	2
+incorporate	1.0	1
+month	1.0	1
+help	1.0	2
+note	1.0	1
+title	1.0	1
+integrate	1.0	5
+synchronisation	1.0	1
+read	1.0	4
+edit	1.0	1
+remove	1.0	1
+gather	1.0	1
+ignore	1.0	1
+synchronize	1.0	2
+fare	1.0	1
+retrieve	1.0	1
+design	1.0	1
+wonder	1.0	1
+schedule	1.0	1
+encourage	1.0	1
+import	1.0	1
+exchange	1.0	1
+meet	1.0	1
+improve	1.0	1
+route	1.0	1
+backup	1.0	2
+support	1.0	2
+google	1.0	1
+motor	1.0	1
+decode	1.0	1
+attach	1.0	1
+encode	1.0	1
+enable	1.0	2
+protect	1.0	1
+phone	1.0	1
+export	1.0	1
+copy	1.0	1
+youre	1.0	1
+recover	1.0	1
+worry	1.0	1
+write	1.0	4
+week	1.0	1
+push	1.0	1
+require	0.833333333333	6
+
+special event
+try	1.0	2
+socialize	1.0	1
+confirmations	1.0	1
+account	1.0	1
+figure	1.0	1
+map	1.0	2
+execute	1.0	1
+publish	1.0	1
+ask	1.0	1
+feel	1.0	1
+auto-titles	1.0	1
+copy	1.0	1
+calendar	1.0	4
+group	1.0	1
+decline	1.0	2
+define	1.0	1
+dismiss	1.0	1
+partner	1.0	1
+finish	1.0	1
+weld	1.0	1
+speed	1.0	1
+spread	1.0	1
+easy	1.0	4
+insert	1.0	2
+google	1.0	2
+back	1.0	1
+eliminate	1.0	1
+schedule	1.0	2
+paste	1.0	1
+log	1.0	2
+fabricate	1.0	1
+highlight	1.0	1
+
+weather report
+background	1.0	1
+redesign	1.0	1
+accord	1.0	1
+widget	1.0	1
+matter	1.0	1
+write	1.0	1
+expand	1.0	1
+talk	1.0	1
+
+event
+try	1.0	2
+socialize	1.0	1
+confirmations	1.0	1
+account	1.0	1
+figure	1.0	1
+map	1.0	2
+execute	1.0	1
+publish	1.0	1
+ask	1.0	1
+feel	1.0	1
+auto-titles	1.0	1
+copy	1.0	1
+calendar	1.0	4
+group	1.0	1
+decline	1.0	2
+define	1.0	1
+dismiss	1.0	1
+partner	1.0	1
+finish	1.0	1
+weld	1.0	1
+speed	1.0	1
+spread	1.0	1
+easy	1.0	4
+insert	1.0	2
+google	1.0	2
+back	1.0	1
+eliminate	1.0	1
+schedule	1.0	2
+paste	1.0	1
+log	1.0	2
+fabricate	1.0	1
+highlight	1.0	1
+
+solo launcher
+save	1.0	1
+scroll	1.0	1
+
+email client
+address	1.0	1
+pick	1.0	1
+encode	1.0	1
+attend	1.0	1
+anticipate	1.0	1
+close	1.0	1
+tour	1.0	1
+aim	1.0	1
+tighten	1.0	1
+reuse	1.0	1
+decode	1.0	1
+repeat	1.0	1
+push	1.0	1
+
+start launcher
+save	1.0	1
+scroll	1.0	1
+
+business
+leave	1.0	1
+id	1.0	1
+
+useful widget
+google	1.0	1
+write	1.0	1
+explain	1.0	1
+specify	1.0	2
+locate	1.0	1
+re-add	1.0	1
+reboot	1.0	1
+label	1.0	1
+mark	1.0	1
+intend	1.0	1
+aim	1.0	1
+clutter	1.0	1
+latest	1.0	1
+
+money manager
+follow	1.0	1
+base	1.0	1
+reminder	1.0	1
+plan	1.0	1
+
+integrates
+share	1.0	1
+calendar	1.0	1
+provide	1.0	1
+use	1.0	1
+enhance	1.0	1
+
+school student
+select	1.0	1
+step	1.0	1
+up-to-date	1.0	1
+chat	1.0	1
+track	1.0	1
+simplify	1.0	1
+compete	1.0	1
+
+integration
+share	1.0	1
+calendar	1.0	1
+provide	1.0	1
+use	1.0	1
+enhance	1.0	1
+
+recent activity
+affect	1.0	1
+unique	1.0	1
+doesnt	1.0	1
+download	1.0	1
+collect	1.0	1
+determine	1.0	1
+phone	1.0	1
+remote	1.0	1
+watch	1.0	1
+
+current information
+wipe	1.0	1
+replace	1.0	1
+hotels	1.0	1
+timetable	1.0	1
+adaptive	1.0	1
+measure	1.0	1
+calendar	1.0	1
+personalize	1.0	1
+prioritize	1.0	1
+prepare	1.0	1
+head	1.0	1
+
+view schedule
+prompt	1.0	1
+postpone	1.0	1
+insert	1.0	1
+enjoy	1.0	1
+instal	1.0	1
+double-check	1.0	1
+search	1.0	1
+transfer	1.0	1
+assign	1.0	3
+activate	1.0	1
+attach	1.0	1
+re-write	1.0	1
+cant	1.0	1
+multiplexes	1.0	1
+transmit	1.0	1
+reminder	1.0	1
+parameterized	1.0	1
+
+music ringtones
+blast	1.0	1
+issue	1.0	1
+notify	1.0	1
+differ	1.0	2
+recover	1.0	1
+fail	1.0	1
+speed	1.0	1
+
+ringtone notification
+speed	1.0	1
+blast	1.0	1
+light	1.0	1
+snooze	1.0	1
+issue	1.0	1
+
+dating
+reboot	1.0	1
+determine	1.0	1
+calendar	1.0	1
+initiate	1.0	1
+widget	1.0	1
+dedicate	1.0	1
+experience	1.0	1
+assign	1.0	2
+convene	1.0	1
+long-press	1.0	2
+accompany	1.0	3
+suit	1.0	1
+lower	1.0	1
+cant	1.0	1
+gebruiksvriendelijk	1.0	1
+altijd	1.0	1
+customizable	1.0	1
+
+quick way
+access	1.0	5
+
+message ringtone
+unread	1.0	1
+greet	1.0	1
+name	1.0	1
+outbound	1.0	1
+preferences	1.0	1
+state	1.0	1
+inbound	1.0	1
+destory	1.0	1
+count	1.0	2
+
+device calendar
+restore	1.0	2
+month	1.0	1
+help	1.0	2
+note	1.0	1
+title	1.0	1
+integrate	1.0	5
+read	1.0	4
+edit	1.0	1
+remove	1.0	1
+gather	1.0	1
+ignore	1.0	1
+synchronize	1.0	1
+fare	1.0	1
+retrieve	1.0	1
+sync	1.0	5
+design	1.0	1
+wonder	1.0	1
+schedule	1.0	1
+encourage	1.0	1
+import	1.0	1
+exchange	1.0	1
+meet	1.0	1
+improve	1.0	1
+route	1.0	1
+backup	1.0	2
+google	1.0	1
+motor	1.0	1
+support	1.0	1
+decode	1.0	1
+attach	1.0	1
+encode	1.0	1
+enable	1.0	1
+protect	1.0	1
+phone	1.0	1
+export	1.0	1
+require	1.0	3
+youre	1.0	1
+recover	1.0	1
+worry	1.0	1
+write	1.0	2
+week	1.0	1
+push	1.0	1
+
+active period
+affect	1.0	1
+unique	1.0	1
+download	1.0	1
+collect	1.0	1
+doesnt	1.0	1
+phone	1.0	1
+remote	1.0	1
+watch	1.0	1
+
+widget
+google	1.0	1
+write	1.0	1
+explain	1.0	1
+specify	1.0	2
+locate	1.0	1
+re-add	1.0	1
+reboot	1.0	1
+label	1.0	1
+mark	1.0	1
+intend	1.0	1
+aim	1.0	1
+clutter	1.0	1
+latest	1.0	1
+
+current period
+calendar	1.0	1
+open	1.0	1
+click	1.0	1
+timetable	1.0	1
+
+instant messaging
+unread	1.0	1
+greet	1.0	1
+name	1.0	1
+outbound	1.0	1
+preferences	1.0	1
+state	1.0	1
+inbound	1.0	1
+destory	1.0	1
+count	1.0	1
+
+schedule
+prompt	1.0	1
+postpone	1.0	1
+insert	1.0	1
+enjoy	1.0	1
+instal	1.0	1
+double-check	1.0	1
+search	1.0	1
+transfer	1.0	1
+assign	1.0	3
+activate	1.0	1
+attach	1.0	1
+re-write	1.0	1
+cant	1.0	1
+multiplexes	1.0	1
+transmit	1.0	1
+reminder	1.0	1
+assist	1.0	1
+parameterized	1.0	1
+
+emergency contact
+enhance	1.0	1
+wait	1.0	1
+convert	1.0	1
+love	1.0	1
+cloud	1.0	1
+flag	1.0	1
+reminders	1.0	2
+sms	1.0	1
+notify	1.0	2
+accompany	1.0	2
+recover	1.0	1
+perform	1.0	1
+beside	1.0	1
+solve	1.0	1
+ensure	1.0	1
+decode	1.0	1
+push	1.0	1
+
+homee launcher
+save	1.0	1
+scroll	1.0	1
+
+personal message
+unread	1.0	1
+greet	1.0	1
+pitch	1.0	1
+name	1.0	1
+outbound	1.0	1
+preferences	1.0	1
+state	1.0	1
+inbound	1.0	1
+destory	1.0	1
+im	1.0	1
+count	1.0	2
+
+new message
+unread	1.0	1
+greet	1.0	1
+pitch	1.0	1
+name	1.0	1
+outbound	1.0	1
+preferences	1.0	1
+state	1.0	1
+inbound	1.0	1
+destory	1.0	1
+im	1.0	1
+count	1.0	2
+
+bill reminder
+vote	1.0	1
+base	1.0	5
+change	1.0	1
+activate	1.0	1
+decrease	1.0	1
+recur	1.0	1
+texting	1.0	1
+sort	1.0	1
+flag	1.0	1
+specify	1.0	1
+prompt	1.0	1
+customize	1.0	1
+addict	1.0	1
+
+perfect widget
+google	1.0	1
+write	1.0	1
+explain	1.0	1
+specify	1.0	2
+locate	1.0	1
+re-add	1.0	1
+reboot	1.0	1
+label	1.0	1
+mark	1.0	1
+intend	1.0	1
+aim	1.0	1
+clutter	1.0	1
+assign	1.0	1
+latest	1.0	1
+
+quick setting
+access	1.0	5
+
+read message
+unread	1.0	1
+greet	1.0	1
+pitch	1.0	1
+name	1.0	1
+outbound	1.0	1
+preferences	1.0	1
+state	1.0	1
+inbound	1.0	1
+destory	1.0	1
+count	1.0	2
+
+widget support
+google	1.0	1
+write	1.0	1
+explain	1.0	1
+specify	1.0	2
+locate	1.0	1
+re-add	1.0	1
+reboot	1.0	1
+label	1.0	1
+mark	1.0	1
+intend	1.0	1
+aim	1.0	1
+clutter	1.0	1
+assign	1.0	1
+latest	1.0	1
+
+active
+affect	1.0	1
+unique	1.0	1
+doesnt	1.0	1
+download	1.0	1
+collect	1.0	1
+determine	1.0	1
+phone	1.0	1
+remote	1.0	1
+watch	1.0	1
+
+top widget
+google	1.0	1
+write	1.0	1
+explain	1.0	1
+specify	1.0	2
+locate	1.0	1
+re-add	1.0	1
+reboot	1.0	1
+label	1.0	1
+mark	1.0	1
+intend	1.0	1
+aim	1.0	1
+clutter	1.0	1
+assign	1.0	1
+latest	1.0	1
+
+launcher homescreen
+save	1.0	1
+scroll	1.0	1
+
+activate
+affect	1.0	1
+unique	1.0	1
+doesnt	1.0	1
+download	1.0	1
+collect	1.0	1
+determine	1.0	1
+phone	1.0	1
+remote	1.0	1
+watch	1.0	1
+
+local weather
+background	1.0	1
+redesign	1.0	1
+accord	1.0	1
+widget	1.0	1
+matter	1.0	1
+write	1.0	1
+expand	1.0	1
+talk	1.0	1
+
+supported launcher
+save	1.0	1
+scroll	1.0	1
+
+homescreen widget
+google	1.0	1
+write	1.0	1
+explain	1.0	1
+specify	1.0	2
+locate	1.0	1
+re-add	1.0	1
+reboot	1.0	1
+label	1.0	1
+mark	1.0	1
+intend	1.0	1
+aim	1.0	1
+clutter	1.0	1
+latest	1.0	1
+
+quick reference
+access	1.0	5
+
+search widget
+google	1.0	1
+write	1.0	1
+explain	1.0	1
+specify	1.0	2
+locate	1.0	1
+re-add	1.0	1
+reboot	1.0	1
+label	1.0	1
+mark	1.0	1
+intend	1.0	1
+aim	1.0	1
+clutter	1.0	1
+assign	1.0	1
+latest	1.0	1
+
+go contact
+enhance	1.0	1
+wait	1.0	1
+convert	1.0	1
+love	1.0	1
+cloud	1.0	1
+flag	1.0	1
+reminders	1.0	2
+sms	1.0	1
+notify	1.0	2
+accompany	1.0	2
+recover	1.0	1
+perform	1.0	1
+beside	1.0	1
+solve	1.0	1
+ensure	1.0	1
+decode	1.0	1
+push	1.0	1
+
+important message
+unread	1.0	1
+greet	1.0	1
+pitch	1.0	1
+name	1.0	1
+outbound	1.0	1
+preferences	1.0	1
+state	1.0	1
+inbound	1.0	1
+destory	1.0	1
+im	1.0	1
+count	1.0	2
+
+live event
+try	1.0	2
+socialize	1.0	1
+confirmations	1.0	1
+account	1.0	1
+figure	1.0	1
+map	1.0	2
+execute	1.0	1
+publish	1.0	1
+ask	1.0	1
+feel	1.0	1
+auto-titles	1.0	1
+copy	1.0	1
+calendar	1.0	4
+group	1.0	1
+decline	1.0	2
+define	1.0	1
+dismiss	1.0	1
+partner	1.0	1
+finish	1.0	1
+weld	1.0	1
+speed	1.0	1
+spread	1.0	1
+easy	1.0	4
+insert	1.0	2
+google	1.0	2
+back	1.0	1
+eliminate	1.0	1
+schedule	1.0	2
+paste	1.0	1
+log	1.0	2
+fabricate	1.0	1
+highlight	1.0	1
+
+local event
+try	1.0	2
+socialize	1.0	1
+confirmations	1.0	1
+account	1.0	1
+figure	1.0	1
+map	1.0	2
+execute	1.0	1
+publish	1.0	1
+ask	1.0	1
+feel	1.0	1
+auto-titles	1.0	1
+copy	1.0	1
+calendar	1.0	4
+group	1.0	1
+decline	1.0	2
+define	1.0	1
+dismiss	1.0	1
+partner	1.0	1
+finish	1.0	1
+weld	1.0	1
+speed	1.0	1
+spread	1.0	1
+easy	1.0	4
+insert	1.0	2
+google	1.0	2
+back	1.0	1
+eliminate	1.0	1
+schedule	1.0	2
+paste	1.0	1
+log	1.0	2
+fabricate	1.0	1
+highlight	1.0	1
+
+adw launcher
+save	1.0	1
+scroll	1.0	1
+
+active development
+affect	1.0	1
+unique	1.0	1
+doesnt	1.0	1
+download	1.0	1
+collect	1.0	1
+determine	1.0	1
+phone	1.0	1
+remote	1.0	1
+watch	1.0	1
+
+convenient
+upgrade	1.0	1
+clean	1.0	1
+maximize	0.933333333333	15
+
+current event
+try	1.0	1
+socialize	1.0	1
+confirmations	1.0	1
+account	1.0	1
+figure	1.0	1
+map	1.0	2
+execute	1.0	1
+publish	1.0	1
+ask	1.0	1
+feel	1.0	1
+auto-titles	1.0	1
+copy	1.0	1
+calendar	1.0	4
+group	1.0	1
+decline	1.0	2
+define	1.0	1
+dismiss	1.0	1
+partner	1.0	1
+finish	1.0	1
+weld	1.0	1
+speed	1.0	1
+spread	1.0	1
+easy	1.0	4
+insert	1.0	2
+google	1.0	2
+back	1.0	1
+eliminate	1.0	1
+schedule	1.0	2
+paste	1.0	1
+log	1.0	2
+fabricate	1.0	1
+highlight	1.0	1
+
+widget size
+google	1.0	1
+write	1.0	1
+explain	1.0	1
+specify	1.0	2
+locate	1.0	1
+re-add	1.0	1
+reboot	1.0	1
+label	1.0	1
+mark	1.0	1
+intend	1.0	1
+aim	1.0	1
+clutter	1.0	1
+assign	1.0	1
+latest	1.0	1
+
+weather information
+background	1.0	1
+redesign	1.0	1
+accord	1.0	1
+widget	1.0	1
+matter	1.0	1
+write	1.0	1
+expand	1.0	1
+talk	1.0	1
+
+live view
+month	1.0	1
+weather	1.0	1
+arrange	1.0	2
+enhance	1.0	1
+adapt	1.0	1
+week	1.0	1
+
+backup
+help	1.0	1
+rest	1.0	1
+bookmark	1.0	1
+server	1.0	1
+synchronize	1.0	1
+schedule	1.0	2
+work	1.0	1
+assure	1.0	1
+note	1.0	1
+maintain	1.0	1
+
+message tone
+greet	1.0	1
+unread	1.0	1
+outbound	1.0	1
+preferences	1.0	1
+state	1.0	1
+inbound	1.0	1
+destory	1.0	1
+count	1.0	1
+
+message call
+unread	1.0	1
+greet	1.0	1
+pitch	1.0	1
+name	1.0	1
+outbound	1.0	1
+preferences	1.0	1
+state	1.0	1
+inbound	1.0	1
+destory	1.0	1
+im	1.0	1
+count	1.0	2
+
+daily schedule
+prompt	1.0	1
+move	1.0	1
+activate	1.0	1
+postpone	1.0	1
+insert	1.0	1
+double-check	1.0	1
+assist	1.0	1
+search	1.0	1
+transfer	1.0	1
+attach	1.0	1
+instal	1.0	1
+re-write	1.0	1
+cant	1.0	1
+multiplexes	1.0	1
+transmit	1.0	1
+reminder	1.0	1
+parameterized	1.0	1
+assign	1.0	3
+
+college student
+access	1.0	1
+decide	1.0	1
+encourage	1.0	1
+chat	1.0	1
+step	1.0	1
+search	1.0	1
+up-to-date	1.0	1
+select	1.0	1
+dont	1.0	1
+link	1.0	1
+simplify	1.0	1
+compete	1.0	1
+
+up-to-date
+reboot	1.0	1
+determine	1.0	1
+calendar	1.0	1
+initiate	1.0	1
+widget	1.0	1
+dedicate	1.0	1
+experience	1.0	1
+assign	1.0	2
+convene	1.0	1
+long-press	1.0	2
+accompany	1.0	3
+suit	1.0	1
+lower	1.0	1
+cant	1.0	1
+gebruiksvriendelijk	1.0	1
+altijd	1.0	1
+customizable	1.0	1
+
+push message
+unread	1.0	1
+greet	1.0	1
+name	1.0	1
+outbound	1.0	1
+preferences	1.0	1
+state	1.0	1
+inbound	1.0	1
+destory	1.0	1
+count	1.0	2
+
+good view
+month	1.0	1
+arrange	1.0	2
+enhance	1.0	1
+adapt	1.0	1
+week	1.0	1
+
+contact name
+enhance	1.0	1
+wait	1.0	1
+convert	1.0	1
+love	1.0	1
+cloud	1.0	1
+flag	1.0	1
+reminders	1.0	2
+sms	1.0	1
+notify	1.0	2
+accompany	1.0	2
+recover	1.0	1
+perform	1.0	1
+beside	1.0	1
+solve	1.0	1
+ensure	1.0	1
+decode	1.0	1
+push	1.0	1
+
+manage
+follow	1.0	1
+base	1.0	1
+reminder	1.0	1
+plan	1.0	1
+
+cost traffic
+background	1.0	1
+advance	1.0	1
+support	1.0	1
+scan	1.0	1
+rout	1.0	1
+
+unread message
+unread	1.0	1
+greet	1.0	1
+pitch	1.0	1
+name	1.0	1
+outbound	1.0	1
+preferences	1.0	1
+state	1.0	1
+inbound	1.0	1
+destory	1.0	1
+count	1.0	2
+
+weather hint
+redesign	1.0	1
+widget	1.0	1
+matter	1.0	1
+talk	1.0	1
+
+calendar view
+restore	1.0	2
+incorporate	1.0	1
+month	1.0	1
+help	1.0	2
+note	1.0	1
+title	1.0	1
+integrate	1.0	5
+synchronisation	1.0	1
+read	1.0	4
+edit	1.0	1
+remove	1.0	1
+gather	1.0	1
+ignore	1.0	1
+synchronize	1.0	2
+fare	1.0	1
+retrieve	1.0	1
+design	1.0	1
+wonder	1.0	1
+schedule	1.0	1
+encourage	1.0	1
+import	1.0	1
+exchange	1.0	1
+meet	1.0	1
+improve	1.0	1
+route	1.0	1
+backup	1.0	2
+support	1.0	2
+google	1.0	1
+motor	1.0	1
+decode	1.0	1
+attach	1.0	1
+encode	1.0	1
+enable	1.0	2
+protect	1.0	1
+phone	1.0	1
+export	1.0	1
+copy	1.0	1
+youre	1.0	1
+recover	1.0	1
+worry	1.0	1
+write	1.0	4
+week	1.0	1
+push	1.0	1
+require	0.833333333333	6
+
+popular ringtone
+speed	1.0	1
+blast	1.0	1
+issue	1.0	1
+notify	1.0	1
+feature	0.806451612903	31
+
+convenient way
+upgrade	1.0	1
+clean	1.0	1
+maximize	0.933333333333	15
+
+conference division
+choose	1.0	1
+enhance	1.0	1
+discover	1.0	1
+design	1.0	1
+adapt	1.0	1
+disconnect	1.0	1
+meet	1.0	1
+
+message
+unread	1.0	1
+greet	1.0	1
+pitch	1.0	1
+name	1.0	1
+outbound	1.0	1
+preferences	1.0	1
+state	1.0	1
+inbound	1.0	1
+destory	1.0	1
+im	1.0	1
+count	1.0	2
+
+time date
+reboot	1.0	1
+determine	1.0	1
+calendar	1.0	1
+initiate	1.0	1
+widget	1.0	1
+dedicate	1.0	1
+experience	1.0	1
+assign	1.0	2
+convene	1.0	1
+long-press	1.0	2
+accompany	1.0	3
+suit	1.0	1
+lower	1.0	1
+cant	1.0	1
+gebruiksvriendelijk	1.0	1
+altijd	1.0	1
+customizable	1.0	1
+
+medical student
+decide	1.0	1
+encourage	1.0	1
+step	1.0	1
+up-to-date	1.0	1
+dont	1.0	1
+chat	1.0	1
+simplify	1.0	1
+compete	1.0	1
+
+conference
+choose	1.0	1
+enhance	1.0	1
+discover	1.0	1
+design	1.0	1
+adapt	1.0	1
+disconnect	1.0	1
+meet	1.0	1
+
+alarm setting
+introduce	1.0	1
+hide	1.0	1
+widget	1.0	1
+distinguish	1.0	1
+reset	1.0	1
+recover	1.0	1
+command	1.0	1
+wakevoice	1.0	1
+
+management
+follow	1.0	1
+base	1.0	1
+reminder	1.0	1
+plan	1.0	1
+
+launcher setting
+save	1.0	1
+scroll	1.0	1
+
+bmi calculator
+compare	1.0	1
+assess	1.0	1
+shareholding	1.0	1
+
+free message
+unread	1.0	1
+greet	1.0	1
+pitch	1.0	1
+name	1.0	1
+outbound	1.0	1
+preferences	1.0	1
+state	1.0	1
+inbound	1.0	1
+destory	1.0	1
+count	1.0	2
+
+instant message
+unread	1.0	1
+greet	1.0	1
+name	1.0	1
+outbound	1.0	1
+preferences	1.0	1
+state	1.0	1
+inbound	1.0	1
+destory	1.0	1
+count	1.0	1
+
+weather alert
+import	1.0	1
+redesign	1.0	1
+widget	1.0	1
+ask	1.0	1
+remind	1.0	1
+matter	1.0	1
+talk	1.0	1
+
+quick start
+access	1.0	5
+
+best ringtones
+speed	1.0	1
+blast	1.0	1
+issue	1.0	1
+notify	1.0	1
+feature	0.806451612903	31
+
+love message
+unread	1.0	1
+greet	1.0	1
+name	1.0	1
+outbound	1.0	1
+preferences	1.0	1
+state	1.0	1
+inbound	1.0	1
+destory	1.0	1
+count	1.0	2
+
+whatsapp message
+unread	1.0	1
+greet	1.0	1
+pitch	1.0	1
+name	1.0	1
+outbound	1.0	1
+preferences	1.0	1
+state	1.0	1
+inbound	1.0	1
+destory	1.0	1
+im	1.0	1
+count	1.0	2
+
+message board
+unread	1.0	1
+greet	1.0	1
+name	1.0	1
+outbound	1.0	1
+preferences	1.0	1
+state	1.0	1
+inbound	1.0	1
+destory	1.0	1
+count	1.0	2
+
+address
+prompt	1.0	1
+log	1.0	1
+fetch	1.0	1
+pinpoint	1.0	1
+
+weather station
+redesign	1.0	1
+widget	1.0	1
+ask	1.0	1
+matter	1.0	1
+write	1.0	1
+cycle	1.0	1
+talk	1.0	1
+
+gregorian calendar
+restore	1.0	2
+month	1.0	1
+help	1.0	2
+note	1.0	1
+title	1.0	1
+integrate	1.0	5
+read	1.0	4
+edit	1.0	1
+remove	1.0	1
+gather	1.0	1
+ignore	1.0	1
+synchronize	1.0	1
+fare	1.0	1
+retrieve	1.0	1
+sync	1.0	5
+design	1.0	1
+wonder	1.0	1
+schedule	1.0	1
+encourage	1.0	1
+import	1.0	1
+exchange	1.0	1
+meet	1.0	1
+improve	1.0	1
+route	1.0	1
+backup	1.0	2
+google	1.0	1
+motor	1.0	1
+support	1.0	1
+decode	1.0	1
+attach	1.0	1
+encode	1.0	1
+enable	1.0	1
+protect	1.0	1
+phone	1.0	1
+export	1.0	1
+require	1.0	3
+youre	1.0	1
+recover	1.0	1
+worry	1.0	1
+write	1.0	2
+week	1.0	1
+push	1.0	1
+
+weather condition
+background	1.0	1
+redesign	1.0	1
+accord	1.0	1
+widget	1.0	1
+ask	1.0	1
+matter	1.0	1
+write	1.0	1
+expand	1.0	1
+talk	1.0	1
+
+simple widget
+google	1.0	1
+write	1.0	1
+explain	1.0	1
+specify	1.0	2
+locate	1.0	1
+re-add	1.0	1
+reboot	1.0	1
+label	1.0	1
+mark	1.0	1
+intend	1.0	1
+aim	1.0	1
+clutter	1.0	1
+assign	1.0	1
+latest	1.0	1
+
+iphone rington
+speed	1.0	1
+blast	1.0	1
+issue	1.0	1
+notify	1.0	1
+feature	0.806451612903	31
+
+valuable tool
+restore	1.0	1
+collect	1.0	1
+backup	1.0	1
+diagnose	1.0	1
+gather	1.0	1
+
+conference standing
+choose	1.0	1
+enhance	1.0	1
+discover	1.0	1
+design	1.0	1
+adapt	1.0	1
+disconnect	1.0	1
+meet	1.0	1
+
+action launcher
+save	1.0	1
+scroll	1.0	1
+
+quick view
+access	1.0	5
+
+first date
+reboot	1.0	1
+determine	1.0	1
+calendar	1.0	1
+initiate	1.0	1
+widget	1.0	1
+dedicate	1.0	1
+experience	1.0	1
+assign	1.0	2
+convene	1.0	1
+long-press	1.0	2
+accompany	1.0	3
+suit	1.0	1
+lower	1.0	1
+cant	1.0	1
+gebruiksvriendelijk	1.0	1
+altijd	1.0	1
+customizable	1.0	1
+
+add widget
+google	1.0	1
+write	1.0	1
+explain	1.0	1
+specify	1.0	2
+locate	1.0	1
+re-add	1.0	1
+reboot	1.0	1
+label	1.0	1
+mark	1.0	1
+intend	1.0	1
+aim	1.0	1
+clutter	1.0	1
+assign	1.0	1
+latest	1.0	1
+
+deep weather
+background	1.0	1
+redesign	1.0	1
+accord	1.0	1
+widget	1.0	1
+ask	1.0	1
+matter	1.0	1
+write	1.0	1
+expand	1.0	1
+talk	1.0	1
+
+useful information
+replace	1.0	1
+hotels	1.0	1
+measure	1.0	1
+adaptive	1.0	1
+personalize	1.0	1
+aka	1.0	1
+prioritize	1.0	1
+leak	1.0	1
+stamp	1.0	1
+promise	1.0	1
+prepare	1.0	1
+head	1.0	1
+
+launcher icon
+save	1.0	1
+scroll	1.0	1
+
+launcher theme
+save	1.0	1
+scroll	1.0	1
+
+business day
+leave	1.0	1
+id	1.0	1
+
+contact ringtones
+blast	1.0	1
+enhance	1.0	1
+wait	1.0	1
+cloud	1.0	1
+flag	1.0	1
+reminders	1.0	2
+synchronize	1.0	2
+sms	1.0	1
+issue	1.0	1
+organize	1.0	1
+notify	1.0	3
+accompany	1.0	2
+recover	1.0	1
+build	1.0	1
+perform	1.0	1
+beside	1.0	1
+solve	1.0	1
+speed	1.0	1
+push	1.0	1
+integrate	0.8	5
+
+late event
+try	1.0	2
+socialize	1.0	1
+confirmations	1.0	1
+account	1.0	1
+figure	1.0	1
+map	1.0	2
+execute	1.0	1
+publish	1.0	1
+ask	1.0	1
+feel	1.0	1
+auto-titles	1.0	1
+copy	1.0	1
+calendar	1.0	4
+group	1.0	1
+decline	1.0	2
+define	1.0	1
+dismiss	1.0	1
+partner	1.0	1
+finish	1.0	1
+weld	1.0	1
+speed	1.0	1
+spread	1.0	1
+easy	1.0	4
+insert	1.0	2
+google	1.0	2
+back	1.0	1
+eliminate	1.0	1
+schedule	1.0	2
+paste	1.0	1
+log	1.0	2
+fabricate	1.0	1
+highlight	1.0	1
+
+call message
+unread	1.0	1
+greet	1.0	1
+pitch	1.0	1
+name	1.0	1
+outbound	1.0	1
+preferences	1.0	1
+state	1.0	1
+inbound	1.0	1
+destory	1.0	1
+im	1.0	1
+count	1.0	2
+
+contact developer
+enhance	1.0	1
+wait	1.0	1
+convert	1.0	1
+love	1.0	1
+cloud	1.0	1
+flag	1.0	1
+reminders	1.0	2
+sms	1.0	1
+notify	1.0	2
+accompany	1.0	2
+recover	1.0	1
+perform	1.0	1
+beside	1.0	1
+solve	1.0	1
+ensure	1.0	1
+decode	1.0	1
+push	1.0	1
+
+private message
+unread	1.0	1
+greet	1.0	1
+name	1.0	1
+outbound	1.0	1
+preferences	1.0	1
+state	1.0	1
+inbound	1.0	1
+destory	1.0	1
+count	1.0	2
+
+launcher
+save	1.0	1
+scroll	1.0	1
+
+receive notification
+instant	1.0	1
+light	1.0	1
+snooze	1.0	1
+
+free ringtones
+speed	1.0	1
+blast	1.0	1
+issue	1.0	1
+notify	1.0	1
+feature	0.806451612903	31
+
+quick list
+access	1.0	5
+
+mortgage calculator
+shareholding	1.0	1
+assess	1.0	1
+compare	1.0	1
+
+business news
+leave	1.0	1
+id	1.0	1
+
+agenda
+view	1.0	10
+check	1.0	5
+look	1.0	5
+add	1.0	5
+delete	1.0	5
+remove	1.0	5
+show	1.0	5
+create	1.0	5
+keep	1.0	5
+save	1.0	5
+
+alarm
+introduce	1.0	1
+hide	1.0	1
+widget	1.0	1
+distinguish	1.0	1
+reset	1.0	1
+recover	1.0	1
+command	1.0	1
+wakevoice	1.0	1
+
+facebook integration
+share	1.0	1
+calendar	1.0	1
+provide	1.0	1
+use	1.0	1
+enhance	1.0	1
+
+widget list
+google	1.0	1
+write	1.0	1
+explain	1.0	1
+specify	1.0	2
+locate	1.0	1
+re-add	1.0	1
+reboot	1.0	1
+label	1.0	1
+mark	1.0	1
+intend	1.0	1
+aim	1.0	1
+clutter	1.0	1
+assign	1.0	1
+latest	1.0	1
+
+calendar event
+restore	1.0	2
+incorporate	1.0	1
+month	1.0	1
+help	1.0	2
+note	1.0	1
+title	1.0	1
+integrate	1.0	5
+synchronisation	1.0	1
+read	1.0	4
+edit	1.0	1
+remove	1.0	1
+gather	1.0	1
+ignore	1.0	1
+synchronize	1.0	2
+fare	1.0	1
+retrieve	1.0	1
+design	1.0	1
+wonder	1.0	1
+schedule	1.0	1
+encourage	1.0	1
+import	1.0	1
+exchange	1.0	1
+meet	1.0	1
+improve	1.0	1
+route	1.0	1
+backup	1.0	2
+support	1.0	2
+google	1.0	1
+motor	1.0	1
+decode	1.0	1
+attach	1.0	1
+encode	1.0	1
+enable	1.0	2
+protect	1.0	1
+phone	1.0	1
+export	1.0	1
+copy	1.0	1
+youre	1.0	1
+recover	1.0	1
+worry	1.0	1
+write	1.0	4
+week	1.0	1
+push	1.0	1
+require	0.833333333333	6
+
+due date
+reboot	1.0	1
+determine	1.0	1
+initiate	1.0	1
+widget	1.0	1
+dedicate	1.0	1
+experience	1.0	1
+assign	1.0	2
+convene	1.0	1
+long-press	1.0	2
+accompany	1.0	3
+suit	1.0	1
+lower	1.0	1
+cant	1.0	1
+gebruiksvriendelijk	1.0	1
+altijd	1.0	1
+customizable	1.0	1
+
+floating on-top-widget
+google	1.0	1
+write	1.0	1
+explain	1.0	1
+specify	1.0	2
+locate	1.0	1
+re-add	1.0	1
+reboot	1.0	1
+label	1.0	1
+mark	1.0	1
+intend	1.0	1
+aim	1.0	1
+clutter	1.0	1
+assign	1.0	1
+
+scheduler
+prompt	1.0	1
+postpone	1.0	1
+insert	1.0	1
+enjoy	1.0	1
+instal	1.0	1
+double-check	1.0	1
+search	1.0	1
+transfer	1.0	1
+assign	1.0	3
+activate	1.0	1
+attach	1.0	1
+re-write	1.0	1
+cant	1.0	1
+multiplexes	1.0	1
+transmit	1.0	1
+reminder	1.0	1
+assist	1.0	1
+parameterized	1.0	1
+
+quick overview
+access	1.0	5
+phone	1.0	1
+keep	1.0	1
+
+go launcher
+save	1.0	1
+scroll	1.0	1
+
+lockscreen widget
+google	1.0	1
+write	1.0	1
+explain	1.0	1
+specify	1.0	2
+locate	1.0	1
+re-add	1.0	1
+reboot	1.0	1
+label	1.0	1
+mark	1.0	1
+intend	1.0	1
+aim	1.0	1
+clutter	1.0	1
+latest	1.0	1
+
+weather forecast
+send	1.0	1
+redesign	1.0	1
+widget	1.0	1
+matter	1.0	1
+write	1.0	1
+expand	1.0	1
+talk	1.0	1
+
+scheduling
+prompt	1.0	1
+postpone	1.0	1
+insert	1.0	1
+enjoy	1.0	1
+instal	1.0	1
+double-check	1.0	1
+search	1.0	1
+transfer	1.0	1
+assign	1.0	3
+activate	1.0	1
+attach	1.0	1
+re-write	1.0	1
+cant	1.0	1
+multiplexes	1.0	1
+transmit	1.0	1
+reminder	1.0	1
+assist	1.0	1
+parameterized	1.0	1
+
+event activity
+try	1.0	2
+socialize	1.0	1
+confirmations	1.0	1
+account	1.0	1
+figure	1.0	1
+map	1.0	2
+execute	1.0	1
+publish	1.0	1
+ask	1.0	1
+feel	1.0	1
+auto-titles	1.0	1
+copy	1.0	1
+calendar	1.0	4
+group	1.0	1
+decline	1.0	2
+define	1.0	1
+dismiss	1.0	1
+partner	1.0	1
+finish	1.0	1
+weld	1.0	1
+speed	1.0	1
+spread	1.0	1
+easy	1.0	4
+insert	1.0	2
+google	1.0	2
+back	1.0	1
+eliminate	1.0	1
+schedule	1.0	2
+paste	1.0	1
+log	1.0	2
+fabricate	1.0	1
+highlight	1.0	1
+
+schedule information
+prompt	1.0	1
+postpone	1.0	1
+insert	1.0	1
+enjoy	1.0	1
+instal	1.0	1
+double-check	1.0	1
+search	1.0	1
+transfer	1.0	1
+assign	1.0	3
+activate	1.0	1
+attach	1.0	1
+re-write	1.0	1
+cant	1.0	1
+multiplexes	1.0	1
+transmit	1.0	1
+reminder	1.0	1
+parameterized	1.0	1
+
+personal schedule
+prompt	1.0	1
+postpone	1.0	1
+insert	1.0	1
+enjoy	1.0	1
+instal	1.0	1
+double-check	1.0	1
+search	1.0	1
+transfer	1.0	1
+assign	1.0	3
+activate	1.0	1
+attach	1.0	1
+re-write	1.0	1
+cant	1.0	1
+multiplexes	1.0	1
+transmit	1.0	1
+reminder	1.0	1
+parameterized	1.0	1
+
+widget section
+google	1.0	1
+write	1.0	1
+explain	1.0	1
+specify	1.0	2
+locate	1.0	1
+re-add	1.0	1
+reboot	1.0	1
+label	1.0	1
+mark	1.0	1
+intend	1.0	1
+aim	1.0	1
+clutter	1.0	1
+assign	1.0	1
+latest	1.0	1
+
+on-top-widget functionality
+google	1.0	1
+write	1.0	1
+explain	1.0	1
+specify	1.0	2
+locate	1.0	1
+re-add	1.0	1
+reboot	1.0	1
+label	1.0	1
+mark	1.0	1
+intend	1.0	1
+aim	1.0	1
+clutter	1.0	1
+assign	1.0	1
+latest	1.0	1
+
+read contact
+enhance	1.0	1
+wait	1.0	1
+convert	1.0	1
+love	1.0	1
+cloud	1.0	1
+flag	1.0	1
+reminders	1.0	2
+sms	1.0	1
+notify	1.0	2
+accompany	1.0	2
+recover	1.0	1
+perform	1.0	1
+beside	1.0	1
+solve	1.0	1
+ensure	1.0	1
+decode	1.0	1
+push	1.0	1
+
+next alarm
+introduce	1.0	1
+hide	1.0	1
+widget	1.0	1
+distinguish	1.0	1
+reset	1.0	1
+recover	1.0	1
+command	1.0	1
+wakevoice	1.0	1
+
+team schedule
+address	1.0	1
+instal	1.0	1
+prompt	1.0	1
+multiplexes	1.0	1
+parameterized	1.0	1
+activate	1.0	1
+double-check	1.0	1
+reminder	1.0	1
+postpone	1.0	1
+miss	1.0	1
+attach	1.0	1
+re-write	1.0	1
+transmit	1.0	1
+cant	1.0	1
+insert	1.0	1
+
+ringtone
+speed	1.0	1
+blast	1.0	1
+issue	1.0	1
+notify	1.0	1
+feature	0.806451612903	31
+
+new contact
+enhance	1.0	1
+wait	1.0	1
+convert	1.0	1
+love	1.0	1
+cloud	1.0	1
+flag	1.0	1
+reminders	1.0	2
+sms	1.0	1
+notify	1.0	2
+accompany	1.0	2
+recover	1.0	1
+perform	1.0	1
+beside	1.0	1
+solve	1.0	1
+ensure	1.0	1
+decode	1.0	1
+push	1.0	1
+
+go message
+unread	1.0	1
+greet	1.0	1
+pitch	1.0	1
+name	1.0	1
+outbound	1.0	1
+preferences	1.0	1
+state	1.0	1
+inbound	1.0	1
+destory	1.0	1
+im	1.0	1
+count	1.0	2
+
+message etc
+unread	1.0	1
+greet	1.0	1
+pitch	1.0	1
+name	1.0	1
+outbound	1.0	1
+preferences	1.0	1
+state	1.0	1
+inbound	1.0	1
+destory	1.0	1
+im	1.0	1
+count	1.0	2
+
+day weather
+background	1.0	1
+redesign	1.0	1
+accord	1.0	1
+widget	1.0	1
+matter	1.0	1
+write	1.0	1
+expand	1.0	1
+talk	1.0	1
+
+late ringtones
+speed	1.0	1
+blast	1.0	1
+issue	1.0	1
+notify	1.0	1
+feature	0.806451612903	31
+
+news widget
+google	1.0	1
+write	1.0	1
+explain	1.0	1
+specify	1.0	2
+locate	1.0	1
+re-add	1.0	1
+reboot	1.0	1
+label	1.0	1
+mark	1.0	1
+intend	1.0	1
+aim	1.0	1
+clutter	1.0	1
+latest	1.0	1
+
+free ringtone
+speed	1.0	1
+blast	1.0	1
+issue	1.0	1
+notify	1.0	1
+feature	0.806451612903	31
+
+notification setting
+instant	1.0	1
+light	1.0	1
+snooze	1.0	1
+
+holo launcher
+save	1.0	1
+scroll	1.0	1
+
+text messaging
+unread	1.0	1
+greet	1.0	1
+name	1.0	1
+outbound	1.0	1
+preferences	1.0	1
+state	1.0	1
+inbound	1.0	1
+destory	1.0	1
+count	1.0	2
+
+contact ringtone
+blast	1.0	1
+enhance	1.0	1
+wait	1.0	1
+cloud	1.0	1
+flag	1.0	1
+reminders	1.0	2
+synchronize	1.0	2
+sms	1.0	1
+issue	1.0	1
+organize	1.0	1
+notify	1.0	3
+accompany	1.0	2
+recover	1.0	1
+build	1.0	1
+perform	1.0	1
+beside	1.0	1
+solve	1.0	1
+speed	1.0	1
+push	1.0	1
+integrate	0.8	5
+
+smart launcher
+save	1.0	1
+scroll	1.0	1
+
+message notification
+unread	1.0	1
+greet	1.0	1
+name	1.0	1
+outbound	1.0	1
+preferences	1.0	1
+state	1.0	1
+inbound	1.0	1
+destory	1.0	1
+count	1.0	2
+
+release date
+reboot	1.0	1
+determine	1.0	1
+calendar	1.0	1
+initiate	1.0	1
+widget	1.0	1
+dedicate	1.0	1
+experience	1.0	1
+assign	1.0	2
+convene	1.0	1
+long-press	1.0	2
+accompany	1.0	3
+suit	1.0	1
+lower	1.0	1
+cant	1.0	1
+gebruiksvriendelijk	1.0	1
+altijd	1.0	1
+customizable	1.0	1
+
+important date
+reboot	1.0	1
+determine	1.0	1
+initiate	1.0	1
+widget	1.0	1
+dedicate	1.0	1
+experience	1.0	1
+assign	1.0	2
+convene	1.0	1
+long-press	1.0	2
+accompany	1.0	3
+suit	1.0	1
+lower	1.0	1
+cant	1.0	1
+gebruiksvriendelijk	1.0	1
+altijd	1.0	1
+customizable	1.0	1
+
+viewing
+month	1.0	1
+weather	1.0	1
+arrange	1.0	2
+enhance	1.0	1
+adapt	1.0	1
+week	1.0	1
+
+late weather
+background	1.0	1
+redesign	1.0	1
+accord	1.0	1
+widget	1.0	1
+matter	1.0	1
+write	1.0	1
+expand	1.0	1
+talk	1.0	1
+
+contact photo
+enhance	1.0	1
+wait	1.0	1
+convert	1.0	1
+love	1.0	1
+cloud	1.0	1
+flag	1.0	1
+reminders	1.0	2
+sms	1.0	1
+notify	1.0	2
+accompany	1.0	2
+recover	1.0	1
+perform	1.0	1
+beside	1.0	1
+solve	1.0	1
+ensure	1.0	1
+decode	1.0	1
+push	1.0	1
+
+traffic information
+background	1.0	1
+advance	1.0	1
+support	1.0	1
+scan	1.0	1
+rout	1.0	1
+
+messaging
+unread	1.0	1
+greet	1.0	1
+pitch	1.0	1
+name	1.0	1
+outbound	1.0	1
+preferences	1.0	1
+state	1.0	1
+inbound	1.0	1
+destory	1.0	1
+im	1.0	1
+count	1.0	2
+
+date
+reboot	1.0	1
+determine	1.0	1
+calendar	1.0	1
+initiate	1.0	1
+widget	1.0	1
+dedicate	1.0	1
+experience	1.0	1
+assign	1.0	2
+convene	1.0	1
+long-press	1.0	2
+accompany	1.0	3
+suit	1.0	1
+lower	1.0	1
+cant	1.0	1
+gebruiksvriendelijk	1.0	1
+altijd	1.0	1
+customizable	1.0	1
+
+twitter integration
+share	1.0	1
+calendar	1.0	1
+provide	1.0	1
+use	1.0	1
+enhance	1.0	1
+
+screen widget
+google	1.0	1
+write	1.0	1
+explain	1.0	1
+specify	1.0	2
+locate	1.0	1
+re-add	1.0	1
+reboot	1.0	1
+label	1.0	1
+mark	1.0	1
+intend	1.0	1
+aim	1.0	1
+clutter	1.0	1
+assign	1.0	1
+latest	1.0	1
+
+bangla calendar
+restore	1.0	2
+month	1.0	1
+help	1.0	2
+note	1.0	1
+title	1.0	1
+integrate	1.0	5
+read	1.0	4
+edit	1.0	1
+remove	1.0	1
+gather	1.0	1
+ignore	1.0	1
+synchronize	1.0	1
+fare	1.0	1
+retrieve	1.0	1
+sync	1.0	5
+design	1.0	1
+schedule	1.0	1
+encourage	1.0	1
+import	1.0	1
+exchange	1.0	1
+meet	1.0	1
+improve	1.0	1
+route	1.0	1
+backup	1.0	2
+google	1.0	1
+motor	1.0	1
+support	1.0	1
+decode	1.0	1
+encode	1.0	1
+enable	1.0	1
+protect	1.0	1
+phone	1.0	1
+require	1.0	3
+youre	1.0	1
+recover	1.0	1
+worry	1.0	1
+write	1.0	1
+week	1.0	1
+push	1.0	1
+
+press conference
+choose	1.0	1
+enhance	1.0	1
+discover	1.0	1
+design	1.0	1
+adapt	1.0	1
+disconnect	1.0	1
+meet	1.0	1
+
+contact number
+enhance	1.0	1
+wait	1.0	1
+convert	1.0	1
+love	1.0	1
+cloud	1.0	1
+flag	1.0	1
+reminders	1.0	2
+sms	1.0	1
+notify	1.0	2
+accompany	1.0	2
+recover	1.0	1
+perform	1.0	1
+beside	1.0	1
+solve	1.0	1
+ensure	1.0	1
+decode	1.0	1
+push	1.0	1
+
+list view
+month	1.0	1
+weather	1.0	1
+arrange	1.0	2
+enhance	1.0	1
+adapt	1.0	1
+week	1.0	1
+
+facebook message
+unread	1.0	1
+greet	1.0	1
+pitch	1.0	1
+name	1.0	1
+outbound	1.0	1
+preferences	1.0	1
+state	1.0	1
+inbound	1.0	1
+destory	1.0	1
+count	1.0	2
+
+date information
+customizable	1.0	1
+altijd	1.0	1
+widget	1.0	1
+replace	1.0	1
+hotels	1.0	1
+long-press	1.0	2
+adaptive	1.0	1
+wipe	1.0	1
+measure	1.0	1
+reboot	1.0	1
+convene	1.0	1
+cant	1.0	1
+gebruiksvriendelijk	1.0	1
+lower	1.0	1
+prioritize	1.0	1
+determine	1.0	1
+suit	1.0	1
+head	1.0	1
+
+contact
+enhance	1.0	1
+wait	1.0	1
+convert	1.0	1
+love	1.0	1
+cloud	1.0	1
+flag	1.0	1
+reminders	1.0	2
+sms	1.0	1
+notify	1.0	2
+accompany	1.0	2
+recover	1.0	1
+perform	1.0	1
+beside	1.0	1
+solve	1.0	1
+ensure	1.0	1
+decode	1.0	1
+push	1.0	1
+
+high-quality sounding
+remind	1.0	1
+optional	1.0	1
+shout	1.0	1
+scream	1.0	3
+yell	1.0	1
+
+date time
+reboot	1.0	1
+determine	1.0	1
+calendar	1.0	1
+initiate	1.0	1
+widget	1.0	1
+dedicate	1.0	1
+experience	1.0	1
+assign	1.0	2
+convene	1.0	1
+long-press	1.0	2
+accompany	1.0	3
+suit	1.0	1
+lower	1.0	1
+cant	1.0	1
+gebruiksvriendelijk	1.0	1
+altijd	1.0	1
+customizable	1.0	1
+
+small business
+leave	1.0	1
+id	1.0	1
+
+specific contact
+enhance	1.0	1
+wait	1.0	1
+convert	1.0	1
+love	1.0	1
+cloud	1.0	1
+flag	1.0	1
+reminders	1.0	2
+sms	1.0	1
+notify	1.0	2
+accompany	1.0	2
+recover	1.0	1
+perform	1.0	1
+beside	1.0	1
+solve	1.0	1
+ensure	1.0	1
+decode	1.0	1
+push	1.0	1
+
+edit widget
+google	1.0	1
+write	1.0	1
+explain	1.0	1
+specify	1.0	2
+locate	1.0	1
+re-add	1.0	1
+reboot	1.0	1
+label	1.0	1
+mark	1.0	1
+intend	1.0	1
+aim	1.0	1
+clutter	1.0	1
+assign	1.0	1
+latest	1.0	1
+
+problem contact
+enhance	1.0	1
+wait	1.0	1
+convert	1.0	1
+love	1.0	1
+cloud	1.0	1
+flag	1.0	1
+reminders	1.0	2
+sms	1.0	1
+notify	1.0	2
+accompany	1.0	2
+recover	1.0	1
+perform	1.0	1
+beside	1.0	1
+solve	1.0	1
+ensure	1.0	1
+decode	1.0	1
+push	1.0	1
+
+contact information
+enhance	1.0	1
+wait	1.0	1
+convert	1.0	1
+love	1.0	1
+cloud	1.0	1
+flag	1.0	1
+reminders	1.0	2
+sms	1.0	1
+notify	1.0	2
+accompany	1.0	2
+recover	1.0	1
+perform	1.0	1
+beside	1.0	1
+solve	1.0	1
+ensure	1.0	1
+decode	1.0	1
+push	1.0	1
+

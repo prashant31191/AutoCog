@@ -1,0 +1,895 @@
+scheduler
+assign
+
+custom message
+name
+count
+
+busy schedule
+assign
+
+new widget
+specify
+configurable
+
+late event
+try
+confirmations
+map
+calendar
+decline
+easy
+insert
+google
+schedule
+log
+
+yahoo news
+cover
+
+select widget
+specify
+configurable
+
+photo message
+name
+count
+
+current date
+calendar
+long-press
+accompany
+
+launcher ex
+save
+
+bangla calendar
+restore
+help
+integrate
+read
+tick
+remove
+sync
+design
+schedule
+let
+backup
+support
+require
+write
+switch
+
+text message
+name
+count
+
+voice message
+name
+count
+
+beautiful widget
+specify
+configurable
+
+apex launcher
+save
+
+new event
+try
+confirmations
+map
+calendar
+decline
+easy
+insert
+google
+schedule
+log
+
+gregorian calendar
+restore
+help
+integrate
+read
+tick
+remove
+sync
+design
+schedule
+let
+backup
+support
+require
+write
+switch
+
+integral part
+calendar
+
+late date
+assign
+long-press
+accompany
+
+handcent message
+name
+count
+
+event organizer
+confirmations
+map
+log
+calendar
+decline
+easy
+insert
+google
+schedule
+
+secure message
+name
+count
+
+contact page
+convert
+love
+reminders
+notify
+accompany
+
+different view
+arrange
+
+important event
+try
+confirmations
+map
+calendar
+decline
+easy
+insert
+google
+schedule
+log
+
+message alert
+name
+
+on-top-widget
+specify
+configurable
+
+quick note
+access
+
+message text
+name
+count
+
+contact detail
+convert
+love
+reminders
+notify
+accompany
+
+launcher dodol
+save
+
+event information
+try
+confirmations
+map
+calendar
+decline
+easy
+insert
+google
+schedule
+log
+
+home launcher
+save
+
+quick reference
+access
+
+best view
+arrange
+
+quick link
+access
+
+next widget
+specify
+configurable
+
+message mms
+name
+count
+
+contact ringtone
+reminders
+synchronize
+organize
+notify
+accompany
+speak
+voice
+
+event date
+confirmations
+map
+calendar
+decline
+easy
+insert
+google
+schedule
+log
+
+message ringtone
+name
+count
+
+convenience
+maximize
+
+quick
+access
+
+class schedule
+assign
+maximize
+sign
+
+go contact
+convert
+love
+reminders
+notify
+accompany
+
+quick way
+access
+
+time widget
+specify
+configurable
+
+send message
+name
+count
+
+contact list
+convert
+love
+reminders
+notify
+accompany
+
+contact form
+convert
+love
+reminders
+notify
+accompany
+
+direct
+bookmarking
+
+detailed view
+arrange
+
+chat message
+name
+
+next launcher
+save
+
+calendar
+restore
+help
+integrate
+read
+tick
+remove
+synchronize
+design
+schedule
+let
+backup
+support
+enable
+write
+switch
+
+read contact
+convert
+love
+reminders
+notify
+accompany
+
+event
+try
+confirmations
+map
+calendar
+decline
+easy
+insert
+google
+schedule
+log
+
+solo launcher
+save
+
+start launcher
+save
+
+useful widget
+specify
+configurable
+
+integrates
+calendar
+
+school student
+handle
+content
+
+integration
+calendar
+
+view schedule
+assign
+
+right direction
+bookmarking
+
+dating
+assign
+long-press
+accompany
+
+integrated
+calendar
+
+device calendar
+restore
+help
+integrate
+read
+tick
+remove
+sync
+design
+schedule
+let
+backup
+support
+require
+write
+switch
+
+widget
+specify
+configurable
+
+instant messaging
+name
+
+schedule
+assign
+
+emergency contact
+convert
+love
+reminders
+notify
+accompany
+
+homee launcher
+save
+
+personal message
+name
+count
+
+new message
+name
+count
+
+bill reminder
+base
+
+perfect widget
+specify
+configurable
+
+live view
+arrange
+
+read message
+name
+count
+
+widget support
+specify
+configurable
+
+dodol launcher
+save
+
+top widget
+specify
+configurable
+
+launcher homescreen
+save
+
+supported launcher
+save
+
+homescreen widget
+specify
+configurable
+
+search widget
+specify
+configurable
+
+important message
+name
+count
+
+live event
+try
+confirmations
+map
+calendar
+decline
+easy
+insert
+google
+schedule
+log
+
+viewing
+arrange
+
+adw launcher
+save
+
+current event
+confirmations
+map
+calendar
+decline
+easy
+insert
+google
+schedule
+log
+
+widget size
+specify
+configurable
+
+messaging
+name
+count
+
+view
+arrange
+
+backup
+schedule
+
+message call
+name
+count
+
+daily schedule
+assign
+
+college student
+handle
+content
+
+up-to-date
+assign
+long-press
+accompany
+
+push message
+name
+count
+
+good view
+arrange
+
+contact name
+convert
+love
+reminders
+notify
+accompany
+
+unread message
+name
+count
+
+calendar view
+restore
+help
+integrate
+read
+tick
+remove
+synchronize
+design
+schedule
+let
+backup
+support
+enable
+write
+switch
+
+convenient way
+maximize
+
+message
+name
+count
+
+time date
+assign
+long-press
+accompany
+
+medical student
+handle
+content
+
+quick view
+access
+
+launcher setting
+save
+
+direct link
+bookmarking
+
+free message
+name
+count
+
+instant message
+name
+
+quick start
+access
+
+love message
+name
+count
+
+whatsapp message
+name
+count
+
+message board
+name
+count
+
+important date
+assign
+long-press
+accompany
+
+simple widget
+specify
+configurable
+
+direction
+bookmarking
+
+action launcher
+save
+
+message etc
+name
+count
+
+yahoo
+cover
+
+first date
+assign
+long-press
+accompany
+
+add widget
+specify
+configurable
+
+launcher icon
+save
+
+launcher theme
+save
+
+event calendar
+restore
+help
+integrate
+read
+tick
+remove
+synchronize
+design
+schedule
+let
+backup
+support
+enable
+write
+switch
+
+widget configuration
+configurable
+
+call message
+name
+count
+
+contact developer
+convert
+love
+reminders
+notify
+accompany
+
+private message
+name
+count
+
+launcher
+save
+
+quick list
+access
+
+one direction
+bookmarking
+
+weather widget
+specify
+configurable
+
+facebook integration
+calendar
+
+widget list
+specify
+configurable
+
+calendar event
+restore
+help
+integrate
+read
+tick
+remove
+synchronize
+design
+schedule
+let
+backup
+support
+enable
+write
+switch
+
+due date
+assign
+long-press
+accompany
+
+floating on-top-widget
+specify
+configurable
+
+quick overview
+access
+
+go launcher
+save
+
+lockscreen widget
+specify
+configurable
+
+scheduling
+assign
+
+event activity
+try
+confirmations
+map
+calendar
+decline
+easy
+insert
+google
+schedule
+log
+
+schedule information
+assign
+
+personal schedule
+assign
+
+widget section
+specify
+configurable
+
+on-top-widget functionality
+specify
+configurable
+
+specific contact
+convert
+love
+reminders
+notify
+accompany
+
+team schedule
+miss
+
+smart launcher
+save
+
+new contact
+convert
+love
+reminders
+notify
+accompany
+
+go message
+name
+count
+
+special event
+try
+confirmations
+map
+calendar
+decline
+easy
+insert
+google
+schedule
+log
+
+news widget
+specify
+configurable
+
+release date
+assign
+long-press
+accompany
+
+gps direction
+bookmarking
+
+holo launcher
+save
+
+text messaging
+name
+count
+
+quick setting
+access
+
+message notification
+name
+count
+
+local event
+try
+confirmations
+map
+calendar
+decline
+easy
+insert
+google
+schedule
+log
+
+contact photo
+convert
+love
+reminders
+notify
+accompany
+
+facebook message
+name
+count
+
+date
+assign
+long-press
+accompany
+
+twitter integration
+calendar
+
+screen widget
+specify
+configurable
+
+contact ringtones
+reminders
+synchronize
+organize
+notify
+accompany
+speak
+voice
+
+contact number
+convert
+love
+reminders
+notify
+accompany
+
+list view
+arrange
+
+contact
+convert
+love
+reminders
+notify
+accompany
+
+date time
+assign
+long-press
+accompany
+
+convenient
+maximize
+
+edit widget
+specify
+configurable
+
+problem contact
+convert
+love
+reminders
+notify
+accompany
+
+contact information
+convert
+love
+reminders
+notify
+accompany
+

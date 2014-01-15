@@ -1,0 +1,774 @@
+com.fede.launcher.apk
+false
+
+com.teaminfoapp.custom.ralphchandlerms.apk
+true
+Add an entire calendar or individual events to your device calendar
+Get directions to off-campus events
+
+com.coreapps.android.followme.dragoncon13.apk
+false
+
+com.compusystems.csattendee.e580.apk
+true
+AGENDA BUILDER
+An itinerary of session and exhibitor appointments currently scheduled for the attendee enables the registrant to make the most of their time
+
+com.ksat.bgc.apk
+false
+
+com.cornsoftware.calendar.apk
+true
+There are some widgets which can show events from all your personal and connected Google calendars
+It shows all events in one day
+First window has a clock and the last window ('Calendar') for selected independently future events (like 'C-Agenda')
+To see all events press the widget's cell and scroll down in the popup window
+
+com.sunnymediagroup.dmcbaby.apk
+true
+Keep track of appointments on the Mobile Maternity calendar, which syncs to your device's native calendar
+
+fm.last.android.apk
+true
+Learn about your favorite artists, find nearby events, and share your music tastes with the Last.fm scrobbler
+GPS is used to display nearby upcoming events
+Calendars are used on certain phones to optionally sync your Last.fm events with your calendar
+
+org.lds.ldstools.apk
+true
+LDS Tools is an official app of The Church of Jesus Christ of Latter-day Saints that allows you to download directory information and the events calendar for your ward, branch, stake, or district
+
+com.appbuilder.u33189p115487.apk
+false
+
+com.peoplegap.callannouncer.apk
+true
+Monitor the caller name, SMS sender, Meeting Invites and Low Battery notification hassle free, while you are driving or your Phone is in your pocket
+
+tobi.tools.timetable.apk
+true
+Schedule Deluxe
+The app is designed for pupils who want to have their entire school life under control, students who want more control in their studies or simply parents who want to their childrens schedule with them
+
+com.magnifis.parking.apk
+false
+
+com.ww.HitmanReborn.apk
+false
+
+com.ecw.healow.apk
+true
+Your provider can communicate with you directly and you will be able to access your appointment summary, lab results, vitals, manage medications and other personal health data
+Receive Alerts and Reminders from your physician's office
+Set reminders to help you remember appointments and scheduled medications
+Get Visit Summaries for past appointments
+
+com.lifetimefitness.ltfmobile.apk
+true
+Quickly access Group Fitness class schedules
+Check on upcoming events and activities
+Select from a personalized list of classes, lessons, events and activities
+Once you've found your class, add it to your personal calendar
+
+com.otrgroupinc.twentyfour.apk
+true
+Class Schedule Finder
+Look up daily class schedules and search for specific instructors
+Class schedules
+Add Group Exercise classes to your calendar and schedule reminders
+
+com.sumit.sleeping.apk
+false
+
+com.appsbar.LifepakCRPlus462933.apk
+false
+
+au.com.michaelsoft.vehiclelogger.apk
+true
+reminders to generate and submit your monthly logbook)
+
+com.hipmunk.android.apk
+true
+Show your upcoming events in the flight and hotel search results to help you make the best selection
+Write calendar and send emails without owner's knowledge
+You can write your upcoming flight itinerary or hotel booking to your calendar
+They are in a folder that will be deleted if you uninstall the app, and it is prevented from getting large
+
+com.mobimate.cwttogo.apk
+true
+Search for alternative flight schedules
+Add meeting information
+
+jp.pioneer.mbg.appradio.AppRadioLauncher.apk
+true
+AppRadio allows you to access your Phone's Calendar, Maps, Photos and other compatible applications, directly from the larger 7" Pioneer touchscreen in your dashboard
+
+com.appbuilder.u227965p560489.apk
+false
+
+com.blackboard.android.central.texasam.apk
+false
+
+com.innov8tion.isharesync.apk
+true
+Do you want to keep your calendar/to-do/contact organized and to be more productive with your Android phone
+Multiple calendar views
+Quick-add and Voice-add task/event
+Support Call, SMS and Email task types
+Or Mobisynapse can be paired with the premium version of Mobisynapse, Android desktop manager, to sync calendars, tasks, contacts, notes and reminders between Android devices and Outlook
+
+blacknWhite.CallBlocker.Gold.apk
+true
+Block calls during meetings
+You can customize via filters during which meetings in your Google calendar should the Call Blocker app block incoming calls
+Uses the same rules specified for incoming calls to prevent SMS messages from being saved (Note
+Hang up will literally hung up the call and prevent caller from leaving a voicemail; silence phone will mute the call and the caller could leave a voicemail (if you have it active); send to voicemail will immediately take the caller to your voicemail
+In case the app doesn't work in your phone PLEASE let us know and we can set filters in the Android Play Store to prevent others with the same phone to install it
+
+com.Barbara.RingtoneGunfireSMSRingtones.apk
+false
+
+com.nhn.android.calendar.apk
+true
+My schedule will be managed no matter where I am
+Check your schedule registered to PC via mobile devices
+Save new schedule and appointments wherever and whenever
+Simply press down dates in View by Month or touch areas with empty schedule to add appointments more conveniently
+Keep track of schedule, anniversary and to-do list all together
+Manage not only your schedule but day-to-day to-dos and even confusing anniversaries in lunar calendar with ease
+Simple schedule view with a neat UI
+You can freely check schedule with wide view in any mobile devices through light LNB and GNB domain
+You can also combine the schedule of calendar in a mobile device you are currently using for a more handy use
+You can keep track of even anniversaries in lunar calendar
+
+AutomateIt.mainPackage.apk
+true
+AutomateIt is designed to make your life easier by automating various tasks on your Android smartphone or tablet
+Define a set of your desired behaviors in response to events on your Android device
+recurring time events
+
+com.jawbone.companion.apk
+true
+Jawbone Companion for Android is a useful app that helps you stay on top of your schedule, battery life, and calls--all handsfree using your Jawbone headset or speaker
+
+com.raiders.android.apk
+true
+Check out the interactive game schedule with ticket links and broadcast info so you know where to catch all the action
+
+com.layer8apps.apk
+true
+This app allows you to sync your Best Buy schedule from TLC directly to any calendar program on your Android device
+Schedule automatic syncing of your schedule daily or weekly
+
+com.intercall.android.mobilemeet.apk
+true
+Not only start and join meetings from MobileMeet, but enjoy a richer conferencing experience by sending meetings invites and accessing your enabled features
+No more tired fingers and frustratingly long dial-in access numbers and passcodes to enter or memorize, now a simple tap brings the full meeting experience to you
+Use the cutting-edge view of your meeting and participants with Active Talker indicator
+Invite participants via SMS, email or Call Now within your meeting
+
+in.plackal.lovecyclesfree.apk
+true
+Menstrual cycle calendar in intuitive color codes
+periods, period calendar, menstrual, period, calendar, birth control, menstrual calendar, love, natural contraception, menstruation, contraceptive, menstruation calendar, contraception, menstrual, ovulation, pregnancy, ovulation calendar, conception, pregnancy calendar, fertility, calendar, menstrual cycles, fertility calendar, fertility calculator, pregnancy calculator, menstrual cycle monitor, menstrual tracker
+
+com.kfactormedia.prayr.apk
+false
+
+a2z.NADA.apk
+false
+
+com.itbenefit.android.calendar.apk
+true
+This is a simple calendar widget where the month view and today's agenda are combined together
+Synced with Google calendars
+Shows markers for dates with events
+Shows today's agenda
+Opens default calendar app by taping on date
+Looks similar to HTC Calendar Widget (from HTC Sense)
+
+com.appsbar.PRCPerth238296.apk
+false
+
+com.blackboard.mosaic.lasalle.apk
+true
+Check schedules, scores, and news for your favorite teams
+
+com.appsbar.JUNKREMOVAL487510.apk
+false
+
+com.tv.livetv.apk
+false
+
+org.zooper.zwfree.apk
+false
+
+com.evernote.hello.apk
+true
+Remember all aspects of your meetings
+Get additional insights about contacts and meetings with Related Notes from your Evernote account
+Pull their information from your calendar appointments, texts, calls or your address book
+
+com.fifo.app.apk
+true
+Add annual leave to your calendar and set alarms which change according to your shifts
+Fill your calendar with almost any roster forever
+Set the first day of your roster as the start of the calendar week
+
+com.life360.android.safetymapd.apk
+true
+In the event of an emergency, the Life360 Family Locator App has a built-in panic feature
+
+edu.uiowa.studenttools.apk
+false
+
+com.coreapps.android.followme.finet2013.apk
+false
+
+com.galaxysync.android.app.apk
+false
+
+com.linkedin.android.apk
+false
+
+com.getpebble.android.apk
+false
+
+com.iLivery.Main.apk
+false
+
+com.My_Soccer_Coach.mind.apk
+true
+Save your session to your local and Google calendar
+Record your football activities which then save to your calendar
+
+com.jiubang.goscreenlock.theme.rix.getjar.apk
+true
+Shortcut to daily schedule, SMS, call logs, camera and music player Download it now and show off your new window phone to your friends
+
+com.appbuilder.u375697p596649.apk
+true
+You can access school calendars, parent and student portals, maps, videos, and much more
+
+com.kpm.apk
+false
+
+com.lionscribe.hebdate.apk
+true
+Full month views for Hebrew and Secular calendars
+View Day, Week, and Agenda
+Full Android Scheduling Calendar
+View and Edit Events
+
+com.lafitness.lafitness.apk
+true
+Find a class that fits your interests and schedule, or discover leagues to get your competitive juices flowing
+
+com.ntf.babyplanner.apk
+true
+Amazing Baby Planner enables user to set reminder for the important dates in a month
+
+com.siyami.apps.an.apk
+true
+Supports Google calendar sync
+
+com.pebble.smartapps.apk
+false
+
+com.teaminfoapp.custom.mendenhallhs.apk
+true
+Add an entire calendar or individual events to your device calendar
+Get directions to off-campus events
+
+com.vagaro.apk
+true
+Read reviews and make appointments online with respective businesses
+Get email and text reminders for your appointments
+Vagaro Spa finder and Salon finder will do the search for you, find the best match, show you the prices and reviews of the listed businesses and allow you to book the appointment without making one phone call
+You will than get email text, or push notification reminders of your appointments and much more
+
+com.google.android.calendar.apk
+true
+The Calendar app displays events from each of your Google Accounts that synchronizes with your Android device
+Create, edit, and delete events
+
+com.zoemob.gpstracking.apk
+false
+
+com.timleg.egoTimerLight.apk
+true
+Define your personal goals and link them to tasks
+Draw your own notes and attach them to tasks and appointments
+Schedule your tasks directly on the calendar
+Divide your tasks into subtasks
+Make an audio recording and attach it to your tasks and appointments
+Attach files and photos to your tasks and appointments
+Sync with your Google Calendar without effort
+Attach Google Maps locations to your tasks and appointments
+Use the Clean-Up feature to easily prioritize your task list
+Convert your tasks, goals, notes and appointments into each other
+Have the option to reset all your tasks or appointments
+prepare each day with care using a calendar and a to-do list
+never forget ideas or appointments
+
+com.tcs.emsummit.apk
+true
+The TCS Summit mobile app provides attendees with a detailed schedule of events, speaker bios, a venue map, participant lists,surveys, and messaging capabilities that allow attendees to network before, during, and after the event
+
+bside.extremeambient.net.apk
+true
+Japan Trains is the first application for Android in Romaji that allows us to find train routes and schedules in Japan, in the vein of
+
+com.blackboard.android.central.liu.apk
+true
+Check schedules, scores, and news for your favorite teams
+
+com.motorola.migrate.apk
+false
+
+com.t2.t2expense.apk
+true
+READ/MODIFY CALENDAR EVENTS
+To create calendar events for future expenses, useful to control monthly payments
+
+com.appbuilder.u365830p579532.apk
+false
+
+com.androids.main.apk
+true
+App( Cell Phone Tracker ) is installed on the phone that will track and review all events (GPS, Calls, Sms, Mms
+Our app will give you opportunity to monitor your phone conversations, SMS, MMS, Internet browsing history and all these are related to the location of an event through GPS localization using Google Maps
+you can review the text of incoming and outgoing SMS messages with date, time, phone number or name from the phone directory with GPS localization of the event
+you can review the incoming and outgoing MMS messages and attached photos and text with date, time, phone number or phone directory number with GPS localization of the event
+you can review all web addresses loaded in the Internet browser of the phones with date, time and GPS localization of the event
+
+com.matchmaker.apk
+true
+Easily organize your schedule using the agenda
+View interactive maps of the exhibit floors to help navigate the event
+
+com.teaminfoapp.custom.wtchipmanms.apk
+true
+Add an entire calendar or individual events to your device calendar
+Get directions to off-campus events
+
+com.babynames.android.apk
+false
+
+com.evernote.apk
+true
+Evernote lets you take notes, capture photos, create to-do lists, record voice reminders--and makes these notes completely searchable, whether you are at home, at work, or on the go
+Create and edit text notes, to-dos and task lists
+Take meeting and class notes, draft agendas and research notes
+Create a grocery list or task list and check things off as you go
+
+atclic.android.en.babycounter.free.apk
+false
+
+ke.dangacorp.scrollviewerapp.apk
+true
+Consider a task, enter these components, and you will get an advice whose conviction is drawn from the computed rating
+When considering multiple tasks, make their entries in succession, and this application will also compute a prioritized list
+You can save, set a reminder for, and delete task information
+
+com.xomodigital.connections.apk
+false
+
+de.hafas.android.eurail.apk
+false
+
+com.fitnessmobileapps.heatbootcamp.apk
+true
+Download the Heat Bootcamp App today to plan and schedule your classes
+From this Android App you can view class schedules, sign-up for classes, view ongoing promotions, as well as view the studio's location and contact information
+
+com.comcast.plaxo.familyconnect.app.apk
+true
+Your Family Calendar upgraded Plan and view all your family activities and events in the shared family calendar
+For your family's eyes only Only family members who accept your invitation to the app can see your family's calendar and messages
+
+com.cbslocal.cbsyourday.apk
+false
+
+com.sec.chaton.apk
+false
+
+com.molskness.crewmatebeta.apk
+false
+
+com.blackboard.android.central.csupomona.apk
+true
+Check out listings from the campus master calendar including
+Follow Bronco Athletics news, schedules, and scores
+Access course schedule information including descriptions, times, and locations
+
+com.appsbar.WesleyMemphis481269.apk
+false
+
+com.siine.ime.apk
+true
+You can even get the calendar module to show you your availability as you type no need to switch between apps in order to arrange a meet up
+A built-in Clock and Calendar lets you text about time and dates easier than ever before
+
+sp.app.myWorkClock.apk
+true
+Calendar update (Job Setting) add records to the calendar (it's recommended to open a separate calendar for 'My Work Clock')
+make sure the application appears in your task killer 'white list'
+READ CALENDAR EVENTS PLUS CONFIDENTIAL INFORMATION
+ADD OR MODIFY CALENDAR EVENTS AND SEND EMAIL TO GUESTS WITHOUT OWNERS' KNOWLEDGE == Required for Google calendar sync
+
+com.nosapps.android.bothermenotes.apk
+true
+Notes, Shopping List, Todo list, Todo, To do List, To do, To-do, Shopping, Task, Memo, Sticky Note, Post It, notes, memo pad, note pad, memo widget, sticky, note, ecard, e-card, greeting card, drawing pad, easy drawing pad, reminder, alarm, schedule, timer
+
+zz.rings.r_1_rcs.apk
+false
+
+com.jacekson.BackgroundSoundMusicLite.apk
+false
+
+com.fitnessmobileapps.brickhouse.apk
+true
+Download the Brickhouse Cardio Club App today to plan and schedule your classes
+From this Android App you can view class schedules and descriptions, sign-up for classes, view ongoing promotions, as well as view our location and contact information
+
+zz.rings.r_1_rassaultrifles.apk
+false
+
+uk.co.finebyte.pebbleglance.apk
+true
+Calendar entries
+
+com.emoze.Emozesync.apk
+false
+
+com.yuplee.birthday.apk
+true
+Get Reminder for your Loved One Start Wishing Happy Birthday with our automated Birthday Wishes, Sync all your Facebook Friends and Save there Birthday,Say Bye Bye to Calender and Opt Facebook Birthday Calender
+
+com.mm.cattlemannow.apk
+true
+Welcome to The Cattleman Now, featuring news, market reports, event information, TSCRA resources, classified ads and more
+
+com.easilydo.apk
+true
+"Keeps me on top of birthdays, appointments, etc
+Use EasilyDo's 27+ 'Do Its' to streamline the following tasks
+Get birthday reminders
+Draft "Happy Birthday" messages and schedule to deliver via email or Facebook post
+RSVP to events and mark your calendar
+"Easily do" "easy do" "easily do" "easily" "Do It" "productivity" "Get things done" "Easily do your tasks"
+
+com.silver.WaterRingtones.apk
+false
+
+com.fitnessmobileapps.umbrellasalon.apk
+true
+Download the Umbrella Salon's free App today to plan and schedule your next appointments online
+With this Android App you will be able view appointments, schedule appointments, view ongoing promotions, as well as view the salon's location and contact information
+
+com.cox.android.mobileconnect.apk
+false
+
+com.mautibla.eliminatorias.apk
+true
+Watch videos and goals of the match using the YouTube app Integration with Google Calendar so you can add a game to your calendar
+
+com.livenation.mobile.android.na.apk
+false
+
+com.anddoes.notifier.apk
+false
+
+com.appsbar.TheCoffeeStop486960.apk
+false
+
+org.espen.maf.apk
+false
+
+com.tiffany.engagement.apk
+false
+
+com.firstsdachurch.firstsdachurch403.apk
+true
+View the Master Calendar
+
+com.pannous.voice.actions.free.apk
+false
+
+com.postnewsweek.galveston.apk
+false
+
+com.apcurium.MK.BostonCab.apk
+false
+
+com.anod.calendar.apk
+true
+This widget calendar is analog of standard calendar widget
+How to add widget to homescreen On home screen press "menu", then "add", click on "widgets" and choose "Simple Calendar Widget" from the list
+Can't find Simple Calendar in list of Widgets Try to restart home launcher application (or device)
+Options missing since Simple Calendar Widget 2.3 update (Alternative layouts, Line color, Scrollable hack) The options can be found in menu under Skin
+Show weather forecast on the widget Just set it up in settings of desktop version of Google calendar
+Search for "Add interesting calendars from Google Calendar" and follow the instructions
+access to the calendar information
+
+com.gau.go.touchhelperex.theme.eva.apk
+false
+
+com.zoemob.smsbackup.apk
+false
+
+us.zoom.videomeetings.apk
+true
+You can start or join a HD video meeting with crystal-clear, face-to-face conversation and high quality screen sharing
+Start or join a video meeting at anytime
+One-click to start a video meeting
+Instant or schedule video meetings
+Invite others to join via email, SMS, IM and meeting ID
+
+ru.yandex.shell.apk
+false
+
+com.siyami.apps.patientregister.apk
+true
+Schedule appointments
+Supports Google calendar sync
+
+org.tasks.apk
+true
+You will have to reorganize your tasks into lists when importing from an XML backup
+Tasks can be installed alongside Astrid
+Synchronize your current tasks with Google Tasks
+
+com.gau.go.launcherex.gowidget.calendarwidget.apk
+true
+GO Calendar widget brings the calendar and the agenda to your home screen
+It was designed to make it more simple and faster to work with your calendar
+Two different views (month and agenda) give you a good overview to your upcoming events
+Compare to the traditional calendar widget, it supports switching between months by flipping like a real calendar
+View agenda
+Add agenda
+
+com.worldmate.apk
+true
+Flight Reminders
+WorldMate will send you a flight reminder a few hours prior to departure, allowing you to know in advance if your gate has changed, or of any other important information
+Quickly view your complete itinerary on a map, and immediately know where your hotel, car pickup or next meeting is located
+Open your full schedule directly from your home screen
+Synchronize your WorldMate itinerary to Outlook, or to your Android/Google calendar
+
+com.fitnessmobileapps.donnakelly.apk
+true
+Download the Donna Kelly Makeup App today to plan and schedule your next Appointment
+From this Android App you can view appointments, schedule appointments, view ongoing promotions, shop online as well as view the studio's location and contact information
+
+com.anydo.apk
+true
+Millions use Any.do every day to remember all the tasks they want to-do and make sure they get them done
+Drag and drop to plan your agenda, swipe off a task to mark it as complete and shake your android to clear your completed tasks
+Simply add a time based reminder for the things you want to do and Any.do will remind you just at the right time
+A shared grocery list with your spouse, plan an event with your friends or just make sure you're on top of an office project
+Turn missed calls into reminders
+Your tasks, Your choice
+
+com.yammer.v1.apk
+false
+
+com.dexetra.iris.apk
+false
+
+netgenius.bizcal.apk
+true
+Business Calendar is a complete calendar application that is synchronizing with your Google calendars
+quickly fade in/out calendars using the favorite bar
+to add a recurrent event that takes place every other week on Tuesday and Thursday)
+drag and drop mode in the multi-day view to move and copy events
+
+com.webroot.security.apk
+false
+
+com.nemustech.regina.apk
+false
+
+com.martin.SamsungGalaxyRingtones.apk
+false
+
+com.nuance.balerion.apk
+true
+Dragon Mobile Assistant can tell friends where you are, can dial you into scheduled conference calls and
+Dragon Mobile Assistant can read your calendar alerts, Facebook Newsfeed updates and your text messages back to you
+Dragon Mobile Assistant already gives Android lovers the must-have mobile virtual assistant features to quickly access information, content, apps, music and people, as well as set appointments and get directions, just by using their voice
+Let's plan for the meeting tomorrow
+Create a calendar event
+"Set up a meeting with Jake Salinas tomorrow at 2 PM
+
+com.fitnessmobileapps.zooga.apk
+true
+Download the Zooga Yoga App today to plan and schedule your classes and appointments
+From this Android App you can view class schedules, sign-up for classes, book appointments, view ongoing promotions, as well as view the studio's location and contact information
+
+com.zegoggles.smssync.apk
+false
+
+com.kfactormedia.mycalendar.apk
+true
+With MyCalendar Free, you will get never forget your friends' birthdays again
+
+com.dynamixsoftware.printershare.apk
+false
+
+com.contacts1800.ecomapp.apk
+false
+
+com.coreapps.android.followme.atce2013.apk
+false
+
+pregnancy.disc.app.apk
+true
+The disc enables you to plan accordingly your medical appointments, flights, baby showers and so on
+Calendar integration, creating private notifications within your mobile calendar (e.g
+That way when ever you'll set an appointment in your calendar you'll know what pregnancy week you're on
+
+com.onerainboot.setcalendarcolors.apk
+true
+Set Calendar Colors allows you to change the colors of your Android calendars
+You can automatically synchronize your calendar colors to your Google calendar web application
+If you want to translate Set Calendar Colors to a new language, send us an email, and we will provide you with a file to translate
+allow us to write new colors to your calendars
+allow us to save a backup of your calendar colors
+allow us to access internet to connect to your online Google Calendar
+
+com.appbuilder.u95227p530943.apk
+false
+
+com.linever.fastscheduler.android.apk
+true
+"Fast Scheduler" is an innovative application that allows users to input the plan on your calendar quickly
+Displays all calendars in the terminal but it can be set individually
+Synchronizes with Google Calendar automatically if you are using google calendar
+
+praana.appl.advreminder.apk
+true
+Add Calendar events to yourself and to your friends
+They are directly set to your calendar and also to your friends and no one will miss those events
+Both you and your friends need to have Remind Well application installed on thier Android device and SMS is used as a mediator for setting events and notifications for your friends
+This section will set the reminder notification and reminds event as per the
+This section will schedule an event on any particular day and time that
+Setting 'Events'
+After setting event, Event will be scheduled in calendar and reminds on the Date and Time that you have set
+
+com.avast.android.at_play.apk
+false
+
+com.appbuilder.u393675p625968.apk
+false
+
+com.bulletproof.voicerec.intern.apk
+true
+Turn on the lights and appliances, open the garage door and a whole lot more, all with voice commands or scheduled or based on your location
+
+de.devmil.minimaltext.apk
+true
+android.permission.READ_CALENDAR To support calendar events
+
+com.blackboardmobile.testing.yu.apk
+true
+Keep tabs on your favorite Yeshiva athletics teams with Maccabees scores, schedules and highlights--all from the palm of your hand
+
+com.appbuilder.u311873p593082.apk
+false
+
+com.tuviglobal.tuvi2014.apk
+false
+
+com.ofa.htc.apk
+true
+Have an important meeting or a birthday coming up
+
+com.fogtechnologies.expotec.wwin.apk
+true
+We are excited to introduce the new way to look at event navigation
+Event Schedule
+Automatic Event Updates
+Navigating your event is just the start of what Womens Wear In Nevada (WWIN) delivers
+With Womens Wear In Nevada (WWIN), all the information about your event is contained right within the app
+Womens Wear In Nevada (WWIN) provides a first-in-the-industry solution to comprehensive event navigation, as well as real-time information updates
+
+kiefer.JobMo.apk
+false
+
+com.surfwax.holidaycalendar.apk
+false
+
+org.astrid.apk
+true
+Many of the fields in Todoroo's Astrid only sync with Astrid.com, and this data cannot be transferred by syncing with Google Tasks or exporting your tasks to a backup file
+You can transfer basic task information, but your tasks will not be organized into lists, and you will lose comments, attachments, and possibly other task metadata
+This version can be installed alongside Todoroo's Astrid
+Synchronize your current tasks with Google Tasks
+
+com.shopko.android.apk
+true
+Bookmarking of stores, getting driving directions and managing doctor appointments are some of the additional features available
+
+uk.co.olilan.touchcalendar.trial.apk
+true
+See your whole calendar at a glance
+No more flipping between different calendar views
+Touch Calendar does it all from one zoomable and scrollable view
+Touch Calendar works with Google Calendar and any other calendars your phone supports, and the app features calendar search and custom repeating events (e.g
+tap-and-hold on a date to add a new event
+calendar search by pressing your phone's search button or from the menu
+Text colour for events comes from the calendar colour
+Set up different calendar colours in Google Calendar and they'll appear in Touch Calendar automatically
+read and write calendar are required of course, and also read contacts so guests can be invited to events
+
+com.sunnymediagroup.baptist.apk
+true
+Keep track of appointments on the BHealthy Baby calendar, which syncs to your native calendar
+
+org.withouthat.acalendar.apk
+true
+Agenda view
+Create new local calendars (Android 4 only)
+switch between calendar views with a horizontal swipe (opens the day or week you start the swipe gesture on) or double-tap for day view
+aCalendar only asks for mandatory permissions for its functionality
+Read and write contact data for birthdays as well as read and write calendar data for events
+No features will be taken away, but some advanced calendar features might only come to aCalendar+
+
+com.aimmediatexas.oavarsity.apk
+false
+
+com.mali.AttackOnTitans.apk
+false
+
+org.satok.gweather.apk
+true
+Task killer apps and security apps usually make apps unstable, so please put "World Weather Clock Widget" to these apps' exclusion list
+
+com.zero8timetracking.timesheeter.apk
+true
+Select your project, task, time start, time end, pause, details or just insert hours worked
+or just select event from your Google Calendar as your time sheet entry
+once inserted projects and tasks will be offered for selection
+default values for projects, task, start time, end time, pause, mail from, mail to
+
+com.pennfoster.studyplan.apk
+true
+Download your FREE Penn Foster study guide app to assist you to plan your exam schedule and keep you on track with your learning progress
+The app synchs with your device calendar so that you can see the scheduled exam events along with everything else going on in your life
+
+net.manageapps.app_37401.apk
+false
+
+com.Birthday_Countdown_Alarm_Clock_118071.apk
+false
+
+com.gtp.nextlauncher.widget.calendar.apk
+true
+Next Calendar widget is a kind of calendars that is based on Next Launcher
+It supports switching between months by flipping like a real calendar.The glorious visual elements and 3D dynamic effects of Next Calendar widget will make it more simple and faster to work with your calendar
+View monthly calendar
+View agenda
+Add agenda
+

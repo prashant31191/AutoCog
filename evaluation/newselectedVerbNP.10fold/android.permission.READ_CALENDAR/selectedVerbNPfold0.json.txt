@@ -1,0 +1,1018 @@
+scheduler
+assign
+
+custom message
+name
+count
+
+busy schedule
+assign
+
+new widget
+configurable
+
+gmail account
+worry
+
+place locator
+accompany
+wear
+remind
+
+yahoo news
+cover
+
+select widget
+configurable
+
+photo message
+name
+count
+
+current date
+customizable
+jump
+calendar
+put
+press
+accompany
+predict
+
+severe weather
+do
+build
+
+launcher ex
+save
+
+text message
+name
+count
+
+voice message
+name
+count
+
+beautiful widget
+configurable
+
+email message
+name
+
+apex launcher
+save
+
+notification ringtones
+issue
+
+new event
+try
+confirmations
+map
+calendar
+define
+easy
+insert
+schedule
+log
+
+ringtones
+issue
+
+gregorian calendar
+restore
+integrate
+read
+tick
+sync
+design
+schedule
+let
+protect
+backup
+support
+require
+write
+switch
+
+location
+accompany
+wear
+
+integral part
+calendar
+
+late date
+customizable
+jump
+assign
+accompany
+predict
+
+handcent message
+name
+count
+
+event organizer
+confirmations
+map
+log
+calendar
+define
+easy
+insert
+schedule
+
+secure message
+name
+count
+
+contact page
+convert
+love
+reminders
+notify
+accompany
+
+different view
+arrange
+
+important event
+try
+confirmations
+map
+calendar
+define
+easy
+insert
+schedule
+log
+
+message alert
+name
+
+different ringtones
+issue
+
+on-top-widget
+configurable
+
+quick note
+access
+
+message text
+name
+count
+
+contact detail
+convert
+love
+reminders
+notify
+accompany
+
+launcher dodol
+save
+
+event information
+try
+confirmations
+map
+calendar
+define
+easy
+insert
+schedule
+log
+
+home launcher
+save
+
+message mms
+name
+count
+
+best view
+arrange
+
+quick link
+access
+
+next widget
+configurable
+
+news weather
+build
+do
+
+event date
+confirmations
+map
+calendar
+define
+easy
+insert
+schedule
+log
+
+message ringtone
+name
+count
+
+launcher
+save
+
+convenience
+maximize
+
+quick
+access
+
+event calendar
+restore
+integrate
+read
+tick
+synchronize
+design
+schedule
+let
+protect
+backup
+support
+enable
+write
+switch
+
+current weather
+build
+do
+
+quick way
+access
+
+time widget
+configurable
+
+send message
+name
+count
+
+contact list
+convert
+love
+reminders
+notify
+accompany
+
+contact form
+convert
+love
+reminders
+notify
+accompany
+
+widget
+configurable
+
+detailed view
+arrange
+
+chat message
+name
+
+ringtones notification
+issue
+
+next launcher
+save
+
+calendar
+restore
+integrate
+read
+tick
+synchronize
+design
+schedule
+let
+protect
+backup
+support
+enable
+write
+switch
+
+homee launcher
+save
+
+new contact
+convert
+love
+reminders
+notify
+accompany
+
+solo launcher
+save
+
+start launcher
+save
+
+useful widget
+configurable
+
+integrates
+calendar
+
+school student
+handle
+content
+
+integration
+calendar
+
+view schedule
+assign
+
+popular ringtones
+issue
+
+ringtone notification
+issue
+
+dating
+customizable
+jump
+assign
+press
+accompany
+predict
+
+integrated
+calendar
+
+device calendar
+restore
+integrate
+read
+tick
+sync
+design
+schedule
+let
+protect
+backup
+support
+require
+write
+switch
+
+locate
+accompany
+wear
+
+dodol launcher
+save
+
+various location
+accompany
+wear
+
+instant messaging
+name
+
+schedule
+assign
+
+emergency contact
+convert
+love
+reminders
+notify
+accompany
+
+personal message
+name
+count
+
+new message
+name
+count
+
+bill reminder
+base
+
+perfect widget
+configurable
+
+quick setting
+access
+
+gps location
+accompany
+wear
+
+class schedule
+assign
+maximize
+sign
+
+top widget
+configurable
+
+launcher homescreen
+save
+
+local weather
+build
+do
+
+supported launcher
+save
+
+homescreen widget
+configurable
+
+quick reference
+access
+
+search widget
+configurable
+
+go contact
+convert
+love
+reminders
+notify
+accompany
+
+important message
+name
+count
+
+live event
+try
+confirmations
+map
+calendar
+define
+easy
+insert
+schedule
+log
+
+viewing
+arrange
+
+adw launcher
+save
+
+current event
+confirmations
+map
+calendar
+define
+easy
+insert
+schedule
+log
+
+widget size
+configurable
+
+weather information
+build
+do
+
+live view
+arrange
+
+view
+arrange
+
+backup
+schedule
+
+weather industry
+do
+build
+
+message call
+name
+count
+
+daily schedule
+assign
+
+college student
+content
+handle
+take
+
+up-to-date
+customizable
+jump
+assign
+press
+accompany
+predict
+
+push message
+name
+count
+
+good view
+arrange
+
+contact name
+convert
+love
+reminders
+notify
+accompany
+
+widget support
+configurable
+
+desktop widget
+configurable
+
+locator
+accompany
+wear
+
+unread message
+name
+count
+
+weather
+build
+do
+
+calendar view
+restore
+integrate
+read
+tick
+synchronize
+design
+schedule
+let
+protect
+backup
+support
+enable
+write
+switch
+
+popular ringtone
+issue
+
+convenient way
+maximize
+
+message
+name
+count
+
+time date
+customizable
+jump
+assign
+press
+accompany
+predict
+
+different location
+accompany
+wear
+
+medical student
+handle
+content
+
+quick view
+access
+
+launcher setting
+save
+
+free message
+name
+count
+
+instant message
+name
+
+quick start
+access
+
+new location
+accompany
+wear
+
+message email
+name
+
+love message
+name
+count
+
+read contact
+convert
+love
+reminders
+notify
+accompany
+
+whatsapp message
+name
+count
+
+message board
+name
+count
+
+important date
+customizable
+jump
+assign
+accompany
+predict
+
+weather condition
+do
+build
+
+simple widget
+configurable
+
+iphone rington
+issue
+
+action launcher
+save
+
+message etc
+name
+count
+
+yahoo
+cover
+
+first date
+customizable
+jump
+assign
+press
+accompany
+predict
+
+add widget
+configurable
+
+specific contact
+convert
+love
+reminders
+notify
+accompany
+
+launcher icon
+save
+
+launcher theme
+save
+
+contact ringtones
+reminders
+synchronize
+issue
+organize
+notify
+accompany
+speak
+voice
+
+late event
+try
+confirmations
+map
+calendar
+define
+easy
+insert
+schedule
+log
+
+widget configuration
+configurable
+
+call message
+name
+count
+
+contact developer
+convert
+love
+reminders
+notify
+accompany
+
+private message
+name
+count
+
+precise location
+accompany
+wear
+
+free ringtones
+issue
+
+quick list
+access
+
+weather widget
+configurable
+
+current location
+accompany
+wear
+
+facebook integration
+calendar
+
+widget list
+configurable
+
+calendar event
+restore
+integrate
+read
+tick
+synchronize
+design
+schedule
+let
+protect
+backup
+support
+enable
+write
+switch
+
+due date
+customizable
+jump
+assign
+accompany
+predict
+
+floating on-top-widget
+configurable
+
+quick overview
+access
+
+go launcher
+save
+
+read message
+name
+count
+
+weather forecast
+do
+
+time location
+accompany
+wear
+
+scheduling
+assign
+
+event activity
+try
+confirmations
+map
+calendar
+define
+easy
+insert
+schedule
+log
+
+schedule information
+assign
+
+lockscreen widget
+configurable
+
+widget section
+configurable
+
+on-top-widget functionality
+configurable
+
+weather report
+build
+do
+
+team schedule
+miss
+
+ringtone
+issue
+
+event
+try
+confirmations
+map
+calendar
+define
+easy
+insert
+schedule
+log
+
+go message
+name
+count
+
+special event
+try
+confirmations
+map
+calendar
+define
+easy
+insert
+schedule
+log
+
+personal schedule
+assign
+
+day weather
+build
+do
+
+late ringtones
+issue
+
+news widget
+configurable
+
+free ringtone
+issue
+
+holo launcher
+save
+
+text messaging
+name
+count
+
+contact ringtone
+reminders
+synchronize
+issue
+organize
+notify
+accompany
+speak
+voice
+
+smart launcher
+save
+
+message notification
+name
+count
+
+release date
+customizable
+jump
+assign
+press
+accompany
+predict
+
+local event
+try
+confirmations
+map
+calendar
+define
+easy
+insert
+schedule
+log
+
+late weather
+build
+do
+
+contact photo
+convert
+love
+reminders
+notify
+accompany
+
+messaging
+name
+count
+
+date
+customizable
+jump
+assign
+press
+accompany
+predict
+
+screen widget
+configurable
+
+twitter integration
+calendar
+
+best ringtones
+issue
+
+bangla calendar
+restore
+integrate
+read
+tick
+sync
+design
+schedule
+let
+protect
+backup
+support
+require
+write
+switch
+
+contact number
+convert
+love
+reminders
+notify
+accompany
+
+list view
+arrange
+
+facebook message
+name
+count
+
+deep weather
+do
+build
+
+near location
+accompany
+wear
+
+contact
+convert
+love
+reminders
+notify
+accompany
+
+date time
+customizable
+jump
+assign
+press
+accompany
+predict
+
+convenient
+maximize
+
+edit widget
+configurable
+
+problem contact
+convert
+love
+reminders
+notify
+accompany
+
+contact information
+convert
+love
+reminders
+notify
+accompany
+

@@ -1,0 +1,1615 @@
+different photo
+whis	1.0	6
+unfold	1.0	21
+fill	0.875	8
+please	0.846153846154	13
+mix	0.833333333333	6
+snap	0.8125	96
+
+webcam chat
+invite	0.833333333333	6
+
+instagram photo
+whis	1.0	6
+unfold	1.0	21
+fill	0.875	8
+please	0.846153846154	13
+mix	0.833333333333	6
+snap	0.8125	96
+
+camera fun
+permissions	1.0	6
+try	1.0	6
+access	1.0	6
+point	1.0	14
+edit	0.933333333333	15
+face	0.9	30
+hold	0.888888888889	9
+back	0.857142857143	7
+turn	0.857142857143	14
+scan	0.857142857143	7
+record	0.833333333333	12
+use	0.817307692308	104
+
+internet banking
+log	1.0	9
+enroll	1.0	8
+deposit	1.0	7
+set	0.888888888889	9
+enrol	0.818181818182	22
+
+gmail account
+measure	0.909090909091	11
+
+camera view
+permissions	1.0	6
+rotate	1.0	6
+try	1.0	7
+point	1.0	16
+edit	0.933333333333	15
+face	0.9	30
+hold	0.888888888889	9
+back	0.857142857143	7
+scan	0.857142857143	7
+record	0.846153846154	13
+give	0.833333333333	6
+note	0.833333333333	6
+check	0.818181818182	11
+
+bright
+permissions	1.0	6
+turn	0.846153846154	13
+
+low price
+refine	1.0	42
+give	0.927536231884	69
+scan	0.833333333333	6
+
+great photo
+whis	1.0	6
+unfold	1.0	21
+fill	0.875	8
+please	0.846153846154	13
+mix	0.833333333333	6
+snap	0.808510638298	94
+
+naughty chat
+invite	0.833333333333	6
+
+twitter feed
+fetch	0.986666666667	150
+
+multiple image
+take	1.0	6
+create	0.846153846154	13
+choose	0.833333333333	6
+allow	0.833333333333	18
+
+best hotel
+reveal	1.0	43
+prague	1.0	8
+swipe	1.0	43
+refine	1.0	42
+map	1.0	43
+km	1.0	24
+list	0.947368421053	19
+click	0.934782608696	46
+allow	0.893617021277	47
+search	0.858585858586	99
+
+feeding
+fetch	0.986666666667	150
+collect	0.948453608247	194
+use	0.924623115578	199
+
+late transaction
+search	0.916666666667	48
+perform	0.818181818182	11
+
+love frame
+see	1.0	7
+capture	1.0	11
+slide	0.9	10
+save	0.875	8
+live	0.857142857143	7
+allow	0.833333333333	6
+
+hotel deal
+reveal	1.0	43
+prague	1.0	8
+swipe	1.0	43
+refine	1.0	42
+map	1.0	43
+km	1.0	24
+list	0.947368421053	19
+click	0.934782608696	46
+allow	0.893617021277	47
+search	0.858585858586	99
+
+online banking
+log	1.0	9
+enroll	1.0	8
+deposit	1.0	7
+set	0.888888888889	9
+enrol	0.818181818182	22
+
+new room
+view	1.0	18
+
+hotel room
+reveal	1.0	43
+prague	1.0	8
+swipe	1.0	43
+refine	1.0	42
+map	1.0	43
+km	1.0	24
+list	0.947368421053	19
+click	0.934782608696	46
+allow	0.893617021277	47
+search	0.854166666667	96
+
+mobile banking
+enroll	1.0	12
+charge	1.0	6
+start	0.857142857143	7
+
+camera function
+permissions	1.0	6
+rotate	1.0	6
+try	1.0	7
+access	1.0	8
+point	1.0	14
+edit	0.933333333333	15
+face	0.9	30
+hold	0.888888888889	9
+back	0.857142857143	7
+scan	0.857142857143	7
+record	0.846153846154	13
+support	0.842105263158	19
+give	0.833333333333	6
+note	0.833333333333	6
+check	0.818181818182	11
+use	0.814516129032	124
+turn	0.8125	16
+start	0.8125	16
+
+share photo
+whis	1.0	6
+instant	0.909090909091	11
+fill	0.888888888889	9
+mix	0.833333333333	6
+snap	0.8125	96
+
+photo
+whis	1.0	6
+unfold	1.0	21
+fill	0.875	8
+please	0.846153846154	13
+mix	0.833333333333	6
+snap	0.8125	96
+
+check balance
+climb	1.0	8
+comment	1.0	20
+take	1.0	7
+deposit	0.98	50
+allow	0.906666666667	75
+include	0.838709677419	31
+
+special someone
+look	0.866666666667	15
+
+local deal
+lodge	1.0	17
+give	0.924242424242	66
+shop	0.833333333333	6
+
+correct place
+move	1.0	7
+shift	1.0	10
+
+built-in camera
+permissions	1.0	6
+rotate	1.0	6
+try	1.0	7
+point	1.0	16
+edit	0.933333333333	15
+face	0.9	30
+hold	0.888888888889	9
+back	0.857142857143	7
+scan	0.857142857143	7
+record	0.846153846154	13
+give	0.833333333333	6
+note	0.833333333333	6
+check	0.818181818182	11
+
+grocery store
+scan	1.0	9
+let	0.833333333333	6
+pick	0.833333333333	6
+select	0.833333333333	6
+offer	0.833333333333	6
+
+personal photo
+whis	1.0	6
+unfold	1.0	21
+fill	0.875	8
+please	0.846153846154	13
+mix	0.833333333333	6
+snap	0.808510638298	94
+
+photo viewing
+whis	1.0	6
+unfold	1.0	21
+fill	0.875	8
+please	0.846153846154	13
+mix	0.833333333333	6
+snap	0.808510638298	94
+
+book hotel
+reveal	1.0	43
+prague	1.0	8
+swipe	1.0	43
+refine	1.0	42
+map	1.0	43
+km	1.0	24
+list	0.947368421053	19
+click	0.934782608696	46
+allow	0.893617021277	47
+search	0.858585858586	99
+
+checking
+take	1.0	7
+climb	1.0	8
+comment	1.0	20
+deposit	0.98	50
+include	0.961538461538	26
+
+camera gallery
+permissions	1.0	6
+try	1.0	6
+access	1.0	7
+point	1.0	14
+start	1.0	11
+edit	0.933333333333	15
+face	0.9	30
+hold	0.888888888889	9
+turn	0.866666666667	15
+back	0.857142857143	7
+scan	0.857142857143	7
+support	0.842105263158	19
+record	0.833333333333	12
+give	0.833333333333	6
+note	0.833333333333	6
+use	0.819672131148	122
+
+activation
+comb	1.0	9
+
+bank account
+log	1.0	9
+enroll	1.0	8
+deposit	1.0	7
+set	0.888888888889	9
+enrol	0.818181818182	22
+
+hotel review
+reveal	1.0	43
+prague	1.0	8
+swipe	1.0	43
+refine	1.0	42
+map	1.0	43
+km	1.0	24
+list	0.947368421053	19
+click	0.934782608696	46
+allow	0.893617021277	47
+search	0.858585858586	99
+
+hotel offer
+reveal	1.0	43
+prague	1.0	8
+swipe	1.0	43
+refine	1.0	42
+map	1.0	43
+km	1.0	24
+list	0.947368421053	19
+click	0.934782608696	46
+allow	0.893617021277	47
+search	0.858585858586	99
+
+camera flashlight
+permissions	1.0	6
+rotate	1.0	6
+try	1.0	7
+point	1.0	14
+edit	0.933333333333	15
+face	0.9	30
+access	0.888888888889	9
+hold	0.888888888889	9
+back	0.857142857143	7
+scan	0.857142857143	7
+record	0.846153846154	13
+give	0.833333333333	6
+note	0.833333333333	6
+turn	0.823529411765	17
+start	0.823529411765	17
+check	0.818181818182	11
+use	0.8125	128
+
+video camera
+permissions	1.0	6
+try	1.0	6
+point	1.0	14
+start	1.0	11
+edit	0.933333333333	15
+face	0.9	30
+access	0.888888888889	9
+hold	0.888888888889	9
+turn	0.866666666667	15
+back	0.857142857143	7
+scan	0.857142857143	7
+record	0.833333333333	12
+give	0.833333333333	6
+note	0.833333333333	6
+use	0.819672131148	122
+
+camera application
+permissions	1.0	6
+try	1.0	7
+access	1.0	8
+point	1.0	14
+edit	0.933333333333	15
+face	0.9	30
+hold	0.888888888889	9
+turn	0.875	16
+back	0.857142857143	7
+scan	0.857142857143	7
+support	0.85	20
+record	0.833333333333	12
+give	0.833333333333	6
+note	0.833333333333	6
+use	0.816	125
+start	0.8125	16
+
+bank
+log	1.0	9
+enroll	1.0	8
+deposit	1.0	7
+set	0.888888888889	9
+enrol	0.818181818182	22
+
+photo source
+whis	1.0	6
+unfold	1.0	21
+fill	0.875	8
+please	0.846153846154	13
+mix	0.833333333333	6
+snap	0.808510638298	94
+
+ip camera
+permissions	1.0	6
+rotate	1.0	6
+try	1.0	7
+point	1.0	14
+edit	0.933333333333	15
+face	0.9	30
+access	0.888888888889	9
+hold	0.888888888889	9
+back	0.857142857143	7
+scan	0.857142857143	7
+record	0.846153846154	13
+give	0.833333333333	6
+note	0.833333333333	6
+check	0.818181818182	11
+use	0.814516129032	124
+turn	0.8125	16
+start	0.8125	16
+
+new account
+transmit	1.0	7
+measure	0.909090909091	11
+
+correct word
+move	1.0	7
+shift	1.0	10
+
+brightness
+permissions	1.0	6
+turn	0.846153846154	13
+
+correct order
+move	1.0	7
+shift	1.0	10
+
+price comparison
+refine	1.0	42
+give	0.927536231884	69
+scan	0.833333333333	6
+
+multiple photo
+take	1.0	6
+create	0.846153846154	13
+choose	0.833333333333	6
+allow	0.833333333333	18
+
+photo collection
+whis	1.0	6
+snap	0.810526315789	95
+
+new activity
+comb	1.0	9
+
+check-in
+take	1.0	7
+climb	1.0	8
+comment	1.0	20
+deposit	0.98	50
+include	0.961538461538	26
+
+recent transaction
+search	0.916666666667	48
+perform	0.818181818182	11
+
+full photo
+whis	1.0	6
+unfold	1.0	21
+fill	0.875	8
+please	0.846153846154	13
+mix	0.833333333333	6
+snap	0.808510638298	94
+
+monthly fee
+check	1.0	6
+
+activate
+comb	1.0	9
+
+listed hotel
+reveal	1.0	43
+prague	1.0	8
+swipe	1.0	43
+refine	1.0	42
+map	1.0	43
+km	1.0	24
+list	0.947368421053	19
+click	0.934782608696	46
+allow	0.893617021277	47
+search	0.858585858586	99
+
+deal
+lodge	1.0	17
+give	0.910447761194	67
+shop	0.833333333333	6
+
+frame
+see	1.0	7
+capture	1.0	11
+slide	0.9	10
+save	0.875	8
+live	0.857142857143	7
+allow	0.833333333333	6
+
+display photo
+whis	1.0	6
+unfold	1.0	21
+fill	0.875	8
+please	0.846153846154	13
+mix	0.833333333333	6
+snap	0.8125	96
+
+casually chat
+invite	0.833333333333	6
+
+late photo
+whis	1.0	6
+unfold	1.0	21
+fill	0.875	8
+please	0.846153846154	13
+mix	0.833333333333	6
+snap	0.808510638298	94
+
+best price
+refine	1.0	42
+give	0.927536231884	69
+ensure	0.833333333333	6
+scan	0.833333333333	6
+
+pricing
+refine	1.0	42
+give	0.927536231884	69
+ensure	0.833333333333	6
+scan	0.833333333333	6
+
+budget hotel
+reveal	1.0	43
+prague	1.0	8
+swipe	1.0	43
+refine	1.0	42
+map	1.0	43
+km	1.0	24
+list	0.947368421053	19
+click	0.934782608696	46
+allow	0.913043478261	46
+search	0.858585858586	99
+
+view account
+transmit	1.0	7
+measure	0.909090909091	11
+
+smartphone camera
+permissions	1.0	6
+rotate	1.0	6
+try	1.0	7
+point	1.0	15
+edit	0.933333333333	15
+face	0.9	30
+access	0.888888888889	9
+hold	0.888888888889	9
+back	0.857142857143	7
+scan	0.857142857143	7
+record	0.846153846154	13
+give	0.833333333333	6
+note	0.833333333333	6
+start	0.823529411765	17
+check	0.818181818182	11
+
+mobile tv
+enroll	1.0	13
+
+camera zoom
+permissions	1.0	6
+try	1.0	6
+access	1.0	8
+point	1.0	14
+start	1.0	11
+edit	0.933333333333	15
+face	0.9	30
+hold	0.888888888889	9
+turn	0.866666666667	15
+back	0.857142857143	7
+scan	0.857142857143	7
+record	0.833333333333	12
+give	0.833333333333	6
+note	0.833333333333	6
+use	0.821138211382	123
+
+banking
+log	1.0	9
+enroll	1.0	8
+deposit	1.0	7
+set	0.888888888889	9
+enrol	0.818181818182	22
+
+best photo
+whis	1.0	6
+unfold	1.0	21
+fill	0.875	8
+please	0.846153846154	13
+mix	0.833333333333	6
+snap	0.8125	96
+
+anonymous chat
+invite	0.833333333333	6
+
+recent activity
+comb	1.0	9
+
+perform transaction
+search	0.916666666667	48
+perform	0.818181818182	11
+
+original photo
+whis	1.0	6
+unfold	1.0	21
+fill	0.875	8
+please	0.846153846154	13
+mix	0.833333333333	6
+snap	0.8125	96
+
+mobile deposit
+make	0.882352941176	51
+
+gas price
+refine	1.0	42
+give	0.927536231884	69
+ensure	0.833333333333	6
+scan	0.833333333333	6
+
+old photo
+whis	1.0	6
+unfold	1.0	21
+fill	0.875	8
+please	0.846153846154	13
+mix	0.833333333333	6
+snap	0.8125	96
+
+photo effect
+whis	1.0	6
+unfold	1.0	21
+fill	0.875	8
+please	0.846153846154	13
+mix	0.833333333333	6
+snap	0.808510638298	94
+
+photo sharing
+whis	1.0	6
+instant	0.909090909091	11
+fill	0.888888888889	9
+mix	0.833333333333	6
+snap	0.8125	96
+
+living room
+view	1.0	18
+
+hotel booking
+reveal	1.0	43
+prague	1.0	8
+swipe	1.0	43
+refine	1.0	42
+map	1.0	43
+km	1.0	24
+list	0.947368421053	19
+click	0.934782608696	46
+allow	0.893617021277	47
+search	0.858585858586	99
+
+import photo
+whis	1.0	6
+unfold	1.0	21
+fill	0.875	8
+please	0.846153846154	13
+mix	0.833333333333	6
+snap	0.808510638298	94
+
+reading frame
+see	1.0	7
+capture	1.0	11
+slide	0.9	10
+save	0.875	8
+live	0.857142857143	7
+allow	0.833333333333	6
+
+news feed
+fetch	0.986666666667	150
+collect	0.948453608247	194
+use	0.924623115578	199
+
+camera distance
+permissions	1.0	6
+rotate	1.0	6
+try	1.0	7
+point	1.0	14
+edit	0.933333333333	15
+face	0.9	30
+access	0.888888888889	9
+hold	0.888888888889	9
+back	0.857142857143	7
+scan	0.857142857143	7
+record	0.846153846154	13
+give	0.833333333333	6
+note	0.833333333333	6
+turn	0.823529411765	17
+start	0.823529411765	17
+check	0.818181818182	11
+use	0.8125	128
+
+developer account
+transmit	1.0	7
+measure	0.909090909091	11
+
+view photo
+whis	1.0	6
+unfold	1.0	21
+fill	0.875	8
+please	0.846153846154	13
+mix	0.833333333333	6
+snap	0.808510638298	94
+
+photo word
+whis	1.0	6
+snap	0.808510638298	94
+
+hotel detail
+reveal	1.0	43
+prague	1.0	8
+swipe	1.0	43
+refine	1.0	42
+map	1.0	43
+km	1.0	24
+list	0.947368421053	19
+click	0.934782608696	46
+allow	0.893617021277	47
+search	0.858585858586	99
+
+active
+comb	1.0	9
+
+silent camera
+permissions	1.0	6
+try	1.0	6
+access	1.0	6
+point	1.0	14
+edit	0.933333333333	15
+face	0.9	30
+hold	0.888888888889	9
+back	0.857142857143	7
+turn	0.857142857143	14
+scan	0.857142857143	7
+record	0.833333333333	12
+use	0.819047619048	105
+
+entire feed
+fetch	0.986666666667	150
+
+account number
+transmit	1.0	7
+measure	0.909090909091	11
+
+great deal
+lodge	1.0	17
+give	0.910447761194	67
+shop	0.833333333333	6
+
+room number
+view	1.0	18
+
+fuel price
+refine	1.0	42
+give	0.941176470588	68
+
+active development
+comb	1.0	9
+
+current event
+install	1.0	6
+comb	1.0	9
+maximize	1.0	7
+download	0.888888888889	9
+come	0.875	8
+
+one-time fee
+check	1.0	6
+
+transaction history
+search	0.916666666667	48
+perform	0.818181818182	11
+
+hd photo
+whis	1.0	6
+unfold	1.0	21
+fill	0.875	8
+please	0.846153846154	13
+mix	0.833333333333	6
+snap	0.808510638298	94
+
+camera effect
+permissions	1.0	6
+rotate	1.0	6
+try	1.0	7
+point	1.0	16
+edit	0.933333333333	15
+face	0.9	30
+hold	0.888888888889	9
+back	0.857142857143	7
+scan	0.857142857143	7
+record	0.846153846154	13
+give	0.833333333333	6
+note	0.833333333333	6
+check	0.818181818182	11
+
+different frame
+see	1.0	7
+capture	1.0	11
+slide	0.9	10
+save	0.875	8
+live	0.857142857143	7
+allow	0.833333333333	6
+
+mobile access
+enroll	1.0	13
+
+feed
+fetch	0.986666666667	150
+collect	0.948453608247	194
+use	0.924623115578	199
+
+flash
+turn	1.0	10
+work	1.0	11
+use	0.941176470588	17
+lead	0.9375	16
+enable	0.833333333333	6
+
+dropbox account
+transmit	1.0	7
+measure	0.909090909091	11
+
+luxury hotel
+reveal	1.0	43
+prague	1.0	8
+swipe	1.0	43
+refine	1.0	42
+map	1.0	43
+km	1.0	24
+list	0.947368421053	19
+click	0.934782608696	46
+allow	0.875	48
+search	0.854166666667	96
+
+beautiful frame
+see	1.0	7
+capture	1.0	11
+slide	0.9	10
+save	0.875	8
+live	0.857142857143	7
+allow	0.833333333333	6
+
+paypal account
+measure	0.909090909091	11
+
+hotel price
+reveal	1.0	43
+prague	1.0	8
+swipe	1.0	43
+refine	1.0	42
+map	1.0	43
+km	1.0	24
+list	0.947368421053	19
+click	0.934782608696	46
+allow	0.913043478261	46
+search	0.854166666667	96
+
+hotel reservation
+reveal	1.0	43
+prague	1.0	8
+swipe	1.0	43
+refine	1.0	42
+map	1.0	43
+km	1.0	24
+list	0.947368421053	19
+click	0.934782608696	46
+allow	0.893617021277	47
+search	0.854166666667	96
+
+affordable price
+refine	1.0	42
+give	0.927536231884	69
+ensure	0.833333333333	6
+
+wedding frame
+see	1.0	8
+capture	0.909090909091	11
+slide	0.9	10
+save	0.875	8
+live	0.875	8
+take	0.818181818182	22
+
+fee
+check	1.0	6
+
+frame rate
+see	1.0	7
+capture	1.0	11
+slide	0.9	10
+save	0.875	8
+live	0.857142857143	7
+allow	0.833333333333	6
+
+front camera
+permissions	1.0	6
+rotate	1.0	6
+try	1.0	7
+point	1.0	14
+edit	0.933333333333	15
+face	0.9	30
+access	0.888888888889	9
+hold	0.888888888889	9
+back	0.857142857143	7
+scan	0.857142857143	7
+record	0.846153846154	13
+turn	0.833333333333	18
+give	0.833333333333	6
+note	0.833333333333	6
+start	0.823529411765	17
+check	0.818181818182	11
+use	0.813953488372	129
+
+hotel saving
+reveal	1.0	43
+prague	1.0	8
+swipe	1.0	43
+refine	1.0	42
+map	1.0	43
+km	1.0	24
+list	0.947368421053	19
+click	0.934782608696	46
+allow	0.893617021277	47
+search	0.858585858586	99
+
+account setting
+transmit	1.0	7
+measure	0.909090909091	11
+
+good deal
+lodge	1.0	17
+give	0.910447761194	67
+shop	0.833333333333	6
+
+camera
+permissions	1.0	6
+rotate	1.0	6
+try	1.0	7
+point	1.0	16
+edit	0.933333333333	15
+face	0.9	30
+hold	0.888888888889	9
+back	0.857142857143	7
+scan	0.857142857143	7
+record	0.846153846154	13
+give	0.833333333333	6
+note	0.833333333333	6
+check	0.818181818182	11
+
+personal account
+transmit	1.0	7
+measure	0.909090909091	11
+
+retail store
+scan	1.0	7
+pick	0.833333333333	6
+select	0.833333333333	6
+
+fast camera
+permissions	1.0	6
+rotate	1.0	6
+try	1.0	7
+point	1.0	14
+edit	0.933333333333	15
+face	0.9	30
+access	0.888888888889	9
+hold	0.888888888889	9
+back	0.857142857143	7
+scan	0.857142857143	7
+record	0.846153846154	13
+give	0.833333333333	6
+note	0.833333333333	6
+turn	0.823529411765	17
+start	0.823529411765	17
+check	0.818181818182	11
+use	0.8125	128
+
+late deal
+lodge	1.0	17
+give	0.910447761194	67
+shop	0.833333333333	6
+
+device camera
+permissions	1.0	6
+try	1.0	7
+access	1.0	7
+point	1.0	14
+edit	0.933333333333	15
+face	0.9	30
+hold	0.888888888889	9
+turn	0.875	16
+back	0.857142857143	7
+scan	0.857142857143	7
+support	0.85	20
+record	0.833333333333	12
+give	0.833333333333	6
+note	0.833333333333	6
+use	0.816	125
+start	0.8125	16
+
+account information
+transmit	1.0	7
+measure	0.909090909091	11
+
+back camera
+permissions	1.0	6
+rotate	1.0	6
+try	1.0	7
+point	1.0	16
+edit	0.933333333333	15
+face	0.9	30
+hold	0.888888888889	9
+back	0.857142857143	7
+scan	0.857142857143	7
+record	0.846153846154	13
+give	0.833333333333	6
+note	0.833333333333	6
+check	0.818181818182	11
+
+valuable feed
+fetch	0.986666666667	150
+
+small fee
+check	1.0	6
+
+special occasion
+look	0.866666666667	15
+
+many photo
+whis	1.0	6
+unfold	1.0	21
+fill	0.875	8
+please	0.846153846154	13
+mix	0.833333333333	6
+snap	0.8125	96
+
+new photo
+whis	1.0	6
+unfold	1.0	21
+fill	0.875	8
+please	0.846153846154	13
+mix	0.833333333333	6
+snap	0.8125	96
+
+speed camera
+permissions	1.0	6
+rotate	1.0	6
+try	1.0	6
+access	1.0	8
+point	1.0	14
+start	1.0	11
+edit	0.933333333333	15
+face	0.9	30
+hold	0.888888888889	9
+back	0.857142857143	7
+scan	0.857142857143	7
+record	0.846153846154	13
+support	0.842105263158	19
+give	0.833333333333	6
+note	0.833333333333	6
+check	0.818181818182	11
+use	0.813008130081	123
+turn	0.8125	16
+
+live feed
+fetch	0.986666666667	150
+collect	0.948453608247	194
+use	0.924623115578	199
+
+camera hardware
+permissions	1.0	6
+access	1.0	6
+point	1.0	15
+edit	0.933333333333	15
+face	0.9	30
+hold	0.888888888889	9
+turn	0.846153846154	13
+back	0.833333333333	6
+
+price range
+refine	1.0	42
+give	0.927536231884	69
+scan	0.833333333333	6
+
+chat application
+invite	0.833333333333	6
+
+account
+transmit	1.0	7
+measure	0.909090909091	11
+
+correct operation
+move	1.0	7
+shift	1.0	10
+
+room
+view	1.0	18
+
+various site
+fetch	0.980132450331	151
+
+event activity
+install	1.0	6
+comb	1.0	9
+maximize	1.0	7
+download	0.9	10
+come	0.875	8
+learn	0.818181818182	11
+
+financial transaction
+search	0.916666666667	48
+perform	0.818181818182	11
+
+camera feature
+permissions	1.0	6
+rotate	1.0	6
+try	1.0	7
+point	1.0	16
+edit	0.933333333333	15
+face	0.9	30
+hold	0.888888888889	9
+back	0.857142857143	7
+scan	0.857142857143	7
+record	0.846153846154	13
+give	0.833333333333	6
+note	0.833333333333	6
+check	0.818181818182	11
+
+attendee check-in
+take	1.0	7
+climb	1.0	8
+comment	1.0	20
+deposit	0.98	50
+include	0.961538461538	26
+
+discount hotel
+reveal	1.0	43
+prague	1.0	8
+swipe	1.0	43
+refine	1.0	42
+map	1.0	43
+km	1.0	24
+list	0.947368421053	19
+click	0.934782608696	46
+allow	0.913043478261	46
+search	0.854166666667	96
+
+instagram account
+transmit	1.0	7
+measure	0.909090909091	11
+
+exclusive deal
+lodge	1.0	17
+give	0.910447761194	67
+shop	0.833333333333	6
+
+photo frame
+see	1.0	7
+capture	1.0	11
+slide	0.9	10
+save	0.875	8
+live	0.857142857143	7
+allow	0.833333333333	6
+
+correction
+move	1.0	7
+shift	1.0	10
+
+site
+fetch	0.980132450331	151
+
+team transaction
+search	0.916666666667	48
+perform	0.818181818182	11
+
+different site
+fetch	0.980132450331	151
+
+accounting
+transmit	1.0	7
+measure	0.909090909091	11
+
+special day
+look	0.866666666667	15
+
+camera roll
+permissions	1.0	6
+rotate	1.0	6
+try	1.0	6
+access	1.0	8
+point	1.0	14
+start	1.0	11
+edit	0.933333333333	15
+face	0.9	30
+hold	0.888888888889	9
+back	0.857142857143	7
+scan	0.857142857143	7
+record	0.846153846154	13
+support	0.842105263158	19
+give	0.833333333333	6
+note	0.833333333333	6
+check	0.818181818182	11
+use	0.813008130081	123
+turn	0.8125	16
+
+small photo
+whis	1.0	6
+unfold	1.0	21
+fill	0.875	8
+please	0.846153846154	13
+mix	0.833333333333	6
+snap	0.808510638298	94
+
+activity
+comb	1.0	9
+
+special deal
+lodge	1.0	17
+give	0.924242424242	66
+shop	0.833333333333	6
+
+entire photo
+whis	1.0	6
+unfold	1.0	21
+fill	0.875	8
+please	0.846153846154	13
+mix	0.833333333333	6
+snap	0.808510638298	94
+
+family photo
+whis	1.0	6
+unfold	1.0	21
+fill	0.875	8
+please	0.846153846154	13
+mix	0.833333333333	6
+snap	0.8125	96
+
+spy camera
+permissions	1.0	6
+try	1.0	6
+access	1.0	7
+point	1.0	14
+start	1.0	12
+edit	0.933333333333	15
+face	0.9	30
+hold	0.888888888889	9
+turn	0.866666666667	15
+back	0.857142857143	7
+scan	0.857142857143	7
+support	0.833333333333	18
+record	0.833333333333	12
+note	0.833333333333	6
+use	0.818181818182	121
+
+boutique hotel
+reveal	1.0	43
+prague	1.0	8
+swipe	1.0	43
+refine	1.0	42
+map	1.0	43
+km	1.0	24
+list	0.947368421053	19
+click	0.934782608696	46
+allow	0.893617021277	47
+search	0.854166666667	96
+
+check
+take	1.0	7
+climb	1.0	8
+comment	1.0	20
+deposit	0.98	50
+include	0.961538461538	26
+
+digital camera
+permissions	1.0	6
+try	1.0	6
+access	1.0	6
+point	1.0	14
+edit	0.933333333333	15
+face	0.9	30
+hold	0.888888888889	9
+back	0.857142857143	7
+turn	0.857142857143	14
+scan	0.857142857143	7
+send	0.833333333333	6
+record	0.833333333333	12
+give	0.833333333333	6
+use	0.809523809524	105
+
+correct position
+move	1.0	7
+shift	1.0	10
+
+gallery camera
+permissions	1.0	6
+try	1.0	6
+access	1.0	7
+point	1.0	14
+start	1.0	11
+edit	0.933333333333	15
+face	0.9	30
+hold	0.888888888889	9
+turn	0.866666666667	15
+back	0.857142857143	7
+scan	0.857142857143	7
+support	0.842105263158	19
+record	0.833333333333	12
+give	0.833333333333	6
+note	0.833333333333	6
+use	0.819672131148	122
+
+start banking
+log	1.0	9
+enroll	1.0	8
+deposit	1.0	7
+set	0.888888888889	9
+enrol	0.818181818182	22
+
+news site
+fetch	0.980132450331	151
+
+special
+look	0.866666666667	15
+
+front-facing camera
+permissions	1.0	6
+rotate	1.0	6
+try	1.0	7
+point	1.0	14
+edit	0.933333333333	15
+face	0.9	30
+access	0.888888888889	9
+hold	0.888888888889	9
+back	0.857142857143	7
+scan	0.857142857143	7
+record	0.846153846154	13
+give	0.833333333333	6
+note	0.833333333333	6
+turn	0.823529411765	17
+check	0.818181818182	11
+start	0.8125	16
+use	0.809523809524	126
+
+camera flash
+permissions	1.0	6
+try	1.0	6
+point	1.0	15
+lead	0.944444444444	18
+edit	0.933333333333	15
+turn	0.916666666667	24
+face	0.9	30
+hold	0.888888888889	9
+access	0.857142857143	7
+scan	0.857142857143	7
+back	0.857142857143	7
+record	0.833333333333	12
+use	0.823008849558	113
+
+r feed
+fetch	0.986666666667	150
+collect	0.948453608247	194
+use	0.924623115578	199
+
+account detail
+transmit	1.0	7
+measure	0.909090909091	11
+
+mobile security
+enroll	1.0	13
+
+account activity
+transmit	1.0	7
+measure	0.909090909091	11
+
+new frame
+see	1.0	7
+capture	1.0	11
+slide	0.9	10
+save	0.875	8
+live	0.857142857143	7
+allow	0.833333333333	6
+
+random chat
+invite	0.833333333333	6
+
+hotel
+reveal	1.0	43
+prague	1.0	8
+swipe	1.0	43
+refine	1.0	42
+map	1.0	43
+km	1.0	24
+list	0.947368421053	19
+click	0.934782608696	46
+allow	0.893617021277	47
+search	0.858585858586	99
+
+best deal
+lodge	1.0	17
+give	0.910447761194	67
+shop	0.833333333333	6
+
+price
+refine	1.0	42
+give	0.927536231884	69
+ensure	0.833333333333	6
+scan	0.833333333333	6
+
+twitter account
+transmit	1.0	7
+measure	0.909090909091	11
+
+whole photo
+whis	1.0	6
+unfold	1.0	21
+fill	0.875	8
+please	0.846153846154	13
+mix	0.833333333333	6
+snap	0.8125	96
+
+traffic camera
+permissions	1.0	6
+point	1.0	14
+edit	0.933333333333	15
+hold	0.888888888889	9
+access	0.875	8
+face	0.870967741935	31
+turn	0.857142857143	14
+back	0.833333333333	6
+scan	0.833333333333	6
+record	0.833333333333	12
+
+similar photo
+whis	1.0	6
+unfold	1.0	21
+fill	0.875	8
+please	0.846153846154	13
+mix	0.833333333333	6
+snap	0.808510638298	94
+
+great price
+refine	1.0	42
+give	0.927536231884	69
+ensure	0.833333333333	6
+scan	0.833333333333	6
+
+photo share
+whis	1.0	6
+instant	0.909090909091	11
+fill	0.888888888889	9
+mix	0.833333333333	6
+snap	0.8125	96
+
+private photo
+whis	1.0	6
+fill	0.875	8
+please	0.846153846154	13
+mix	0.833333333333	6
+snap	0.808510638298	94
+
+camera image
+permissions	1.0	6
+rotate	1.0	6
+try	1.0	7
+point	1.0	15
+edit	0.933333333333	15
+face	0.9	30
+hold	0.888888888889	9
+back	0.857142857143	7
+scan	0.857142857143	7
+record	0.846153846154	13
+give	0.833333333333	6
+note	0.833333333333	6
+start	0.823529411765	17
+check	0.818181818182	11
+
+hotel feature
+reveal	1.0	43
+prague	1.0	8
+swipe	1.0	43
+refine	1.0	42
+map	1.0	43
+km	1.0	24
+list	0.947368421053	19
+click	0.934782608696	46
+allow	0.893617021277	47
+search	0.858585858586	99
+
+camera permission
+permissions	1.0	6
+try	1.0	6
+access	1.0	7
+point	1.0	14
+start	1.0	11
+edit	0.933333333333	15
+face	0.9	30
+hold	0.888888888889	9
+turn	0.866666666667	15
+back	0.857142857143	7
+scan	0.857142857143	7
+support	0.842105263158	19
+record	0.833333333333	12
+give	0.833333333333	6
+note	0.833333333333	6
+use	0.819672131148	122
+
+photo quality
+whis	1.0	6
+mix	0.833333333333	6
+snap	0.808510638298	94
+
+transaction
+search	0.916666666667	48
+perform	0.818181818182	11
+
+best camera
+permissions	1.0	6
+rotate	1.0	6
+try	1.0	7
+point	1.0	16
+edit	0.933333333333	15
+face	0.9	30
+hold	0.888888888889	9
+back	0.857142857143	7
+scan	0.857142857143	7
+record	0.846153846154	13
+give	0.833333333333	6
+note	0.833333333333	6
+check	0.818181818182	11
+
+grocery shopping
+scan	1.0	6
+
+local hotel
+reveal	1.0	43
+prague	1.0	8
+swipe	1.0	43
+refine	1.0	42
+map	1.0	43
+km	1.0	24
+list	0.947368421053	19
+click	0.934782608696	46
+allow	0.893617021277	47
+search	0.858585858586	99
+
+facebook account
+transmit	1.0	7
+measure	0.909090909091	11
+
+take photo
+whis	1.0	6
+unfold	1.0	21
+fill	0.875	8
+please	0.846153846154	13
+mix	0.833333333333	6
+snap	0.8125	96
+
+photo description
+whis	1.0	6
+fill	0.888888888889	9
+mix	0.833333333333	6
+snap	0.808510638298	94
+
+single photo
+whis	1.0	6
+fill	0.875	8
+please	0.846153846154	13
+mix	0.833333333333	6
+snap	0.808510638298	94
+
+good photo
+whis	1.0	6
+unfold	1.0	21
+fill	0.875	8
+please	0.846153846154	13
+mix	0.833333333333	6
+snap	0.808510638298	94
+
+hotel restaurant
+reveal	1.0	44
+prague	1.0	8
+swipe	1.0	43
+refine	1.0	42
+km	1.0	24
+map	0.955555555556	45
+list	0.947368421053	19
+click	0.916666666667	48
+allow	0.80701754386	57
+
+facebook photo
+whis	1.0	6
+unfold	1.0	21
+fill	0.875	8
+please	0.846153846154	13
+mix	0.833333333333	6
+snap	0.808510638298	94
+
+toy camera
+permissions	1.0	6
+rotate	1.0	6
+try	1.0	7
+point	1.0	16
+edit	0.933333333333	15
+face	0.9	30
+hold	0.888888888889	9
+back	0.857142857143	7
+scan	0.857142857143	7
+record	0.846153846154	13
+give	0.833333333333	6
+note	0.833333333333	6
+check	0.818181818182	11
+

@@ -1,0 +1,676 @@
+com.PerfectServe.Clinician.apk
+false
+
+com.superpages.android.apk
+true
+Email movie show times
+
+com.ring3.Birthday.apk
+true
+Set as ringtone, notification, alarm and assign to contacts
+
+me.doubledutch.performancesupportsymposium.apk
+false
+
+com.whichit.apk
+true
+You can directly ask your friend and contacts
+
+com.liqin.love.apk
+false
+
+com.foosha.apk
+true
+Send individually personalized SMS text messages to groups of friends, supporters and fans from an existing mobile number
+Access contacts from your phone or import contacts from services (ie
+
+com.yelster.one23people.android.apk
+true
+Select a contact from you address book and find out everything you need know
+Found the e-mail address you were looking for
+Just add it to your address book with one simple click
+"Search for people from my contacts", "Call found telephone numbers directly" and "save picture to phone", the app will require authorization for
+
+com.inidi.lovebetterylite.apk
+false
+
+com.cupid.apk
+true
+Sending and receiving messages, updating profiles, viewing profiles, "winking", and online chatting
+
+com.gridmob.android.funnycall.apk
+false
+
+iu.android.apk
+false
+
+com.scoop.apk
+false
+
+com.icq.clientapp.apk
+false
+
+com.bottegasol.com.migym.InShape.apk
+false
+
+org.taiga.avesha.videocallid.apk
+false
+
+com.storistic.apk
+false
+
+com.megafest.megafest393.apk
+false
+
+com.freeTring.apk
+false
+
+com.jhi.mhm.apk
+false
+
+com.bilo.rx.android.apk
+false
+
+com.mah.cheetah.keyboard.apk
+false
+
+com.banapps.freemp3downloads.apk
+false
+
+org.kman.AquaMail.apk
+false
+
+com.dub.poweredbydub.mox.apk
+false
+
+jp.ne.gate.calpad.apk
+true
+This app enables you to see your events with text
+
+com.ondemandworld.android.wheretoeat.apk
+false
+
+com.hh.videommvedownloader.apk
+false
+
+com.tsf.shell.widget.message.apk
+true
+TSF Message widget is TSF Shell unique 3D plugin which has pretty cool animation effect and can view and send message in a special way
+Before opening the message envelope, you could view the brief content of the recent messages and the number of the unread message
+When opening the message envelope, you could view the content of the recent message, sending time, sender and its picture
+When opening the message envelope, you could reply by clicking the message, and you could click "+" button to create a new message
+When opening the message envelope, if scrolling the list of messages to the top and you keep on scrolling down the message you could close the message envelope
+Read the message
+View the message, display on the widget
+View the contacts
+View the sender of the message whether comes from the contacts
+
+com.miniwebs.chatroulette.apk
+false
+
+com.andpi.walktext.apk
+true
+Walking Text is sending SMS messages with camera preview.This application is specially designed for maximum camera interface on background.Unlike other applications you can easily do everything from one screen with totally transparent keyboard.That way it supplies more efficiency while walking and texting
+Battery consumption is a huge trouble for these kind of applications but our user tests show us Walking Text does not waste your battery, so you can use this application without any doubt
+Your messages to edit SMS or MMS, read SMS or MMS, receive SMS
+Services that cost you money for sending sms within application
+Application runs on background as SERVICE to receive incoming SMS messages and also starts automatically on start up
+Walk and Text, Walking Dead, Walk and text free, Type and walk, SMS, Camera, SMS camera, Transparent, Transparent Screen,
+
+com.pinger.juke.vox.messenger.free.apk
+true
+Record voice messages, add audio effects to change your voice and then swap them like texts with your friends
+It's the latest app from Pinger, makers of the 1 free texting and calling app, Textfree
+With JukeVox, you can easily record a voice message and send it like a text
+What makes JukeVox awesome is that you can apply lots of audio effects to your voice message
+Add a heavy metal, dub step or music background to your message
+USE YOUR VOICE TO TEXT, NOT JUST YOUR THUMBS
+JukeVox makes creating and sharing fun voice messages super easy
+If you don't use Pinger or Textfree, you can quickly invite friends to JukeVox with traditional texts or email
+Your friends need JukeVox to listen to your JukeVox messages
+
+com.jiubang.goscreenlock.apk
+true
+Feel free to contact us if you have any problems or suggestions
+
+com.aboutthekids.icestandard.apk
+false
+
+com.venmo.apk
+false
+
+com.andrea.musichub.apk
+false
+
+com.goinside.fairs.drinktec2013.apk
+false
+
+com.kit.info.smsremote.apk
+true
+Have you forgotten your phone at home and want to see incoming calls or just search a phone number in your contact list
+Or maybe you want to remotely read your received text messages
+Contact search
+Get the received SMS
+You get reply SMS from your android mobile based upon your Network
+
+com.paycom.app.apk
+false
+
+com.aura.ringtones.aurasoundeffects.apk
+true
+Set as ringtone, notification, alarm and assign to contacts
+
+com.manzy.flashnotification.apk
+false
+
+qr.barcode.mttb1.apk
+true
+Scan QR Code to display urls, texts, phone numbers, sms, etc
+Save them or share them with your friends using email, SMS, Facebook, twitter and more
+QR Code Generator generates codes from contact lists, emails, songs, sms, URLs etc
+You can send sweet words in the form of QR codes to someone special, or you can also share contact info in the form of fancy QR code
+
+com.flightaware.android.liveFlightTracker.apk
+false
+
+com.beautyandroidgirl.eyeshadowtutorial.apk
+false
+
+com.ibotta.android.apk
+true
+In order to present a list of people that you may want to invite to use Ibotta, we must have permission to read your contacts
+We do not use your contacts for any other purpose than this
+
+com.phpfoxapp.phpfoxapp.apk
+false
+
+com.wunderkinder.wunderlistandroid.apk
+false
+
+com.widdit.lockScreen760588.apk
+false
+
+com.mewants.apk
+true
+MeWants also doesn't share your location or contact information with anybody until the time you want to
+
+com.squaretownmobile.alternativeringtones.apk
+false
+
+com.rpla.apk
+true
+Just send text message with special unlock code and your phone will be unlocked
+You need to just send correct text message, phone app will verify the text message and if everything is correct, App will lock / unlock the screen
+
+com.paylocity.paylocitymobile.apk
+true
+Easily update your contact information
+
+com.aura.ringtones.auratechnoremix.apk
+true
+Set as ringtone, notification, alarm and assign to contacts
+
+com.appzcloud.colorsms.apk
+true
+Send Amazing Texts with Color, Font, Size and Backgrounds
+Send the message right from the application itself
+It's an innovative app which sends Color SMS by using normal SMS
+Customize Background of your Text messages with Images
+Messages can be sent directly from the app
+No need to send MMS message
+Integrated with you existing Contacts
+Supports Forwarding and Replying to received texts
+Also application is FREE for receiving messages
+Incase you have any other SMS related apps, they may sometimes interfere with working of the app
+Third party SMS apps such as Handcent and Go SMS may sometimes block Color SMS app from receiving messages
+a) Change the setting in your SMS app
+For GO SMS Pro
+
+com.smsBlocker.apk
+true
+The sender of the SMS will receive the SMS delivery report as usual
+mobile security, sms blocker, MMS blocker, call blocker, SMS spam blocker, black list, anti sms spam, call filter, spam blocker text blocker, sms manager, blacklist, spam killer, sms guard, sms filter,
+
+com.colortouch.android.apk
+true
+You can share images to face book, instagram, email and all social networks
+
+com.legalshield.apk
+false
+
+com.yogyapps.mp3downloadfreeapp.apk
+false
+
+com.applications.woowrescue.apk
+true
+woowRescue will even send an emergency message to nearby devices, whether you know them or not, so you can get immediate help
+
+com.mparag.quickmathstricks.apk
+false
+
+com.keepcalling.ui.apk
+true
+KeepCalling app is your smart solution to save money on international calls and SMS
+Direct access to your contacts
+Call or send SMS
+Use your own contact list
+
+com.andro.music.multimate.apk
+false
+
+com.skillapps.learnsignlanguage.apk
+false
+
+com.socialcam.android.apk
+false
+
+com.express_scripts.mobile.member.apk
+false
+
+com.picframes.android.apk
+false
+
+com.myyp.www.apk
+false
+
+com.mapquest.android.ace.apk
+true
+) Share your current location, your destination, or a favorite business using email, text message, Facebook, or Twitter
+
+com.mywebgrocer.JewelOscoCircular.apk
+false
+
+org.kde.kdeconnect_tp.apk
+false
+
+com.legacomnet.colorsplash.apk
+false
+
+com.goodapp.appv90.apk
+false
+
+org.netTalk.smartphone.apk
+false
+
+com.LiveTracking.apk
+true
+Track All SMS,CALL,LOCATION,PHONE BOOK,EMAIL,WEB BROWSING HISTORY etc
+phone tracker , phone tracking , live tracker , live tracking , livetracker , livetracking , mobile tracker ,cellphone tracker , mobile tracking ,cellphone tracking , call sms location tracker , call sms location tracking , gps tracker , sms tracker , call tracker , location tracker , WhatsApp tracker , message tracker , email tracker , cell phone tracker , cell tracker , phone tracker free ,cell phone tracker free , call tracking , sms tracking , children tracking , employee tracking , children tracker , employees tracker , tracker , facebook tracker , phonetracker , calltracker , smstracker , employee watch , cellphone tracker , chat message tracker , moile number tracker, find my phone , family protection , family tracker , smartphone tracker , iphone tracker , family tracking , call tracking , sms tracking , calls traker , remotely phone tracker , free phone tracker , phone tracker free , phone tracker pro , phone tracker free , phone tracker lite , riddhi softtech , mobile tracker lite , mobile tracker pro , text message tracker , detective phone , smartphone tracker , position tracker , Mobile phone Tracker India , Mobile Number Tracker India,Find My Phone , Family Safety Production Free , Cell Phone Tracker Lite , GPS Phone Tracker Lite , WAY GPS Phone Tracking , GPS Tracking Pro , Mobile Security , Phone Number and Caller Location , Phone Number and Caller information , Phone Tracker GPS Spy Free , Phone Tracker GPS Spy Free , Family Locator , Sprint Family Locator , Safely Free , backup mobile data , Call, GPS, SMS Tracker , MobiTrackApps Free , Phone Tracker for Android Lite , Real Time GPS Tracker
+Cell Phone GPS Tracker , Lost Droid Finder Lost Phone , Phone tracker Mobile spy , Free SMS Tracker , Remote Call and SMS Tracker , cheapest family tracker , Family Tracking Free , Cloud Tracker , mobile track , phone track , cellphone track , cell phone track , phonebook track , phonebook tracker , phone book track , phone book tracker , call track , sms track , message track , cell track , location track , mobile track , phone track india , phone tracker india , gps track
+
+com.gaganjeetbhullar.facepaintingap.apk
+false
+
+com.flowers1800.androidapp2.apk
+false
+
+com.teltechcorp.tapeacall.apk
+true
+Share recordings via SMS, Facebook and Twitter
+
+com.gaganjeetbhullar.tattoodesignap.apk
+false
+
+com.coreapps.android.followme.asis2013.apk
+false
+
+appinventor.ai_progetto2003.SCANNER.apk
+true
+This app is quick and easy to use, the codes may contain text, web links or International Standard Book Number (ISBN)
+
+com.existor.clevermessage.apk
+true
+Automate your texting
+but in all seriousness, yes, you can now have Cleverbot respond to your incoming text messages for you, with no interaction required
+Cleverbot responses become your responsibility the moment they are sent, as they are your messages
+You alone can decide if it is right to use this app, which of your contacts should receive your automated messages, and whether you should tell them beforehand
+
+com.accusoft.barcodescanner.client.apk
+true
+Intelligent Mail
+
+com.jiubang.goscreenlock.theme.lone.getjar.apk
+true
+Multi Panel to quick access to daily schedule, SMS, call logs, calculator, albums and 5 system switches (WIFI, Network, Airplane mode, Silent mode, Flashlight)
+
+com.ringtoneappz.tones.dinosaur.apk
+true
+You can also set the sounds as the default system sounds or contact ringtone
+
+com.polycom.cmad.mobile.android.phone.apk
+false
+
+com.xixihaha.subting.cuimian.apk
+false
+
+com.gaganjeetbhullar.cheapapartments.apk
+false
+
+imoblife.toolbox.full.apk
+true
+Call log and messages cleaner
+
+com.amiapps.foreclosedhomes.apk
+false
+
+net.mandaria.cardashboardfree.apk
+true
+Read Contact Data and Call Phone permissions are for creating/using shortcuts
+
+com.laminaapps.mp4playerfreedownload.apk
+false
+
+com.appmania.cervicalcanceraps.apk
+false
+
+org.unitus.mobile.apk
+false
+
+com.hairstyleswap3.app.apk
+true
+Save, share, or email your hairstyle makeovers to family, friends, or your hairstylist
+For Female, you can now try on fashion hairstyle trends for 2012 for women in short, medium, or long lengths in straight, wavy, or curly hair textures
+Furthermore, dudes can try on real facial hair on their own photo such as beards, goatees, and moustaches, to print, email, or share on Facebook with family and friends
+
+com.outlook.Z7.apk
+true
+Send and receive emails on the go from your Android device
+Get emails right away with push notifications
+Group your email conversations with Conversation Threading
+
+com.netqin.mm.apk
+true
+Have you ever wondered how to block those annoyed phone calls, or quickly back up your massive contact lists or just protect your privacy by not letting others see your phone call history or SMS
+Block unwanted calls (Reject calls, forward or reply with an auto-SMS)
+Quickly and easily erase the call history, delete SMS messages between your phone and individual contacts permanently to protect private data
+Number, Easy Filer Call Blocker and SMS, Call Filter, Call Control and Blacklist on your phone with Call Blocker together may make your phone unstable or cause potential conflict
+
+kik.android.apk
+false
+
+com.moneymedia.boardiq.apk
+false
+
+com.qscend.report2gov.northhempstead.apk
+false
+
+com.twist.android.apk
+true
+) doing away with the need to send harried text messages if you get stuck in even more traffic
+
+com.blackboard.android.central.tcc.apk
+true
+Find places, contact professors, register for classes, do library research, and much more
+
+com.xcs.mp3cutter.apk
+true
+Set the new clips as default ringtone or assign ringtone to contacts, using this ringtone editor
+
+com.androborobo.amazingalex.apk
+false
+
+com.scbt.mobile.apk
+false
+
+com.truedealapps.searchengines.apk
+false
+
+com.picture.decorator.photo.designer.nk.free.apk
+false
+
+kr.co.nowcom.mobile.afreeca.apk
+false
+
+com.susheelapps.teapartycommunity.apk
+false
+
+com.outthinking.picclone.apk
+false
+
+com.squaar.cordova.just.apk
+false
+
+com.tommmi.flightwebsitesap.apk
+false
+
+com.vox.call2rich.apk
+false
+
+com.athan.apk
+false
+
+com.fonestock.android.q98app.apk
+false
+
+com.voip.calldirek2.apk
+true
+Well, now you can kiss those monthly sky-high call-and-text rates goodbye, because CallDirek offers you free calling and messaging services worldwide to other CallDirek users
+Just download the free CallDirek app from Google Play for Free International Calls and SMS , and you will have the whole world right at your fingertips
+You can call and text your friends and family (as long as they also have CallDirek installed in their Android devices) completely free, for as long as you want
+When you use CallDirek to make a call or send a text, you will not be using your mobile minutes
+All your voicemail and messages will be sent automatically to your email, so you'll never miss a message again
+Not only do you get a free app that allows you to make calls and send text messages for free, you also get
+Free Voicemail And Messages Sent To Email
+
+com.amiapps.celebrityjokes.apk
+false
+
+com.glympse.android.glympse.apk
+true
+Send a Glympse via SMS, email, Facebook or Twitter, and recipients can view it using any web-enabled device
+
+com.androborobo.survivalcraft.apk
+false
+
+jp.co.telemarks.CallFilter2.apk
+true
+Want to stop unknown and unwanted calls and SMS
+
+com.symantec.mobilesecurity.apk
+true
+Back up your important contacts and easily restore them across your devices
+New app scanning powered by NortonTM Mobile Insight, checks apps for malware, greyware, and helps protect against privacy risks such as exporting contacts, calendar, call logs etc
+Send a customized message to anyone who finds your missing device
+
+com.pennas.pebblecanvas.apk
+true
+Get SMS unread count
+Get GMail unread counts
+Get GMail accounts
+
+com.twiize.app.apk
+true
+Twiize let's you send photo messages in a single click
+Twiize does NOT upload phone numbers, emails or other contact details from your contact list and phonebook
+the camera in Twiize is NOT for video chat, and is NOT integrated with video calls, free calls, full screen video caller id apps and VoIP like tango video calls, rounds video chat, facetime, fring, viber, skype video calls, textplus, moco/mocospace, badoo, call kik, wechat voice, camfrog, paltalk, Qik, Oovoo call
+
+com.metatechnology.wesnap.apk
+false
+
+ru.infteh.organizer.trial.apk
+false
+
+com.tranware.nextaxi.apk
+true
+Request your taxi by entering an address, moving a pin on a map, using your GPS location, grabbing an address from your 'contacts', or searching for a local "Point of Interest" like 'Pizza' or 'Hospital'
+Get a detailed receipt by email in seconds
+
+com.ebay.triton.apk
+true
+The app requires permission to use your address book, to add the eBay Now contact information
+
+com.hellotracks.apk
+true
+@hellotracks is the only android phone tracking application that lets you share your live location, record and map routes, navigate, communicate with your contacts and much more
+Check out notifications and activities from your contacts
+Send and receive direct messages from members of your team or even to the entire staff
+Receive instantly messages although the mobile app may be closed
+
+com.ausapps.ovulationcalendar.apk
+false
+
+com.cbwsolutions.nonrevrouter.apk
+false
+
+com.mah.candypink.keyboard.apk
+false
+
+com.phonegap.VMC.apk
+false
+
+com.mobileappsforcashflow.freeantivirussoftware.apk
+false
+
+com.csipsimple.apk
+false
+
+com.hsw.peeem.apk
+true
+PeeeM is the only cross platform mobile messenger that lets you send any type of file to your contacts
+Connect with your tablet using your email and password
+PeeeM shows your chat message has reached your contact with the "Delivered" and "Read" option
+Find friends by Email, Facebook or PMiD (PeeeM ID)
+
+jp.androdev.historyeraser.apk
+true
+Clear Gmail search suggestions
+Clear frequently called contacts status
+
+com.ani.apps.dancemusiceditor.apk
+true
+Set new clip as default dance ringtones or set random customized ring back tones to specific contacts as text messaging tones, using this ring tone generator
+
+com.qiniuwubi.oldphone.ringtone.apk
+false
+
+com.digital.clock.weather.live.wallpaper.apk
+false
+
+com.sismen.android.ethiopia360.apk
+false
+
+com.sincerely.android.postagram.apk
+true
+Postagram makes it easy to send a printed photo in the mail to yourself, friends or family anywhere in the world
+If your Postagram gets lost in the mail, damaged or you are otherwise not happy, we will send another Postagram free or return your money
+
+com.widdit.lockScreen773707.apk
+false
+
+com.widdit.examples.batterywidget.apk
+false
+
+world.sendfree.sms.apk
+true
+This app provide a easy way to every user send unlimited free Sms to world
+Send Free SMS via way2sms from your Android phone to anyone across World
+Background processing of Sms Sending
+Free Sms to World, Send Sms to India, Free Sms to Mobile
+
+com.sleepdisorders.apk
+false
+
+com.unionbank.ecommerce.mobile.android.apk
+true
+Send money to people by simply using their email address or mobile phone number
+
+com.droiddev.blocker.apk
+true
+The best phone call and text message filter and call blocker for free
+All messages and call logs related with them can be kept in password protection
+By "Droid Call Filter", you can stop phone stalking, SMS intrusion, and harassment once for all
+These unwanted and unwelcome calls or messages will not interrupt or annoy you any more
+contacts, message list, call logs, manually adding;
+Choose to send auto-reply messages when messages or calls blocked;
+
+home.solo.launcher.free.apk
+true
+Free Unread Mail Count, never miss out your unread emails
+SMS, telephone, mail (Next, Holo and Apex need payment)
+
+com.appool110.apk
+false
+
+com.mywebgrocer.AlbertsonsMarketCircular.apk
+false
+
+androidlab.allcall.apk
+true
+You can send recorded calls via e-mail, Skype, any cloud storage (Dropbox, Google Drive, Microsoft SkyDrive, YouTube), Facebook, bluetooth, etc
+To delete or send a single record, long type on it to show context menu
+
+free.message.tones.apk
+true
+Get the latest in sound for messages in your android device
+
+com.imoblife.barcodescan_plug_in.apk
+false
+
+com.avg.cleaner.apk
+true
+browser, app store, email etc
+
+com.gladtohaveyou.pirentals.apk
+false
+
+com.laminaapps.plasticsurgeonsapp.apk
+false
+
+d6.pap.mobile.apk
+false
+
+com.peoplespy.apk
+true
+Even look up people in your address book and see if they have any skeletons in their closet
+Email Search
+
+com.gladtohaveyou.abode.apk
+false
+
+com.freesms.apk
+true
+Send unlimited free sms to any mobile in India direct from your android phone
+You can send sms from free gateways like
+You can also request me on my email to add more gateways
+No SMS charges will be applied
+You can send unlimited SMS in a day
+Send multiple SMS at one shot
+Get receipt's mobile numbers from your mobile contacts
+Choose your SMS from the in-built huge SMS collection of every occasion
+Character limit of a maximum of 260 characters (Site2SMS)
+
+com.mindspark.smileycentral.apk
+true
+Send to your friends and family in Text Messages (MMS), Facebook Messages and email
+
+com.locnall.KimGiSa.apk
+false
+
+com.goanyware.tgif.apk
+true
+We'll even send you a free appetizer or dessert coupon via email for signing up
+To share any details about your app experiences with us, please contact our Guest Relations team at
+
+com.mobileappsforcashflow.gpsnavigation.apk
+false
+
+com.sand.airdroid.apk
+true
+Send and receive SMS from your big-screen computer, without being distracted by the small-screen thing
+"I'm sending text SMS messages from my Android phone via my browser
+Send and receive SMS from the comfort of your computer
+Call contact, share clipboard content, push url to Android and more features awaiting your discovery
+
+com.mysms.android.sms.apk
+true
+Go to app.mysms.com on your computer, sync your phone with your browser and send your first text message
+Receive SMS text messages directly in the browser, on your tablet or desktop app
+Add up to 50 contacts to a group and start texting right away
+Sending pictures messages and messages with files
+Your texts are saved to Evernote
+Add emojis to your messages to show your friends how you feel
+text messaging, computer sms, computer texts, texting apps, sms app, texting from computer, sms from browser, browser sms, text free, remote desktop, imessage, remote sms, backup sms, backup mms, sms backup and restore, mightytext, browser texting, browser sms, desktop sms, save text messages to cloud, text from tablet, send sms via computer
+
+com.snapette.apk
+false
+

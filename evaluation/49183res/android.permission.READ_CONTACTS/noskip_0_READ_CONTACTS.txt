@@ -1,0 +1,1700 @@
+com.whichit.apk
+false
+
+com.liqin.love.apk
+false
+
+com.manzy.flashnotification.apk
+false
+
+com.existor.clevermessage.apk
+true
+go contact	choose	contact	choose
+problem contact	choose	contact	choose
+contact photo	choose	contact	choose
+emergency contact	choose	contact	choose
+contact name	choose	contact	choose
+contact detail	choose	contact	choose
+read contact	choose	contact	choose
+contact	choose	contact	choose
+contact page	choose	contact	choose
+new contact	choose	contact	choose
+specific contact	choose	contact	choose
+contact form	choose	contact	choose
+contact number	choose	contact	choose
+contact information	choose	contact	choose
+contact list	choose	contact	choose
+contact developer	choose	contact	choose
+incoming message	receive	message	receive
+
+com.phonegap.VMC.apk
+false
+
+com.foosha.apk
+true
+mobile screen	send	existing mobile	send
+mobile coupon	send	existing mobile	send
+mobile platform	send	existing mobile	send
+mobile deposit	send	existing mobile	send
+boost mobile	send	existing mobile	send
+mobile tracker	send	existing mobile	send
+mobile game	send	existing mobile	send
+mobile screen	send	existing mobile number	send
+mobile coupon	send	existing mobile number	send
+mobile platform	send	existing mobile number	send
+mobile deposit	send	existing mobile number	send
+boost mobile	send	existing mobile number	send
+mobile tracker	send	existing mobile number	send
+mobile game	send	existing mobile number	send
+go contact	personalize	individual contact	personalize
+contact name	personalize	individual contact	personalize
+contact detail	personalize	individual contact	personalize
+contact	personalize	individual contact	personalize
+contact page	personalize	individual contact	personalize
+new contact	personalize	individual contact	personalize
+specific contact	personalize	individual contact	personalize
+contact form	personalize	individual contact	personalize
+contact number	personalize	individual contact	personalize
+contact information	personalize	individual contact	personalize
+contact list	personalize	individual contact	personalize
+contact developer	personalize	individual contact	personalize
+email message	personalize	individual message	personalize
+message email	personalize	individual message	personalize
+contact ringtones	include	contact grouping	include
+contact ringtone	include	contact grouping	include
+go contact	personalize	contact grouping	personalize
+contact name	personalize	contact grouping	personalize
+contact detail	personalize	contact grouping	personalize
+contact ringtones	personalize	contact grouping	personalize
+contact	personalize	contact grouping	personalize
+contact page	personalize	contact grouping	personalize
+contact ringtone	personalize	contact grouping	personalize
+new contact	personalize	contact grouping	personalize
+specific contact	personalize	contact grouping	personalize
+contact form	personalize	contact grouping	personalize
+contact number	personalize	contact grouping	personalize
+contact information	personalize	contact grouping	personalize
+contact list	personalize	contact grouping	personalize
+contact developer	personalize	contact grouping	personalize
+
+com.yelster.one23people.android.apk
+false
+
+com.tsf.shell.widget.message.apk
+true
+contact photo	send	photo	send
+incoming message	read	message	read
+voice message	click	message	click
+custom message	click	message	click
+instant messaging	click	message	click
+instant message	click	message	click
+message tone	click	message	click
+chat message	click	message	click
+voice message	click	new message	click
+custom message	click	new message	click
+instant messaging	click	new message	click
+instant message	click	new message	click
+message tone	click	new message	click
+chat message	click	new message	click
+
+qr.barcode.mttb1.apk
+false
+
+com.flightaware.android.liveFlightTracker.apk
+false
+
+com.mobileappsforcashflow.freeantivirussoftware.apk
+true
+mobile screen	keep	late mobile	keep
+mobile coupon	keep	late mobile	keep
+mobile deposit	keep	late mobile	keep
+boost mobile	keep	late mobile	keep
+mobile tracker	keep	late mobile	keep
+mobile game	keep	late mobile	keep
+mobile banking	keep	late mobile	keep
+mobile screen	keep	late mobile threat	keep
+mobile coupon	keep	late mobile threat	keep
+mobile deposit	keep	late mobile threat	keep
+boost mobile	keep	late mobile threat	keep
+mobile tracker	keep	late mobile threat	keep
+mobile game	keep	late mobile threat	keep
+mobile banking	keep	late mobile threat	keep
+mobile screen	keep	mobile device	keep
+mobile coupon	keep	mobile device	keep
+boost mobile	keep	mobile device	keep
+mobile tracker	keep	mobile device	keep
+mobile game	keep	mobile device	keep
+mobile banking	keep	mobile device	keep
+
+com.csipsimple.apk
+false
+
+com.beautyandroidgirl.eyeshadowtutorial.apk
+false
+
+com.ibotta.android.apk
+true
+go contact	read	contact	read
+problem contact	read	contact	read
+contact photo	read	contact	read
+emergency contact	read	contact	read
+contact name	read	contact	read
+contact detail	read	contact	read
+contact ringtones	read	contact	read
+read contact	read	contact	read
+contact	read	contact	read
+contact page	read	contact	read
+contact ringtone	read	contact	read
+new contact	read	contact	read
+specific contact	read	contact	read
+contact form	read	contact	read
+contact number	read	contact	read
+contact information	read	contact	read
+contact list	read	contact	read
+contact developer	read	contact	read
+contact photo	take	photo	take
+
+com.laminaapps.mp4playerfreedownload.apk
+false
+
+appinventor.ai_progetto2003.SCANNER.apk
+false
+
+com.hsw.peeem.apk
+true
+go contact	send	contact	send
+problem contact	send	contact	send
+contact photo	send	contact	send
+emergency contact	send	contact	send
+contact name	send	contact	send
+contact detail	send	contact	send
+contact ringtones	send	contact	send
+read contact	send	contact	send
+contact	send	contact	send
+contact page	send	contact	send
+contact ringtone	send	contact	send
+new contact	send	contact	send
+specific contact	send	contact	send
+contact form	send	contact	send
+contact number	send	contact	send
+contact information	send	contact	send
+contact list	send	contact	send
+contact developer	send	contact	send
+go contact	call	contact	call
+problem contact	call	contact	call
+contact photo	call	contact	call
+emergency contact	call	contact	call
+contact name	call	contact	call
+contact detail	call	contact	call
+contact ringtones	call	contact	call
+read contact	call	contact	call
+contact	call	contact	call
+contact page	call	contact	call
+contact ringtone	call	contact	call
+new contact	call	contact	call
+specific contact	call	contact	call
+contact form	call	contact	call
+contact number	call	contact	call
+contact information	call	contact	call
+contact list	call	contact	call
+contact developer	call	contact	call
+
+jp.androdev.historyeraser.apk
+true
+go contact	call	contact	call
+problem contact	call	contact	call
+contact photo	call	contact	call
+emergency contact	call	contact	call
+contact name	call	contact	call
+contact detail	call	contact	call
+contact ringtones	call	contact	call
+read contact	call	contact	call
+contact	call	contact	call
+contact page	call	contact	call
+contact ringtone	call	contact	call
+new contact	call	contact	call
+specific contact	call	contact	call
+contact form	call	contact	call
+contact number	call	contact	call
+contact information	call	contact	call
+contact list	call	contact	call
+contact developer	call	contact	call
+
+com.phpfoxapp.phpfoxapp.apk
+false
+
+com.wunderkinder.wunderlistandroid.apk
+false
+
+com.appmania.cervicalcanceraps.apk
+false
+
+com.inidi.lovebetterylite.apk
+false
+
+com.ani.apps.dancemusiceditor.apk
+true
+new clip	set	new clip	set
+vdo clip	set	new clip	set
+clip	set	new clip	set
+particular clip	set	new clip	set
+go contact	set	specific contact	set
+problem contact	set	specific contact	set
+contact photo	set	specific contact	set
+emergency contact	set	specific contact	set
+contact name	set	specific contact	set
+contact detail	set	specific contact	set
+read contact	set	specific contact	set
+contact	set	specific contact	set
+contact page	set	specific contact	set
+new contact	set	specific contact	set
+specific contact	set	specific contact	set
+contact form	set	specific contact	set
+contact number	set	specific contact	set
+contact information	set	specific contact	set
+contact list	set	specific contact	set
+contact developer	set	specific contact	set
+new clip	set	audio clip	set
+vdo clip	set	audio clip	set
+clip	set	audio clip	set
+particular clip	set	audio clip	set
+music ringtones	delete	ringtone music alarm	delete
+music ringtones	delete	ringtone music alarm notification	delete
+notification ringtones	delete	ringtone music alarm notification	delete
+ringtones notification	delete	ringtone music alarm notification	delete
+ringtone notification	delete	ringtone music alarm notification	delete
+popular ringtones	create	ringtones	create
+late ringtones	create	ringtones	create
+free ringtones	create	ringtones	create
+free ringtone	create	ringtones	create
+popular ringtone	create	ringtones	create
+contact ringtones	create	ringtones	create
+contact ringtone	create	ringtones	create
+ringtones	create	ringtones	create
+iphone rington	create	ringtones	create
+ringtone	create	ringtones	create
+best ringtones	create	ringtones	create
+different ringtones	create	ringtones	create
+
+com.qiniuwubi.oldphone.ringtone.apk
+false
+
+com.ebay.triton.apk
+true
+go contact	require	ebay contact	require
+problem contact	require	ebay contact	require
+contact photo	require	ebay contact	require
+emergency contact	require	ebay contact	require
+contact name	require	ebay contact	require
+contact detail	require	ebay contact	require
+read contact	require	ebay contact	require
+contact	require	ebay contact	require
+contact page	require	ebay contact	require
+new contact	require	ebay contact	require
+specific contact	require	ebay contact	require
+contact form	require	ebay contact	require
+contact number	require	ebay contact	require
+contact information	require	ebay contact	require
+contact list	require	ebay contact	require
+contact developer	require	ebay contact	require
+go contact	require	ebay contact information	require
+problem contact	require	ebay contact information	require
+contact photo	require	ebay contact information	require
+emergency contact	require	ebay contact information	require
+contact name	require	ebay contact information	require
+contact detail	require	ebay contact information	require
+read contact	require	ebay contact information	require
+contact	require	ebay contact information	require
+contact page	require	ebay contact information	require
+new contact	require	ebay contact information	require
+specific contact	require	ebay contact information	require
+contact form	require	ebay contact information	require
+contact number	require	ebay contact information	require
+contact information	require	ebay contact information	require
+contact list	require	ebay contact information	require
+contact developer	require	ebay contact information	require
+
+com.digital.clock.weather.live.wallpaper.apk
+false
+
+com.sismen.android.ethiopia360.apk
+false
+
+com.sincerely.android.postagram.apk
+true
+contact photo	print	photo	print
+contact photo	send	photo	send
+contact photo	select	photo	select
+
+com.cupid.apk
+true
+incoming message	receive	message	receive
+
+com.widdit.lockScreen760588.apk
+false
+
+com.jiubang.goscreenlock.theme.lone.getjar.apk
+false
+
+com.aura.ringtones.aurasoundeffects.apk
+true
+go contact	set	contact	set
+problem contact	set	contact	set
+contact photo	set	contact	set
+emergency contact	set	contact	set
+contact name	set	contact	set
+contact detail	set	contact	set
+read contact	set	contact	set
+contact	set	contact	set
+contact page	set	contact	set
+new contact	set	contact	set
+specific contact	set	contact	set
+contact form	set	contact	set
+contact number	set	contact	set
+contact information	set	contact	set
+contact list	set	contact	set
+contact developer	set	contact	set
+
+org.unitus.mobile.apk
+false
+
+com.mewants.apk
+true
+custom message	mark	customer	mark
+
+com.gridmob.android.funnycall.apk
+false
+
+iu.android.apk
+false
+
+com.coreapps.android.followme.asis2013.apk
+true
+mobile game	keep	game	keep
+
+com.squaretownmobile.alternativeringtones.apk
+false
+
+com.scoop.apk
+false
+
+com.gaganjeetbhullar.tattoodesignap.apk
+false
+
+com.goinside.fairs.drinktec2013.apk
+false
+
+com.icq.clientapp.apk
+false
+
+com.widdit.lockScreen773707.apk
+false
+
+com.rpla.apk
+false
+
+com.pennas.pebblecanvas.apk
+false
+
+com.hairstyleswap3.app.apk
+true
+contact photo	take	photo	take
+
+com.paylocity.paylocitymobile.apk
+false
+
+com.aura.ringtones.auratechnoremix.apk
+true
+go contact	set	contact	set
+problem contact	set	contact	set
+contact photo	set	contact	set
+emergency contact	set	contact	set
+contact name	set	contact	set
+contact detail	set	contact	set
+read contact	set	contact	set
+contact	set	contact	set
+contact page	set	contact	set
+new contact	set	contact	set
+specific contact	set	contact	set
+contact form	set	contact	set
+contact number	set	contact	set
+contact information	set	contact	set
+contact list	set	contact	set
+contact developer	set	contact	set
+
+com.outlook.Z7.apk
+false
+
+com.ringtoneappz.tones.dinosaur.apk
+true
+go contact	set	system sound contact	set
+contact name	set	system sound contact	set
+contact	set	system sound contact	set
+new contact	set	system sound contact	set
+contact form	set	system sound contact	set
+
+com.bottegasol.com.migym.InShape.apk
+false
+
+com.ausapps.ovulationcalendar.apk
+false
+
+org.taiga.avesha.videocallid.apk
+false
+
+com.appzcloud.colorsms.apk
+true
+message etc	block	color message	block
+text message	block	color message	block
+private message	block	color message	block
+message ringtone	block	color message	block
+whatsapp message	block	color message	block
+send message	block	color message	block
+call message	block	color message	block
+push message	block	color message	block
+facebook message	block	color message	block
+read message	block	color message	block
+message	block	color message	block
+message mms	block	color message	block
+message call	block	color message	block
+free message	block	color message	block
+photo message	block	color message	block
+handcent message	block	color message	block
+new message	block	color message	block
+important message	block	color message	block
+secure message	block	color message	block
+personal message	block	color message	block
+text messaging	block	color message	block
+message text	block	color message	block
+unread message	block	color message	block
+go message	block	color message	block
+messaging	block	color message	block
+love message	block	color message	block
+message etc	block	color message application	block
+whatsapp message	block	color message application	block
+call message	block	color message application	block
+message	block	color message application	block
+message mms	block	color message application	block
+message call	block	color message application	block
+handcent message	block	color message application	block
+new message	block	color message application	block
+important message	block	color message application	block
+personal message	block	color message application	block
+go message	block	color message application	block
+messaging	block	color message application	block
+incoming message	receive	message	receive
+voice message	block	message	block
+message etc	block	message	block
+incoming message	block	message	block
+text message	block	message	block
+private message	block	message	block
+message ringtone	block	message	block
+custom message	block	message	block
+whatsapp message	block	message	block
+send message	block	message	block
+message alert	block	message	block
+call message	block	message	block
+push message	block	message	block
+message board	block	message	block
+facebook message	block	message	block
+read message	block	message	block
+message	block	message	block
+message mms	block	message	block
+message call	block	message	block
+instant messaging	block	message	block
+email message	block	message	block
+free message	block	message	block
+instant message	block	message	block
+photo message	block	message	block
+handcent message	block	message	block
+new message	block	message	block
+important message	block	message	block
+message tone	block	message	block
+secure message	block	message	block
+message notification	block	message	block
+personal message	block	message	block
+text messaging	block	message	block
+message text	block	message	block
+message email	block	message	block
+unread message	block	message	block
+go message	block	message	block
+chat message	block	message	block
+messaging	block	message	block
+love message	block	message	block
+
+com.storistic.apk
+false
+
+com.widdit.examples.batterywidget.apk
+false
+
+world.sendfree.sms.apk
+false
+
+com.megafest.megafest393.apk
+false
+
+com.freeTring.apk
+true
+voice call	provide	high quality voice	provide
+voice note	provide	high quality voice	provide
+voice recording	provide	high quality voice	provide
+voice recognition	provide	high quality voice	provide
+voice	provide	high quality voice	provide
+voice recorder	provide	high quality voice	provide
+voice call	provide	high quality voice service	provide
+voice note	provide	high quality voice service	provide
+voice recording	provide	high quality voice service	provide
+voice	provide	high quality voice service	provide
+voice recorder	provide	high quality voice service	provide
+
+com.smsBlocker.apk
+true
+incoming message	receive	message	receive
+message etc	mms	unwanted harmful text message	mms
+text message	mms	unwanted harmful text message	mms
+whatsapp message	mms	unwanted harmful text message	mms
+call message	mms	unwanted harmful text message	mms
+message	mms	unwanted harmful text message	mms
+message mms	mms	unwanted harmful text message	mms
+message call	mms	unwanted harmful text message	mms
+handcent message	mms	unwanted harmful text message	mms
+new message	mms	unwanted harmful text message	mms
+text messaging	mms	unwanted harmful text message	mms
+message text	mms	unwanted harmful text message	mms
+go message	mms	unwanted harmful text message	mms
+messaging	mms	unwanted harmful text message	mms
+voice message	block	certain voice	block
+voice message	block	message	block
+message etc	block	message	block
+incoming message	block	message	block
+text message	block	message	block
+private message	block	message	block
+message ringtone	block	message	block
+custom message	block	message	block
+whatsapp message	block	message	block
+send message	block	message	block
+message alert	block	message	block
+call message	block	message	block
+push message	block	message	block
+message board	block	message	block
+facebook message	block	message	block
+read message	block	message	block
+message	block	message	block
+message mms	block	message	block
+message call	block	message	block
+instant messaging	block	message	block
+email message	block	message	block
+free message	block	message	block
+instant message	block	message	block
+photo message	block	message	block
+handcent message	block	message	block
+new message	block	message	block
+important message	block	message	block
+message tone	block	message	block
+secure message	block	message	block
+message notification	block	message	block
+personal message	block	message	block
+text messaging	block	message	block
+message text	block	message	block
+message email	block	message	block
+unread message	block	message	block
+go message	block	message	block
+chat message	block	message	block
+messaging	block	message	block
+love message	block	message	block
+voice message	block	important message	block
+message etc	block	important message	block
+incoming message	block	important message	block
+text message	block	important message	block
+private message	block	important message	block
+message ringtone	block	important message	block
+custom message	block	important message	block
+whatsapp message	block	important message	block
+send message	block	important message	block
+message alert	block	important message	block
+call message	block	important message	block
+push message	block	important message	block
+message board	block	important message	block
+facebook message	block	important message	block
+read message	block	important message	block
+message	block	important message	block
+message mms	block	important message	block
+message call	block	important message	block
+instant messaging	block	important message	block
+email message	block	important message	block
+free message	block	important message	block
+instant message	block	important message	block
+photo message	block	important message	block
+handcent message	block	important message	block
+new message	block	important message	block
+important message	block	important message	block
+message tone	block	important message	block
+secure message	block	important message	block
+message notification	block	important message	block
+personal message	block	important message	block
+text messaging	block	important message	block
+message text	block	important message	block
+message email	block	important message	block
+unread message	block	important message	block
+go message	block	important message	block
+chat message	block	important message	block
+messaging	block	important message	block
+love message	block	important message	block
+message etc	block	message log	block
+whatsapp message	block	message log	block
+call message	block	message log	block
+message	block	message log	block
+message mms	block	message log	block
+message call	block	message log	block
+handcent message	block	message log	block
+new message	block	message log	block
+important message	block	message log	block
+personal message	block	message log	block
+go message	block	message log	block
+messaging	block	message log	block
+
+com.colortouch.android.apk
+false
+
+com.sleepdisorders.apk
+false
+
+com.netqin.mm.apk
+true
+mobile screen	keep	main screen	keep
+
+com.metatechnology.wesnap.apk
+false
+
+com.snapette.apk
+false
+
+kik.android.apk
+false
+
+com.unionbank.ecommerce.mobile.android.apk
+true
+contact photo	take	photo	take
+mobile banking	find	nearby union bank banking	find
+mobile banking	find	nearby union bank banking office	find
+
+com.legalshield.apk
+false
+
+com.droiddev.blocker.apk
+true
+voice message	stop	unwanted call message	stop
+message etc	stop	unwanted call message	stop
+text message	stop	unwanted call message	stop
+private message	stop	unwanted call message	stop
+message ringtone	stop	unwanted call message	stop
+whatsapp message	stop	unwanted call message	stop
+send message	stop	unwanted call message	stop
+call message	stop	unwanted call message	stop
+push message	stop	unwanted call message	stop
+message board	stop	unwanted call message	stop
+facebook message	stop	unwanted call message	stop
+read message	stop	unwanted call message	stop
+message	stop	unwanted call message	stop
+message mms	stop	unwanted call message	stop
+message call	stop	unwanted call message	stop
+free message	stop	unwanted call message	stop
+photo message	stop	unwanted call message	stop
+handcent message	stop	unwanted call message	stop
+new message	stop	unwanted call message	stop
+important message	stop	unwanted call message	stop
+secure message	stop	unwanted call message	stop
+message notification	stop	unwanted call message	stop
+personal message	stop	unwanted call message	stop
+text messaging	stop	unwanted call message	stop
+message text	stop	unwanted call message	stop
+unread message	stop	unwanted call message	stop
+go message	stop	unwanted call message	stop
+messaging	stop	unwanted call message	stop
+love message	stop	unwanted call message	stop
+custom message	choose	message call	choose
+message alert	choose	message call	choose
+instant messaging	choose	message call	choose
+instant message	choose	message call	choose
+message tone	choose	message call	choose
+chat message	choose	message call	choose
+voice message	block	message	block
+message etc	block	message	block
+incoming message	block	message	block
+text message	block	message	block
+private message	block	message	block
+message ringtone	block	message	block
+custom message	block	message	block
+whatsapp message	block	message	block
+send message	block	message	block
+message alert	block	message	block
+call message	block	message	block
+push message	block	message	block
+message board	block	message	block
+facebook message	block	message	block
+read message	block	message	block
+message	block	message	block
+message mms	block	message	block
+message call	block	message	block
+instant messaging	block	message	block
+email message	block	message	block
+free message	block	message	block
+instant message	block	message	block
+photo message	block	message	block
+handcent message	block	message	block
+new message	block	message	block
+important message	block	message	block
+message tone	block	message	block
+secure message	block	message	block
+message notification	block	message	block
+personal message	block	message	block
+text messaging	block	message	block
+message text	block	message	block
+message email	block	message	block
+unread message	block	message	block
+go message	block	message	block
+chat message	block	message	block
+messaging	block	message	block
+love message	block	message	block
+message etc	block	message index	block
+whatsapp message	block	message index	block
+call message	block	message index	block
+message	block	message index	block
+message mms	block	message index	block
+message call	block	message index	block
+handcent message	block	message index	block
+new message	block	message index	block
+important message	block	message index	block
+personal message	block	message index	block
+go message	block	message index	block
+messaging	block	message index	block
+voice message	stop	message intrusion	stop
+message etc	stop	message intrusion	stop
+text message	stop	message intrusion	stop
+private message	stop	message intrusion	stop
+message ringtone	stop	message intrusion	stop
+custom message	stop	message intrusion	stop
+whatsapp message	stop	message intrusion	stop
+send message	stop	message intrusion	stop
+message alert	stop	message intrusion	stop
+call message	stop	message intrusion	stop
+push message	stop	message intrusion	stop
+message board	stop	message intrusion	stop
+facebook message	stop	message intrusion	stop
+read message	stop	message intrusion	stop
+message	stop	message intrusion	stop
+message mms	stop	message intrusion	stop
+message call	stop	message intrusion	stop
+instant messaging	stop	message intrusion	stop
+email message	stop	message intrusion	stop
+free message	stop	message intrusion	stop
+instant message	stop	message intrusion	stop
+photo message	stop	message intrusion	stop
+handcent message	stop	message intrusion	stop
+new message	stop	message intrusion	stop
+important message	stop	message intrusion	stop
+message tone	stop	message intrusion	stop
+secure message	stop	message intrusion	stop
+message notification	stop	message intrusion	stop
+personal message	stop	message intrusion	stop
+text messaging	stop	message intrusion	stop
+message text	stop	message intrusion	stop
+message email	stop	message intrusion	stop
+unread message	stop	message intrusion	stop
+go message	stop	message intrusion	stop
+chat message	stop	message intrusion	stop
+messaging	stop	message intrusion	stop
+love message	stop	message intrusion	stop
+
+home.solo.launcher.free.apk
+false
+
+com.moneymedia.boardiq.apk
+false
+
+com.qscend.report2gov.northhempstead.apk
+false
+
+com.twist.android.apk
+true
+send message	select	send	select
+
+com.yogyapps.mp3downloadfreeapp.apk
+false
+
+com.twiize.app.apk
+true
+new sound	use	sound effect	use
+sound	use	sound effect	use
+sound play	use	sound effect	use
+original sound	use	sound effect	use
+different sound	use	sound effect	use
+contact photo	send	photo	send
+contact photo	choose	photo	choose
+
+com.applications.woowrescue.apk
+true
+emergency contact	record	emergency	record
+contact photo	send	photo	send
+contact photo	record	photo	record
+contact photo	take	photo	take
+emergency contact	call	emergency	call
+go contact	send	contact	send
+problem contact	send	contact	send
+contact photo	send	contact	send
+emergency contact	send	contact	send
+contact name	send	contact	send
+contact detail	send	contact	send
+contact ringtones	send	contact	send
+read contact	send	contact	send
+contact	send	contact	send
+contact page	send	contact	send
+contact ringtone	send	contact	send
+new contact	send	contact	send
+specific contact	send	contact	send
+contact form	send	contact	send
+contact number	send	contact	send
+contact information	send	contact	send
+contact list	send	contact	send
+contact developer	send	contact	send
+
+com.blackboard.android.central.tcc.apk
+false
+
+com.mparag.quickmathstricks.apk
+false
+
+ru.infteh.organizer.trial.apk
+false
+
+com.xcs.mp3cutter.apk
+true
+alarm	create	unlimited ringtone alarm	create
+next alarm	create	unlimited ringtone alarm	create
+popular ringtones	delete	ringtone	delete
+late ringtones	delete	ringtone	delete
+free ringtones	delete	ringtone	delete
+music ringtones	delete	ringtone	delete
+notification ringtones	delete	ringtone	delete
+free ringtone	delete	ringtone	delete
+popular ringtone	delete	ringtone	delete
+ringtones notification	delete	ringtone	delete
+contact ringtones	delete	ringtone	delete
+contact ringtone	delete	ringtone	delete
+ringtone notification	delete	ringtone	delete
+ringtones	delete	ringtone	delete
+iphone rington	delete	ringtone	delete
+ringtone	delete	ringtone	delete
+best ringtones	delete	ringtone	delete
+different ringtones	delete	ringtone	delete
+new clip	set	audio clip	set
+vdo clip	set	audio clip	set
+clip	set	audio clip	set
+particular clip	set	audio clip	set
+new clip	set	new clip	set
+vdo clip	set	new clip	set
+clip	set	new clip	set
+particular clip	set	new clip	set
+popular ringtones	re-assign	ringtone	assign
+popular ringtones	assign	ringtone	assign
+late ringtones	re-assign	ringtone	assign
+late ringtones	assign	ringtone	assign
+free ringtones	re-assign	ringtone	assign
+free ringtones	assign	ringtone	assign
+music ringtones	re-assign	ringtone	assign
+music ringtones	assign	ringtone	assign
+notification ringtones	re-assign	ringtone	assign
+notification ringtones	assign	ringtone	assign
+free ringtone	re-assign	ringtone	assign
+free ringtone	assign	ringtone	assign
+popular ringtone	re-assign	ringtone	assign
+popular ringtone	assign	ringtone	assign
+ringtones notification	re-assign	ringtone	assign
+ringtones notification	assign	ringtone	assign
+contact ringtones	re-assign	ringtone	assign
+contact ringtones	assign	ringtone	assign
+contact ringtone	re-assign	ringtone	assign
+contact ringtone	assign	ringtone	assign
+ringtone notification	re-assign	ringtone	assign
+ringtone notification	assign	ringtone	assign
+ringtones	re-assign	ringtone	assign
+ringtones	assign	ringtone	assign
+iphone rington	re-assign	ringtone	assign
+iphone rington	assign	ringtone	assign
+ringtone	re-assign	ringtone	assign
+ringtone	assign	ringtone	assign
+best ringtones	re-assign	ringtone	assign
+best ringtones	assign	ringtone	assign
+different ringtones	re-assign	ringtone	assign
+different ringtones	assign	ringtone	assign
+go contact	re-assign	contact	assign
+go contact	assign	contact	assign
+problem contact	re-assign	contact	assign
+problem contact	assign	contact	assign
+contact photo	re-assign	contact	assign
+contact photo	assign	contact	assign
+emergency contact	re-assign	contact	assign
+emergency contact	assign	contact	assign
+contact name	re-assign	contact	assign
+contact name	assign	contact	assign
+contact detail	re-assign	contact	assign
+contact detail	assign	contact	assign
+contact ringtones	re-assign	contact	assign
+contact ringtones	assign	contact	assign
+read contact	re-assign	contact	assign
+read contact	assign	contact	assign
+contact	re-assign	contact	assign
+contact	assign	contact	assign
+contact page	re-assign	contact	assign
+contact page	assign	contact	assign
+contact ringtone	re-assign	contact	assign
+contact ringtone	assign	contact	assign
+new contact	re-assign	contact	assign
+new contact	assign	contact	assign
+specific contact	re-assign	contact	assign
+specific contact	assign	contact	assign
+contact form	re-assign	contact	assign
+contact form	assign	contact	assign
+contact number	re-assign	contact	assign
+contact number	assign	contact	assign
+contact information	re-assign	contact	assign
+contact information	assign	contact	assign
+contact list	re-assign	contact	assign
+contact list	assign	contact	assign
+contact developer	re-assign	contact	assign
+contact developer	assign	contact	assign
+
+com.ondemandworld.android.wheretoeat.apk
+false
+
+com.miniwebs.chatroulette.apk
+false
+
+com.androborobo.amazingalex.apk
+false
+
+com.jhi.mhm.apk
+false
+
+com.scbt.mobile.apk
+false
+
+com.paycom.app.apk
+false
+
+com.appool110.apk
+false
+
+com.ring3.Birthday.apk
+true
+go contact	set	contact	set
+problem contact	set	contact	set
+contact photo	set	contact	set
+emergency contact	set	contact	set
+contact name	set	contact	set
+contact detail	set	contact	set
+read contact	set	contact	set
+contact	set	contact	set
+contact page	set	contact	set
+new contact	set	contact	set
+specific contact	set	contact	set
+contact form	set	contact	set
+contact number	set	contact	set
+contact information	set	contact	set
+contact list	set	contact	set
+contact developer	set	contact	set
+
+com.bilo.rx.android.apk
+false
+
+com.mywebgrocer.AlbertsonsMarketCircular.apk
+false
+
+com.pinger.juke.vox.messenger.free.apk
+true
+incoming message	listen	jukevox message	listen
+
+androidlab.allcall.apk
+false
+
+com.truedealapps.searchengines.apk
+false
+
+free.message.tones.apk
+true
+go contact	set	specific contact	set
+problem contact	set	specific contact	set
+contact photo	set	specific contact	set
+emergency contact	set	specific contact	set
+contact name	set	specific contact	set
+contact detail	set	specific contact	set
+read contact	set	specific contact	set
+contact	set	specific contact	set
+contact page	set	specific contact	set
+new contact	set	specific contact	set
+specific contact	set	specific contact	set
+contact form	set	specific contact	set
+contact number	set	specific contact	set
+contact information	set	specific contact	set
+contact list	set	specific contact	set
+contact developer	set	specific contact	set
+new clip	think	clip	think
+vdo clip	think	clip	think
+clip	think	clip	think
+particular clip	think	clip	think
+
+com.picture.decorator.photo.designer.nk.free.apk
+true
+mobile game	keep	game	keep
+
+kr.co.nowcom.mobile.afreeca.apk
+false
+
+com.susheelapps.teapartycommunity.apk
+false
+
+com.mah.cheetah.keyboard.apk
+false
+
+com.banapps.freemp3downloads.apk
+false
+
+com.keepcalling.ui.apk
+true
+voice message	call	message	call
+message etc	call	message	call
+text message	call	message	call
+private message	call	message	call
+message ringtone	call	message	call
+custom message	call	message	call
+whatsapp message	call	message	call
+send message	call	message	call
+message alert	call	message	call
+call message	call	message	call
+push message	call	message	call
+message board	call	message	call
+facebook message	call	message	call
+read message	call	message	call
+message	call	message	call
+message mms	call	message	call
+message call	call	message	call
+instant messaging	call	message	call
+free message	call	message	call
+instant message	call	message	call
+photo message	call	message	call
+handcent message	call	message	call
+new message	call	message	call
+important message	call	message	call
+message tone	call	message	call
+secure message	call	message	call
+message notification	call	message	call
+personal message	call	message	call
+text messaging	call	message	call
+message text	call	message	call
+unread message	call	message	call
+go message	call	message	call
+chat message	call	message	call
+messaging	call	message	call
+love message	call	message	call
+
+com.imoblife.barcodescan_plug_in.apk
+true
+contact photo	take	photo	take
+
+com.avg.cleaner.apk
+false
+
+com.andro.music.multimate.apk
+true
+new sound	let	sound effect	let
+notification sound	let	sound effect	let
+sound	let	sound effect	let
+sound play	let	sound effect	let
+original sound	let	sound effect	let
+different sound	let	sound effect	let
+
+com.skillapps.learnsignlanguage.apk
+true
+contact photo	contain	photo	contain
+
+com.outthinking.picclone.apk
+false
+
+me.doubledutch.performancesupportsymposium.apk
+false
+
+com.squaar.cordova.just.apk
+false
+
+com.tommmi.flightwebsitesap.apk
+false
+
+com.gladtohaveyou.pirentals.apk
+true
+contact photo	contain	photo	contain
+
+com.socialcam.android.apk
+false
+
+com.vox.call2rich.apk
+false
+
+com.gaganjeetbhullar.cheapapartments.apk
+false
+
+com.express_scripts.mobile.member.apk
+false
+
+com.mah.candypink.keyboard.apk
+false
+
+com.picframes.android.apk
+false
+
+com.myyp.www.apk
+false
+
+com.amiapps.foreclosedhomes.apk
+false
+
+com.athan.apk
+false
+
+com.laminaapps.plasticsurgeonsapp.apk
+false
+
+com.fonestock.android.q98app.apk
+false
+
+com.kit.info.smsremote.apk
+false
+
+org.kman.AquaMail.apk
+true
+message etc	delete	message	delete
+text message	delete	message	delete
+private message	delete	message	delete
+message ringtone	delete	message	delete
+whatsapp message	delete	message	delete
+send message	delete	message	delete
+call message	delete	message	delete
+push message	delete	message	delete
+facebook message	delete	message	delete
+read message	delete	message	delete
+message	delete	message	delete
+message mms	delete	message	delete
+message call	delete	message	delete
+free message	delete	message	delete
+photo message	delete	message	delete
+handcent message	delete	message	delete
+new message	delete	message	delete
+important message	delete	message	delete
+secure message	delete	message	delete
+message notification	delete	message	delete
+personal message	delete	message	delete
+text messaging	delete	message	delete
+message text	delete	message	delete
+unread message	delete	message	delete
+go message	delete	message	delete
+messaging	delete	message	delete
+love message	delete	message	delete
+
+com.mapquest.android.ace.apk
+false
+
+com.PerfectServe.Clinician.apk
+false
+
+com.cbwsolutions.nonrevrouter.apk
+false
+
+com.mywebgrocer.JewelOscoCircular.apk
+false
+
+org.kde.kdeconnect_tp.apk
+false
+
+com.voip.calldirek2.apk
+false
+
+com.dub.poweredbydub.mox.apk
+false
+
+com.andrea.musichub.apk
+true
+music ringtones	android	music	android
+popular ringtones	android	music ringtones	android
+late ringtones	android	music ringtones	android
+music ringtones	android	music ringtones	android
+popular ringtone	android	music ringtones	android
+ringtones	android	music ringtones	android
+iphone rington	android	music ringtones	android
+ringtone	android	music ringtones	android
+best ringtones	android	music ringtones	android
+different ringtones	android	music ringtones	android
+
+com.superpages.android.apk
+false
+
+com.venmo.apk
+false
+
+d6.pap.mobile.apk
+false
+
+com.legacomnet.colorsplash.apk
+false
+
+com.amiapps.celebrityjokes.apk
+false
+
+com.glympse.android.glympse.apk
+false
+
+com.hh.videommvedownloader.apk
+true
+mobile application	detect	application	detect
+
+com.goodapp.appv90.apk
+false
+
+com.androborobo.survivalcraft.apk
+false
+
+com.hellotracks.apk
+true
+mobile screen	find	mobile tracking	find
+mobile coupon	find	mobile tracking	find
+boost mobile	find	mobile tracking	find
+mobile tracker	find	mobile tracking	find
+mobile game	find	mobile tracking	find
+mobile banking	find	mobile tracking	find
+go contact	communicate	contact	communicate
+problem contact	communicate	contact	communicate
+contact photo	communicate	contact	communicate
+emergency contact	communicate	contact	communicate
+contact name	communicate	contact	communicate
+contact detail	communicate	contact	communicate
+contact ringtones	communicate	contact	communicate
+read contact	communicate	contact	communicate
+contact	communicate	contact	communicate
+contact page	communicate	contact	communicate
+contact ringtone	communicate	contact	communicate
+new contact	communicate	contact	communicate
+specific contact	communicate	contact	communicate
+contact form	communicate	contact	communicate
+contact number	communicate	contact	communicate
+contact information	communicate	contact	communicate
+contact list	communicate	contact	communicate
+contact developer	communicate	contact	communicate
+incoming message	receive	direct message	receive
+
+com.peoplespy.apk
+false
+
+org.netTalk.smartphone.apk
+false
+
+com.gladtohaveyou.abode.apk
+true
+contact photo	contain	photo	contain
+
+com.tranware.nextaxi.apk
+false
+
+com.polycom.cmad.mobile.android.phone.apk
+false
+
+com.freesms.apk
+true
+custom message	choose	message	choose
+message alert	choose	message	choose
+instant messaging	choose	message	choose
+instant message	choose	message	choose
+message tone	choose	message	choose
+chat message	choose	message	choose
+custom message	choose	in-built huge message	choose
+
+com.LiveTracking.apk
+true
+voice message	call	message	call
+message etc	call	message	call
+text message	call	message	call
+private message	call	message	call
+message ringtone	call	message	call
+custom message	call	message	call
+whatsapp message	call	message	call
+send message	call	message	call
+message alert	call	message	call
+call message	call	message	call
+push message	call	message	call
+message board	call	message	call
+facebook message	call	message	call
+read message	call	message	call
+message	call	message	call
+message mms	call	message	call
+message call	call	message	call
+instant messaging	call	message	call
+free message	call	message	call
+instant message	call	message	call
+photo message	call	message	call
+handcent message	call	message	call
+new message	call	message	call
+important message	call	message	call
+message tone	call	message	call
+secure message	call	message	call
+message notification	call	message	call
+personal message	call	message	call
+text messaging	call	message	call
+message text	call	message	call
+unread message	call	message	call
+go message	call	message	call
+chat message	call	message	call
+messaging	call	message	call
+love message	call	message	call
+
+com.mindspark.smileycentral.apk
+false
+
+com.andpi.walktext.apk
+true
+contact photo	take	photo	take
+problem contact	send	problem	send
+mobile screen	send	screen	send
+voice message	free	message	free
+message etc	free	message	free
+text message	free	message	free
+private message	free	message	free
+message ringtone	free	message	free
+custom message	free	message	free
+whatsapp message	free	message	free
+send message	free	message	free
+call message	free	message	free
+push message	free	message	free
+message board	free	message	free
+facebook message	free	message	free
+read message	free	message	free
+message	free	message	free
+message mms	free	message	free
+message call	free	message	free
+instant messaging	free	message	free
+free message	free	message	free
+instant message	free	message	free
+photo message	free	message	free
+handcent message	free	message	free
+new message	free	message	free
+important message	free	message	free
+message tone	free	message	free
+secure message	free	message	free
+message notification	free	message	free
+personal message	free	message	free
+text messaging	free	message	free
+message text	free	message	free
+unread message	free	message	free
+go message	free	message	free
+messaging	free	message	free
+love message	free	message	free
+message etc	free	message camera	free
+whatsapp message	free	message camera	free
+call message	free	message camera	free
+message	free	message camera	free
+message mms	free	message camera	free
+message call	free	message camera	free
+handcent message	free	message camera	free
+new message	free	message camera	free
+important message	free	message camera	free
+personal message	free	message camera	free
+go message	free	message camera	free
+messaging	free	message camera	free
+total	receive	incoming	receive
+incoming message	receive	incoming	receive
+total time	receive	incoming	receive
+incoming message	receive	incoming message	receive
+incoming message	receive	incoming message message	receive
+incoming message	read	message mms	read
+incoming message	receive	message	receive
+
+com.locnall.KimGiSa.apk
+false
+
+jp.ne.gate.calpad.apk
+false
+
+com.xixihaha.subting.cuimian.apk
+false
+
+jp.co.telemarks.CallFilter2.apk
+true
+incoming message	block	unknown private incoming	block
+incoming message	block	unknown private incoming calls sms	block
+voice message	stop	message	stop
+message etc	stop	message	stop
+text message	stop	message	stop
+private message	stop	message	stop
+message ringtone	stop	message	stop
+custom message	stop	message	stop
+whatsapp message	stop	message	stop
+send message	stop	message	stop
+message alert	stop	message	stop
+call message	stop	message	stop
+push message	stop	message	stop
+message board	stop	message	stop
+facebook message	stop	message	stop
+read message	stop	message	stop
+message	stop	message	stop
+message mms	stop	message	stop
+message call	stop	message	stop
+instant messaging	stop	message	stop
+email message	stop	message	stop
+free message	stop	message	stop
+instant message	stop	message	stop
+photo message	stop	message	stop
+handcent message	stop	message	stop
+new message	stop	message	stop
+important message	stop	message	stop
+message tone	stop	message	stop
+secure message	stop	message	stop
+message notification	stop	message	stop
+personal message	stop	message	stop
+text messaging	stop	message	stop
+message text	stop	message	stop
+message email	stop	message	stop
+unread message	stop	message	stop
+go message	stop	message	stop
+chat message	stop	message	stop
+messaging	stop	message	stop
+love message	stop	message	stop
+
+com.jiubang.goscreenlock.apk
+true
+read contact	display	read	display
+
+com.goanyware.tgif.apk
+false
+
+com.mobileappsforcashflow.gpsnavigation.apk
+false
+
+com.aboutthekids.icestandard.apk
+false
+
+com.sand.airdroid.apk
+true
+sensitive data	wipe	data	wipe
+gps data	wipe	data	wipe
+private data	wipe	data	wipe
+real-time data	wipe	data	wipe
+much data	wipe	data	wipe
+data	wipe	data	wipe
+location data	wipe	data	wipe
+data file	wipe	data	wipe
+important data	wipe	data	wipe
+mobile data	wipe	data	wipe
+data analysis	wipe	data	wipe
+contact data	wipe	data	wipe
+expensive data	wipe	data	wipe
+data connection	wipe	data	wipe
+cellular data	wipe	data	wipe
+weather data	wipe	data	wipe
+usage data	wipe	data	wipe
+data charge	wipe	data	wipe
+data backup	wipe	data	wipe
+data transfer	wipe	data	wipe
+data collection	wipe	data	wipe
+internet data	wipe	data	wipe
+data plan	wipe	data	wipe
+data usage	wipe	data	wipe
+data rate	wipe	data	wipe
+sensor data	wipe	data	wipe
+personal data	wipe	data	wipe
+backup data	wipe	data	wipe
+live data	wipe	data	wipe
+incoming message	receive	message	receive
+
+com.mysms.android.sms.apk
+true
+message etc	support	instant messaging	support
+whatsapp message	support	instant messaging	support
+call message	support	instant messaging	support
+message	support	instant messaging	support
+message mms	support	instant messaging	support
+message call	support	instant messaging	support
+handcent message	support	instant messaging	support
+new message	support	instant messaging	support
+important message	support	instant messaging	support
+personal message	support	instant messaging	support
+go message	support	instant messaging	support
+messaging	support	instant messaging	support
+voice message	texting	messaging anywhere	text
+message etc	texting	messaging anywhere	text
+text message	texting	messaging anywhere	text
+private message	texting	messaging anywhere	text
+message ringtone	texting	messaging anywhere	text
+whatsapp message	texting	messaging anywhere	text
+send message	texting	messaging anywhere	text
+call message	texting	messaging anywhere	text
+push message	texting	messaging anywhere	text
+message board	texting	messaging anywhere	text
+facebook message	texting	messaging anywhere	text
+read message	texting	messaging anywhere	text
+message	texting	messaging anywhere	text
+message mms	texting	messaging anywhere	text
+message call	texting	messaging anywhere	text
+free message	texting	messaging anywhere	text
+photo message	texting	messaging anywhere	text
+handcent message	texting	messaging anywhere	text
+new message	texting	messaging anywhere	text
+important message	texting	messaging anywhere	text
+secure message	texting	messaging anywhere	text
+message notification	texting	messaging anywhere	text
+personal message	texting	messaging anywhere	text
+text messaging	texting	messaging anywhere	text
+message text	texting	messaging anywhere	text
+unread message	texting	messaging anywhere	text
+go message	texting	messaging anywhere	text
+messaging	texting	messaging anywhere	text
+love message	texting	messaging anywhere	text
+voice message	texting	text messaging	text
+message etc	texting	text messaging	text
+text message	texting	text messaging	text
+private message	texting	text messaging	text
+message ringtone	texting	text messaging	text
+whatsapp message	texting	text messaging	text
+send message	texting	text messaging	text
+call message	texting	text messaging	text
+push message	texting	text messaging	text
+message board	texting	text messaging	text
+facebook message	texting	text messaging	text
+read message	texting	text messaging	text
+message	texting	text messaging	text
+message mms	texting	text messaging	text
+message call	texting	text messaging	text
+free message	texting	text messaging	text
+photo message	texting	text messaging	text
+handcent message	texting	text messaging	text
+new message	texting	text messaging	text
+important message	texting	text messaging	text
+secure message	texting	text messaging	text
+message notification	texting	text messaging	text
+personal message	texting	text messaging	text
+text messaging	texting	text messaging	text
+message text	texting	text messaging	text
+unread message	texting	text messaging	text
+go message	texting	text messaging	text
+messaging	texting	text messaging	text
+love message	texting	text messaging	text
+message etc	texting	text messaging anytime	text
+text message	texting	text messaging anytime	text
+private message	texting	text messaging anytime	text
+message ringtone	texting	text messaging anytime	text
+whatsapp message	texting	text messaging anytime	text
+send message	texting	text messaging anytime	text
+call message	texting	text messaging anytime	text
+push message	texting	text messaging anytime	text
+facebook message	texting	text messaging anytime	text
+read message	texting	text messaging anytime	text
+message	texting	text messaging anytime	text
+message mms	texting	text messaging anytime	text
+message call	texting	text messaging anytime	text
+free message	texting	text messaging anytime	text
+photo message	texting	text messaging anytime	text
+handcent message	texting	text messaging anytime	text
+new message	texting	text messaging anytime	text
+important message	texting	text messaging anytime	text
+secure message	texting	text messaging anytime	text
+message notification	texting	text messaging anytime	text
+personal message	texting	text messaging anytime	text
+text messaging	texting	text messaging anytime	text
+message text	texting	text messaging anytime	text
+unread message	texting	text messaging anytime	text
+go message	texting	text messaging anytime	text
+messaging	texting	text messaging anytime	text
+love message	texting	text messaging anytime	text
+text message	texting	text messaging anytime text	text
+text messaging	texting	text messaging anytime text	text
+message text	texting	text messaging anytime text	text
+voice message	texting	text messaging anytime text messaging	text
+message etc	texting	text messaging anytime text messaging	text
+text message	texting	text messaging anytime text messaging	text
+private message	texting	text messaging anytime text messaging	text
+message ringtone	texting	text messaging anytime text messaging	text
+whatsapp message	texting	text messaging anytime text messaging	text
+send message	texting	text messaging anytime text messaging	text
+call message	texting	text messaging anytime text messaging	text
+push message	texting	text messaging anytime text messaging	text
+message board	texting	text messaging anytime text messaging	text
+facebook message	texting	text messaging anytime text messaging	text
+read message	texting	text messaging anytime text messaging	text
+message	texting	text messaging anytime text messaging	text
+message mms	texting	text messaging anytime text messaging	text
+message call	texting	text messaging anytime text messaging	text
+free message	texting	text messaging anytime text messaging	text
+photo message	texting	text messaging anytime text messaging	text
+handcent message	texting	text messaging anytime text messaging	text
+new message	texting	text messaging anytime text messaging	text
+important message	texting	text messaging anytime text messaging	text
+secure message	texting	text messaging anytime text messaging	text
+message notification	texting	text messaging anytime text messaging	text
+personal message	texting	text messaging anytime text messaging	text
+text messaging	texting	text messaging anytime text messaging	text
+message text	texting	text messaging anytime text messaging	text
+unread message	texting	text messaging anytime text messaging	text
+go message	texting	text messaging anytime text messaging	text
+messaging	texting	text messaging anytime text messaging	text
+love message	texting	text messaging anytime text messaging	text
+
+com.accusoft.barcodescanner.client.apk
+false
+
+com.gaganjeetbhullar.facepaintingap.apk
+false
+
+com.flowers1800.androidapp2.apk
+false
+
+imoblife.toolbox.full.apk
+true
+message etc	call	log message	call
+whatsapp message	call	log message	call
+call message	call	log message	call
+message	call	log message	call
+message mms	call	log message	call
+message call	call	log message	call
+handcent message	call	log message	call
+new message	call	log message	call
+important message	call	log message	call
+personal message	call	log message	call
+go message	call	log message	call
+messaging	call	log message	call
+
+com.symantec.mobilesecurity.apk
+true
+go contact	sync	contact	sync
+problem contact	sync	contact	sync
+contact photo	sync	contact	sync
+emergency contact	sync	contact	sync
+contact name	sync	contact	sync
+contact detail	sync	contact	sync
+contact ringtones	sync	contact	sync
+read contact	sync	contact	sync
+contact	sync	contact	sync
+contact page	sync	contact	sync
+contact ringtone	sync	contact	sync
+new contact	sync	contact	sync
+specific contact	sync	contact	sync
+contact form	sync	contact	sync
+contact number	sync	contact	sync
+contact information	sync	contact	sync
+contact list	sync	contact	sync
+contact developer	sync	contact	sync
+contact photo	take	photo	take
+sim card	lock	sim card	lock
+
+com.teltechcorp.tapeacall.apk
+true
+custom message	call	customer service	call
+
+net.mandaria.cardashboardfree.apk
+false
+

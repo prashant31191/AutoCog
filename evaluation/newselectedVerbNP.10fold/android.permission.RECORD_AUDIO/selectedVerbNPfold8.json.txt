@@ -1,0 +1,948 @@
+record deal
+disable
+listen
+lodge
+play
+support
+give
+determine
+
+audio player
+combine
+claim
+donot
+
+video stream
+claim
+donot
+
+instructional video
+claim
+donot
+
+video tip
+claim
+donot
+
+audio video
+claim
+donot
+combine
+
+news video
+claim
+donot
+collect
+
+new puzzle
+awesome
+check
+pass
+place
+
+video song
+claim
+donot
+
+twitter feed
+fetch
+
+best hotel
+reveal
+prague
+swipe
+refine
+km
+map
+list
+click
+allow
+
+luxury hotel
+reveal
+prague
+swipe
+refine
+km
+map
+list
+click
+allow
+
+voice recording
+record
+teach
+compare
+
+feeding
+fetch
+collect
+use
+
+video photo
+claim
+donot
+
+hotel room
+reveal
+prague
+swipe
+refine
+km
+map
+list
+click
+allow
+
+feed video
+claim
+donot
+fetch
+collect
+
+audio file
+claim
+donot
+combine
+
+audio quality
+combine
+claim
+donot
+
+image video
+claim
+donot
+
+local deal
+lodge
+give
+
+puzzle
+awesome
+check
+pass
+place
+
+video file
+claim
+donot
+
+funny image
+answer
+repeat
+
+video audio
+claim
+donot
+combine
+
+sex video
+claim
+donot
+
+call recording
+determine
+support
+listen
+play
+disable
+send
+
+song video
+claim
+donot
+
+puzzle game
+awesome
+check
+pass
+place
+
+walkthrough video
+claim
+donot
+
+hotel review
+reveal
+prague
+swipe
+refine
+km
+map
+list
+click
+allow
+
+music collection
+chat
+
+hotel offer
+reveal
+prague
+swipe
+refine
+km
+map
+list
+click
+allow
+
+audio track
+combine
+claim
+donot
+
+following video
+claim
+donot
+collect
+
+video format
+claim
+donot
+
+audio alert
+combine
+claim
+donot
+
+next video
+claim
+donot
+collect
+
+correct word
+move
+shift
+
+correct order
+move
+shift
+
+new video
+claim
+donot
+collect
+
+top video
+claim
+donot
+
+fun puzzle
+contain
+awesome
+slide
+pass
+
+slide puzzle
+contain
+awesome
+slide
+pass
+
+audio pronunciation
+claim
+donot
+check
+practice
+compare
+
+listed hotel
+reveal
+prague
+swipe
+refine
+km
+map
+list
+click
+allow
+
+deal
+lodge
+give
+
+audio content
+combine
+claim
+donot
+
+video recording
+claim
+donot
+
+jigsaw puzzle
+awesome
+check
+pass
+place
+
+music video
+claim
+donot
+
+video
+claim
+donot
+collect
+
+discount hotel
+reveal
+prague
+swipe
+refine
+km
+map
+list
+click
+allow
+
+exclusive video
+claim
+donot
+collect
+
+audio playback
+combine
+claim
+donot
+
+video support
+claim
+donot
+collect
+
+new music
+chat
+
+watch video
+claim
+donot
+
+budget hotel
+reveal
+prague
+swipe
+refine
+km
+map
+list
+click
+allow
+
+audio recording
+combine
+claim
+donot
+
+best deal
+lodge
+give
+
+valuable feed
+fetch
+
+youtube video
+claim
+donot
+collect
+
+free music
+chat
+
+video chat
+claim
+donot
+
+sexy video
+claim
+donot
+
+crossword puzzle
+contain
+awesome
+check
+pass
+place
+
+puzzle piece
+contain
+awesome
+check
+pass
+place
+
+recorder
+determine
+support
+listen
+play
+disable
+send
+
+stream video
+claim
+donot
+
+smart activity
+fire
+
+video playback
+claim
+donot
+
+video tutorial
+claim
+donot
+
+video instruction
+claim
+donot
+
+hotel booking
+reveal
+prague
+swipe
+refine
+km
+map
+list
+click
+allow
+
+news feed
+fetch
+collect
+use
+
+placement puzzle
+contain
+awesome
+check
+pass
+place
+
+great deal
+lodge
+give
+
+video clip
+claim
+donot
+put
+
+tutorial video
+claim
+donot
+
+funny moment
+answer
+repeat
+
+entire feed
+fetch
+
+hotel deal
+reveal
+prague
+swipe
+refine
+km
+map
+list
+click
+allow
+
+best video
+claim
+donot
+collect
+
+audio book
+combine
+claim
+donot
+
+video editor
+claim
+donot
+
+volume key
+pop
+tap
+
+awesome video
+claim
+donot
+
+voice call
+record
+teach
+
+hotel restaurant
+prague
+swipe
+refine
+km
+reveal
+map
+list
+click
+
+feed
+fetch
+collect
+use
+
+video section
+claim
+donot
+
+streaming video
+claim
+donot
+
+correct place
+move
+shift
+
+favorite video
+claim
+donot
+
+hotel price
+reveal
+prague
+swipe
+refine
+km
+map
+list
+click
+allow
+
+hot video
+claim
+donot
+
+hotel reservation
+reveal
+prague
+swipe
+refine
+km
+map
+list
+click
+allow
+
+animated video
+claim
+donot
+
+video call
+claim
+donot
+collect
+
+funny voice
+answer
+repeat
+
+hotel saving
+reveal
+prague
+swipe
+refine
+km
+map
+list
+click
+allow
+
+play video
+claim
+donot
+collect
+
+volume level
+pop
+tap
+
+good deal
+lodge
+give
+
+music
+chat
+
+hd video
+claim
+donot
+
+video guide
+claim
+donot
+
+syco record
+determine
+support
+listen
+play
+disable
+send
+
+late deal
+lodge
+give
+
+audio clip
+combine
+press
+claim
+donot
+
+correct position
+move
+shift
+
+video streaming
+claim
+donot
+
+hotel
+reveal
+prague
+swipe
+refine
+km
+map
+list
+click
+allow
+
+background music
+chat
+
+funny video
+claim
+donot
+put
+
+volume
+pop
+tap
+
+classical music
+chat
+
+live feed
+fetch
+collect
+use
+
+video content
+claim
+donot
+
+share video
+claim
+donot
+
+correct operation
+move
+shift
+
+audio recorder
+combine
+claim
+donot
+
+live audio
+combine
+claim
+donot
+
+various site
+fetch
+
+recording
+determine
+support
+listen
+play
+disable
+send
+
+record
+determine
+support
+listen
+play
+disable
+send
+
+audio text
+combine
+claim
+donot
+
+hotel detail
+reveal
+prague
+swipe
+refine
+km
+map
+list
+click
+allow
+
+voice
+record
+teach
+
+great music
+chat
+
+late video
+claim
+donot
+collect
+
+record audio
+combine
+claim
+donot
+
+correction
+move
+shift
+
+site
+fetch
+
+video cheat
+claim
+donot
+put
+
+different site
+fetch
+
+sfx volume
+pop
+tap
+
+gameplay video
+claim
+donot
+collect
+
+special deal
+lodge
+give
+
+video image
+claim
+donot
+
+boutique hotel
+reveal
+prague
+swipe
+refine
+km
+map
+list
+click
+allow
+
+funny quote
+answer
+repeat
+
+video music
+claim
+donot
+
+beautiful music
+chat
+
+book hotel
+reveal
+prague
+swipe
+refine
+km
+map
+list
+click
+allow
+
+audio effect
+combine
+claim
+donot
+
+video quality
+claim
+donot
+
+r feed
+fetch
+collect
+use
+
+video-on-demand clip
+claim
+donot
+put
+
+late music
+chat
+
+record time
+determine
+support
+listen
+play
+disable
+send
+
+smart connect
+fire
+
+photo video
+claim
+donot
+
+free video
+claim
+donot
+
+amazing video
+claim
+donot
+
+audio format
+combine
+claim
+donot
+
+voice recognition
+record
+teach
+compare
+
+best music
+chat
+
+voice note
+record
+teach
+
+audio play
+combine
+claim
+donot
+
+call recorder
+determine
+support
+listen
+play
+disable
+send
+
+hotel feature
+reveal
+prague
+swipe
+refine
+km
+map
+list
+click
+allow
+
+audio song
+combine
+claim
+donot
+
+easy puzzle
+awesome
+check
+pass
+place
+
+unique puzzle
+awesome
+check
+pass
+place
+
+audio
+combine
+claim
+donot
+
+voice recorder
+record
+teach
+compare
+
+voice command
+record
+create
+teach
+
+volume control
+pop
+tap
+
+music today
+chat
+
+video highlight
+claim
+donot
+
+great video
+claim
+donot
+collect
+
+local hotel
+reveal
+prague
+swipe
+refine
+km
+map
+list
+click
+allow
+
+news site
+fetch
+
+volume setting
+pop
+tap
+
+world record
+determine
+support
+listen
+play
+disable
+send
+
+live video
+claim
+donot
+collect
+

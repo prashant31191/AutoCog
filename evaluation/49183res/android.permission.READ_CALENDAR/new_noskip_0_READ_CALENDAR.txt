@@ -1,0 +1,1195 @@
+com.fitnessmobileapps.donnakelly.apk
+true
+convenience	maximize	convenience	maximize
+convenient way	maximize	convenience	maximize
+convenient	maximize	convenience	maximize
+appointment	view	appointment	view
+appointment	schedule	appointment	schedule
+
+com.babynames.android.apk
+false
+
+com.molskness.crewmatebeta.apk
+false
+
+com.teaminfoapp.custom.ralphchandlerms.apk
+true
+quick reference	access	quick link	access
+quick overview	access	quick link	access
+quick start	access	quick link	access
+quick list	access	quick link	access
+quick view	access	quick link	access
+quick note	access	quick link	access
+quick link	access	quick link	access
+quick setting	access	quick link	access
+quick	access	quick link	access
+quick way	access	quick link	access
+event	calendar	general event	calendar
+important event	calendar	general event	calendar
+event information	calendar	general event	calendar
+live event	calendar	general event	calendar
+event date	calendar	general event	calendar
+current event	calendar	general event	calendar
+local event	calendar	general event	calendar
+event organizer	calendar	general event	calendar
+special event	calendar	general event	calendar
+event activity	calendar	general event	calendar
+new event	calendar	general event	calendar
+late event	calendar	general event	calendar
+
+com.evernote.apk
+true
+device calendar	help	device	help
+
+in.plackal.lovecyclesfree.apk
+true
+event calendar	protect	calendar	protect
+bangla calendar	protect	calendar	protect
+gregorian calendar	protect	calendar	protect
+calendar	protect	calendar	protect
+device calendar	protect	calendar	protect
+calendar view	protect	calendar	protect
+calendar event	protect	calendar	protect
+
+ke.dangacorp.scrollviewerapp.apk
+false
+
+com.xomodigital.connections.apk
+false
+
+com.dexetra.iris.apk
+false
+
+pregnancy.disc.app.apk
+true
+appointment	set	appointment	set
+integral part	calendar	integration	calendar
+facebook integration	calendar	integration	calendar
+integration	calendar	integration	calendar
+twitter integration	calendar	integration	calendar
+integrates	calendar	integration	calendar
+integrated	calendar	integration	calendar
+
+com.kfactormedia.prayr.apk
+false
+
+a2z.NADA.apk
+false
+
+com.nosapps.android.bothermenotes.apk
+false
+
+de.hafas.android.eurail.apk
+false
+
+com.itbenefit.android.calendar.apk
+true
+bangla calendar	sync	google calendar	sync
+gregorian calendar	sync	google calendar	sync
+
+netgenius.bizcal.apk
+true
+event calendar	synchronize	google calendar	synchronize
+bangla calendar	synchronize	google calendar	synchronize
+gregorian calendar	synchronize	google calendar	synchronize
+calendar	synchronize	google calendar	synchronize
+calendar view	synchronize	google calendar	synchronize
+calendar event	synchronize	google calendar	synchronize
+event	copy	multiple event	copy
+new event	copy	multiple event	copy
+
+com.webroot.security.apk
+true
+device calendar	help	device	help
+
+com.nemustech.regina.apk
+true
+apex launcher	save	launcher	save
+launcher setting	save	launcher	save
+launcher theme	save	launcher	save
+home launcher	save	launcher	save
+homee launcher	save	launcher	save
+launcher ex	save	launcher	save
+action launcher	save	launcher	save
+launcher	save	launcher	save
+launcher homescreen	save	launcher	save
+launcher icon	save	launcher	save
+supported launcher	save	launcher	save
+start launcher	save	launcher	save
+holo launcher	save	launcher	save
+dodol launcher	save	launcher	save
+launcher dodol	save	launcher	save
+solo launcher	save	launcher	save
+adw launcher	save	launcher	save
+next launcher	save	launcher	save
+smart launcher	save	launcher	save
+go launcher	save	launcher	save
+
+com.fitnessmobileapps.heatbootcamp.apk
+true
+convenience	maximize	convenience	maximize
+convenient way	maximize	convenience	maximize
+convenient	maximize	convenience	maximize
+class schedule	sign	class	sign
+class schedule	maximize	class	maximize
+
+com.sumit.sleeping.apk
+false
+
+org.astrid.apk
+false
+
+com.yammer.v1.apk
+false
+
+org.tasks.apk
+false
+
+com.coreapps.android.followme.atce2013.apk
+false
+
+com.martin.SamsungGalaxyRingtones.apk
+true
+popular ringtones	feature	ringtones	feature
+late ringtones	feature	ringtones	feature
+free ringtones	feature	ringtones	feature
+free ringtone	feature	ringtones	feature
+popular ringtone	feature	ringtones	feature
+ringtones	feature	ringtones	feature
+iphone rington	feature	ringtones	feature
+ringtone	feature	ringtones	feature
+best ringtones	feature	ringtones	feature
+different ringtones	feature	ringtones	feature
+
+com.appsbar.PRCPerth238296.apk
+false
+
+com.nuance.balerion.apk
+true
+event calendar	read	calendar alert	read
+bangla calendar	read	calendar alert	read
+gregorian calendar	read	calendar alert	read
+calendar	read	calendar alert	read
+device calendar	read	calendar alert	read
+calendar view	read	calendar alert	read
+calendar event	read	calendar alert	read
+appointment	set	appointment	set
+
+com.comcast.plaxo.familyconnect.app.apk
+false
+
+com.fitnessmobileapps.zooga.apk
+true
+convenience	maximize	convenience	maximize
+convenient way	maximize	convenience	maximize
+convenient	maximize	convenience	maximize
+class schedule	sign	class	sign
+class schedule	maximize	class	maximize
+appointment	view	book appointment	view
+appointment	schedule	class appointment	schedule
+
+com.zegoggles.smssync.apk
+true
+backup	work	message backup	work
+event calendar	backup	gmail google calendar	backup
+gregorian calendar	backup	gmail google calendar	backup
+calendar	backup	gmail google calendar	backup
+calendar view	backup	gmail google calendar	backup
+calendar event	backup	gmail google calendar	backup
+
+com.blackboard.mosaic.lasalle.apk
+false
+
+com.sec.chaton.apk
+false
+
+com.coreapps.android.followme.dragoncon13.apk
+false
+
+com.kfactormedia.mycalendar.apk
+false
+
+com.dynamixsoftware.printershare.apk
+false
+
+com.worldmate.apk
+true
+event calendar	synchronize	android calendar	synchronize
+bangla calendar	synchronize	android calendar	synchronize
+gregorian calendar	synchronize	android calendar	synchronize
+calendar	synchronize	android calendar	synchronize
+calendar view	synchronize	android calendar	synchronize
+calendar event	synchronize	android calendar	synchronize
+event calendar	synchronize	google calendar	synchronize
+bangla calendar	synchronize	google calendar	synchronize
+gregorian calendar	synchronize	google calendar	synchronize
+calendar	synchronize	google calendar	synchronize
+calendar view	synchronize	google calendar	synchronize
+calendar event	synchronize	google calendar	synchronize
+team schedule	miss	schedule	miss
+
+com.contacts1800.ecomapp.apk
+false
+
+com.compusystems.csattendee.e580.apk
+true
+appointment	create	appointment agenda	create
+agenda	create	appointment agenda	create
+appointment	create	appointment	create
+
+com.blackboard.android.central.csupomona.apk
+false
+
+com.raiders.android.apk
+false
+
+com.appsbar.WesleyMemphis481269.apk
+false
+
+com.tv.livetv.apk
+false
+
+org.zooper.zwfree.apk
+true
+date information	customizable	date time	customizable
+late date	customizable	date time	customizable
+date	customizable	date time	customizable
+dating	customizable	date time	customizable
+important date	customizable	date time	customizable
+time date	customizable	date time	customizable
+up-to-date	customizable	date time	customizable
+due date	customizable	date time	customizable
+first date	customizable	date time	customizable
+up-to-date information	customizable	date time	customizable
+current date	customizable	date time	customizable
+release date	customizable	date time	customizable
+date time	customizable	date time	customizable
+event information	calendar	information	calendar
+current information	calendar	information	calendar
+
+com.evernote.hello.apk
+false
+
+com.zoemob.gpstracking.apk
+false
+
+com.bulletproof.voicerec.intern.apk
+true
+bill reminder	base	reminder	base
+place locator	remind	location	remind
+
+de.devmil.minimaltext.apk
+true
+event calendar	support	calendar event	support
+bangla calendar	support	calendar event	support
+gregorian calendar	support	calendar event	support
+calendar	support	calendar event	support
+device calendar	support	calendar event	support
+calendar view	support	calendar event	support
+calendar event	support	calendar event	support
+
+com.blackboardmobile.testing.yu.apk
+false
+
+fm.last.android.apk
+true
+bangla calendar	sync	calendar	sync
+gregorian calendar	sync	calendar	sync
+device calendar	sync	calendar	sync
+
+org.lds.ldstools.apk
+false
+
+com.teaminfoapp.custom.wtchipmanms.apk
+true
+event	calendar	general event	calendar
+important event	calendar	general event	calendar
+event information	calendar	general event	calendar
+live event	calendar	general event	calendar
+event date	calendar	general event	calendar
+current event	calendar	general event	calendar
+local event	calendar	general event	calendar
+event organizer	calendar	general event	calendar
+special event	calendar	general event	calendar
+event activity	calendar	general event	calendar
+new event	calendar	general event	calendar
+late event	calendar	general event	calendar
+quick reference	access	quick link	access
+quick overview	access	quick link	access
+quick start	access	quick link	access
+quick list	access	quick link	access
+quick view	access	quick link	access
+quick note	access	quick link	access
+quick link	access	quick link	access
+quick setting	access	quick link	access
+quick	access	quick link	access
+quick way	access	quick link	access
+
+com.life360.android.safetymapd.apk
+false
+
+com.jacekson.BackgroundSoundMusicLite.apk
+false
+
+com.fitnessmobileapps.brickhouse.apk
+true
+convenience	maximize	convenience	maximize
+convenient way	maximize	convenience	maximize
+convenient	maximize	convenience	maximize
+class schedule	sign	class	sign
+class schedule	maximize	class	maximize
+
+com.onerainboot.setcalendarcolors.apk
+true
+event calendar	synchronize	calendar color	synchronize
+bangla calendar	synchronize	calendar color	synchronize
+gregorian calendar	synchronize	calendar color	synchronize
+calendar	synchronize	calendar color	synchronize
+device calendar	synchronize	calendar color	synchronize
+calendar view	synchronize	calendar color	synchronize
+calendar event	synchronize	calendar color	synchronize
+event calendar	synchronize	google calendar	synchronize
+bangla calendar	synchronize	google calendar	synchronize
+gregorian calendar	synchronize	google calendar	synchronize
+calendar	synchronize	google calendar	synchronize
+calendar view	synchronize	google calendar	synchronize
+calendar event	synchronize	google calendar	synchronize
+event calendar	synchronize	google calendar web	synchronize
+calendar	synchronize	google calendar web	synchronize
+calendar view	synchronize	google calendar web	synchronize
+calendar event	synchronize	google calendar web	synchronize
+event calendar	read	current calendar	read
+bangla calendar	read	current calendar	read
+gregorian calendar	read	current calendar	read
+calendar	read	current calendar	read
+device calendar	read	current calendar	read
+calendar view	read	current calendar	read
+calendar event	read	current calendar	read
+event calendar	read	current calendar color	read
+bangla calendar	read	current calendar color	read
+gregorian calendar	read	current calendar color	read
+calendar	read	current calendar color	read
+device calendar	read	current calendar color	read
+calendar view	read	current calendar color	read
+calendar event	read	current calendar color	read
+event calendar	write	calendar	write
+bangla calendar	write	calendar	write
+gregorian calendar	write	calendar	write
+calendar	write	calendar	write
+device calendar	write	calendar	write
+calendar view	write	calendar	write
+calendar event	write	calendar	write
+
+com.galaxysync.android.app.apk
+false
+
+com.appbuilder.u33189p115487.apk
+false
+
+com.postnewsweek.galveston.apk
+false
+
+com.appbuilder.u393675p625968.apk
+false
+
+zz.rings.r_1_rassaultrifles.apk
+false
+
+com.appbuilder.u95227p530943.apk
+false
+
+com.peoplegap.callannouncer.apk
+true
+voice message	name	message	name
+message etc	name	message	name
+text message	name	message	name
+private message	name	message	name
+message ringtone	name	message	name
+custom message	name	message	name
+whatsapp message	name	message	name
+send message	name	message	name
+message alert	name	message	name
+call message	name	message	name
+push message	name	message	name
+message board	name	message	name
+facebook message	name	message	name
+read message	name	message	name
+message	name	message	name
+message mms	name	message	name
+message call	name	message	name
+instant messaging	name	message	name
+free message	name	message	name
+instant message	name	message	name
+photo message	name	message	name
+handcent message	name	message	name
+new message	name	message	name
+important message	name	message	name
+secure message	name	message	name
+message notification	name	message	name
+personal message	name	message	name
+text messaging	name	message	name
+message text	name	message	name
+unread message	name	message	name
+go message	name	message	name
+messaging	name	message	name
+chat message	name	message	name
+love message	name	message	name
+
+uk.co.finebyte.pebbleglance.apk
+true
+event calendar	read	calendar	read
+bangla calendar	read	calendar	read
+gregorian calendar	read	calendar	read
+calendar	read	calendar	read
+device calendar	read	calendar	read
+calendar view	read	calendar	read
+calendar event	read	calendar	read
+go contact	convert	contact	convert
+problem contact	convert	contact	convert
+contact photo	convert	contact	convert
+emergency contact	convert	contact	convert
+contact name	convert	contact	convert
+contact detail	convert	contact	convert
+read contact	convert	contact	convert
+contact	convert	contact	convert
+contact page	convert	contact	convert
+new contact	convert	contact	convert
+specific contact	convert	contact	convert
+contact form	convert	contact	convert
+contact number	convert	contact	convert
+contact information	convert	contact	convert
+contact list	convert	contact	convert
+contact developer	convert	contact	convert
+
+com.fede.launcher.apk
+false
+
+com.appbuilder.u311873p593082.apk
+false
+
+com.linkedin.android.apk
+false
+
+com.siine.ime.apk
+false
+
+com.getpebble.android.apk
+false
+
+com.iLivery.Main.apk
+false
+
+com.mm.cattlemannow.apk
+false
+
+com.My_Soccer_Coach.mind.apk
+false
+
+com.ofa.htc.apk
+false
+
+com.ww.HitmanReborn.apk
+true
+popular ringtones	feature	ringtones	feature
+late ringtones	feature	ringtones	feature
+free ringtones	feature	ringtones	feature
+free ringtone	feature	ringtones	feature
+popular ringtone	feature	ringtones	feature
+ringtones	feature	ringtones	feature
+iphone rington	feature	ringtones	feature
+ringtone	feature	ringtones	feature
+best ringtones	feature	ringtones	feature
+different ringtones	feature	ringtones	feature
+
+tobi.tools.timetable.apk
+false
+
+com.ecw.healow.apk
+false
+
+com.fitnessmobileapps.umbrellasalon.apk
+true
+scheduler	enjoy	scheduling appointment	enjoy
+view schedule	enjoy	scheduling appointment	enjoy
+scheduling	enjoy	scheduling appointment	enjoy
+schedule information	enjoy	scheduling appointment	enjoy
+schedule	enjoy	scheduling appointment	enjoy
+personal schedule	enjoy	scheduling appointment	enjoy
+appointment	schedule	next appointment	schedule
+
+com.linever.fastscheduler.android.apk
+false
+
+com.lifetimefitness.ltfmobile.apk
+false
+
+com.appbuilder.u365830p579532.apk
+false
+
+com.fifo.app.apk
+false
+
+com.tuviglobal.tuvi2014.apk
+false
+
+com.cox.android.mobileconnect.apk
+false
+
+com.mautibla.eliminatorias.apk
+true
+integral part	use	youtube application integration	use
+facebook integration	use	youtube application integration	use
+integration	use	youtube application integration	use
+integrates	use	youtube application integration	use
+integrated	use	youtube application integration	use
+
+com.surfwax.holidaycalendar.apk
+false
+
+com.livenation.mobile.android.na.apk
+false
+
+com.appbuilder.u375697p596649.apk
+true
+college student	access	parent student	access
+
+com.fogtechnologies.expotec.wwin.apk
+false
+
+com.emoze.Emozesync.apk
+false
+
+com.otrgroupinc.twentyfour.apk
+false
+
+com.yuplee.birthday.apk
+false
+
+com.intercall.android.mobilemeet.apk
+false
+
+com.kpm.apk
+false
+
+kiefer.JobMo.apk
+false
+
+com.ksat.bgc.apk
+false
+
+com.lionscribe.hebdate.apk
+true
+screen widget	re-add	home screen	add
+event   view  event     view
+agenda   view  agenda     view
+
+com.layer8apps.apk
+true
+bangla calendar	sync	calendar program	sync
+gregorian calendar	sync	calendar program	sync
+device calendar	sync	calendar program	sync
+
+com.lafitness.lafitness.apk
+false
+
+com.ntf.babyplanner.apk
+false
+
+com.appsbar.LifepakCRPlus462933.apk
+false
+
+com.magnifis.parking.apk
+false
+
+com.siyami.apps.an.apk
+true
+device calendar	support	device	support
+busy schedule	reminder	business	remind
+appointment	schedule	appointment	schedule
+
+com.jiubang.goscreenlock.theme.rix.getjar.apk
+false
+
+com.shopko.android.apk
+false
+
+com.pebble.smartapps.apk
+false
+
+uk.co.olilan.touchcalendar.trial.apk
+true
+event  add   event        add
+event calendar	write	calendar	write
+bangla calendar	write	calendar	write
+gregorian calendar	write	calendar	write
+calendar	write	calendar	write
+device calendar	write	calendar	write
+calendar view	write	calendar	write
+calendar event	write	calendar	write
+
+com.teaminfoapp.custom.mendenhallhs.apk
+true
+quick reference	access	quick link	access
+quick overview	access	quick link	access
+quick start	access	quick link	access
+quick list	access	quick link	access
+quick view	access	quick link	access
+quick note	access	quick link	access
+quick link	access	quick link	access
+quick setting	access	quick link	access
+quick	access	quick link	access
+quick way	access	quick link	access
+event	calendar	general event	calendar
+important event	calendar	general event	calendar
+event information	calendar	general event	calendar
+live event	calendar	general event	calendar
+event date	calendar	general event	calendar
+current event	calendar	general event	calendar
+local event	calendar	general event	calendar
+event organizer	calendar	general event	calendar
+special event	calendar	general event	calendar
+event activity	calendar	general event	calendar
+new event	calendar	general event	calendar
+late event	calendar	general event	calendar
+
+com.cbslocal.cbsyourday.apk
+false
+
+com.easilydo.apk
+true
+contact ringtones	organize	contact	organize
+contact ringtone	organize	contact	organize
+appointment	keep	appointment	keep
+event	confirmations	event	confirmations
+important event	confirmations	event	confirmations
+event information	confirmations	event	confirmations
+live event	confirmations	event	confirmations
+event date	confirmations	event	confirmations
+current event	confirmations	event	confirmations
+local event	confirmations	event	confirmations
+event organizer	confirmations	event	confirmations
+special event	confirmations	event	confirmations
+event activity	confirmations	event	confirmations
+new event	confirmations	event	confirmations
+late event	confirmations	event	confirmations
+go contact	love	contact	love
+problem contact	love	contact	love
+contact photo	love	contact	love
+emergency contact	love	contact	love
+contact name	love	contact	love
+contact detail	love	contact	love
+read contact	love	contact	love
+contact	love	contact	love
+contact page	love	contact	love
+new contact	love	contact	love
+specific contact	love	contact	love
+contact form	love	contact	love
+contact number	love	contact	love
+contact information	love	contact	love
+contact list	love	contact	love
+contact developer	love	contact	love
+
+sp.app.myWorkClock.apk
+true
+calendar     add    calendar     add
+calendar     read    calendar    	read
+
+au.com.michaelsoft.vehiclelogger.apk
+false
+
+com.anddoes.notifier.apk
+false
+
+com.sunnymediagroup.baptist.apk
+true
+appointment	keep	appointment	keep
+bangla calendar	sync	native calendar	sync
+gregorian calendar	sync	native calendar	sync
+device calendar	sync	native calendar	sync
+
+com.androids.main.apk
+false
+
+com.appsbar.TheCoffeeStop486960.apk
+false
+
+org.withouthat.acalendar.apk
+true
+event calendar	write	calendar data	write
+bangla calendar	write	calendar data	write
+gregorian calendar	write	calendar data	write
+calendar	write	calendar data	write
+device calendar	write	calendar data	write
+calendar view	write	calendar data	write
+calendar event	write	calendar data	write
+device calendar	support	device	support
+event calendar	support	calendar	support
+bangla calendar	support	calendar	support
+gregorian calendar	support	calendar	support
+calendar	support	calendar	support
+device calendar	support	calendar	support
+calendar view	support	calendar	support
+calendar event	support	calendar	support
+event calendar	support	google calendar	support
+bangla calendar	support	google calendar	support
+gregorian calendar	support	google calendar	support
+calendar	support	google calendar	support
+calendar view	support	google calendar	support
+calendar event	support	google calendar	support
+event calendar	read	calendar data	read
+bangla calendar	read	calendar data	read
+gregorian calendar	read	calendar data	read
+calendar	read	calendar data	read
+device calendar	read	calendar data	read
+calendar view	read	calendar data	read
+calendar event	read	calendar data	read
+
+com.vagaro.apk
+false
+
+org.espen.maf.apk
+false
+
+com.anydo.apk
+true
+device calendar	sync	device	sync
+bill reminder	base	reminder	base
+useful widget	re-add	widget	add
+search widget	re-add	widget	add
+beautiful widget	re-add	widget	add
+widget list	re-add	widget	add
+screen widget	re-add	widget	add
+widget support	re-add	widget	add
+time widget	re-add	widget	add
+add widget	re-add	widget	add
+perfect widget	re-add	widget	add
+on-top-widget	re-add	widget	add
+on-top-widget functionality	re-add	widget	add
+next widget	re-add	widget	add
+new widget	re-add	widget	add
+floating on-top-widget	re-add	widget	add
+simple widget	re-add	widget	add
+widget section	re-add	widget	add
+select widget	re-add	widget	add
+lockscreen widget	re-add	widget	add
+widget size	re-add	widget	add
+edit widget	re-add	widget	add
+top widget	re-add	widget	add
+homescreen widget	re-add	widget	add
+widget	re-add	widget	add
+news widget	re-add	widget	add
+screen widget	re-add	home screen	add
+
+com.tiffany.engagement.apk
+false
+
+com.firstsdachurch.firstsdachurch403.apk
+false
+
+com.mobimate.cwttogo.apk
+true
+useful widget	re-add	widget	add
+search widget	re-add	widget	add
+beautiful widget	re-add	widget	add
+widget list	re-add	widget	add
+screen widget	re-add	widget	add
+widget support	re-add	widget	add
+time widget	re-add	widget	add
+add widget	re-add	widget	add
+perfect widget	re-add	widget	add
+on-top-widget	re-add	widget	add
+on-top-widget functionality	re-add	widget	add
+next widget	re-add	widget	add
+new widget	re-add	widget	add
+floating on-top-widget	re-add	widget	add
+simple widget	re-add	widget	add
+widget section	re-add	widget	add
+select widget	re-add	widget	add
+lockscreen widget	re-add	widget	add
+widget size	re-add	widget	add
+edit widget	re-add	widget	add
+top widget	re-add	widget	add
+homescreen widget	re-add	widget	add
+widget	re-add	widget	add
+news widget	re-add	widget	add
+screen widget	re-add	home screen	add
+device calendar	push	device	push
+
+com.hipmunk.android.apk
+true
+event calendar	write	calendar	write
+bangla calendar	write	calendar	write
+gregorian calendar	write	calendar	write
+calendar	write	calendar	write
+device calendar	write	calendar	write
+calendar view	write	calendar	write
+calendar event	write	calendar	write
+
+com.pannous.voice.actions.free.apk
+false
+
+com.aimmediatexas.oavarsity.apk
+false
+
+com.google.android.calendar.apk
+true
+event calendar	remove	calendar event	remove
+bangla calendar	remove	calendar event	remove
+gregorian calendar	remove	calendar event	remove
+calendar	remove	calendar event	remove
+device calendar	remove	calendar event	remove
+calendar view	remove	calendar event	remove
+calendar event	remove	calendar event	remove
+
+jp.pioneer.mbg.appradio.AppRadioLauncher.apk
+false
+
+zz.rings.r_1_rcs.apk
+false
+
+com.mali.AttackOnTitans.apk
+false
+
+com.timleg.egoTimerLight.apk
+true
+appointment	set	task appointment	set
+event calendar	schedule	calendar	schedule
+bangla calendar	schedule	calendar	schedule
+gregorian calendar	schedule	calendar	schedule
+calendar	schedule	calendar	schedule
+device calendar	schedule	calendar	schedule
+calendar view	schedule	calendar	schedule
+calendar event	schedule	calendar	schedule
+
+com.tcs.emsummit.apk
+false
+
+com.appbuilder.u227965p560489.apk
+false
+
+com.silver.WaterRingtones.apk
+true
+popular ringtones	feature	ringtones	feature
+late ringtones	feature	ringtones	feature
+free ringtones	feature	ringtones	feature
+free ringtone	feature	ringtones	feature
+popular ringtone	feature	ringtones	feature
+ringtones	feature	ringtones	feature
+iphone rington	feature	ringtones	feature
+ringtone	feature	ringtones	feature
+best ringtones	feature	ringtones	feature
+different ringtones	feature	ringtones	feature
+
+org.satok.gweather.apk
+true
+useful widget	re-add	widget	add
+search widget	re-add	widget	add
+beautiful widget	re-add	widget	add
+widget list	re-add	widget	add
+screen widget	re-add	widget	add
+widget support	re-add	widget	add
+time widget	re-add	widget	add
+add widget	re-add	widget	add
+perfect widget	re-add	widget	add
+on-top-widget	re-add	widget	add
+on-top-widget functionality	re-add	widget	add
+next widget	re-add	widget	add
+new widget	re-add	widget	add
+floating on-top-widget	re-add	widget	add
+simple widget	re-add	widget	add
+widget section	re-add	widget	add
+select widget	re-add	widget	add
+lockscreen widget	re-add	widget	add
+widget size	re-add	widget	add
+edit widget	re-add	widget	add
+top widget	re-add	widget	add
+homescreen widget	re-add	widget	add
+widget	re-add	widget	add
+news widget	re-add	widget	add
+
+com.zero8timetracking.timesheeter.apk
+false
+
+bside.extremeambient.net.apk
+false
+
+praana.appl.advreminder.apk
+true
+calendar  add        calendar      add
+calendar  set        calendar      set
+daily schedule	reminder	daily life	remind
+event calendar	schedule	calendar	schedule
+bangla calendar	schedule	calendar	schedule
+gregorian calendar	schedule	calendar	schedule
+calendar	schedule	calendar	schedule
+device calendar	schedule	calendar	schedule
+calendar view	schedule	calendar	schedule
+calendar event	schedule	calendar	schedule
+event	schedule	event	schedule
+important event	schedule	event	schedule
+event information	schedule	event	schedule
+live event	schedule	event	schedule
+event date	schedule	event	schedule
+current event	schedule	event	schedule
+local event	schedule	event	schedule
+event organizer	schedule	event	schedule
+special event	schedule	event	schedule
+event activity	schedule	event	schedule
+new event	schedule	event	schedule
+late event	schedule	event	schedule
+
+com.blackboard.android.central.texasam.apk
+false
+
+com.blackboard.android.central.liu.apk
+false
+
+atclic.android.en.babycounter.free.apk
+false
+
+com.pennfoster.studyplan.apk
+false
+
+com.apcurium.MK.BostonCab.apk
+false
+
+com.anod.calendar.apk
+true
+useful widget	re-add	widget	add
+search widget	re-add	widget	add
+beautiful widget	re-add	widget	add
+widget list	re-add	widget	add
+screen widget	re-add	widget	add
+widget support	re-add	widget	add
+time widget	re-add	widget	add
+add widget	re-add	widget	add
+perfect widget	re-add	widget	add
+on-top-widget	re-add	widget	add
+on-top-widget functionality	re-add	widget	add
+next widget	re-add	widget	add
+new widget	re-add	widget	add
+floating on-top-widget	re-add	widget	add
+simple widget	re-add	widget	add
+widget section	re-add	widget	add
+select widget	re-add	widget	add
+lockscreen widget	re-add	widget	add
+widget size	re-add	widget	add
+edit widget	re-add	widget	add
+top widget	re-add	widget	add
+homescreen widget	re-add	widget	add
+widget	re-add	widget	add
+news widget	re-add	widget	add
+screen widget	re-add	home screen	add
+useful widget	re-add	simple calendar widget	add
+widget list	re-add	simple calendar widget	add
+widget support	re-add	simple calendar widget	add
+time widget	re-add	simple calendar widget	add
+next widget	re-add	simple calendar widget	add
+new widget	re-add	simple calendar widget	add
+simple widget	re-add	simple calendar widget	add
+lockscreen widget	re-add	simple calendar widget	add
+homescreen widget	re-add	simple calendar widget	add
+widget	re-add	simple calendar widget	add
+news widget	re-add	simple calendar widget	add
+
+com.motorola.migrate.apk
+false
+
+net.manageapps.app_37401.apk
+false
+
+com.innov8tion.isharesync.apk
+false
+
+com.gau.go.touchhelperex.theme.eva.apk
+false
+
+blacknWhite.CallBlocker.Gold.apk
+false
+
+com.zoemob.smsbackup.apk
+false
+
+us.zoom.videomeetings.apk
+false
+
+com.avast.android.at_play.apk
+false
+
+com.matchmaker.apk
+false
+
+edu.uiowa.studenttools.apk
+false
+
+com.Birthday_Countdown_Alarm_Clock_118071.apk
+false
+
+com.sunnymediagroup.dmcbaby.apk
+true
+appointment	keep	appointment	keep
+device calendar	sync	device	sync
+
+ru.yandex.shell.apk
+false
+
+com.Barbara.RingtoneGunfireSMSRingtones.apk
+true
+popular ringtones	issue	ringtones	issue
+late ringtones	issue	ringtones	issue
+free ringtones	issue	ringtones	issue
+music ringtones	issue	ringtones	issue
+notification ringtones	issue	ringtones	issue
+free ringtone	issue	ringtones	issue
+popular ringtone	issue	ringtones	issue
+ringtones notification	issue	ringtones	issue
+contact ringtones	issue	ringtones	issue
+contact ringtone	issue	ringtones	issue
+ringtone notification	issue	ringtones	issue
+ringtones	issue	ringtones	issue
+iphone rington	issue	ringtones	issue
+ringtone	issue	ringtones	issue
+best ringtones	issue	ringtones	issue
+different ringtones	issue	ringtones	issue
+
+com.cornsoftware.calendar.apk
+true
+date	long-press	current date	press
+dating	long-press	current date	press
+time date	long-press	current date	press
+up-to-date	long-press	current date	press
+due date	long-press	current date	press
+first date	long-press	current date	press
+current date	long-press	current date	press
+release date	long-press	current date	press
+date time	long-press	current date	press
+
+com.nhn.android.calendar.apk
+true
+appointment	save	new schedule appointment	save
+date information	long-press	date	press
+late date	long-press	date	press
+date	long-press	date	press
+dating	long-press	date	press
+important date	long-press	date	press
+time date	long-press	date	press
+up-to-date	long-press	date	press
+due date	long-press	date	press
+first date	long-press	date	press
+up-to-date information	long-press	date	press
+current date	long-press	date	press
+release date	long-press	date	press
+date time	long-press	date	press
+appointment	add	appointment	add
+
+com.siyami.apps.patientregister.apk
+true
+appointment	schedule	appointment	schedule
+
+AutomateIt.mainPackage.apk
+true
+event	define	event	define
+important event	define	event	define
+event information	define	event	define
+live event	define	event	define
+event date	define	event	define
+current event	define	event	define
+local event	define	event	define
+event organizer	define	event	define
+special event	define	event	define
+event activity	define	event	define
+new event	define	event	define
+late event	define	event	define
+
+com.jawbone.companion.apk
+true
+current date	long-press	current time	press
+
+com.gtp.nextlauncher.widget.calendar.apk
+true
+event calendar  view calendar   view
+agenda  view agenda   view
+event calendar	support	next calendar	support
+bangla calendar	support	next calendar	support
+gregorian calendar	support	next calendar	support
+calendar	support	next calendar	support
+device calendar	support	next calendar	support
+calendar view	support	next calendar	support
+calendar event	support	next calendar	support
+event calendar	support	next calendar widget	support
+bangla calendar	support	next calendar widget	support
+gregorian calendar	support	next calendar widget	support
+calendar	support	next calendar widget	support
+device calendar	support	next calendar widget	support
+calendar view	support	next calendar widget	support
+calendar event	support	next calendar widget	support
+event calendar	support	calendar	support
+bangla calendar	support	calendar	support
+gregorian calendar	support	calendar	support
+calendar	support	calendar	support
+device calendar	support	calendar	support
+calendar view	support	calendar	support
+calendar event	support	calendar	support
+agenda	add	agenda	add
+useful widget	re-add	next widget	add
+search widget	re-add	next widget	add
+beautiful widget	re-add	next widget	add
+widget list	re-add	next widget	add
+screen widget	re-add	next widget	add
+widget support	re-add	next widget	add
+time widget	re-add	next widget	add
+add widget	re-add	next widget	add
+perfect widget	re-add	next widget	add
+on-top-widget	re-add	next widget	add
+on-top-widget functionality	re-add	next widget	add
+next widget	re-add	next widget	add
+new widget	re-add	next widget	add
+floating on-top-widget	re-add	next widget	add
+simple widget	re-add	next widget	add
+widget section	re-add	next widget	add
+select widget	re-add	next widget	add
+lockscreen widget	re-add	next widget	add
+widget size	re-add	next widget	add
+edit widget	re-add	next widget	add
+top widget	re-add	next widget	add
+homescreen widget	re-add	next widget	add
+widget	re-add	next widget	add
+news widget	re-add	next widget	add
+screen widget	re-add	home screen	add
+
+com.coreapps.android.followme.finet2013.apk
+true
+email client	aim	best client	aim
+
+com.gau.go.launcherex.gowidget.calendarwidget.apk
+true
+event calendar	design	calendar	design
+bangla calendar	design	calendar	design
+gregorian calendar	design	calendar	design
+calendar	design	calendar	design
+device calendar	design	calendar	design
+calendar view	design	calendar	design
+calendar event	design	calendar	design
+agenda	add	agenda	add
+screen widget	re-add	home screen	add
+event calendar	support	real calendar	support
+bangla calendar	support	real calendar	support
+gregorian calendar	support	real calendar	support
+calendar	support	real calendar	support
+device calendar	support	real calendar	support
+calendar view	support	real calendar	support
+calendar event	support	real calendar	support
+
+com.appsbar.JUNKREMOVAL487510.apk
+false
+
+com.t2.t2expense.apk
+true
+event calendar	read	calendar	read
+bangla calendar	read	calendar	read
+gregorian calendar	read	calendar	read
+calendar	read	calendar	read
+device calendar	read	calendar	read
+calendar view	read	calendar	read
+calendar event	read	calendar	read
+

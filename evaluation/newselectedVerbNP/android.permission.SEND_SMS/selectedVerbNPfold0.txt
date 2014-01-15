@@ -1,0 +1,2177 @@
+webcam chat
+keep	1.0	2
+
+personal purpose
+appear	1.0	3
+instal	1.0	2
+assign	1.0	2
+earn	1.0	2
+belong	1.0	2
+backup	1.0	2
+
+word text
+meet	1.0	3
+invite	1.0	2
+limitless	1.0	2
+avoid	1.0	2
+dialog	1.0	2
+
+message text
+wipe	1.0	6
+pretend	1.0	2
+texting	1.0	2
+recommend	1.0	2
+compare	1.0	2
+prompt	1.0	2
+reject	1.0	3
+move	1.0	2
+return	1.0	2
+drop	1.0	2
+affiliate	1.0	2
+imagine	1.0	2
+pop	1.0	4
+message	1.0	3
+store	1.0	4
+sell	1.0	2
+bomb	1.0	2
+earn	1.0	2
+speech	1.0	2
+split	1.0	2
+continue	1.0	4
+lose	1.0	2
+retransmit	1.0	2
+peer	1.0	2
+dialog	1.0	4
+faso	1.0	2
+buy	1.0	2
+recognize	1.0	2
+geotag	1.0	2
+schedule	0.866666666667	15
+
+custom message
+charge	1.0	3
+wipe	1.0	5
+pretend	1.0	2
+texting	1.0	2
+recommend	1.0	2
+compare	1.0	2
+prompt	1.0	2
+reject	1.0	3
+move	1.0	2
+return	1.0	2
+drop	1.0	2
+affiliate	1.0	2
+imagine	1.0	2
+pop	1.0	3
+message	1.0	2
+store	1.0	2
+split	1.0	2
+continue	1.0	3
+lose	1.0	2
+retransmit	1.0	2
+peer	1.0	2
+dialog	1.0	3
+faso	1.0	2
+buy	1.0	2
+expect	1.0	3
+geotag	1.0	2
+schedule	0.909090909091	11
+encrypt	0.909090909091	11
+insert	0.857142857143	7
+
+busy schedule
+restore	1.0	2
+wont	1.0	2
+schedule	1.0	4
+come	1.0	2
+
+text
+bring	1.0	2
+avoid	1.0	2
+limitless	1.0	2
+invite	1.0	2
+compose	1.0	2
+dialog	1.0	2
+meet	1.0	3
+control	1.0	2
+initiate	1.0	2
+
+group chat
+keep	1.0	2
+
+place locator
+sender	1.0	6
+checkout	1.0	2
+remind	1.0	2
+
+yahoo news
+store	1.0	2
+
+chat room
+keep	1.0	2
+
+photo message
+wipe	1.0	6
+pretend	1.0	2
+texting	1.0	2
+recommend	1.0	2
+compare	1.0	2
+prompt	1.0	2
+reject	1.0	3
+move	1.0	2
+return	1.0	2
+drop	1.0	2
+affiliate	1.0	2
+imagine	1.0	2
+pop	1.0	4
+message	1.0	3
+store	1.0	4
+sell	1.0	2
+bomb	1.0	2
+earn	1.0	2
+speech	1.0	2
+split	1.0	2
+continue	1.0	4
+lose	1.0	2
+retransmit	1.0	2
+peer	1.0	2
+dialog	1.0	4
+faso	1.0	2
+buy	1.0	2
+recognize	1.0	2
+geotag	1.0	2
+schedule	0.866666666667	15
+
+good service
+pro	1.0	2
+believe	1.0	2
+detail	1.0	3
+
+secure
+ask	1.0	4
+verify	1.0	2
+
+text message
+wipe	1.0	6
+pretend	1.0	2
+texting	1.0	2
+recommend	1.0	2
+compare	1.0	2
+prompt	1.0	2
+reject	1.0	3
+move	1.0	2
+return	1.0	2
+drop	1.0	2
+affiliate	1.0	2
+imagine	1.0	2
+pop	1.0	4
+message	1.0	3
+store	1.0	4
+sell	1.0	2
+bomb	1.0	2
+earn	1.0	2
+speech	1.0	2
+split	1.0	2
+continue	1.0	4
+lose	1.0	2
+retransmit	1.0	2
+peer	1.0	2
+dialog	1.0	4
+faso	1.0	2
+buy	1.0	2
+recognize	1.0	2
+geotag	1.0	2
+schedule	0.866666666667	15
+
+voice message
+wipe	1.0	6
+pretend	1.0	2
+texting	1.0	2
+recommend	1.0	2
+compare	1.0	2
+prompt	1.0	2
+reject	1.0	3
+move	1.0	2
+return	1.0	2
+drop	1.0	2
+affiliate	1.0	2
+imagine	1.0	2
+pop	1.0	4
+message	1.0	2
+store	1.0	4
+sell	1.0	2
+bomb	1.0	2
+earn	1.0	2
+speech	1.0	2
+split	1.0	2
+continue	1.0	4
+lose	1.0	2
+retransmit	1.0	2
+peer	1.0	2
+dialog	1.0	4
+faso	1.0	2
+buy	1.0	2
+wish	1.0	2
+expect	1.0	3
+geotag	1.0	2
+encrypt	0.916666666667	12
+schedule	0.866666666667	15
+
+mobile tracker
+ask	1.0	2
+keep	1.0	4
+compatible	1.0	2
+backup	1.0	2
+meet	1.0	2
+worry	1.0	2
+
+world standard
+wonder	1.0	2
+provide	0.875	8
+
+personal
+appear	1.0	3
+instal	1.0	2
+assign	1.0	2
+earn	1.0	2
+belong	1.0	2
+backup	1.0	2
+
+new event
+plan	1.0	3
+comb	1.0	9
+ensure	1.0	5
+
+local restaurant
+forget	1.0	2
+
+national park
+decide	1.0	4
+list	1.0	2
+start	1.0	2
+invite	1.0	2
+guide	1.0	2
+allow	1.0	3
+
+location
+sender	1.0	6
+checkout	1.0	2
+imagine	1.0	2
+
+special event
+plan	1.0	3
+comb	1.0	9
+ensure	1.0	5
+
+mobile network
+implement	1.0	2
+ask	1.0	2
+worry	1.0	2
+compatible	1.0	2
+
+great service
+pro	1.0	2
+believe	1.0	2
+detail	1.0	3
+
+personality
+appear	1.0	3
+instal	1.0	2
+assign	1.0	2
+earn	1.0	2
+belong	1.0	2
+backup	1.0	2
+
+handcent message
+wipe	1.0	6
+pretend	1.0	2
+recommend	1.0	2
+compare	1.0	2
+prompt	1.0	2
+reject	1.0	3
+move	1.0	2
+return	1.0	2
+drop	1.0	2
+affiliate	1.0	2
+imagine	1.0	2
+pop	1.0	4
+message	1.0	3
+store	1.0	4
+sell	1.0	2
+bomb	1.0	2
+earn	1.0	2
+speech	1.0	2
+split	1.0	2
+continue	1.0	4
+lose	1.0	2
+retransmit	1.0	2
+peer	1.0	2
+dialog	1.0	4
+texting	1.0	2
+faso	1.0	2
+buy	1.0	2
+geotag	1.0	2
+schedule	0.866666666667	15
+
+ultimate experience
+cool	1.0	2
+dont	0.857142857143	7
+
+event organizer
+plan	1.0	3
+comb	1.0	9
+consist	1.0	2
+
+secure message
+wipe	1.0	6
+pretend	1.0	2
+texting	1.0	2
+recommend	1.0	2
+compare	1.0	2
+prompt	1.0	2
+reject	1.0	3
+move	1.0	2
+return	1.0	2
+drop	1.0	2
+affiliate	1.0	2
+imagine	1.0	2
+pop	1.0	4
+message	1.0	2
+store	1.0	4
+sell	1.0	2
+bomb	1.0	2
+earn	1.0	2
+speech	1.0	2
+split	1.0	2
+continue	1.0	4
+lose	1.0	2
+retransmit	1.0	2
+peer	1.0	2
+dialog	1.0	4
+faso	1.0	2
+buy	1.0	2
+expect	1.0	3
+recognize	1.0	2
+geotag	1.0	2
+schedule	0.866666666667	15
+
+contact page
+dont	1.0	2
+notify	1.0	2
+thorough	1.0	3
+consist	1.0	2
+respond	1.0	3
+improve	1.0	2
+load	1.0	2
+trigger	1.0	2
+disappear	1.0	2
+alert	1.0	2
+coordinate	1.0	7
+refer	1.0	2
+
+mobile screen
+ask	1.0	2
+keep	1.0	4
+compatible	1.0	2
+backup	1.0	2
+meet	1.0	2
+worry	1.0	2
+
+important event
+plan	1.0	3
+comb	1.0	9
+ensure	1.0	5
+
+message alert
+charge	1.0	3
+wipe	1.0	5
+pretend	1.0	2
+meet	1.0	2
+compare	1.0	2
+prompt	1.0	2
+reject	1.0	3
+move	1.0	3
+return	1.0	2
+drop	1.0	2
+affiliate	1.0	2
+pop	1.0	3
+message	1.0	2
+store	1.0	2
+split	1.0	2
+continue	1.0	3
+lose	1.0	2
+peer	1.0	2
+dialog	1.0	4
+texting	1.0	2
+faso	1.0	2
+buy	1.0	2
+wish	1.0	2
+expect	1.0	3
+geotag	1.0	2
+schedule	0.909090909091	11
+encrypt	0.909090909091	11
+insert	0.857142857143	7
+
+group member
+explore	1.0	2
+switch	1.0	2
+extend	0.857142857143	21
+
+facebook chat
+keep	1.0	2
+
+best restaurant
+forget	1.0	2
+
+late event
+plan	1.0	3
+comb	1.0	9
+ensure	1.0	5
+
+scheduler
+restore	1.0	2
+wont	1.0	2
+schedule	1.0	4
+come	1.0	2
+
+flipfont technology
+advance	1.0	2
+boast	1.0	2
+
+contact detail
+dont	1.0	2
+notify	1.0	2
+thorough	1.0	3
+consist	1.0	2
+respond	1.0	3
+improve	1.0	2
+load	1.0	2
+trigger	1.0	2
+disappear	1.0	2
+alert	1.0	2
+coordinate	1.0	7
+refer	1.0	2
+
+contact ringtone
+disappear	1.0	2
+switch	1.0	4
+dont	1.0	2
+respond	1.0	3
+load	1.0	2
+trigger	1.0	2
+alert	1.0	2
+coordinate	1.0	7
+refer	1.0	2
+block	1.0	6
+mean	0.857142857143	7
+
+standard size
+wonder	1.0	2
+provide	0.875	8
+
+mobile platform
+backup	1.0	2
+worry	1.0	2
+meet	1.0	2
+
+event information
+plan	1.0	3
+comb	1.0	9
+ensure	1.0	5
+
+message mms
+wipe	1.0	6
+pretend	1.0	2
+recommend	1.0	2
+compare	1.0	2
+prompt	1.0	2
+reject	1.0	3
+move	1.0	2
+return	1.0	2
+drop	1.0	2
+affiliate	1.0	2
+imagine	1.0	2
+pop	1.0	4
+message	1.0	3
+store	1.0	4
+sell	1.0	2
+bomb	1.0	2
+earn	1.0	2
+speech	1.0	2
+split	1.0	2
+continue	1.0	4
+lose	1.0	2
+retransmit	1.0	2
+peer	1.0	2
+dialog	1.0	4
+texting	1.0	2
+faso	1.0	2
+buy	1.0	2
+geotag	1.0	2
+schedule	0.866666666667	15
+
+event
+plan	1.0	3
+comb	1.0	9
+ensure	1.0	5
+
+mobile web
+ask	1.0	2
+compatible	1.0	2
+backup	1.0	2
+worry	1.0	2
+implement	1.0	2
+
+event date
+plan	1.0	3
+comb	1.0	9
+ensure	1.0	5
+consist	1.0	2
+
+class schedule
+restore	1.0	2
+wont	1.0	2
+schedule	1.0	4
+
+security
+ask	1.0	4
+verify	1.0	2
+
+go chat
+keep	1.0	2
+
+go contact
+disappear	1.0	2
+dont	1.0	2
+notify	1.0	2
+thorough	1.0	3
+consist	1.0	2
+respond	1.0	3
+improve	1.0	2
+load	1.0	2
+trigger	1.0	2
+alert	1.0	2
+coordinate	1.0	7
+refer	1.0	2
+
+new standard
+wonder	1.0	2
+provide	0.875	8
+
+send message
+wipe	1.0	6
+pretend	1.0	2
+texting	1.0	2
+recommend	1.0	2
+compare	1.0	2
+prompt	1.0	2
+reject	1.0	3
+move	1.0	2
+return	1.0	2
+drop	1.0	2
+affiliate	1.0	2
+imagine	1.0	2
+pop	1.0	4
+message	1.0	3
+store	1.0	4
+sell	1.0	2
+bomb	1.0	2
+earn	1.0	2
+speech	1.0	2
+split	1.0	2
+continue	1.0	4
+lose	1.0	2
+retransmit	1.0	2
+peer	1.0	2
+dialog	1.0	4
+faso	1.0	2
+buy	1.0	2
+recognize	1.0	2
+geotag	1.0	2
+schedule	0.866666666667	15
+
+contact list
+dont	1.0	2
+notify	1.0	2
+thorough	1.0	3
+consist	1.0	2
+respond	1.0	3
+improve	1.0	2
+load	1.0	2
+trigger	1.0	2
+disappear	1.0	2
+alert	1.0	2
+coordinate	1.0	7
+refer	1.0	2
+
+contact form
+disappear	1.0	2
+dont	1.0	2
+notify	1.0	2
+thorough	1.0	3
+consist	1.0	2
+respond	1.0	3
+improve	1.0	2
+load	1.0	2
+trigger	1.0	2
+alert	1.0	2
+coordinate	1.0	7
+refer	1.0	2
+
+casually chat
+keep	1.0	2
+
+chat message
+charge	1.0	3
+wipe	1.0	5
+pretend	1.0	2
+app	1.0	5
+compare	1.0	2
+prompt	1.0	2
+reject	1.0	3
+move	1.0	2
+return	1.0	2
+affiliate	1.0	2
+imagine	1.0	2
+pop	1.0	3
+store	1.0	2
+split	1.0	2
+lose	1.0	2
+peer	1.0	2
+dialog	1.0	3
+texting	1.0	2
+faso	1.0	2
+buy	1.0	2
+wish	1.0	2
+expect	1.0	3
+geotag	1.0	2
+schedule	0.909090909091	11
+encrypt	0.909090909091	11
+insert	0.857142857143	7
+
+mobile experience
+steal	1.0	2
+worry	1.0	2
+
+personalization
+appear	1.0	3
+instal	1.0	2
+assign	1.0	2
+earn	1.0	2
+belong	1.0	2
+backup	1.0	2
+
+mobile service
+steal	1.0	2
+worry	1.0	2
+
+mobile internet
+implement	1.0	2
+steal	1.0	2
+worry	1.0	2
+
+read contact
+dont	1.0	2
+notify	1.0	2
+thorough	1.0	3
+consist	1.0	2
+respond	1.0	3
+improve	1.0	2
+load	1.0	2
+trigger	1.0	2
+disappear	1.0	2
+alert	1.0	2
+coordinate	1.0	7
+refer	1.0	2
+
+naughty chat
+keep	1.0	2
+
+mobile security
+implement	1.0	2
+steal	1.0	2
+worry	1.0	2
+
+mobile tv
+implement	1.0	2
+steal	1.0	2
+worry	1.0	2
+
+message tone
+wipe	1.0	5
+pretend	1.0	2
+app	1.0	5
+texting	1.0	2
+recommend	1.0	2
+meet	1.0	2
+compare	1.0	2
+reject	1.0	3
+return	1.0	2
+drop	1.0	2
+affiliate	1.0	2
+imagine	1.0	2
+pop	1.0	3
+message	1.0	2
+store	1.0	2
+move	1.0	2
+split	1.0	2
+continue	1.0	3
+lose	1.0	2
+peer	1.0	2
+dialog	1.0	3
+faso	1.0	2
+buy	1.0	2
+expect	1.0	3
+geotag	1.0	2
+schedule	0.909090909091	11
+encrypt	0.909090909091	11
+insert	0.857142857143	7
+
+anonymous chat
+keep	1.0	2
+
+different chat
+keep	1.0	2
+
+pedestrian navigation
+ensure	1.0	5
+
+view schedule
+restore	1.0	2
+wont	1.0	2
+schedule	1.0	4
+come	1.0	2
+
+new technology
+advance	1.0	2
+boast	1.0	2
+
+personal experience
+cool	1.0	2
+dont	0.857142857143	7
+
+message ringtone
+wipe	1.0	6
+pretend	1.0	2
+texting	1.0	2
+recommend	1.0	2
+compare	1.0	2
+prompt	1.0	2
+reject	1.0	3
+move	1.0	2
+return	1.0	2
+drop	1.0	2
+affiliate	1.0	2
+imagine	1.0	2
+pop	1.0	4
+message	1.0	3
+store	1.0	4
+sell	1.0	2
+bomb	1.0	2
+earn	1.0	2
+speech	1.0	2
+split	1.0	2
+continue	1.0	4
+lose	1.0	2
+retransmit	1.0	2
+peer	1.0	2
+dialog	1.0	4
+faso	1.0	2
+buy	1.0	2
+expect	1.0	3
+recognize	1.0	2
+geotag	1.0	2
+schedule	0.866666666667	15
+
+locate
+sender	1.0	6
+checkout	1.0	2
+imagine	1.0	2
+
+voice recording
+write	1.0	9
+start	1.0	2
+voice	1.0	2
+check	1.0	3
+answer	1.0	3
+
+various location
+sender	1.0	6
+checkout	1.0	2
+imagine	1.0	2
+
+late technology
+advance	1.0	2
+boast	1.0	2
+
+instant messaging
+charge	1.0	3
+wipe	1.0	5
+pretend	1.0	2
+convert	1.0	2
+app	1.0	5
+recommend	1.0	2
+compare	1.0	2
+prompt	1.0	2
+reject	1.0	3
+return	1.0	2
+drop	1.0	2
+affiliate	1.0	2
+imagine	1.0	2
+pop	1.0	3
+message	1.0	2
+store	1.0	2
+split	1.0	2
+continue	1.0	3
+lose	1.0	2
+retransmit	1.0	2
+peer	1.0	2
+dialog	1.0	3
+texting	1.0	2
+faso	1.0	2
+buy	1.0	2
+wish	1.0	2
+expect	1.0	3
+geotag	1.0	2
+schedule	0.909090909091	11
+encrypt	0.909090909091	11
+insert	0.857142857143	7
+
+schedule
+restore	1.0	2
+wont	1.0	2
+schedule	1.0	4
+come	1.0	2
+
+emergency contact
+dont	1.0	2
+notify	1.0	2
+thorough	1.0	3
+consist	1.0	2
+respond	1.0	3
+improve	1.0	2
+load	1.0	2
+trigger	1.0	2
+disappear	1.0	2
+alert	1.0	2
+coordinate	1.0	7
+refer	1.0	2
+
+parking place
+decide	1.0	4
+list	1.0	2
+start	1.0	2
+invite	1.0	2
+guide	1.0	2
+allow	1.0	3
+
+personal message
+wipe	1.0	6
+pretend	1.0	2
+recommend	1.0	2
+compare	1.0	2
+prompt	1.0	2
+reject	1.0	3
+move	1.0	2
+return	1.0	2
+drop	1.0	2
+affiliate	1.0	2
+imagine	1.0	2
+pop	1.0	4
+message	1.0	3
+store	1.0	4
+sell	1.0	2
+bomb	1.0	2
+earn	1.0	2
+speech	1.0	2
+split	1.0	2
+continue	1.0	4
+lose	1.0	2
+retransmit	1.0	2
+peer	1.0	2
+dialog	1.0	4
+texting	1.0	2
+faso	1.0	2
+buy	1.0	2
+geotag	1.0	2
+schedule	0.866666666667	15
+
+parking lot
+decide	1.0	4
+list	1.0	2
+start	1.0	2
+invite	1.0	2
+guide	1.0	2
+allow	1.0	3
+
+standard
+wonder	1.0	2
+provide	0.875	8
+
+new message
+wipe	1.0	6
+pretend	1.0	2
+recommend	1.0	2
+compare	1.0	2
+prompt	1.0	2
+reject	1.0	3
+move	1.0	2
+return	1.0	2
+drop	1.0	2
+affiliate	1.0	2
+imagine	1.0	2
+pop	1.0	4
+message	1.0	3
+store	1.0	4
+sell	1.0	2
+bomb	1.0	2
+earn	1.0	2
+speech	1.0	2
+split	1.0	2
+continue	1.0	4
+lose	1.0	2
+retransmit	1.0	2
+peer	1.0	2
+dialog	1.0	4
+texting	1.0	2
+faso	1.0	2
+buy	1.0	2
+geotag	1.0	2
+schedule	0.866666666667	15
+
+gps location
+sender	1.0	6
+checkout	1.0	2
+imagine	1.0	2
+
+live chat
+keep	1.0	2
+
+instant
+feature	1.0	2
+
+restaurant
+forget	1.0	2
+
+important message
+wipe	1.0	6
+pretend	1.0	2
+recommend	1.0	2
+compare	1.0	2
+prompt	1.0	2
+reject	1.0	3
+move	1.0	2
+return	1.0	2
+drop	1.0	2
+affiliate	1.0	2
+imagine	1.0	2
+pop	1.0	4
+message	1.0	3
+store	1.0	4
+sell	1.0	2
+bomb	1.0	2
+earn	1.0	2
+speech	1.0	2
+split	1.0	2
+continue	1.0	4
+lose	1.0	2
+retransmit	1.0	2
+peer	1.0	2
+dialog	1.0	4
+texting	1.0	2
+faso	1.0	2
+buy	1.0	2
+geotag	1.0	2
+schedule	0.866666666667	15
+
+best service
+pro	1.0	2
+believe	1.0	2
+detail	1.0	3
+
+live event
+plan	1.0	3
+comb	1.0	9
+ensure	1.0	5
+
+simple mobile
+steal	1.0	2
+worry	1.0	2
+
+active development
+comb	1.0	9
+come	1.0	4
+thorough	1.0	3
+
+email message
+content	1.0	2
+wipe	1.0	5
+pretend	1.0	2
+recommend	1.0	2
+reject	1.0	3
+imagine	1.0	2
+move	1.0	3
+return	1.0	2
+affiliate	1.0	2
+pop	1.0	3
+message	1.0	2
+split	1.0	2
+prompt	1.0	2
+peer	1.0	2
+dialog	1.0	3
+texting	1.0	2
+faso	1.0	2
+buy	1.0	2
+wish	1.0	2
+expect	1.0	3
+geotag	1.0	2
+schedule	0.916666666667	12
+insert	0.857142857143	7
+
+current event
+plan	1.0	3
+comb	1.0	9
+ensure	1.0	5
+consist	1.0	2
+
+messaging
+wipe	1.0	6
+pretend	1.0	2
+recommend	1.0	2
+compare	1.0	2
+prompt	1.0	2
+reject	1.0	3
+move	1.0	2
+return	1.0	2
+drop	1.0	2
+affiliate	1.0	2
+imagine	1.0	2
+pop	1.0	4
+message	1.0	3
+store	1.0	4
+sell	1.0	2
+bomb	1.0	2
+earn	1.0	2
+speech	1.0	2
+split	1.0	2
+continue	1.0	4
+lose	1.0	2
+retransmit	1.0	2
+peer	1.0	2
+dialog	1.0	4
+texting	1.0	2
+faso	1.0	2
+buy	1.0	2
+geotag	1.0	2
+schedule	0.866666666667	15
+
+backup
+calllogs	1.0	2
+
+mobile access
+steal	1.0	2
+worry	1.0	2
+
+push message
+wipe	1.0	6
+pretend	1.0	2
+texting	1.0	2
+recommend	1.0	2
+compare	1.0	2
+prompt	1.0	2
+reject	1.0	3
+move	1.0	2
+return	1.0	2
+drop	1.0	2
+affiliate	1.0	2
+imagine	1.0	2
+pop	1.0	4
+message	1.0	3
+store	1.0	4
+sell	1.0	2
+bomb	1.0	2
+earn	1.0	2
+speech	1.0	2
+split	1.0	2
+continue	1.0	4
+lose	1.0	2
+retransmit	1.0	2
+peer	1.0	2
+dialog	1.0	4
+faso	1.0	2
+buy	1.0	2
+expect	1.0	3
+recognize	1.0	2
+geotag	1.0	2
+schedule	0.866666666667	15
+
+family
+click	1.0	2
+store	1.0	2
+
+contact name
+disappear	1.0	2
+dont	1.0	2
+notify	1.0	2
+thorough	1.0	3
+consist	1.0	2
+respond	1.0	3
+improve	1.0	2
+load	1.0	2
+trigger	1.0	2
+alert	1.0	2
+coordinate	1.0	7
+refer	1.0	2
+
+instant messenger
+include	1.0	2
+
+gps technology
+advance	1.0	2
+boast	1.0	2
+
+sim card
+lock	1.0	5
+notify	1.0	2
+configure	1.0	2
+enable	1.0	2
+
+text background
+compose	1.0	2
+meet	1.0	3
+initiate	1.0	2
+limitless	1.0	2
+deliver	1.0	2
+avoid	1.0	2
+dialog	1.0	2
+invite	1.0	2
+
+locator
+sender	1.0	6
+checkout	1.0	2
+imagine	1.0	2
+
+unread message
+wipe	1.0	6
+pretend	1.0	2
+texting	1.0	2
+recommend	1.0	2
+compare	1.0	2
+prompt	1.0	2
+reject	1.0	3
+move	1.0	2
+return	1.0	2
+drop	1.0	2
+affiliate	1.0	2
+imagine	1.0	2
+pop	1.0	4
+message	1.0	3
+store	1.0	4
+sell	1.0	2
+bomb	1.0	2
+earn	1.0	2
+speech	1.0	2
+split	1.0	2
+continue	1.0	4
+lose	1.0	2
+retransmit	1.0	2
+peer	1.0	2
+dialog	1.0	4
+faso	1.0	2
+buy	1.0	2
+recognize	1.0	2
+geotag	1.0	2
+schedule	0.866666666667	15
+encrypt	0.857142857143	14
+
+mobile banking
+ask	1.0	2
+keep	1.0	4
+compatible	1.0	2
+backup	1.0	2
+meet	1.0	2
+worry	1.0	2
+
+police station
+load	0.923076923077	13
+
+message
+wipe	1.0	6
+pretend	1.0	2
+recommend	1.0	2
+compare	1.0	2
+prompt	1.0	2
+reject	1.0	3
+move	1.0	2
+return	1.0	2
+drop	1.0	2
+affiliate	1.0	2
+imagine	1.0	2
+pop	1.0	4
+message	1.0	3
+store	1.0	4
+sell	1.0	2
+bomb	1.0	2
+earn	1.0	2
+speech	1.0	2
+split	1.0	2
+continue	1.0	4
+lose	1.0	2
+retransmit	1.0	2
+peer	1.0	2
+dialog	1.0	4
+texting	1.0	2
+faso	1.0	2
+buy	1.0	2
+geotag	1.0	2
+schedule	0.866666666667	15
+
+parking
+decide	1.0	4
+list	1.0	2
+start	1.0	2
+invite	1.0	2
+guide	1.0	2
+allow	1.0	3
+
+different location
+sender	1.0	6
+checkout	1.0	2
+imagine	1.0	2
+
+alarm setting
+ring	1.0	2
+inform	1.0	2
+
+service
+pro	1.0	2
+believe	1.0	2
+detail	1.0	3
+
+free message
+wipe	1.0	6
+pretend	1.0	2
+texting	1.0	2
+recommend	1.0	2
+compare	1.0	2
+prompt	1.0	2
+reject	1.0	3
+move	1.0	2
+return	1.0	2
+drop	1.0	2
+affiliate	1.0	2
+imagine	1.0	2
+pop	1.0	4
+message	1.0	3
+store	1.0	4
+sell	1.0	2
+bomb	1.0	2
+earn	1.0	2
+speech	1.0	2
+split	1.0	2
+continue	1.0	4
+lose	1.0	2
+retransmit	1.0	2
+peer	1.0	2
+dialog	1.0	4
+faso	1.0	2
+buy	1.0	2
+recognize	1.0	2
+geotag	1.0	2
+schedule	0.866666666667	15
+encrypt	0.857142857143	14
+
+instant message
+charge	1.0	3
+wipe	1.0	5
+pretend	1.0	2
+convert	1.0	2
+app	1.0	5
+recommend	1.0	2
+compare	1.0	2
+prompt	1.0	2
+reject	1.0	3
+return	1.0	2
+drop	1.0	2
+affiliate	1.0	2
+imagine	1.0	2
+pop	1.0	3
+message	1.0	2
+store	1.0	2
+split	1.0	2
+continue	1.0	3
+lose	1.0	2
+retransmit	1.0	2
+peer	1.0	2
+dialog	1.0	3
+texting	1.0	2
+faso	1.0	2
+buy	1.0	2
+wish	1.0	2
+expect	1.0	3
+geotag	1.0	2
+schedule	0.909090909091	11
+encrypt	0.909090909091	11
+insert	0.857142857143	7
+
+chat history
+keep	1.0	2
+
+texting
+bring	1.0	2
+avoid	1.0	2
+limitless	1.0	2
+invite	1.0	2
+compose	1.0	2
+dialog	1.0	2
+meet	1.0	3
+control	1.0	2
+initiate	1.0	2
+
+new location
+sender	1.0	6
+checkout	1.0	2
+imagine	1.0	2
+
+message email
+content	1.0	2
+wipe	1.0	5
+pretend	1.0	2
+recommend	1.0	2
+reject	1.0	3
+imagine	1.0	2
+move	1.0	3
+return	1.0	2
+affiliate	1.0	2
+pop	1.0	3
+message	1.0	2
+split	1.0	2
+prompt	1.0	2
+peer	1.0	2
+dialog	1.0	3
+texting	1.0	2
+faso	1.0	2
+buy	1.0	2
+wish	1.0	2
+expect	1.0	3
+geotag	1.0	2
+schedule	0.916666666667	12
+insert	0.857142857143	7
+
+love message
+wipe	1.0	6
+pretend	1.0	2
+texting	1.0	2
+recommend	1.0	2
+compare	1.0	2
+prompt	1.0	2
+reject	1.0	3
+move	1.0	2
+return	1.0	2
+drop	1.0	2
+affiliate	1.0	2
+imagine	1.0	2
+pop	1.0	4
+message	1.0	3
+store	1.0	4
+sell	1.0	2
+bomb	1.0	2
+earn	1.0	2
+speech	1.0	2
+split	1.0	2
+continue	1.0	4
+lose	1.0	2
+retransmit	1.0	2
+peer	1.0	2
+dialog	1.0	4
+faso	1.0	2
+buy	1.0	2
+expect	1.0	3
+recognize	1.0	2
+geotag	1.0	2
+schedule	0.866666666667	15
+
+whatsapp message
+wipe	1.0	6
+pretend	1.0	2
+recommend	1.0	2
+compare	1.0	2
+prompt	1.0	2
+reject	1.0	3
+move	1.0	2
+return	1.0	2
+drop	1.0	2
+affiliate	1.0	2
+imagine	1.0	2
+pop	1.0	4
+message	1.0	3
+store	1.0	4
+sell	1.0	2
+bomb	1.0	2
+earn	1.0	2
+speech	1.0	2
+split	1.0	2
+continue	1.0	4
+lose	1.0	2
+retransmit	1.0	2
+peer	1.0	2
+dialog	1.0	4
+texting	1.0	2
+faso	1.0	2
+buy	1.0	2
+geotag	1.0	2
+schedule	0.866666666667	15
+
+parking spot
+decide	1.0	4
+list	1.0	2
+start	1.0	2
+invite	1.0	2
+guide	1.0	2
+allow	1.0	3
+
+message board
+wipe	1.0	6
+pretend	1.0	2
+texting	1.0	2
+recommend	1.0	2
+compare	1.0	2
+prompt	1.0	2
+reject	1.0	3
+move	1.0	2
+return	1.0	2
+drop	1.0	2
+affiliate	1.0	2
+imagine	1.0	2
+pop	1.0	4
+message	1.0	2
+store	1.0	4
+sell	1.0	2
+bomb	1.0	2
+earn	1.0	2
+speech	1.0	2
+split	1.0	2
+continue	1.0	4
+lose	1.0	2
+retransmit	1.0	2
+peer	1.0	2
+dialog	1.0	4
+faso	1.0	2
+buy	1.0	2
+wish	1.0	2
+geotag	1.0	2
+schedule	0.866666666667	15
+
+chatting
+keep	1.0	2
+
+park
+decide	1.0	4
+list	1.0	2
+start	1.0	2
+invite	1.0	2
+guide	1.0	2
+allow	1.0	3
+
+yahoo
+store	1.0	2
+
+mobile application
+ask	1.0	2
+compatible	1.0	2
+backup	1.0	2
+worry	1.0	2
+implement	1.0	2
+
+personal detail
+appear	1.0	3
+secure	1.0	2
+assign	1.0	2
+earn	1.0	2
+instal	1.0	2
+
+family member
+increase	1.0	2
+store	1.0	2
+
+chat application
+keep	1.0	2
+
+call message
+wipe	1.0	6
+pretend	1.0	2
+recommend	1.0	2
+compare	1.0	2
+prompt	1.0	2
+reject	1.0	3
+move	1.0	2
+return	1.0	2
+drop	1.0	2
+affiliate	1.0	2
+imagine	1.0	2
+pop	1.0	4
+message	1.0	3
+store	1.0	4
+sell	1.0	2
+bomb	1.0	2
+earn	1.0	2
+speech	1.0	2
+split	1.0	2
+continue	1.0	4
+lose	1.0	2
+retransmit	1.0	2
+peer	1.0	2
+dialog	1.0	4
+texting	1.0	2
+faso	1.0	2
+buy	1.0	2
+geotag	1.0	2
+schedule	0.866666666667	15
+
+mobile rush
+ask	1.0	2
+keep	1.0	4
+compatible	1.0	2
+backup	1.0	2
+meet	1.0	2
+worry	1.0	2
+
+current position
+share	1.0	10
+allow	0.875	8
+
+free chat
+keep	1.0	2
+
+private message
+wipe	1.0	6
+pretend	1.0	2
+texting	1.0	2
+recommend	1.0	2
+compare	1.0	2
+prompt	1.0	2
+reject	1.0	3
+move	1.0	2
+return	1.0	2
+drop	1.0	2
+affiliate	1.0	2
+imagine	1.0	2
+pop	1.0	4
+message	1.0	3
+store	1.0	4
+sell	1.0	2
+bomb	1.0	2
+earn	1.0	2
+speech	1.0	2
+split	1.0	2
+continue	1.0	4
+lose	1.0	2
+retransmit	1.0	2
+peer	1.0	2
+dialog	1.0	4
+faso	1.0	2
+buy	1.0	2
+recognize	1.0	2
+geotag	1.0	2
+schedule	0.866666666667	15
+
+precise location
+sender	1.0	6
+checkout	1.0	2
+imagine	1.0	2
+
+incoming message
+read	1.0	4
+reply	1.0	2
+click	1.0	2
+hide	1.0	3
+protect	1.0	2
+
+contact developer
+dont	1.0	2
+notify	1.0	2
+thorough	1.0	3
+consist	1.0	2
+respond	1.0	3
+improve	1.0	2
+load	1.0	2
+trigger	1.0	2
+disappear	1.0	2
+alert	1.0	2
+coordinate	1.0	7
+refer	1.0	2
+
+whole family
+click	1.0	2
+store	1.0	2
+
+mobile operator
+steal	1.0	2
+worry	1.0	2
+
+handcent service
+pro	1.0	2
+believe	1.0	2
+detail	1.0	3
+
+voice
+write	1.0	9
+free	1.0	2
+voice	1.0	2
+check	1.0	3
+
+experience point
+cool	1.0	2
+dont	0.857142857143	7
+
+mobile number
+steal	1.0	2
+worry	1.0	2
+
+private chat
+keep	1.0	2
+
+personal life
+earn	1.0	2
+appear	1.0	3
+secure	1.0	2
+instal	1.0	2
+assign	1.0	2
+
+mobile coupon
+ask	1.0	2
+receive	1.0	2
+keep	1.0	4
+compatible	1.0	2
+backup	1.0	2
+meet	1.0	2
+worry	1.0	2
+
+read message
+wipe	1.0	6
+pretend	1.0	2
+texting	1.0	2
+recommend	1.0	2
+compare	1.0	2
+prompt	1.0	2
+reject	1.0	3
+move	1.0	2
+return	1.0	2
+drop	1.0	2
+affiliate	1.0	2
+imagine	1.0	2
+pop	1.0	4
+message	1.0	3
+store	1.0	4
+sell	1.0	2
+bomb	1.0	2
+earn	1.0	2
+speech	1.0	2
+split	1.0	2
+continue	1.0	4
+lose	1.0	2
+retransmit	1.0	2
+peer	1.0	2
+dialog	1.0	4
+faso	1.0	2
+buy	1.0	2
+recognize	1.0	2
+geotag	1.0	2
+schedule	0.866666666667	15
+encrypt	0.857142857143	14
+
+family guy
+click	1.0	2
+store	1.0	2
+
+call text
+bring	1.0	2
+avoid	1.0	2
+limitless	1.0	2
+invite	1.0	2
+compose	1.0	2
+dialog	1.0	2
+meet	1.0	3
+control	1.0	2
+initiate	1.0	2
+
+chat
+keep	1.0	2
+
+event activity
+plan	1.0	3
+comb	1.0	9
+ensure	1.0	5
+
+scheduling
+restore	1.0	2
+wont	1.0	2
+schedule	1.0	4
+come	1.0	2
+
+time location
+sender	1.0	6
+checkout	1.0	2
+imagine	1.0	2
+
+technology
+advance	1.0	2
+boast	1.0	2
+
+schedule information
+restore	1.0	2
+wont	1.0	2
+schedule	1.0	4
+come	1.0	2
+
+personal schedule
+restore	1.0	2
+wont	1.0	2
+schedule	1.0	4
+come	1.0	2
+
+service provider
+pro	1.0	2
+believe	1.0	2
+detail	1.0	3
+
+voice note
+write	1.0	9
+free	1.0	2
+voice	1.0	2
+check	1.0	3
+
+interactive feature
+locate	1.0	5
+invite	1.0	5
+fun	1.0	3
+
+standard feature
+wonder	1.0	2
+provide	0.875	8
+
+specific contact
+dont	1.0	2
+notify	1.0	2
+thorough	1.0	3
+consist	1.0	2
+respond	1.0	3
+improve	1.0	2
+load	1.0	2
+trigger	1.0	2
+disappear	1.0	2
+alert	1.0	2
+coordinate	1.0	7
+refer	1.0	2
+
+next alarm
+ring	1.0	2
+inform	1.0	2
+
+instant share
+feature	1.0	2
+
+mobile apps
+ask	1.0	2
+compatible	1.0	2
+backup	1.0	2
+worry	1.0	2
+implement	1.0	2
+
+go message
+wipe	1.0	6
+pretend	1.0	2
+recommend	1.0	2
+compare	1.0	2
+prompt	1.0	2
+reject	1.0	3
+move	1.0	2
+return	1.0	2
+drop	1.0	2
+affiliate	1.0	2
+imagine	1.0	2
+pop	1.0	4
+message	1.0	3
+store	1.0	4
+sell	1.0	2
+bomb	1.0	2
+earn	1.0	2
+speech	1.0	2
+split	1.0	2
+continue	1.0	4
+lose	1.0	2
+retransmit	1.0	2
+peer	1.0	2
+dialog	1.0	4
+texting	1.0	2
+faso	1.0	2
+buy	1.0	2
+geotag	1.0	2
+schedule	0.866666666667	15
+
+good experience
+cool	1.0	2
+dont	0.857142857143	7
+
+message etc
+wipe	1.0	6
+pretend	1.0	2
+recommend	1.0	2
+compare	1.0	2
+prompt	1.0	2
+reject	1.0	3
+move	1.0	2
+return	1.0	2
+drop	1.0	2
+affiliate	1.0	2
+imagine	1.0	2
+pop	1.0	4
+message	1.0	3
+store	1.0	4
+sell	1.0	2
+bomb	1.0	2
+earn	1.0	2
+speech	1.0	2
+split	1.0	2
+continue	1.0	4
+lose	1.0	2
+retransmit	1.0	2
+peer	1.0	2
+dialog	1.0	4
+texting	1.0	2
+faso	1.0	2
+buy	1.0	2
+geotag	1.0	2
+schedule	0.866666666667	15
+
+background text
+compose	1.0	2
+meet	1.0	3
+initiate	1.0	2
+limitless	1.0	2
+deliver	1.0	2
+avoid	1.0	2
+dialog	1.0	2
+invite	1.0	2
+
+new contact
+disappear	1.0	2
+dont	1.0	2
+notify	1.0	2
+thorough	1.0	3
+consist	1.0	2
+respond	1.0	3
+improve	1.0	2
+load	1.0	2
+trigger	1.0	2
+alert	1.0	2
+coordinate	1.0	7
+refer	1.0	2
+
+random chat
+keep	1.0	2
+
+text messaging
+wipe	1.0	6
+pretend	1.0	2
+texting	1.0	2
+recommend	1.0	2
+compare	1.0	2
+prompt	1.0	2
+reject	1.0	3
+move	1.0	2
+return	1.0	2
+drop	1.0	2
+affiliate	1.0	2
+imagine	1.0	2
+pop	1.0	4
+message	1.0	3
+store	1.0	4
+sell	1.0	2
+bomb	1.0	2
+earn	1.0	2
+speech	1.0	2
+split	1.0	2
+continue	1.0	4
+lose	1.0	2
+retransmit	1.0	2
+peer	1.0	2
+dialog	1.0	4
+faso	1.0	2
+buy	1.0	2
+recognize	1.0	2
+geotag	1.0	2
+schedule	0.866666666667	15
+
+message notification
+wipe	1.0	6
+pretend	1.0	2
+texting	1.0	2
+recommend	1.0	2
+compare	1.0	2
+prompt	1.0	2
+reject	1.0	3
+move	1.0	2
+return	1.0	2
+drop	1.0	2
+affiliate	1.0	2
+imagine	1.0	2
+pop	1.0	4
+message	1.0	3
+store	1.0	4
+sell	1.0	2
+bomb	1.0	2
+earn	1.0	2
+speech	1.0	2
+split	1.0	2
+continue	1.0	4
+lose	1.0	2
+retransmit	1.0	2
+peer	1.0	2
+dialog	1.0	4
+faso	1.0	2
+buy	1.0	2
+expect	1.0	3
+recognize	1.0	2
+geotag	1.0	2
+schedule	0.866666666667	15
+
+mobile deposit
+ask	1.0	2
+keep	1.0	4
+compatible	1.0	2
+backup	1.0	2
+meet	1.0	2
+worry	1.0	2
+
+great experience
+cool	1.0	2
+dont	0.857142857143	7
+
+local event
+plan	1.0	3
+comb	1.0	9
+ensure	1.0	5
+
+theme park
+decide	1.0	4
+list	1.0	2
+start	1.0	2
+invite	1.0	2
+guide	1.0	2
+allow	1.0	3
+
+contact photo
+hold	1.0	2
+dont	1.0	2
+notify	1.0	2
+thorough	1.0	3
+consist	1.0	2
+respond	1.0	3
+improve	1.0	2
+load	1.0	2
+trigger	1.0	2
+disappear	1.0	2
+alert	1.0	2
+coordinate	1.0	7
+refer	1.0	2
+
+voice recognition
+write	1.0	9
+start	1.0	2
+voice	1.0	2
+check	1.0	3
+answer	1.0	3
+
+high standard
+wonder	1.0	2
+provide	0.875	8
+
+contact ringtones
+disappear	1.0	2
+switch	1.0	4
+dont	1.0	2
+respond	1.0	3
+load	1.0	2
+trigger	1.0	2
+alert	1.0	2
+coordinate	1.0	7
+refer	1.0	2
+block	1.0	6
+mean	0.857142857143	7
+
+voice recorder
+write	1.0	9
+start	1.0	2
+voice	1.0	2
+check	1.0	3
+answer	1.0	3
+
+voice command
+web	1.0	2
+voice	1.0	2
+transfer	1.0	2
+start	1.0	2
+control	1.0	2
+check	1.0	3
+write	0.9	10
+
+contact number
+dont	1.0	2
+notify	1.0	2
+thorough	1.0	3
+consist	1.0	2
+respond	1.0	3
+improve	1.0	2
+load	1.0	2
+trigger	1.0	2
+disappear	1.0	2
+alert	1.0	2
+coordinate	1.0	7
+refer	1.0	2
+
+alarm
+ring	1.0	2
+inform	1.0	2
+
+facebook message
+wipe	1.0	6
+pretend	1.0	2
+recommend	1.0	2
+compare	1.0	2
+prompt	1.0	2
+reject	1.0	3
+move	1.0	2
+return	1.0	2
+drop	1.0	2
+affiliate	1.0	2
+imagine	1.0	2
+pop	1.0	4
+message	1.0	3
+store	1.0	4
+sell	1.0	2
+bomb	1.0	2
+earn	1.0	2
+speech	1.0	2
+split	1.0	2
+continue	1.0	4
+lose	1.0	2
+retransmit	1.0	2
+peer	1.0	2
+dialog	1.0	4
+texting	1.0	2
+faso	1.0	2
+buy	1.0	2
+recognize	1.0	2
+geotag	1.0	2
+schedule	0.866666666667	15
+encrypt	0.857142857143	14
+
+person
+appear	1.0	3
+instal	1.0	2
+assign	1.0	2
+earn	1.0	2
+belong	1.0	2
+backup	1.0	2
+
+near location
+sender	1.0	6
+checkout	1.0	2
+imagine	1.0	2
+
+contact
+disappear	1.0	2
+dont	1.0	2
+notify	1.0	2
+thorough	1.0	3
+consist	1.0	2
+respond	1.0	3
+improve	1.0	2
+load	1.0	2
+trigger	1.0	2
+alert	1.0	2
+coordinate	1.0	7
+refer	1.0	2
+
+boost mobile
+ask	1.0	2
+keep	1.0	4
+compatible	1.0	2
+backup	1.0	2
+meet	1.0	2
+worry	1.0	2
+
+voice call
+write	1.0	9
+free	1.0	2
+voice	1.0	2
+check	1.0	3
+
+message call
+wipe	1.0	6
+pretend	1.0	2
+recommend	1.0	2
+compare	1.0	2
+prompt	1.0	2
+reject	1.0	3
+move	1.0	2
+return	1.0	2
+drop	1.0	2
+affiliate	1.0	2
+imagine	1.0	2
+pop	1.0	4
+message	1.0	3
+store	1.0	4
+sell	1.0	2
+bomb	1.0	2
+earn	1.0	2
+speech	1.0	2
+split	1.0	2
+continue	1.0	4
+lose	1.0	2
+retransmit	1.0	2
+peer	1.0	2
+dialog	1.0	4
+texting	1.0	2
+faso	1.0	2
+buy	1.0	2
+geotag	1.0	2
+schedule	0.866666666667	15
+
+mobile game
+ask	1.0	2
+keep	1.0	4
+compatible	1.0	2
+backup	1.0	2
+meet	1.0	2
+worry	1.0	2
+
+problem contact
+dont	1.0	2
+notify	1.0	2
+thorough	1.0	3
+consist	1.0	2
+respond	1.0	3
+improve	1.0	2
+load	1.0	2
+trigger	1.0	2
+disappear	1.0	2
+alert	1.0	2
+coordinate	1.0	7
+refer	1.0	2
+
+contact information
+dont	1.0	2
+notify	1.0	2
+thorough	1.0	3
+consist	1.0	2
+respond	1.0	3
+improve	1.0	2
+load	1.0	2
+trigger	1.0	2
+disappear	1.0	2
+alert	1.0	2
+coordinate	1.0	7
+refer	1.0	2
+

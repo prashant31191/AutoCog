@@ -1,0 +1,2026 @@
+internet permission
+steal	1.0	2
+
+custom message
+wipe	1.0	5
+app	1.0	6
+recommend	1.0	2
+recall	1.0	2
+move	1.0	2
+affiliate	1.0	2
+print	1.0	2
+message	1.0	2
+specify	1.0	3
+drive	1.0	2
+clean	1.0	2
+wonder	1.0	2
+import	1.0	4
+lose	1.0	2
+exit	1.0	5
+peer	1.0	2
+promise	1.0	2
+log	1.0	4
+apps	1.0	2
+count	1.0	2
+limit	1.0	3
+expect	1.0	3
+geotag	1.0	2
+control	0.857142857143	7
+
+new widget
+specify	1.0	2
+enter	1.0	2
+
+text
+bring	1.0	2
+wipe	1.0	3
+avoid	1.0	2
+limitless	1.0	2
+dialog	1.0	2
+miss	1.0	2
+initiate	1.0	2
+
+popup window
+windows	1.0	3
+
+select widget
+specify	1.0	2
+enter	1.0	2
+
+photo message
+wipe	1.0	6
+thats	1.0	2
+app	1.0	6
+recommend	1.0	2
+recall	1.0	2
+spy	1.0	2
+move	1.0	2
+affiliate	1.0	2
+print	1.0	2
+message	1.0	3
+specify	1.0	3
+sell	1.0	2
+transactions	1.0	2
+drive	1.0	2
+clean	1.0	2
+earn	1.0	2
+wonder	1.0	2
+import	1.0	4
+lose	1.0	2
+exit	1.0	5
+peer	1.0	2
+promise	1.0	2
+apps	1.0	2
+count	1.0	2
+limit	1.0	3
+recognize	1.0	2
+geotag	1.0	2
+control	0.857142857143	7
+monitor	0.857142857143	7
+
+different level
+items	1.0	3
+al	1.0	2
+
+samsung galaxy
+imagine	1.0	2
+
+new puzzle
+pass	0.883333333333	60
+
+android browser
+sms	1.0	2
+receive	1.0	2
+
+launcher ex
+settings	1.0	2
+save	1.0	2
+windows	1.0	2
+
+launcher dodol
+settings	1.0	2
+save	1.0	2
+windows	1.0	2
+
+galaxy
+imagine	1.0	2
+
+push message
+wipe	1.0	6
+thats	1.0	2
+app	1.0	6
+recommend	1.0	2
+recall	1.0	2
+spy	1.0	2
+move	1.0	2
+affiliate	1.0	2
+print	1.0	2
+message	1.0	3
+specify	1.0	3
+sell	1.0	2
+transactions	1.0	2
+drive	1.0	2
+clean	1.0	2
+earn	1.0	2
+wonder	1.0	2
+import	1.0	4
+lose	1.0	2
+exit	1.0	5
+peer	1.0	2
+promise	1.0	2
+apps	1.0	2
+count	1.0	2
+limit	1.0	3
+expect	1.0	3
+recognize	1.0	2
+geotag	1.0	2
+control	0.857142857143	7
+monitor	0.857142857143	7
+
+text message
+wipe	1.0	6
+thats	1.0	2
+app	1.0	6
+recommend	1.0	2
+recall	1.0	2
+spy	1.0	2
+move	1.0	2
+affiliate	1.0	2
+print	1.0	2
+message	1.0	3
+specify	1.0	3
+sell	1.0	2
+transactions	1.0	2
+drive	1.0	2
+clean	1.0	2
+earn	1.0	2
+wonder	1.0	2
+import	1.0	4
+lose	1.0	2
+exit	1.0	5
+peer	1.0	2
+promise	1.0	2
+apps	1.0	2
+count	1.0	2
+limit	1.0	3
+recognize	1.0	2
+geotag	1.0	2
+control	0.857142857143	7
+monitor	0.857142857143	7
+
+voice message
+wipe	1.0	6
+thats	1.0	2
+app	1.0	6
+recommend	1.0	2
+recall	1.0	2
+spy	1.0	2
+move	1.0	2
+affiliate	1.0	2
+print	1.0	2
+message	1.0	2
+specify	1.0	3
+sell	1.0	2
+drive	1.0	2
+clean	1.0	2
+earn	1.0	2
+wonder	1.0	2
+import	1.0	4
+lose	1.0	2
+exit	1.0	5
+peer	1.0	2
+promise	1.0	2
+apps	1.0	2
+count	1.0	2
+limit	1.0	3
+expect	1.0	3
+geotag	1.0	2
+control	0.857142857143	7
+monitor	0.857142857143	7
+
+galaxy theme
+imagine	1.0	2
+
+mobile tracker
+compatible	1.0	2
+
+new level
+items	1.0	3
+al	1.0	2
+
+email message
+wipe	1.0	5
+thats	1.0	2
+recommend	1.0	2
+recall	1.0	2
+move	1.0	3
+affiliate	1.0	2
+unlock	1.0	2
+message	1.0	2
+specify	1.0	3
+wonder	1.0	2
+drive	1.0	2
+clean	1.0	2
+exit	1.0	5
+peer	1.0	2
+apps	1.0	2
+limit	1.0	3
+expect	1.0	3
+geotag	1.0	2
+control	0.857142857143	7
+
+exdialer theme
+restore	1.0	2
+
+widget icon
+speed	1.0	2
+enter	1.0	2
+
+mobile banking
+compatible	1.0	2
+
+desktop
+speed	1.0	2
+tap	1.0	2
+
+battery booster
+act	1.0	2
+
+theme
+restore	1.0	2
+
+setting
+secure	1.0	2
+begin	1.0	2
+dismiss	1.0	8
+launcher	1.0	2
+pop	0.973684210526	38
+
+gregorian calendar
+restore	1.0	2
+backup	1.0	2
+
+close icon
+lock	1.0	2
+remove	0.880952380952	42
+
+battery saving
+act	1.0	2
+visit	1.0	2
+
+handcent message
+wipe	1.0	6
+thats	1.0	2
+app	1.0	6
+recommend	1.0	2
+recall	1.0	2
+spy	1.0	2
+move	1.0	2
+affiliate	1.0	2
+print	1.0	2
+message	1.0	3
+specify	1.0	3
+sell	1.0	2
+transactions	1.0	2
+drive	1.0	2
+clean	1.0	2
+cheat	1.0	2
+earn	1.0	2
+wonder	1.0	2
+import	1.0	4
+lose	1.0	2
+exit	1.0	5
+peer	1.0	2
+promise	1.0	2
+apps	1.0	2
+count	1.0	2
+limit	1.0	3
+geotag	1.0	2
+control	0.857142857143	7
+monitor	0.857142857143	7
+
+permission
+steal	1.0	2
+check	1.0	2
+
+secure message
+wipe	1.0	6
+thats	1.0	2
+app	1.0	6
+recommend	1.0	2
+recall	1.0	2
+spy	1.0	2
+move	1.0	2
+affiliate	1.0	2
+print	1.0	2
+message	1.0	2
+specify	1.0	3
+sell	1.0	2
+transactions	1.0	2
+drive	1.0	2
+clean	1.0	2
+earn	1.0	2
+wonder	1.0	2
+import	1.0	4
+lose	1.0	2
+exit	1.0	5
+peer	1.0	2
+promise	1.0	2
+apps	1.0	2
+count	1.0	2
+limit	1.0	3
+expect	1.0	3
+recognize	1.0	2
+geotag	1.0	2
+control	0.857142857143	7
+monitor	0.857142857143	7
+
+puzzle game
+pass	0.883333333333	60
+
+different theme
+restore	1.0	2
+
+message alert
+wipe	1.0	5
+recall	1.0	2
+meet	1.0	2
+move	1.0	3
+affiliate	1.0	2
+print	1.0	2
+message	1.0	2
+drive	1.0	2
+clean	1.0	2
+wonder	1.0	2
+import	1.0	5
+lose	1.0	2
+exit	1.0	5
+peer	1.0	2
+promise	1.0	2
+apps	1.0	2
+limit	1.0	3
+expect	1.0	3
+geotag	1.0	2
+control	0.857142857143	7
+
+galaxy ii
+imagine	1.0	2
+
+permission request
+steal	1.0	2
+
+new icon
+lock	1.0	2
+remove	0.880952380952	42
+
+message text
+wipe	1.0	6
+thats	1.0	2
+app	1.0	6
+recommend	1.0	2
+recall	1.0	2
+spy	1.0	2
+move	1.0	2
+affiliate	1.0	2
+print	1.0	2
+message	1.0	3
+specify	1.0	3
+sell	1.0	2
+transactions	1.0	2
+drive	1.0	2
+clean	1.0	2
+earn	1.0	2
+wonder	1.0	2
+import	1.0	4
+lose	1.0	2
+exit	1.0	5
+peer	1.0	2
+promise	1.0	2
+apps	1.0	2
+count	1.0	2
+limit	1.0	3
+recognize	1.0	2
+geotag	1.0	2
+control	0.857142857143	7
+monitor	0.857142857143	7
+
+contact detail
+wipe	1.0	6
+dont	1.0	2
+notify	1.0	2
+message	1.0	3
+accompany	1.0	2
+refer	1.0	2
+
+battery information
+act	1.0	2
+visit	1.0	2
+
+difficulty level
+items	1.0	3
+al	1.0	2
+
+home launcher
+settings	1.0	2
+save	1.0	2
+windows	1.0	2
+
+message mms
+wipe	1.0	6
+thats	1.0	2
+app	1.0	6
+recommend	1.0	2
+recall	1.0	2
+spy	1.0	2
+move	1.0	2
+affiliate	1.0	2
+print	1.0	2
+message	1.0	3
+specify	1.0	3
+sell	1.0	2
+transactions	1.0	2
+drive	1.0	2
+clean	1.0	2
+cheat	1.0	2
+earn	1.0	2
+wonder	1.0	2
+import	1.0	4
+lose	1.0	2
+exit	1.0	5
+peer	1.0	2
+promise	1.0	2
+apps	1.0	2
+count	1.0	2
+limit	1.0	3
+geotag	1.0	2
+control	0.857142857143	7
+monitor	0.857142857143	7
+
+battery drain
+act	1.0	2
+
+certain permission
+steal	1.0	2
+check	1.0	2
+
+icon advertisement
+lock	1.0	2
+remove	0.880952380952	42
+
+level
+items	1.0	3
+al	1.0	2
+
+battery saver
+act	1.0	2
+
+battery usage
+act	1.0	2
+
+homee launcher
+settings	1.0	2
+save	1.0	2
+windows	1.0	2
+
+appearance setting
+secure	1.0	2
+dismiss	1.0	8
+launcher	1.0	2
+pop	0.973684210526	38
+
+event calendar
+restore	1.0	2
+backup	1.0	2
+
+go locker
+enable	1.0	2
+disable	1.0	5
+
+go contact
+wipe	1.0	6
+dont	1.0	2
+notify	1.0	2
+message	1.0	3
+accompany	1.0	2
+refer	1.0	2
+
+next widget
+specify	1.0	2
+enter	1.0	2
+
+slide puzzle
+pass	0.883333333333	60
+
+desktop widget
+specify	1.0	2
+speed	1.0	3
+enter	1.0	2
+
+set
+secure	1.0	2
+begin	1.0	2
+dismiss	1.0	8
+launcher	1.0	2
+pop	0.973684210526	38
+
+send message
+wipe	1.0	6
+thats	1.0	2
+app	1.0	6
+recommend	1.0	2
+recall	1.0	2
+spy	1.0	2
+move	1.0	2
+affiliate	1.0	2
+print	1.0	2
+message	1.0	3
+specify	1.0	3
+sell	1.0	2
+transactions	1.0	2
+drive	1.0	2
+clean	1.0	2
+earn	1.0	2
+wonder	1.0	2
+import	1.0	4
+lose	1.0	2
+exit	1.0	5
+peer	1.0	2
+promise	1.0	2
+apps	1.0	2
+count	1.0	2
+limit	1.0	3
+recognize	1.0	2
+geotag	1.0	2
+control	0.857142857143	7
+monitor	0.857142857143	7
+
+contact list
+wipe	1.0	6
+dont	1.0	2
+notify	1.0	2
+message	1.0	3
+accompany	1.0	2
+refer	1.0	2
+
+message etc
+wipe	1.0	6
+thats	1.0	2
+app	1.0	6
+recommend	1.0	2
+recall	1.0	2
+spy	1.0	2
+move	1.0	2
+affiliate	1.0	2
+print	1.0	2
+message	1.0	3
+specify	1.0	3
+sell	1.0	2
+transactions	1.0	2
+drive	1.0	2
+clean	1.0	2
+cheat	1.0	2
+earn	1.0	2
+wonder	1.0	2
+import	1.0	4
+lose	1.0	2
+exit	1.0	5
+peer	1.0	2
+promise	1.0	2
+apps	1.0	2
+count	1.0	2
+limit	1.0	3
+geotag	1.0	2
+control	0.857142857143	7
+monitor	0.857142857143	7
+
+contact form
+wipe	1.0	6
+dont	1.0	2
+notify	1.0	2
+message	1.0	3
+accompany	1.0	2
+refer	1.0	2
+
+dodol launcher
+settings	1.0	2
+save	1.0	2
+windows	1.0	2
+
+chat message
+wipe	1.0	5
+app	1.0	5
+recall	1.0	2
+move	1.0	2
+affiliate	1.0	2
+print	1.0	2
+specify	1.0	3
+clean	1.0	2
+watch	1.0	2
+wonder	1.0	2
+import	1.0	4
+lose	1.0	2
+exit	1.0	5
+peer	1.0	2
+promise	1.0	2
+log	1.0	4
+apps	1.0	2
+expect	1.0	3
+geotag	1.0	2
+control	0.857142857143	7
+
+jigsaw puzzle
+pass	0.883333333333	60
+
+next launcher
+settings	1.0	2
+save	1.0	2
+windows	1.0	2
+
+mobile game
+compatible	1.0	2
+
+special icon
+lock	1.0	2
+remove	0.880952380952	42
+
+calendar
+restore	1.0	2
+backup	1.0	2
+
+read contact
+wipe	1.0	6
+dont	1.0	2
+notify	1.0	2
+message	1.0	3
+accompany	1.0	2
+refer	1.0	2
+
+new contact
+wipe	1.0	6
+dont	1.0	2
+notify	1.0	2
+message	1.0	3
+accompany	1.0	2
+refer	1.0	2
+
+solo launcher
+settings	1.0	2
+save	1.0	2
+windows	1.0	2
+
+icon annoying
+lock	1.0	2
+remove	0.880952380952	42
+
+start launcher
+settings	1.0	2
+save	1.0	2
+windows	1.0	2
+
+desktop computer
+speed	1.0	2
+tap	1.0	2
+
+different set
+secure	1.0	2
+begin	1.0	2
+dismiss	1.0	8
+launcher	1.0	2
+pop	0.973684210526	38
+
+galaxy tab
+imagine	1.0	2
+
+smart launcher
+settings	1.0	2
+save	1.0	2
+windows	1.0	2
+
+crossword puzzle
+pass	0.883333333333	60
+
+puzzle piece
+pass	0.883333333333	60
+
+icon widget
+speed	1.0	2
+enter	1.0	2
+
+message ringtone
+wipe	1.0	6
+thats	1.0	2
+app	1.0	6
+recommend	1.0	2
+recall	1.0	2
+spy	1.0	2
+move	1.0	2
+affiliate	1.0	2
+print	1.0	2
+message	1.0	3
+specify	1.0	3
+sell	1.0	2
+transactions	1.0	2
+drive	1.0	2
+clean	1.0	2
+earn	1.0	2
+wonder	1.0	2
+import	1.0	4
+lose	1.0	2
+exit	1.0	5
+peer	1.0	2
+promise	1.0	2
+apps	1.0	2
+count	1.0	2
+limit	1.0	3
+expect	1.0	3
+recognize	1.0	2
+geotag	1.0	2
+control	0.857142857143	7
+monitor	0.857142857143	7
+
+device calendar
+restore	1.0	2
+backup	1.0	2
+
+widget
+specify	1.0	2
+enter	1.0	2
+
+instant messaging
+wipe	1.0	5
+convert	1.0	2
+app	1.0	5
+recommend	1.0	2
+affiliate	1.0	2
+print	1.0	2
+message	1.0	2
+specify	1.0	3
+drive	1.0	2
+clean	1.0	2
+wonder	1.0	2
+import	1.0	4
+lose	1.0	2
+exit	1.0	5
+peer	1.0	2
+promise	1.0	2
+log	1.0	4
+apps	1.0	2
+limit	1.0	3
+expect	1.0	3
+geotag	1.0	2
+control	0.857142857143	7
+
+message tone
+wipe	1.0	5
+app	1.0	5
+recommend	1.0	2
+recall	1.0	2
+meet	1.0	2
+affiliate	1.0	2
+print	1.0	2
+message	1.0	2
+drive	1.0	2
+clean	1.0	2
+move	1.0	2
+wonder	1.0	2
+import	1.0	4
+lose	1.0	2
+exit	1.0	5
+peer	1.0	2
+promise	1.0	2
+log	1.0	4
+apps	1.0	2
+limit	1.0	3
+expect	1.0	3
+geotag	1.0	2
+control	0.857142857143	7
+
+galaxy nexus
+imagine	1.0	2
+
+root permission
+steal	1.0	2
+
+personal message
+wipe	1.0	6
+thats	1.0	2
+app	1.0	6
+recommend	1.0	2
+recall	1.0	2
+spy	1.0	2
+move	1.0	2
+affiliate	1.0	2
+print	1.0	2
+message	1.0	3
+specify	1.0	3
+sell	1.0	2
+transactions	1.0	2
+drive	1.0	2
+clean	1.0	2
+cheat	1.0	2
+earn	1.0	2
+wonder	1.0	2
+import	1.0	4
+lose	1.0	2
+exit	1.0	5
+peer	1.0	2
+promise	1.0	2
+apps	1.0	2
+count	1.0	2
+limit	1.0	3
+geotag	1.0	2
+control	0.857142857143	7
+monitor	0.857142857143	7
+
+placement puzzle
+pass	0.883333333333	60
+
+supported launcher
+settings	1.0	2
+save	1.0	2
+windows	1.0	2
+
+perfect widget
+specify	1.0	2
+enter	1.0	2
+
+read message
+wipe	1.0	6
+thats	1.0	2
+app	1.0	6
+recommend	1.0	2
+recall	1.0	2
+spy	1.0	2
+move	1.0	2
+affiliate	1.0	2
+print	1.0	2
+message	1.0	3
+specify	1.0	3
+sell	1.0	2
+transactions	1.0	2
+drive	1.0	2
+clean	1.0	2
+earn	1.0	2
+wonder	1.0	2
+import	1.0	4
+lose	1.0	2
+exit	1.0	5
+peer	1.0	2
+promise	1.0	2
+apps	1.0	2
+count	1.0	2
+limit	1.0	3
+recognize	1.0	2
+geotag	1.0	2
+control	0.857142857143	7
+monitor	0.857142857143	7
+
+widget support
+specify	1.0	2
+enter	1.0	2
+
+top widget
+specify	1.0	2
+enter	1.0	2
+
+launcher homescreen
+settings	1.0	2
+save	1.0	2
+windows	1.0	2
+
+new message
+wipe	1.0	6
+thats	1.0	2
+app	1.0	6
+recommend	1.0	2
+recall	1.0	2
+spy	1.0	2
+move	1.0	2
+affiliate	1.0	2
+print	1.0	2
+message	1.0	3
+specify	1.0	3
+sell	1.0	2
+transactions	1.0	2
+drive	1.0	2
+clean	1.0	2
+cheat	1.0	2
+earn	1.0	2
+wonder	1.0	2
+import	1.0	4
+lose	1.0	2
+exit	1.0	5
+peer	1.0	2
+promise	1.0	2
+apps	1.0	2
+count	1.0	2
+limit	1.0	3
+geotag	1.0	2
+control	0.857142857143	7
+monitor	0.857142857143	7
+
+homescreen widget
+specify	1.0	2
+enter	1.0	2
+
+fun puzzle
+pass	0.883333333333	60
+
+high level
+items	1.0	3
+al	1.0	2
+
+search widget
+specify	1.0	2
+enter	1.0	2
+
+total time
+click	1.0	2
+dismiss	1.0	35
+remain	1.0	2
+earn	0.946666666667	75
+
+important message
+wipe	1.0	6
+thats	1.0	2
+app	1.0	6
+recommend	1.0	2
+recall	1.0	2
+spy	1.0	2
+move	1.0	2
+affiliate	1.0	2
+print	1.0	2
+message	1.0	3
+specify	1.0	3
+sell	1.0	2
+transactions	1.0	2
+drive	1.0	2
+clean	1.0	2
+cheat	1.0	2
+earn	1.0	2
+wonder	1.0	2
+import	1.0	4
+lose	1.0	2
+exit	1.0	5
+peer	1.0	2
+promise	1.0	2
+apps	1.0	2
+count	1.0	2
+limit	1.0	3
+geotag	1.0	2
+control	0.857142857143	7
+monitor	0.857142857143	7
+
+mobile coupon
+compatible	1.0	2
+
+low battery
+act	1.0	2
+visit	1.0	2
+
+desktop application
+speed	1.0	2
+tap	1.0	2
+
+new theme
+restore	1.0	2
+
+special permission
+steal	1.0	2
+check	1.0	2
+
+icon set
+lock	1.0	2
+remove	0.880952380952	42
+
+widget size
+specify	1.0	2
+enter	1.0	2
+
+volume key
+stop	1.0	2
+pop	1.0	37
+start	1.0	2
+tap	0.90243902439	41
+
+time widget
+specify	1.0	2
+enter	1.0	2
+
+apex launcher
+settings	1.0	2
+save	1.0	2
+windows	1.0	2
+
+messaging
+wipe	1.0	6
+thats	1.0	2
+app	1.0	6
+recommend	1.0	2
+recall	1.0	2
+spy	1.0	2
+move	1.0	2
+affiliate	1.0	2
+print	1.0	2
+message	1.0	3
+specify	1.0	3
+sell	1.0	2
+transactions	1.0	2
+drive	1.0	2
+clean	1.0	2
+cheat	1.0	2
+earn	1.0	2
+wonder	1.0	2
+import	1.0	4
+lose	1.0	2
+exit	1.0	5
+peer	1.0	2
+promise	1.0	2
+apps	1.0	2
+count	1.0	2
+limit	1.0	3
+geotag	1.0	2
+control	0.857142857143	7
+monitor	0.857142857143	7
+
+backup
+calllogs	1.0	2
+download	1.0	3
+schedule	1.0	2
+
+message call
+wipe	1.0	6
+thats	1.0	2
+app	1.0	6
+recommend	1.0	2
+recall	1.0	2
+spy	1.0	2
+move	1.0	2
+affiliate	1.0	2
+print	1.0	2
+message	1.0	3
+specify	1.0	3
+sell	1.0	2
+transactions	1.0	2
+drive	1.0	2
+clean	1.0	2
+cheat	1.0	2
+earn	1.0	2
+wonder	1.0	2
+import	1.0	4
+lose	1.0	2
+exit	1.0	5
+peer	1.0	2
+promise	1.0	2
+apps	1.0	2
+count	1.0	2
+limit	1.0	3
+geotag	1.0	2
+control	0.857142857143	7
+monitor	0.857142857143	7
+
+contact photo
+wipe	1.0	6
+dont	1.0	2
+notify	1.0	2
+message	1.0	3
+accompany	1.0	2
+refer	1.0	2
+
+battery status
+act	1.0	2
+visit	1.0	2
+
+battery
+act	1.0	2
+visit	1.0	2
+
+contact name
+wipe	1.0	6
+dont	1.0	2
+notify	1.0	2
+message	1.0	3
+accompany	1.0	2
+refer	1.0	2
+
+puzzle
+pass	0.883333333333	60
+
+sim card
+lock	1.0	5
+configure	1.0	2
+enable	1.0	2
+
+unread message
+wipe	1.0	6
+thats	1.0	2
+app	1.0	6
+recommend	1.0	2
+recall	1.0	2
+spy	1.0	2
+move	1.0	2
+affiliate	1.0	2
+print	1.0	2
+message	1.0	3
+specify	1.0	3
+sell	1.0	2
+transactions	1.0	2
+drive	1.0	2
+clean	1.0	2
+earn	1.0	2
+wonder	1.0	2
+import	1.0	4
+lose	1.0	2
+exit	1.0	5
+peer	1.0	2
+promise	1.0	2
+apps	1.0	2
+count	1.0	2
+limit	1.0	3
+recognize	1.0	2
+geotag	1.0	2
+control	0.857142857143	7
+monitor	0.857142857143	7
+
+calendar view
+restore	1.0	2
+backup	1.0	2
+
+many level
+items	1.0	3
+al	1.0	2
+
+endorsement permission
+steal	1.0	2
+check	1.0	2
+
+emergency contact
+wipe	1.0	6
+dont	1.0	2
+notify	1.0	2
+message	1.0	3
+accompany	1.0	2
+refer	1.0	2
+
+calendar event
+restore	1.0	2
+backup	1.0	2
+
+message
+wipe	1.0	6
+thats	1.0	2
+app	1.0	6
+recommend	1.0	2
+recall	1.0	2
+spy	1.0	2
+move	1.0	2
+affiliate	1.0	2
+print	1.0	2
+message	1.0	3
+specify	1.0	3
+sell	1.0	2
+transactions	1.0	2
+drive	1.0	2
+clean	1.0	2
+cheat	1.0	2
+earn	1.0	2
+wonder	1.0	2
+import	1.0	4
+lose	1.0	2
+exit	1.0	5
+peer	1.0	2
+promise	1.0	2
+apps	1.0	2
+count	1.0	2
+limit	1.0	3
+geotag	1.0	2
+control	0.857142857143	7
+monitor	0.857142857143	7
+
+total
+click	1.0	2
+dismiss	1.0	35
+remain	1.0	2
+earn	0.946666666667	75
+
+volume level
+stop	1.0	2
+pop	1.0	37
+start	1.0	2
+tap	0.90243902439	41
+
+selection window
+windows	1.0	3
+
+battery charge
+act	1.0	2
+visit	1.0	2
+
+launcher setting
+settings	1.0	2
+save	1.0	2
+windows	1.0	2
+
+free message
+wipe	1.0	6
+thats	1.0	2
+app	1.0	6
+recommend	1.0	2
+recall	1.0	2
+spy	1.0	2
+move	1.0	2
+affiliate	1.0	2
+print	1.0	2
+message	1.0	3
+specify	1.0	3
+sell	1.0	2
+transactions	1.0	2
+drive	1.0	2
+clean	1.0	2
+earn	1.0	2
+wonder	1.0	2
+import	1.0	4
+lose	1.0	2
+exit	1.0	5
+peer	1.0	2
+promise	1.0	2
+apps	1.0	2
+count	1.0	2
+limit	1.0	3
+recognize	1.0	2
+geotag	1.0	2
+control	0.857142857143	7
+monitor	0.857142857143	7
+
+pause icon
+lock	1.0	2
+remove	0.880952380952	42
+
+instant message
+wipe	1.0	5
+convert	1.0	2
+app	1.0	5
+recommend	1.0	2
+affiliate	1.0	2
+print	1.0	2
+message	1.0	2
+specify	1.0	3
+drive	1.0	2
+clean	1.0	2
+wonder	1.0	2
+import	1.0	4
+lose	1.0	2
+exit	1.0	5
+peer	1.0	2
+promise	1.0	2
+log	1.0	4
+apps	1.0	2
+limit	1.0	3
+expect	1.0	3
+geotag	1.0	2
+control	0.857142857143	7
+
+next level
+items	1.0	3
+al	1.0	2
+
+texting
+bring	1.0	2
+wipe	1.0	3
+avoid	1.0	2
+limitless	1.0	2
+dialog	1.0	2
+miss	1.0	2
+initiate	1.0	2
+
+window
+windows	1.0	3
+
+contact information
+wipe	1.0	6
+dont	1.0	2
+notify	1.0	2
+message	1.0	3
+accompany	1.0	2
+refer	1.0	2
+
+message email
+wipe	1.0	5
+thats	1.0	2
+recommend	1.0	2
+recall	1.0	2
+move	1.0	3
+affiliate	1.0	2
+unlock	1.0	2
+message	1.0	2
+specify	1.0	3
+wonder	1.0	2
+drive	1.0	2
+clean	1.0	2
+exit	1.0	5
+peer	1.0	2
+apps	1.0	2
+limit	1.0	3
+expect	1.0	3
+geotag	1.0	2
+control	0.857142857143	7
+
+love message
+wipe	1.0	6
+thats	1.0	2
+app	1.0	6
+recommend	1.0	2
+recall	1.0	2
+spy	1.0	2
+move	1.0	2
+affiliate	1.0	2
+print	1.0	2
+message	1.0	3
+specify	1.0	3
+sell	1.0	2
+transactions	1.0	2
+drive	1.0	2
+clean	1.0	2
+earn	1.0	2
+wonder	1.0	2
+import	1.0	4
+lose	1.0	2
+exit	1.0	5
+peer	1.0	2
+promise	1.0	2
+apps	1.0	2
+count	1.0	2
+limit	1.0	3
+expect	1.0	3
+recognize	1.0	2
+geotag	1.0	2
+control	0.857142857143	7
+monitor	0.857142857143	7
+
+whatsapp message
+wipe	1.0	6
+thats	1.0	2
+app	1.0	6
+recommend	1.0	2
+recall	1.0	2
+spy	1.0	2
+move	1.0	2
+affiliate	1.0	2
+print	1.0	2
+message	1.0	3
+specify	1.0	3
+sell	1.0	2
+transactions	1.0	2
+drive	1.0	2
+clean	1.0	2
+cheat	1.0	2
+earn	1.0	2
+wonder	1.0	2
+import	1.0	4
+lose	1.0	2
+exit	1.0	5
+peer	1.0	2
+promise	1.0	2
+apps	1.0	2
+count	1.0	2
+limit	1.0	3
+geotag	1.0	2
+control	0.857142857143	7
+monitor	0.857142857143	7
+
+message board
+wipe	1.0	6
+thats	1.0	2
+app	1.0	6
+recommend	1.0	2
+recall	1.0	2
+spy	1.0	2
+move	1.0	2
+affiliate	1.0	2
+print	1.0	2
+message	1.0	2
+specify	1.0	3
+sell	1.0	2
+drive	1.0	2
+clean	1.0	2
+earn	1.0	2
+wonder	1.0	2
+import	1.0	4
+lose	1.0	2
+exit	1.0	5
+peer	1.0	2
+promise	1.0	2
+apps	1.0	2
+count	1.0	2
+limit	1.0	3
+geotag	1.0	2
+control	0.857142857143	7
+monitor	0.857142857143	7
+
+change icon
+lock	1.0	2
+remove	0.880952380952	42
+
+galaxy apps
+imagine	1.0	2
+
+choose setting
+secure	1.0	2
+begin	1.0	2
+dismiss	1.0	8
+launcher	1.0	2
+pop	0.973684210526	38
+
+various theme
+restore	1.0	2
+
+minimal permission
+steal	1.0	2
+
+action launcher
+settings	1.0	2
+save	1.0	2
+windows	1.0	2
+
+quick view
+come	1.0	12
+
+boost mobile
+compatible	1.0	2
+
+volume
+stop	1.0	2
+pop	1.0	37
+start	1.0	2
+tap	0.90243902439	41
+
+add widget
+specify	1.0	2
+enter	1.0	2
+
+ic phone
+introduce	1.0	2
+flee	1.0	2
+paint	1.0	2
+accompany	1.0	2
+specify	1.0	2
+vibration	1.0	2
+flatten	1.0	2
+fight	1.0	2
+
+launcher icon
+settings	1.0	2
+save	1.0	2
+windows	1.0	2
+
+launcher theme
+settings	1.0	2
+save	1.0	2
+windows	1.0	2
+
+contact ringtones
+wipe	1.0	6
+print	1.0	2
+dont	1.0	2
+message	1.0	3
+accompany	1.0	2
+refer	1.0	2
+mean	0.857142857143	7
+
+smartphone desktop
+speed	1.0	2
+tap	1.0	2
+
+display setting
+secure	1.0	2
+begin	1.0	2
+dismiss	1.0	8
+launcher	1.0	2
+pop	0.973684210526	38
+
+call message
+wipe	1.0	6
+thats	1.0	2
+app	1.0	6
+recommend	1.0	2
+recall	1.0	2
+spy	1.0	2
+move	1.0	2
+affiliate	1.0	2
+print	1.0	2
+message	1.0	3
+specify	1.0	3
+sell	1.0	2
+transactions	1.0	2
+drive	1.0	2
+clean	1.0	2
+cheat	1.0	2
+earn	1.0	2
+wonder	1.0	2
+import	1.0	4
+lose	1.0	2
+exit	1.0	5
+peer	1.0	2
+promise	1.0	2
+apps	1.0	2
+count	1.0	2
+limit	1.0	3
+geotag	1.0	2
+control	0.857142857143	7
+monitor	0.857142857143	7
+
+kid puzzle
+pass	0.854838709677	62
+
+simple widget
+specify	1.0	2
+enter	1.0	2
+
+private message
+wipe	1.0	6
+thats	1.0	2
+app	1.0	6
+recommend	1.0	2
+recall	1.0	2
+spy	1.0	2
+move	1.0	2
+affiliate	1.0	2
+print	1.0	2
+message	1.0	3
+specify	1.0	3
+sell	1.0	2
+transactions	1.0	2
+drive	1.0	2
+clean	1.0	2
+earn	1.0	2
+wonder	1.0	2
+import	1.0	4
+lose	1.0	2
+exit	1.0	5
+peer	1.0	2
+promise	1.0	2
+apps	1.0	2
+count	1.0	2
+limit	1.0	3
+recognize	1.0	2
+geotag	1.0	2
+control	0.857142857143	7
+monitor	0.857142857143	7
+
+launcher
+settings	1.0	2
+save	1.0	2
+windows	1.0	2
+
+incoming message
+read	1.0	4
+reply	1.0	2
+click	1.0	2
+dismiss	1.0	35
+earn	0.959459459459	74
+
+contact developer
+wipe	1.0	6
+dont	1.0	2
+notify	1.0	2
+message	1.0	3
+accompany	1.0	2
+refer	1.0	2
+
+beautiful widget
+specify	1.0	2
+enter	1.0	2
+
+locker
+enable	1.0	2
+disable	1.0	5
+
+first level
+items	1.0	3
+al	1.0	2
+
+weather widget
+specify	1.0	2
+enter	1.0	2
+
+galaxy note
+imagine	1.0	2
+
+complete set
+secure	1.0	2
+begin	1.0	2
+dismiss	1.0	8
+launcher	1.0	2
+pop	0.973684210526	38
+
+widget list
+specify	1.0	2
+enter	1.0	2
+
+battery level
+act	1.0	2
+visit	1.0	2
+
+various setting
+secure	1.0	2
+begin	1.0	2
+dismiss	1.0	8
+launcher	1.0	2
+pop	0.973684210526	38
+
+launcher pro
+settings	1.0	2
+save	1.0	2
+windows	1.0	2
+
+lock
+bring	1.0	5
+ask	1.0	5
+apply	1.0	5
+offer	1.0	2
+choose	0.857142857143	7
+
+floating on-top-widget
+specify	1.0	2
+enter	1.0	2
+
+go launcher
+settings	1.0	2
+save	1.0	2
+windows	1.0	2
+
+lockscreen widget
+specify	1.0	2
+enter	1.0	2
+
+call text
+bring	1.0	2
+wipe	1.0	3
+avoid	1.0	2
+limitless	1.0	2
+dialog	1.0	2
+miss	1.0	2
+initiate	1.0	2
+
+adw launcher
+settings	1.0	2
+save	1.0	2
+windows	1.0	2
+
+sfx volume
+stop	1.0	2
+pop	1.0	37
+start	1.0	2
+tap	0.90243902439	41
+
+save battery
+act	1.0	2
+visit	1.0	2
+
+set time
+secure	1.0	2
+begin	1.0	2
+dismiss	1.0	8
+launcher	1.0	2
+pop	0.973684210526	38
+
+widget section
+specify	1.0	2
+enter	1.0	2
+
+on-top-widget functionality
+specify	1.0	2
+enter	1.0	2
+
+window pc
+restore	1.0	2
+windows	1.0	3
+reply	1.0	3
+believe	1.0	2
+
+microsoft window
+windows	1.0	3
+
+specific contact
+wipe	1.0	6
+dont	1.0	2
+notify	1.0	2
+message	1.0	3
+accompany	1.0	2
+refer	1.0	2
+
+battery widget
+act	1.0	2
+
+puzzle mode
+pass	0.883333333333	60
+
+contact
+wipe	1.0	6
+dont	1.0	2
+notify	1.0	2
+message	1.0	3
+accompany	1.0	2
+refer	1.0	2
+
+go message
+wipe	1.0	6
+thats	1.0	2
+app	1.0	6
+recommend	1.0	2
+recall	1.0	2
+spy	1.0	2
+move	1.0	2
+affiliate	1.0	2
+print	1.0	2
+message	1.0	3
+specify	1.0	3
+sell	1.0	2
+transactions	1.0	2
+drive	1.0	2
+clean	1.0	2
+cheat	1.0	2
+earn	1.0	2
+wonder	1.0	2
+import	1.0	4
+lose	1.0	2
+exit	1.0	5
+peer	1.0	2
+promise	1.0	2
+apps	1.0	2
+count	1.0	2
+limit	1.0	3
+geotag	1.0	2
+control	0.857142857143	7
+monitor	0.857142857143	7
+
+different setting
+secure	1.0	2
+begin	1.0	2
+dismiss	1.0	8
+launcher	1.0	2
+pop	0.973684210526	38
+
+general setting
+secure	1.0	2
+begin	1.0	2
+dismiss	1.0	8
+launcher	1.0	2
+pop	0.973684210526	38
+
+contact ringtone
+wipe	1.0	6
+print	1.0	2
+dont	1.0	2
+message	1.0	3
+accompany	1.0	2
+refer	1.0	2
+mean	0.857142857143	7
+
+contact page
+wipe	1.0	6
+dont	1.0	2
+notify	1.0	2
+message	1.0	3
+accompany	1.0	2
+refer	1.0	2
+
+notification window
+windows	1.0	3
+
+news widget
+specify	1.0	2
+enter	1.0	2
+
+facebook message
+wipe	1.0	6
+thats	1.0	2
+app	1.0	6
+recommend	1.0	2
+recall	1.0	2
+spy	1.0	2
+move	1.0	2
+affiliate	1.0	2
+print	1.0	2
+message	1.0	3
+specify	1.0	3
+sell	1.0	2
+transactions	1.0	2
+drive	1.0	2
+clean	1.0	2
+cheat	1.0	2
+earn	1.0	2
+wonder	1.0	2
+import	1.0	4
+lose	1.0	2
+exit	1.0	5
+peer	1.0	2
+promise	1.0	2
+apps	1.0	2
+count	1.0	2
+limit	1.0	3
+recognize	1.0	2
+geotag	1.0	2
+control	0.857142857143	7
+monitor	0.857142857143	7
+
+holo launcher
+settings	1.0	2
+save	1.0	2
+windows	1.0	2
+
+mobile screen
+compatible	1.0	2
+
+text messaging
+wipe	1.0	6
+thats	1.0	2
+app	1.0	6
+recommend	1.0	2
+recall	1.0	2
+spy	1.0	2
+move	1.0	2
+affiliate	1.0	2
+print	1.0	2
+message	1.0	3
+specify	1.0	3
+sell	1.0	2
+transactions	1.0	2
+drive	1.0	2
+clean	1.0	2
+earn	1.0	2
+wonder	1.0	2
+import	1.0	4
+lose	1.0	2
+exit	1.0	5
+peer	1.0	2
+promise	1.0	2
+apps	1.0	2
+count	1.0	2
+limit	1.0	3
+recognize	1.0	2
+geotag	1.0	2
+control	0.857142857143	7
+monitor	0.857142857143	7
+
+battery power
+act	1.0	2
+visit	1.0	2
+
+message notification
+wipe	1.0	6
+thats	1.0	2
+app	1.0	6
+recommend	1.0	2
+recall	1.0	2
+spy	1.0	2
+move	1.0	2
+affiliate	1.0	2
+print	1.0	2
+message	1.0	3
+specify	1.0	3
+sell	1.0	2
+transactions	1.0	2
+drive	1.0	2
+clean	1.0	2
+earn	1.0	2
+wonder	1.0	2
+import	1.0	4
+lose	1.0	2
+exit	1.0	5
+peer	1.0	2
+promise	1.0	2
+apps	1.0	2
+count	1.0	2
+limit	1.0	3
+expect	1.0	3
+recognize	1.0	2
+geotag	1.0	2
+control	0.857142857143	7
+monitor	0.857142857143	7
+
+volume control
+stop	1.0	2
+pop	1.0	37
+start	1.0	2
+tap	0.90243902439	41
+
+battery efficient
+act	1.0	2
+
+battery indicator
+act	1.0	2
+
+mobile deposit
+compatible	1.0	2
+
+galaxy phone
+imagine	1.0	2
+
+current level
+items	1.0	3
+al	1.0	2
+
+battery life
+act	1.0	2
+visit	1.0	2
+
+battery consumption
+act	1.0	2
+
+required permission
+steal	1.0	2
+check	1.0	2
+
+location permission
+steal	1.0	2
+check	1.0	2
+
+several level
+items	1.0	3
+al	1.0	2
+
+screen widget
+specify	1.0	2
+enter	1.0	2
+
+icon
+lock	1.0	2
+remove	0.880952380952	42
+
+easy puzzle
+pass	0.883333333333	60
+
+unique puzzle
+pass	0.883333333333	60
+
+bangla calendar
+restore	1.0	2
+backup	1.0	2
+
+many setting
+secure	1.0	2
+begin	1.0	2
+dismiss	1.0	8
+launcher	1.0	2
+pop	0.973684210526	38
+
+voice command
+web	1.0	2
+voice	1.0	2
+remote	1.0	2
+
+contact number
+wipe	1.0	6
+dont	1.0	2
+notify	1.0	2
+message	1.0	3
+accompany	1.0	2
+refer	1.0	2
+
+galaxy series
+imagine	1.0	2
+
+useful widget
+specify	1.0	2
+enter	1.0	2
+
+personalized window
+windows	1.0	3
+
+mobile browser
+sms	1.0	2
+receive	1.0	2
+
+on-top-widget
+specify	1.0	2
+enter	1.0	2
+
+desktop background
+speed	1.0	2
+tap	1.0	2
+
+permission explanation
+steal	1.0	2
+
+volume setting
+stop	1.0	2
+pop	1.0	37
+start	1.0	2
+tap	0.90243902439	41
+
+edit widget
+specify	1.0	2
+enter	1.0	2
+
+problem contact
+wipe	1.0	6
+dont	1.0	2
+notify	1.0	2
+message	1.0	3
+accompany	1.0	2
+refer	1.0	2
+
+quick note
+come	1.0	12
+

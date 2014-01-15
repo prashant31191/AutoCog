@@ -1,0 +1,937 @@
+custom message
+name	1.0	2
+count	1.0	2
+
+new widget
+specify	1.0	2
+configurable	1.0	2
+
+place locator
+accompany	1.0	4
+
+yahoo news
+communicate	1.0	2
+cover	1.0	2
+
+select widget
+specify	1.0	2
+configurable	1.0	2
+
+photo message
+name	1.0	2
+count	1.0	2
+
+current date
+calendar	1.0	2
+customizable	1.0	2
+press	1.0	3
+long-press	1.0	2
+
+launcher ex
+save	1.0	2
+
+text message
+name	1.0	2
+count	1.0	2
+
+voice message
+name	1.0	2
+count	1.0	2
+
+beautiful widget
+specify	1.0	2
+configurable	1.0	2
+
+apex launcher
+save	1.0	2
+
+notification ringtones
+issue	1.0	2
+
+new event
+try	1.0	2
+confirmations	1.0	2
+map	1.0	2
+calendar	1.0	3
+decline	1.0	2
+define	1.0	2
+easy	1.0	4
+insert	1.0	2
+google	1.0	2
+schedule	1.0	3
+log	1.0	2
+
+current day
+calendar	1.0	2
+click	1.0	2
+start	1.0	2
+
+ringtones
+issue	1.0	2
+
+gregorian calendar
+restore	1.0	2
+help	1.0	2
+integrate	1.0	3
+read	1.0	3
+tick	1.0	3
+remove	1.0	2
+sync	1.0	6
+design	1.0	2
+schedule	1.0	3
+let	1.0	2
+backup	1.0	2
+support	1.0	2
+protect	1.0	2
+write	1.0	5
+
+location
+accompany	1.0	4
+
+integral part
+calendar	1.0	2
+
+late date
+long-press	1.0	2
+customizable	1.0	2
+
+handcent message
+name	1.0	2
+count	1.0	2
+
+event organizer
+confirmations	1.0	2
+map	1.0	2
+log	1.0	2
+calendar	1.0	3
+decline	1.0	2
+define	1.0	2
+easy	1.0	4
+insert	1.0	2
+google	1.0	2
+schedule	1.0	2
+
+secure message
+name	1.0	2
+count	1.0	2
+
+contact page
+love	1.0	2
+organize	1.0	2
+notify	1.0	2
+
+different view
+arrange	1.0	2
+
+important event
+try	1.0	2
+confirmations	1.0	2
+map	1.0	2
+calendar	1.0	3
+decline	1.0	2
+define	1.0	2
+easy	1.0	4
+insert	1.0	2
+google	1.0	2
+schedule	1.0	3
+log	1.0	2
+
+message alert
+name	1.0	2
+
+different ringtones
+issue	1.0	2
+
+on-top-widget
+specify	1.0	2
+configurable	1.0	2
+
+quick note
+access	1.0	8
+
+message text
+name	1.0	2
+count	1.0	2
+
+contact detail
+love	1.0	2
+organize	1.0	2
+notify	1.0	2
+
+launcher dodol
+save	1.0	2
+
+event information
+try	1.0	2
+confirmations	1.0	2
+select	1.0	2
+map	1.0	2
+calendar	1.0	3
+decline	1.0	2
+define	1.0	2
+easy	1.0	4
+insert	1.0	2
+google	1.0	2
+schedule	1.0	3
+log	1.0	2
+
+home launcher
+save	1.0	2
+
+message mms
+name	1.0	2
+count	1.0	2
+
+best view
+arrange	1.0	2
+
+quick link
+access	1.0	8
+
+next widget
+specify	1.0	2
+configurable	1.0	2
+
+contact ringtone
+issue	1.0	2
+organize	1.0	2
+notify	1.0	3
+speak	1.0	2
+voice	1.0	2
+
+event date
+confirmations	1.0	2
+select	1.0	2
+map	1.0	2
+calendar	1.0	3
+decline	1.0	2
+define	1.0	2
+easy	1.0	4
+insert	1.0	2
+google	1.0	2
+schedule	1.0	3
+log	1.0	2
+
+integrated
+calendar	1.0	2
+
+precise location
+accompany	1.0	4
+
+convenience
+maximize	0.941176470588	17
+
+quick
+access	1.0	8
+
+event calendar
+restore	1.0	2
+help	1.0	2
+integrate	1.0	3
+read	1.0	3
+tick	1.0	3
+remove	1.0	2
+synchronize	1.0	4
+design	1.0	2
+schedule	1.0	3
+let	1.0	2
+backup	1.0	2
+support	1.0	3
+enable	1.0	2
+protect	1.0	2
+write	1.0	6
+
+go contact
+love	1.0	2
+organize	1.0	2
+notify	1.0	2
+
+quick way
+access	1.0	8
+
+time widget
+specify	1.0	2
+configurable	1.0	2
+
+current time
+calendar	1.0	2
+click	1.0	2
+start	1.0	2
+
+send message
+name	1.0	2
+count	1.0	2
+
+contact list
+love	1.0	2
+organize	1.0	2
+notify	1.0	2
+
+contact form
+love	1.0	2
+organize	1.0	2
+notify	1.0	2
+
+widget
+specify	1.0	2
+configurable	1.0	2
+
+detailed view
+arrange	1.0	2
+
+ringtones notification
+issue	1.0	2
+
+next launcher
+save	1.0	2
+
+calendar
+restore	1.0	2
+help	1.0	2
+integrate	1.0	3
+read	1.0	3
+tick	1.0	3
+remove	1.0	2
+synchronize	1.0	4
+design	1.0	2
+schedule	1.0	3
+let	1.0	2
+backup	1.0	2
+support	1.0	3
+enable	1.0	2
+protect	1.0	2
+write	1.0	6
+
+special event
+try	1.0	2
+confirmations	1.0	2
+select	1.0	2
+map	1.0	2
+calendar	1.0	3
+decline	1.0	2
+define	1.0	2
+easy	1.0	4
+insert	1.0	2
+google	1.0	2
+schedule	1.0	3
+log	1.0	2
+
+read contact
+love	1.0	2
+organize	1.0	2
+notify	1.0	2
+
+event
+try	1.0	2
+confirmations	1.0	2
+map	1.0	2
+calendar	1.0	3
+decline	1.0	2
+define	1.0	2
+easy	1.0	4
+insert	1.0	2
+google	1.0	2
+schedule	1.0	3
+log	1.0	2
+
+solo launcher
+save	1.0	2
+
+start launcher
+save	1.0	2
+
+useful widget
+specify	1.0	2
+configurable	1.0	2
+
+integrates
+calendar	1.0	2
+
+school student
+handle	1.0	8
+content	1.0	8
+
+integration
+calendar	1.0	2
+
+current
+calendar	1.0	2
+click	1.0	2
+start	1.0	2
+
+popular ringtones
+issue	1.0	2
+
+ringtone notification
+issue	1.0	2
+
+dating
+press	1.0	2
+long-press	1.0	2
+customizable	1.0	2
+
+message ringtone
+name	1.0	2
+count	1.0	2
+
+device calendar
+restore	1.0	2
+help	1.0	2
+integrate	1.0	3
+read	1.0	3
+tick	1.0	3
+remove	1.0	2
+sync	1.0	6
+design	1.0	2
+schedule	1.0	3
+let	1.0	2
+backup	1.0	2
+support	1.0	2
+protect	1.0	2
+write	1.0	5
+
+dodol launcher
+save	1.0	2
+
+instant messaging
+name	1.0	2
+
+smart launcher
+save	1.0	2
+
+emergency contact
+love	1.0	2
+organize	1.0	2
+notify	1.0	2
+
+homee launcher
+save	1.0	2
+
+personal message
+name	1.0	2
+count	1.0	2
+
+new message
+name	1.0	2
+count	1.0	2
+
+bill reminder
+base	1.0	6
+
+perfect widget
+specify	1.0	2
+configurable	1.0	2
+
+live view
+arrange	1.0	2
+
+gps location
+accompany	1.0	4
+
+class schedule
+maximize	0.923076923077	13
+sign	0.857142857143	14
+
+top widget
+specify	1.0	2
+configurable	1.0	2
+
+launcher homescreen
+save	1.0	2
+
+local weather
+build	1.0	2
+do	1.0	2
+
+supported launcher
+save	1.0	2
+
+homescreen widget
+specify	1.0	2
+configurable	1.0	2
+
+search widget
+specify	1.0	2
+configurable	1.0	2
+
+important message
+name	1.0	2
+count	1.0	2
+
+live event
+try	1.0	2
+confirmations	1.0	2
+map	1.0	2
+calendar	1.0	3
+decline	1.0	2
+define	1.0	2
+easy	1.0	4
+insert	1.0	2
+google	1.0	2
+schedule	1.0	3
+log	1.0	2
+
+local event
+try	1.0	2
+confirmations	1.0	2
+select	1.0	2
+map	1.0	2
+calendar	1.0	3
+decline	1.0	2
+define	1.0	2
+easy	1.0	4
+insert	1.0	2
+google	1.0	2
+schedule	1.0	3
+log	1.0	2
+
+adw launcher
+save	1.0	2
+
+current event
+confirmations	1.0	2
+map	1.0	2
+calendar	1.0	3
+decline	1.0	2
+define	1.0	2
+easy	1.0	4
+insert	1.0	2
+google	1.0	2
+schedule	1.0	3
+log	1.0	2
+
+widget size
+specify	1.0	2
+configurable	1.0	2
+
+weather information
+build	1.0	2
+do	1.0	2
+
+messaging
+name	1.0	2
+count	1.0	2
+
+view
+arrange	1.0	2
+
+backup
+schedule	1.0	2
+
+message call
+name	1.0	2
+count	1.0	2
+
+college student
+handle	1.0	8
+content	1.0	8
+
+up-to-date
+press	1.0	2
+long-press	1.0	2
+customizable	1.0	2
+
+push message
+name	1.0	2
+count	1.0	2
+
+good view
+arrange	1.0	2
+
+contact name
+love	1.0	2
+organize	1.0	2
+notify	1.0	2
+
+widget support
+specify	1.0	2
+configurable	1.0	2
+
+current news
+calendar	1.0	2
+click	1.0	2
+start	1.0	2
+
+locator
+accompany	1.0	4
+
+unread message
+name	1.0	2
+count	1.0	2
+
+calendar view
+restore	1.0	2
+help	1.0	2
+integrate	1.0	3
+read	1.0	3
+tick	1.0	3
+remove	1.0	2
+synchronize	1.0	4
+design	1.0	2
+schedule	1.0	3
+let	1.0	2
+backup	1.0	2
+support	1.0	3
+enable	1.0	2
+protect	1.0	2
+write	1.0	6
+
+popular ringtone
+issue	1.0	2
+
+convenient way
+maximize	0.941176470588	17
+
+message
+name	1.0	2
+count	1.0	2
+
+time date
+press	1.0	2
+long-press	1.0	2
+customizable	1.0	2
+
+different location
+accompany	1.0	4
+
+medical student
+handle	1.0	8
+content	1.0	8
+
+quick view
+access	1.0	8
+
+launcher setting
+save	1.0	2
+
+best ringtones
+issue	1.0	2
+
+free message
+name	1.0	2
+count	1.0	2
+
+instant message
+name	1.0	2
+
+quick start
+access	1.0	8
+
+new location
+accompany	1.0	4
+
+love message
+name	1.0	2
+count	1.0	2
+
+whatsapp message
+name	1.0	2
+count	1.0	2
+
+message board
+name	1.0	2
+count	1.0	2
+
+important date
+long-press	1.0	2
+customizable	1.0	2
+
+simple widget
+specify	1.0	2
+configurable	1.0	2
+
+iphone rington
+issue	1.0	2
+
+action launcher
+save	1.0	2
+
+yahoo
+communicate	1.0	2
+cover	1.0	2
+
+first date
+press	1.0	2
+long-press	1.0	2
+customizable	1.0	2
+
+add widget
+specify	1.0	2
+configurable	1.0	2
+
+deep weather
+do	1.0	2
+build	1.0	2
+
+launcher icon
+save	1.0	2
+
+launcher theme
+save	1.0	2
+
+contact ringtones
+issue	1.0	2
+organize	1.0	2
+notify	1.0	3
+speak	1.0	2
+voice	1.0	2
+
+late event
+try	1.0	2
+confirmations	1.0	2
+map	1.0	2
+calendar	1.0	3
+decline	1.0	2
+define	1.0	2
+easy	1.0	4
+insert	1.0	2
+google	1.0	2
+schedule	1.0	3
+log	1.0	2
+
+widget configuration
+configurable	1.0	2
+
+call message
+name	1.0	2
+count	1.0	2
+
+contact developer
+love	1.0	2
+organize	1.0	2
+notify	1.0	2
+
+private message
+name	1.0	2
+count	1.0	2
+
+launcher
+save	1.0	2
+
+free ringtones
+issue	1.0	2
+
+quick list
+access	1.0	8
+
+weather widget
+specify	1.0	2
+configurable	1.0	2
+
+current location
+accompany	1.0	4
+
+facebook integration
+calendar	1.0	2
+
+widget list
+specify	1.0	2
+configurable	1.0	2
+
+calendar event
+restore	1.0	2
+help	1.0	2
+integrate	1.0	3
+read	1.0	3
+tick	1.0	3
+remove	1.0	2
+synchronize	1.0	4
+design	1.0	2
+schedule	1.0	3
+let	1.0	2
+backup	1.0	2
+support	1.0	3
+enable	1.0	2
+protect	1.0	2
+write	1.0	6
+
+due date
+long-press	1.0	2
+customizable	1.0	2
+
+floating on-top-widget
+specify	1.0	2
+configurable	1.0	2
+
+quick overview
+access	1.0	8
+
+go launcher
+save	1.0	2
+
+read message
+name	1.0	2
+count	1.0	2
+
+weather forecast
+do	1.0	2
+
+event activity
+try	1.0	2
+confirmations	1.0	2
+select	1.0	2
+map	1.0	2
+calendar	1.0	3
+decline	1.0	2
+define	1.0	2
+easy	1.0	4
+insert	1.0	2
+google	1.0	2
+schedule	1.0	3
+log	1.0	2
+
+time location
+accompany	1.0	4
+
+lockscreen widget
+specify	1.0	2
+configurable	1.0	2
+
+widget section
+specify	1.0	2
+configurable	1.0	2
+
+on-top-widget functionality
+specify	1.0	2
+configurable	1.0	2
+
+specific contact
+love	1.0	2
+organize	1.0	2
+notify	1.0	2
+
+team schedule
+miss	1.0	2
+
+current status
+calendar	1.0	2
+click	1.0	2
+start	1.0	2
+
+ringtone
+issue	1.0	2
+
+new contact
+love	1.0	2
+organize	1.0	2
+notify	1.0	2
+
+go message
+name	1.0	2
+count	1.0	2
+
+message etc
+name	1.0	2
+count	1.0	2
+
+late ringtones
+issue	1.0	2
+
+news widget
+specify	1.0	2
+configurable	1.0	2
+
+free ringtone
+issue	1.0	2
+
+holo launcher
+save	1.0	2
+
+text messaging
+name	1.0	2
+count	1.0	2
+
+quick setting
+access	1.0	8
+
+message notification
+name	1.0	2
+count	1.0	2
+
+release date
+press	1.0	2
+long-press	1.0	2
+customizable	1.0	2
+
+viewing
+arrange	1.0	2
+
+late weather
+build	1.0	2
+do	1.0	2
+
+contact photo
+love	1.0	2
+organize	1.0	2
+notify	1.0	2
+
+facebook message
+name	1.0	2
+count	1.0	2
+
+date
+press	1.0	2
+long-press	1.0	2
+customizable	1.0	2
+
+twitter integration
+calendar	1.0	2
+
+screen widget
+specify	1.0	2
+configurable	1.0	2
+
+bangla calendar
+restore	1.0	2
+help	1.0	2
+integrate	1.0	3
+read	1.0	3
+tick	1.0	3
+remove	1.0	2
+sync	1.0	6
+design	1.0	2
+schedule	1.0	3
+let	1.0	2
+backup	1.0	2
+support	1.0	2
+protect	1.0	2
+write	1.0	4
+
+contact number
+love	1.0	2
+organize	1.0	2
+notify	1.0	2
+
+list view
+arrange	1.0	2
+
+near location
+accompany	1.0	4
+
+contact
+love	1.0	2
+organize	1.0	2
+notify	1.0	2
+
+date time
+press	1.0	2
+long-press	1.0	2
+customizable	1.0	2
+
+convenient
+maximize	0.941176470588	17
+
+edit widget
+specify	1.0	2
+configurable	1.0	2
+
+problem contact
+love	1.0	2
+organize	1.0	2
+notify	1.0	2
+
+contact information
+love	1.0	2
+organize	1.0	2
+notify	1.0	2
+

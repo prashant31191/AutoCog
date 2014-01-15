@@ -1,0 +1,1963 @@
+webcam chat
+account	1.0	5
+chat	0.875	8
+create	0.857142857143	7
+invite	0.857142857143	7
+make	0.857142857143	14
+
+live sport
+read	1.0	5
+base	1.0	5
+represent	0.95	20
+deliver	0.866666666667	30
+stay	0.842105263158	19
+
+instant share
+replace	1.0	11
+allow	0.888888888889	9
+
+many apps
+slide	1.0	5
+excite	1.0	5
+become	1.0	8
+enhance	0.981818181818	55
+link	0.96	25
+interact	0.944444444444	18
+read	0.934426229508	61
+switch	0.886363636364	88
+enable	0.873015873016	63
+bring	0.833333333333	24
+add	0.817307692308	104
+
+cheat
+know	1.0	24
+list	1.0	8
+discover	1.0	28
+download	1.0	12
+enjoy	0.882352941176	17
+deliver	0.833333333333	6
+need	0.833333333333	6
+play	0.823529411765	17
+
+football team
+represent	1.0	30
+affiliate	1.0	14
+connect	0.933333333333	15
+field	0.888888888889	9
+include	0.857142857143	7
+
+late event
+arrive	1.0	10
+check-in	1.0	10
+specify	1.0	5
+comb	1.0	9
+go	0.857142857143	7
+navigate	0.857142857143	7
+
+chat room
+account	1.0	5
+chat	0.875	8
+make	0.875	16
+
+daily stream
+receive	1.0	13
+broadcast	1.0	13
+stop	0.888888888889	27
+look	0.866666666667	15
+require	0.857142857143	7
+make	0.809523809524	21
+
+late news
+stop	1.0	24
+deliver	1.0	27
+ensure	0.92	25
+
+similar apps
+excite	1.0	5
+become	1.0	8
+enhance	0.981818181818	55
+link	0.96	25
+interact	0.944444444444	18
+read	0.934426229508	61
+switch	0.886363636364	88
+enable	0.873015873016	63
+add	0.825242718447	103
+bring	0.818181818182	22
+
+naughty chat
+account	1.0	5
+chat	0.875	8
+create	0.857142857143	7
+invite	0.857142857143	7
+make	0.857142857143	14
+
+team news
+field	1.0	5
+connect	0.964601769912	113
+display	0.962962962963	27
+tell	0.96	25
+contain	0.933333333333	30
+access	0.857142857143	7
+show	0.833333333333	30
+set	0.833333333333	6
+start	0.833333333333	6
+begin	0.833333333333	6
+
+critical alert
+support	0.944444444444	36
+
+video photo
+beautiful	1.0	6
+claim	1.0	22
+donot	1.0	21
+contribute	1.0	9
+cartoon	1.0	15
+ask	0.961538461538	26
+welcome	0.9375	16
+deliver	0.923076923077	26
+bookmark	0.9	10
+authorize	0.857142857143	21
+entertain	0.842105263158	19
+follow	0.833333333333	6
+
+sport news
+read	1.0	5
+base	1.0	5
+represent	0.95	20
+deliver	0.866666666667	30
+stay	0.842105263158	19
+
+new event
+empower	1.0	12
+arrive	1.0	10
+check-in	1.0	10
+specify	1.0	5
+comb	1.0	9
+go	0.857142857143	7
+navigate	0.857142857143	7
+
+bangla
+unlimited	1.0	5
+bangladesh	1.0	5
+
+bangla natok
+unlimited	1.0	5
+bangladesh	1.0	5
+
+video quality
+beautiful	1.0	6
+claim	1.0	22
+donot	1.0	21
+contribute	1.0	9
+cartoon	1.0	15
+ask	0.961538461538	26
+welcome	0.9375	16
+deliver	0.923076923077	26
+bookmark	0.9	10
+authorize	0.857142857143	21
+entertain	0.842105263158	19
+follow	0.833333333333	6
+
+late play-by-play
+stop	1.0	24
+deliver	1.0	27
+ensure	0.92	25
+
+sporting event
+read	1.0	5
+base	1.0	5
+represent	0.95	20
+deliver	0.866666666667	30
+stay	0.842105263158	19
+
+design team
+field	1.0	5
+connect	0.973214285714	112
+display	0.961538461538	26
+tell	0.96	25
+show	0.892857142857	28
+share	0.875	8
+start	0.833333333333	6
+begin	0.833333333333	6
+feature	0.8125	16
+
+real-time alert
+support	0.944444444444	36
+
+entertainment purpose
+stay	1.0	15
+
+event organizer
+empower	1.0	12
+arrive	1.0	10
+check-in	1.0	10
+specify	1.0	5
+comb	1.0	9
+participate	0.857142857143	7
+navigate	0.857142857143	7
+
+photo apps
+excite	1.0	5
+become	1.0	8
+enhance	0.981818181818	55
+link	0.96	25
+interact	0.944444444444	18
+read	0.934426229508	61
+switch	0.886363636364	88
+enable	0.873015873016	63
+add	0.833333333333	102
+bring	0.818181818182	22
+
+walkthrough video
+beautiful	1.0	6
+claim	1.0	22
+donot	1.0	21
+contribute	1.0	9
+cartoon	1.0	15
+ask	0.961538461538	26
+welcome	0.9375	16
+deliver	0.923076923077	26
+authorize	0.857142857143	21
+entertain	0.842105263158	19
+follow	0.833333333333	6
+
+special team
+field	1.0	5
+connect	0.973214285714	112
+display	0.961538461538	26
+tell	0.96	25
+show	0.892857142857	28
+share	0.875	8
+start	0.833333333333	6
+begin	0.833333333333	6
+feature	0.8125	16
+
+important event
+arrive	1.0	10
+check-in	1.0	10
+specify	1.0	5
+comb	1.0	9
+go	0.857142857143	7
+navigate	0.857142857143	7
+
+installed apps
+become	1.0	8
+enhance	0.981818181818	55
+link	0.96	25
+interact	0.944444444444	18
+read	0.934426229508	61
+switch	0.886363636364	88
+select	0.866666666667	90
+enable	0.820895522388	67
+bring	0.818181818182	22
+add	0.801886792453	106
+
+college football
+represent	1.0	30
+affiliate	1.0	14
+connect	0.933333333333	15
+field	0.888888888889	9
+include	0.857142857143	7
+
+facebook chat
+set	1.0	7
+account	1.0	5
+chat	0.875	8
+
+following video
+beautiful	1.0	6
+claim	1.0	22
+donot	1.0	21
+contribute	1.0	9
+cartoon	1.0	15
+collect	0.940909090909	220
+welcome	0.9375	16
+ask	0.925925925926	27
+bookmark	0.9	10
+deliver	0.888888888889	27
+gather	0.875	8
+authorize	0.857142857143	21
+entertain	0.842105263158	19
+upcoming	0.833333333333	6
+run	0.833333333333	6
+use	0.828996282528	269
+
+video format
+beautiful	1.0	6
+claim	1.0	22
+donot	1.0	21
+contribute	1.0	9
+cartoon	1.0	15
+ask	0.961538461538	26
+deliver	0.923076923077	26
+entertain	0.842105263158	19
+stay	0.833333333333	6
+
+room
+dont	1.0	6
+call	1.0	21
+view	0.947368421053	19
+know	0.913043478261	23
+
+next video
+beautiful	1.0	6
+claim	1.0	22
+donot	1.0	21
+contribute	1.0	9
+cartoon	1.0	15
+collect	0.940909090909	220
+welcome	0.9375	16
+ask	0.925925925926	27
+bookmark	0.9	10
+deliver	0.888888888889	27
+gather	0.875	8
+authorize	0.857142857143	21
+entertain	0.842105263158	19
+upcoming	0.833333333333	6
+run	0.833333333333	6
+use	0.828996282528	269
+
+best cheat
+know	1.0	24
+list	1.0	8
+discover	1.0	28
+download	1.0	12
+enjoy	0.882352941176	17
+deliver	0.833333333333	6
+need	0.833333333333	6
+play	0.823529411765	17
+
+event information
+arrive	1.0	10
+check-in	1.0	10
+specify	1.0	5
+comb	1.0	9
+go	0.857142857143	7
+navigate	0.857142857143	7
+
+correct word
+shift	1.0	12
+move	0.875	8
+
+room number
+dont	1.0	6
+call	1.0	21
+view	0.947368421053	19
+know	0.913043478261	23
+
+in-app
+slide	1.0	5
+excite	1.0	5
+become	1.0	8
+enhance	0.981818181818	55
+link	0.96	25
+interact	0.944444444444	18
+read	0.934426229508	61
+switch	0.886363636364	88
+enable	0.873015873016	63
+bring	0.833333333333	24
+add	0.817307692308	104
+
+monthly subscription
+turn	0.953488372093	43
+cancel	0.944444444444	36
+manage	0.809523809524	21
+
+correct order
+shift	1.0	12
+move	0.875	8
+
+event date
+arrive	1.0	10
+check-in	1.0	10
+specify	1.0	5
+comb	1.0	9
+participate	0.875	8
+go	0.857142857143	7
+navigate	0.857142857143	7
+
+annual subscription
+turn	0.953488372093	43
+cancel	0.944444444444	36
+manage	0.809523809524	21
+
+free cheat
+discover	1.0	24
+download	1.0	12
+know	1.0	24
+list	1.0	8
+deliver	0.833333333333	6
+
+new video
+beautiful	1.0	6
+claim	1.0	22
+donot	1.0	21
+contribute	1.0	9
+cartoon	1.0	15
+collect	0.940909090909	220
+welcome	0.9375	16
+ask	0.925925925926	27
+bookmark	0.9	10
+deliver	0.888888888889	27
+gather	0.875	8
+authorize	0.857142857143	21
+entertain	0.842105263158	19
+upcoming	0.833333333333	6
+run	0.833333333333	6
+use	0.828996282528	269
+
+team
+field	1.0	5
+connect	0.964601769912	113
+display	0.962962962963	27
+tell	0.96	25
+contain	0.933333333333	30
+access	0.857142857143	7
+show	0.833333333333	30
+set	0.833333333333	6
+start	0.833333333333	6
+begin	0.833333333333	6
+
+recent apps
+excite	1.0	5
+become	1.0	8
+enhance	0.981818181818	55
+link	0.96	25
+interact	0.944444444444	18
+read	0.934426229508	61
+switch	0.886363636364	88
+enable	0.873015873016	63
+add	0.825242718447	103
+bring	0.818181818182	22
+
+top video
+beautiful	1.0	6
+claim	1.0	22
+donot	1.0	21
+contribute	1.0	9
+cartoon	1.0	15
+ask	0.961538461538	26
+welcome	0.9375	16
+deliver	0.923076923077	26
+bookmark	0.9	10
+authorize	0.857142857143	21
+entertain	0.842105263158	19
+follow	0.833333333333	6
+
+go chat
+set	1.0	7
+account	1.0	5
+chat	0.875	8
+
+free apps
+excite	1.0	5
+become	1.0	8
+enhance	0.981818181818	55
+link	0.96	25
+interact	0.944444444444	18
+read	0.934426229508	61
+switch	0.886363636364	88
+enable	0.873015873016	63
+add	0.833333333333	102
+bring	0.818181818182	22
+
+notification area
+require	1.0	7
+rat	1.0	86
+delete	0.9875	80
+break	0.96	25
+notify	0.870967741935	31
+support	0.843137254902	51
+select	0.833333333333	6
+notifications	0.818181818182	11
+
+deal
+send	1.0	5
+lodge	1.0	17
+set	1.0	6
+give	0.942857142857	70
+enjoy	0.857142857143	7
+
+news alert
+support	0.944444444444	36
+
+exclusive deal
+send	1.0	5
+lodge	1.0	17
+set	1.0	6
+give	0.942857142857	70
+enjoy	0.857142857143	7
+
+casually chat
+account	1.0	5
+chat	0.875	8
+create	0.857142857143	7
+invite	0.857142857143	7
+make	0.857142857143	14
+
+video recording
+beautiful	1.0	6
+claim	1.0	22
+donot	1.0	21
+contribute	1.0	9
+cartoon	1.0	15
+ask	0.961538461538	26
+welcome	0.9375	16
+deliver	0.923076923077	26
+bookmark	0.9	10
+authorize	0.857142857143	21
+entertain	0.842105263158	19
+follow	0.833333333333	6
+
+owner
+control	1.0	7
+please	0.985507246377	69
+
+music video
+beautiful	1.0	6
+claim	1.0	22
+donot	1.0	21
+contribute	1.0	9
+cartoon	1.0	15
+ask	0.961538461538	26
+welcome	0.9375	16
+deliver	0.923076923077	26
+entertain	0.842105263158	19
+follow	0.833333333333	6
+come	0.826086956522	23
+
+video
+beautiful	1.0	6
+claim	1.0	22
+donot	1.0	21
+contribute	1.0	9
+cartoon	1.0	15
+collect	0.940909090909	220
+welcome	0.9375	16
+ask	0.925925925926	27
+bookmark	0.9	10
+deliver	0.888888888889	27
+gather	0.875	8
+authorize	0.857142857143	21
+entertain	0.842105263158	19
+upcoming	0.833333333333	6
+run	0.833333333333	6
+use	0.828996282528	269
+
+exclusive video
+beautiful	1.0	6
+claim	1.0	22
+donot	1.0	21
+contribute	1.0	9
+cartoon	1.0	15
+collect	0.940909090909	220
+welcome	0.9375	16
+ask	0.925925925926	27
+bookmark	0.9	10
+deliver	0.888888888889	27
+gather	0.875	8
+authorize	0.857142857143	21
+entertain	0.842105263158	19
+upcoming	0.833333333333	6
+run	0.833333333333	6
+use	0.828996282528	269
+
+video support
+beautiful	1.0	6
+claim	1.0	22
+donot	1.0	21
+contribute	1.0	9
+cartoon	1.0	15
+ask	0.961538461538	26
+collect	0.940909090909	220
+welcome	0.9375	16
+deliver	0.923076923077	26
+bookmark	0.9	10
+gather	0.875	8
+authorize	0.857142857143	21
+entertain	0.842105263158	19
+use	0.835205992509	267
+
+watch video
+beautiful	1.0	6
+claim	1.0	22
+donot	1.0	21
+contribute	1.0	9
+cartoon	1.0	15
+ask	0.961538461538	26
+welcome	0.9375	16
+deliver	0.923076923077	26
+entertain	0.842105263158	19
+follow	0.833333333333	6
+come	0.826086956522	23
+
+event
+empower	1.0	12
+arrive	1.0	10
+check-in	1.0	10
+specify	1.0	5
+comb	1.0	9
+go	0.857142857143	7
+navigate	0.857142857143	7
+
+best deal
+send	1.0	5
+lodge	1.0	17
+set	1.0	6
+give	0.942857142857	70
+enjoy	0.857142857143	7
+
+available subscription
+turn	0.953488372093	43
+cancel	0.944444444444	36
+manage	0.809523809524	21
+
+youtube video
+beautiful	1.0	6
+claim	1.0	22
+donot	1.0	21
+contribute	1.0	9
+cartoon	1.0	15
+collect	0.940909090909	220
+welcome	0.9375	16
+ask	0.925925925926	27
+bookmark	0.9	10
+deliver	0.888888888889	27
+gather	0.875	8
+authorize	0.857142857143	21
+entertain	0.842105263158	19
+upcoming	0.833333333333	6
+run	0.833333333333	6
+use	0.828996282528	269
+
+notification
+require	1.0	7
+rat	1.0	86
+delete	0.9875	80
+break	0.96	25
+notify	0.870967741935	31
+support	0.843137254902	51
+select	0.833333333333	6
+notifications	0.818181818182	11
+
+video chat
+account	1.0	5
+claim	1.0	22
+donot	1.0	21
+contribute	1.0	8
+cartoon	1.0	15
+deliver	0.96	25
+ask	0.925925925926	27
+put	0.857142857143	35
+entertain	0.842105263158	19
+stay	0.833333333333	6
+
+national team
+field	1.0	5
+connect	0.973214285714	112
+display	0.961538461538	26
+tell	0.96	25
+show	0.892857142857	28
+share	0.875	8
+start	0.833333333333	6
+begin	0.833333333333	6
+feature	0.8125	16
+
+anonymous chat
+account	1.0	5
+make	0.923076923077	13
+chat	0.875	8
+create	0.857142857143	7
+invite	0.857142857143	7
+
+news video
+beautiful	1.0	6
+claim	1.0	22
+donot	1.0	21
+contribute	1.0	9
+cartoon	1.0	15
+collect	0.940909090909	220
+welcome	0.9375	16
+ask	0.925925925926	27
+bookmark	0.9	10
+deliver	0.888888888889	27
+gather	0.875	8
+authorize	0.857142857143	21
+entertain	0.842105263158	19
+upcoming	0.833333333333	6
+run	0.833333333333	6
+use	0.828996282528	269
+
+sport
+read	1.0	5
+base	1.0	5
+represent	0.95	20
+deliver	0.866666666667	30
+stay	0.842105263158	19
+
+different chat
+set	1.0	7
+account	1.0	5
+chat	0.875	8
+
+football game
+represent	1.0	30
+affiliate	1.0	14
+connect	0.933333333333	15
+field	0.888888888889	9
+include	0.857142857143	7
+
+football fan
+represent	1.0	30
+affiliate	1.0	14
+connect	0.933333333333	15
+field	0.888888888889	9
+include	0.857142857143	7
+
+living room
+dont	1.0	6
+call	1.0	21
+view	0.947368421053	19
+know	0.913043478261	23
+
+current period
+cancel	0.952380952381	21
+charge	0.925925925926	27
+renew	0.878787878788	33
+
+video playback
+beautiful	1.0	6
+claim	1.0	22
+donot	1.0	21
+contribute	1.0	8
+cartoon	1.0	15
+ask	0.961538461538	26
+deliver	0.96	25
+put	0.857142857143	35
+entertain	0.842105263158	19
+stay	0.833333333333	6
+come	0.8125	16
+
+video tutorial
+beautiful	1.0	6
+claim	1.0	23
+donot	1.0	21
+cartoon	1.0	15
+consist	1.0	7
+ask	0.961538461538	26
+deliver	0.96	25
+put	0.857142857143	35
+stay	0.833333333333	6
+come	0.8125	16
+select	0.802469135802	81
+
+amazing game
+buy	1.0	21
+
+bangla apps
+become	1.0	8
+enhance	0.981818181818	55
+link	0.96	25
+read	0.95	60
+interact	0.944444444444	18
+switch	0.906976744186	86
+discover	0.875	8
+enable	0.873015873016	63
+add	0.86	100
+bring	0.833333333333	18
+download	0.804195804196	143
+
+fantasy football
+represent	1.0	30
+affiliate	1.0	14
+connect	0.933333333333	15
+field	0.888888888889	9
+include	0.857142857143	7
+
+great deal
+send	1.0	5
+lodge	1.0	17
+set	1.0	6
+give	0.942857142857	70
+enjoy	0.857142857143	7
+
+video clip
+beautiful	1.0	6
+claim	1.0	22
+donot	1.0	21
+contribute	1.0	8
+cartoon	1.0	15
+ask	0.961538461538	26
+deliver	0.96	25
+gather	0.857142857143	7
+entertain	0.842105263158	19
+put	0.833333333333	36
+stay	0.833333333333	6
+come	0.8125	16
+send	0.803278688525	61
+select	0.802469135802	81
+
+tutorial video
+beautiful	1.0	6
+claim	1.0	23
+donot	1.0	21
+cartoon	1.0	15
+consist	1.0	7
+ask	0.961538461538	26
+deliver	0.96	25
+put	0.857142857143	35
+stay	0.833333333333	6
+come	0.8125	16
+select	0.802469135802	81
+
+single day
+base	1.0	12
+update	1.0	102
+scan	0.944444444444	18
+
+live chat
+set	1.0	7
+account	1.0	5
+chat	0.875	8
+
+instant
+replace	1.0	11
+allow	0.9	10
+include	0.833333333333	6
+
+amazing video
+claim	1.0	22
+contribute	1.0	8
+donot	1.0	21
+cartoon	1.0	15
+ask	0.961538461538	26
+deliver	0.96	25
+buy	0.954545454545	22
+put	0.857142857143	35
+entertain	0.842105263158	19
+stay	0.833333333333	6
+come	0.8125	16
+select	0.802469135802	81
+
+main apps
+excite	1.0	5
+become	1.0	8
+enhance	0.981818181818	55
+link	0.96	25
+interact	0.944444444444	18
+read	0.934426229508	61
+switch	0.886363636364	88
+enable	0.873015873016	63
+add	0.825242718447	103
+bring	0.818181818182	22
+
+receive notification
+require	1.0	7
+rat	1.0	86
+delete	0.9875	80
+break	0.96	25
+notify	0.870967741935	31
+support	0.843137254902	51
+select	0.833333333333	6
+notifications	0.818181818182	11
+
+live event
+arrive	1.0	10
+check-in	1.0	10
+specify	1.0	5
+comb	1.0	9
+go	0.857142857143	7
+navigate	0.857142857143	7
+
+late time
+stop	1.0	24
+deliver	1.0	27
+ensure	0.92	25
+
+current event
+arrive	1.0	10
+check-in	1.0	10
+specify	1.0	5
+comb	1.0	9
+participate	0.875	8
+go	0.857142857143	7
+navigate	0.857142857143	7
+
+multiple platform
+press	1.0	5
+allow	1.0	22
+
+notification setting
+require	1.0	7
+rat	1.0	86
+delete	0.9875	80
+break	0.96	25
+notify	0.870967741935	31
+support	0.843137254902	51
+select	0.833333333333	6
+notifications	0.818181818182	11
+
+awesome video
+beautiful	1.0	6
+claim	1.0	22
+donot	1.0	21
+contribute	1.0	9
+cartoon	1.0	15
+ask	0.961538461538	26
+welcome	0.9375	16
+deliver	0.923076923077	26
+entertain	0.842105263158	19
+follow	0.833333333333	6
+come	0.826086956522	23
+
+football news
+represent	1.0	30
+affiliate	1.0	14
+connect	0.933333333333	15
+field	0.888888888889	9
+include	0.857142857143	7
+
+multiple apps
+become	1.0	8
+enhance	0.981818181818	55
+link	0.96	25
+read	0.95	60
+interact	0.944444444444	18
+switch	0.876404494382	89
+enable	0.873015873016	63
+add	0.825242718447	103
+bring	0.818181818182	22
+
+new room
+dont	1.0	6
+call	1.0	21
+view	0.947368421053	19
+know	0.913043478261	23
+
+video section
+beautiful	1.0	6
+claim	1.0	22
+donot	1.0	21
+contribute	1.0	9
+cartoon	1.0	15
+ask	0.961538461538	26
+welcome	0.9375	16
+deliver	0.923076923077	26
+entertain	0.842105263158	19
+follow	0.833333333333	6
+come	0.826086956522	23
+
+sport team
+establish	1.0	5
+field	1.0	5
+display	0.962962962963	27
+tell	0.96	25
+connect	0.957264957265	117
+represent	0.95	20
+read	0.888888888889	9
+show	0.862068965517	29
+
+correct place
+shift	1.0	12
+move	0.875	8
+
+favorite video
+beautiful	1.0	6
+claim	1.0	22
+donot	1.0	21
+contribute	1.0	9
+cartoon	1.0	15
+ask	0.961538461538	26
+deliver	0.923076923077	26
+bookmark	0.9	10
+come	0.863636363636	22
+entertain	0.842105263158	19
+stay	0.833333333333	6
+
+football
+represent	1.0	30
+affiliate	1.0	14
+connect	0.933333333333	15
+field	0.888888888889	9
+include	0.857142857143	7
+
+late release
+stop	1.0	24
+deliver	1.0	27
+ensure	0.92	25
+
+hot video
+beautiful	1.0	6
+claim	1.0	22
+donot	1.0	21
+contribute	1.0	8
+cartoon	1.0	15
+ask	0.961538461538	26
+deliver	0.96	25
+put	0.857142857143	35
+entertain	0.842105263158	19
+stay	0.833333333333	6
+select	0.802469135802	81
+
+great apps
+excite	1.0	5
+become	1.0	8
+enhance	0.981818181818	55
+link	0.96	25
+interact	0.944444444444	18
+read	0.934426229508	61
+switch	0.886363636364	88
+enable	0.873015873016	63
+add	0.825242718447	103
+bring	0.818181818182	22
+
+attractive single
+choose	1.0	5
+adjust	1.0	5
+enjoy	1.0	5
+update	1.0	102
+base	0.875	8
+
+business owner
+please	0.957746478873	71
+control	0.888888888889	9
+
+support team
+field	1.0	5
+connect	0.973214285714	112
+display	0.961538461538	26
+tell	0.96	25
+show	0.892857142857	28
+share	0.875	8
+start	0.833333333333	6
+begin	0.833333333333	6
+feature	0.8125	16
+
+team name
+field	1.0	5
+connect	0.964601769912	113
+display	0.962962962963	27
+tell	0.96	25
+contain	0.933333333333	30
+access	0.857142857143	7
+show	0.833333333333	30
+set	0.833333333333	6
+start	0.833333333333	6
+begin	0.833333333333	6
+
+animated video
+beautiful	1.0	6
+claim	1.0	22
+donot	1.0	21
+contribute	1.0	9
+cartoon	1.0	15
+ask	0.961538461538	26
+welcome	0.9375	16
+deliver	0.923076923077	26
+entertain	0.842105263158	19
+follow	0.833333333333	6
+come	0.826086956522	23
+
+development team
+field	1.0	5
+connect	0.973214285714	112
+display	0.961538461538	26
+tell	0.96	25
+show	0.892857142857	28
+share	0.875	8
+start	0.833333333333	6
+begin	0.833333333333	6
+feature	0.8125	16
+
+conference
+view	1.0	10
+replace	1.0	11
+join	1.0	6
+tap	1.0	20
+group	0.958333333333	24
+see	0.95652173913	23
+let	0.916666666667	12
+display	0.884615384615	26
+help	0.833333333333	6
+
+bangla news
+unlimited	1.0	5
+bangladesh	1.0	5
+
+notification advertisement
+require	1.0	7
+rat	1.0	86
+delete	0.9875	80
+break	0.96	25
+notify	0.870967741935	31
+support	0.843137254902	51
+select	0.833333333333	6
+notifications	0.818181818182	11
+
+chat history
+set	1.0	7
+account	1.0	5
+chat	0.875	8
+
+local single
+base	1.0	12
+update	1.0	102
+scan	0.944444444444	18
+
+apps
+slide	1.0	5
+excite	1.0	5
+become	1.0	8
+enhance	0.981818181818	55
+link	0.96	25
+interact	0.944444444444	18
+read	0.934426229508	61
+switch	0.886363636364	88
+enable	0.873015873016	63
+bring	0.833333333333	24
+add	0.817307692308	104
+
+play video
+beautiful	1.0	6
+claim	1.0	22
+donot	1.0	21
+contribute	1.0	9
+cartoon	1.0	15
+collect	0.940909090909	220
+welcome	0.9375	16
+ask	0.925925925926	27
+bookmark	0.9	10
+deliver	0.888888888889	27
+gather	0.875	8
+authorize	0.857142857143	21
+entertain	0.842105263158	19
+upcoming	0.833333333333	6
+run	0.833333333333	6
+use	0.828996282528	269
+
+world apps
+slide	1.0	5
+excite	1.0	5
+become	1.0	8
+enhance	0.981818181818	55
+link	0.96	25
+interact	0.944444444444	18
+read	0.934426229508	61
+switch	0.886363636364	88
+enable	0.873015873016	63
+bring	0.833333333333	24
+add	0.817307692308	104
+
+good deal
+send	1.0	5
+lodge	1.0	17
+set	1.0	6
+give	0.942857142857	70
+enjoy	0.857142857143	7
+
+hd video
+beautiful	1.0	6
+claim	1.0	22
+donot	1.0	21
+contribute	1.0	9
+cartoon	1.0	15
+ask	0.961538461538	26
+welcome	0.9375	16
+deliver	0.923076923077	26
+bookmark	0.9	10
+follow	0.857142857143	7
+authorize	0.857142857143	21
+entertain	0.842105263158	19
+
+video guide
+beautiful	1.0	6
+claim	1.0	22
+donot	1.0	21
+contribute	1.0	9
+cartoon	1.0	15
+ask	0.961538461538	26
+welcome	0.9375	16
+deliver	0.923076923077	26
+authorize	0.857142857143	21
+entertain	0.842105263158	19
+follow	0.833333333333	6
+
+entertainment news
+stay	1.0	15
+
+digi-media-apps
+become	1.0	8
+enhance	0.981818181818	55
+link	0.96	25
+read	0.95	60
+interact	0.944444444444	18
+switch	0.886363636364	88
+enable	0.873015873016	63
+add	0.841584158416	101
+bring	0.818181818182	22
+download	0.805555555556	144
+
+limit notification
+rat	1.0	43
+download	0.857142857143	14
+notify	0.846153846154	26
+support	0.84	50
+notifications	0.818181818182	11
+
+conference standing
+view	1.0	10
+replace	1.0	11
+join	1.0	6
+tap	1.0	20
+group	0.958333333333	24
+see	0.95652173913	23
+let	0.916666666667	12
+display	0.884615384615	26
+help	0.833333333333	6
+
+chatting
+set	1.0	7
+account	1.0	5
+chat	0.875	8
+
+correct position
+shift	1.0	12
+move	0.875	8
+
+image video
+beautiful	1.0	6
+claim	1.0	22
+donot	1.0	21
+contribute	1.0	9
+cartoon	1.0	15
+ask	0.961538461538	26
+welcome	0.9375	16
+deliver	0.923076923077	26
+bookmark	0.9	10
+authorize	0.857142857143	21
+entertain	0.842105263158	19
+follow	0.833333333333	6
+
+major platform
+press	1.0	5
+allow	1.0	22
+
+press conference
+view	1.0	10
+replace	1.0	11
+join	1.0	6
+tap	1.0	20
+group	0.958333333333	24
+see	0.95652173913	23
+let	0.916666666667	12
+display	0.884615384615	26
+help	0.833333333333	6
+
+best apps
+slide	1.0	5
+excite	1.0	5
+become	1.0	8
+enhance	0.981818181818	55
+link	0.96	25
+interact	0.944444444444	18
+read	0.934426229508	61
+switch	0.886363636364	88
+enable	0.873015873016	63
+bring	0.833333333333	24
+add	0.817307692308	104
+
+video content
+beautiful	1.0	6
+claim	1.0	22
+donot	1.0	21
+contribute	1.0	9
+cartoon	1.0	15
+ask	0.961538461538	26
+welcome	0.9375	16
+deliver	0.923076923077	26
+entertain	0.842105263158	19
+follow	0.833333333333	6
+
+team member
+field	1.0	5
+connect	0.973214285714	112
+display	0.961538461538	26
+tell	0.96	25
+show	0.892857142857	28
+share	0.875	8
+start	0.833333333333	6
+begin	0.833333333333	6
+feature	0.8125	16
+
+share video
+beautiful	1.0	6
+claim	1.0	22
+donot	1.0	21
+contribute	1.0	9
+cartoon	1.0	15
+ask	0.961538461538	26
+welcome	0.9375	16
+deliver	0.923076923077	26
+bookmark	0.9	10
+authorize	0.857142857143	21
+entertain	0.842105263158	19
+follow	0.833333333333	6
+
+subscription
+turn	0.953488372093	43
+cancel	0.944444444444	36
+manage	0.809523809524	21
+
+chat application
+set	1.0	6
+account	1.0	5
+chat	0.875	8
+create	0.857142857143	7
+invite	0.857142857143	7
+make	0.823529411765	17
+
+current subscription
+turn	0.953488372093	43
+cancel	0.944444444444	36
+manage	0.809523809524	21
+
+mobile rush
+come	1.0	5
+link	1.0	8
+install	0.833333333333	6
+
+correct operation
+shift	1.0	12
+move	0.875	8
+
+free chat
+set	1.0	7
+account	1.0	5
+chat	0.875	8
+
+cheat tip
+trade	1.0	5
+lose	1.0	9
+discover	1.0	24
+exercise	1.0	9
+design	0.857142857143	7
+deliver	0.833333333333	6
+
+type notification
+rat	1.0	43
+download	0.857142857143	14
+notify	0.846153846154	26
+support	0.84	50
+notifications	0.818181818182	11
+
+entertained
+stay	1.0	15
+
+several apps
+slide	1.0	5
+excite	1.0	5
+become	1.0	8
+enhance	0.981818181818	55
+link	0.96	25
+interact	0.944444444444	18
+read	0.934426229508	61
+switch	0.886363636364	88
+enable	0.873015873016	63
+bring	0.833333333333	24
+add	0.817307692308	104
+
+new apps
+slide	1.0	5
+excite	1.0	5
+become	1.0	8
+enhance	0.981818181818	55
+link	0.96	25
+interact	0.944444444444	18
+read	0.934426229508	61
+switch	0.886363636364	88
+enable	0.873015873016	63
+bring	0.833333333333	24
+add	0.817307692308	104
+
+late article
+deliver	1.0	27
+stop	1.0	24
+make	0.875	8
+
+late deal
+send	1.0	5
+lodge	1.0	17
+set	1.0	6
+give	0.942857142857	70
+enjoy	0.857142857143	7
+
+late video
+beautiful	1.0	6
+claim	1.0	22
+donot	1.0	21
+contribute	1.0	9
+cartoon	1.0	15
+ask	0.961538461538	26
+collect	0.940909090909	220
+welcome	0.9375	16
+deliver	0.923076923077	26
+bookmark	0.9	10
+gather	0.875	8
+authorize	0.857142857143	21
+entertain	0.842105263158	19
+use	0.835205992509	267
+
+push notification
+break	1.0	24
+select	1.0	5
+require	1.0	7
+rat	1.0	43
+notify	0.870967741935	31
+download	0.857142857143	14
+notifications	0.818181818182	11
+
+cheat guide
+discover	1.0	24
+download	1.0	12
+know	1.0	24
+list	1.0	8
+deliver	0.833333333333	6
+
+expansion team
+field	1.0	5
+connect	0.964601769912	113
+display	0.962962962963	27
+tell	0.96	25
+contain	0.933333333333	30
+access	0.857142857143	7
+show	0.833333333333	30
+set	0.833333333333	6
+start	0.833333333333	6
+begin	0.833333333333	6
+
+video call
+beautiful	1.0	6
+claim	1.0	22
+donot	1.0	21
+contribute	1.0	9
+cartoon	1.0	15
+collect	0.940909090909	220
+welcome	0.9375	16
+ask	0.925925925926	27
+bookmark	0.9	10
+deliver	0.888888888889	27
+gather	0.875	8
+authorize	0.857142857143	21
+entertain	0.842105263158	19
+upcoming	0.833333333333	6
+run	0.833333333333	6
+use	0.828996282528	269
+
+private chat
+set	1.0	6
+account	1.0	5
+chat	0.875	8
+make	0.842105263158	19
+
+correction
+shift	1.0	12
+move	0.875	8
+
+product information
+charge	1.0	21
+warrant	1.0	7
+app	0.833333333333	6
+choose	0.833333333333	24
+
+gold coin
+replace	1.0	9
+download	0.974025974026	77
+purchase	0.961038961039	77
+choose	0.890243902439	164
+pay	0.878378378378	74
+restore	0.866666666667	15
+race	0.857142857143	7
+app	0.857142857143	14
+find	0.833333333333	6
+
+single
+base	1.0	12
+update	1.0	102
+scan	0.944444444444	18
+
+video cheat
+claim	1.0	22
+donot	1.0	21
+contribute	1.0	8
+cartoon	1.0	15
+ask	0.961538461538	26
+deliver	0.935483870968	31
+discover	0.911764705882	34
+know	0.90625	32
+list	0.9	10
+put	0.861111111111	36
+entertain	0.842105263158	19
+stay	0.833333333333	6
+come	0.8125	16
+select	0.802469135802	81
+
+dating apps
+excite	1.0	5
+become	1.0	8
+enhance	0.981818181818	55
+link	0.96	25
+interact	0.944444444444	18
+read	0.934426229508	61
+switch	0.886363636364	88
+enable	0.873015873016	63
+add	0.833333333333	102
+bring	0.818181818182	22
+
+subscription service
+turn	0.953488372093	43
+cancel	0.944444444444	36
+manage	0.809523809524	21
+
+chat
+set	1.0	7
+account	1.0	5
+chat	0.875	8
+
+event activity
+arrive	1.0	10
+check-in	1.0	10
+specify	1.0	5
+comb	1.0	9
+go	0.857142857143	7
+navigate	0.857142857143	7
+
+sex video
+claim	1.0	22
+donot	1.0	21
+contribute	1.0	8
+cartoon	1.0	15
+ask	0.961538461538	26
+deliver	0.96	25
+enhance	0.888888888889	9
+put	0.857142857143	35
+entertain	0.842105263158	19
+stay	0.833333333333	6
+
+gameplay video
+beautiful	1.0	6
+claim	1.0	22
+donot	1.0	21
+contribute	1.0	9
+cartoon	1.0	15
+collect	0.940909090909	220
+welcome	0.9375	16
+ask	0.925925925926	27
+bookmark	0.9	10
+deliver	0.888888888889	27
+gather	0.875	8
+authorize	0.857142857143	21
+entertain	0.842105263158	19
+upcoming	0.833333333333	6
+run	0.833333333333	6
+use	0.828996282528	269
+
+funny video
+claim	1.0	22
+donot	1.0	21
+contribute	1.0	8
+cartoon	1.0	15
+ask	0.962962962963	27
+deliver	0.96	25
+put	0.861111111111	36
+entertain	0.842105263158	19
+stay	0.833333333333	6
+come	0.823529411765	17
+select	0.802469135802	81
+
+sexy video
+beautiful	1.0	6
+claim	1.0	22
+donot	1.0	21
+contribute	1.0	8
+cartoon	1.0	15
+ask	0.961538461538	26
+deliver	0.96	25
+put	0.857142857143	35
+entertain	0.842105263158	19
+stay	0.833333333333	6
+come	0.8125	16
+select	0.802469135802	81
+
+in-app advertisement
+slide	1.0	5
+excite	1.0	5
+become	1.0	8
+enhance	0.981818181818	55
+link	0.96	25
+interact	0.944444444444	18
+read	0.934426229508	61
+switch	0.886363636364	88
+enable	0.873015873016	63
+bring	0.833333333333	24
+add	0.817307692308	104
+
+free video
+beautiful	1.0	6
+claim	1.0	22
+donot	1.0	21
+contribute	1.0	9
+cartoon	1.0	15
+ask	0.961538461538	26
+welcome	0.9375	16
+deliver	0.923076923077	26
+bookmark	0.9	10
+authorize	0.857142857143	21
+entertain	0.842105263158	19
+follow	0.833333333333	6
+
+video music
+beautiful	1.0	6
+claim	1.0	22
+donot	1.0	21
+contribute	1.0	9
+cartoon	1.0	15
+ask	0.961538461538	26
+welcome	0.9375	16
+deliver	0.923076923077	26
+entertain	0.842105263158	19
+follow	0.833333333333	6
+come	0.826086956522	23
+
+late result
+deliver	1.0	27
+stop	1.0	24
+make	0.875	8
+
+in-app purchase
+slide	1.0	5
+excite	1.0	5
+become	1.0	8
+enhance	0.981818181818	55
+link	0.96	25
+interact	0.944444444444	18
+read	0.934426229508	61
+switch	0.886363636364	88
+enable	0.873015873016	63
+bring	0.833333333333	24
+add	0.817307692308	104
+
+notification alert
+support	0.944444444444	36
+
+conference division
+view	1.0	10
+replace	1.0	11
+join	1.0	6
+tap	1.0	20
+group	0.958333333333	24
+see	0.95652173913	23
+let	0.916666666667	12
+display	0.884615384615	26
+help	0.833333333333	6
+
+team schedule
+field	1.0	5
+connect	0.973214285714	112
+tell	0.962962962963	27
+display	0.961538461538	26
+begin	0.833333333333	6
+start	0.833333333333	6
+show	0.806451612903	31
+
+popular apps
+excite	1.0	5
+become	1.0	8
+enhance	0.981818181818	55
+link	0.96	25
+interact	0.944444444444	18
+read	0.934426229508	61
+switch	0.886363636364	88
+enable	0.873015873016	63
+add	0.825242718447	103
+bring	0.818181818182	22
+
+special deal
+send	1.0	5
+lodge	1.0	17
+set	1.0	6
+give	0.95652173913	69
+enjoy	0.857142857143	7
+
+real-time notification
+rat	1.0	43
+download	0.857142857143	14
+notify	0.846153846154	26
+support	0.84	50
+notifications	0.818181818182	11
+
+late play
+stop	1.0	24
+deliver	1.0	27
+ensure	0.92	25
+
+special event
+arrive	1.0	10
+check-in	1.0	10
+specify	1.0	5
+comb	1.0	9
+go	0.857142857143	7
+navigate	0.857142857143	7
+
+notification tray
+require	1.0	7
+rat	1.0	86
+delete	0.9875	80
+break	0.96	25
+notify	0.870967741935	31
+support	0.843137254902	51
+select	0.833333333333	6
+notifications	0.818181818182	11
+
+video-on-demand clip
+claim	1.0	22
+donot	1.0	21
+contribute	1.0	8
+cartoon	1.0	15
+ask	0.961538461538	26
+deliver	0.96	25
+gather	0.857142857143	7
+entertain	0.842105263158	19
+put	0.833333333333	36
+stay	0.833333333333	6
+come	0.8125	16
+send	0.803278688525	61
+select	0.802469135802	81
+
+social platform
+press	1.0	5
+allow	1.0	22
+
+random chat
+account	1.0	5
+make	0.923076923077	13
+chat	0.875	8
+create	0.857142857143	7
+invite	0.857142857143	7
+
+photo video
+beautiful	1.0	6
+claim	1.0	22
+donot	1.0	21
+contribute	1.0	9
+cartoon	1.0	15
+ask	0.961538461538	26
+welcome	0.9375	16
+deliver	0.923076923077	26
+bookmark	0.9	10
+authorize	0.857142857143	21
+entertain	0.842105263158	19
+follow	0.833333333333	6
+
+video image
+beautiful	1.0	6
+claim	1.0	22
+donot	1.0	21
+contribute	1.0	9
+cartoon	1.0	15
+ask	0.961538461538	26
+welcome	0.9375	16
+deliver	0.923076923077	26
+bookmark	0.9	10
+authorize	0.857142857143	21
+entertain	0.842105263158	19
+follow	0.833333333333	6
+
+top apps
+excite	1.0	5
+become	1.0	8
+enhance	0.981818181818	55
+link	0.96	25
+interact	0.944444444444	18
+read	0.934426229508	61
+switch	0.886363636364	88
+enable	0.873015873016	63
+add	0.833333333333	102
+bring	0.818181818182	22
+
+active apps
+excite	1.0	5
+become	1.0	8
+enhance	0.981818181818	55
+link	0.96	25
+interact	0.944444444444	18
+read	0.934426229508	61
+switch	0.886363636364	88
+enable	0.873015873016	63
+add	0.833333333333	102
+bring	0.818181818182	22
+
+system apps
+excite	1.0	5
+become	1.0	8
+enhance	0.981818181818	55
+link	0.96	25
+interact	0.944444444444	18
+read	0.934426229508	61
+switch	0.886363636364	88
+enable	0.873015873016	63
+add	0.825242718447	103
+bring	0.818181818182	22
+
+alert
+support	0.944444444444	36
+
+best video
+beautiful	1.0	6
+claim	1.0	22
+donot	1.0	21
+contribute	1.0	9
+cartoon	1.0	15
+collect	0.940909090909	220
+welcome	0.9375	16
+ask	0.925925925926	27
+bookmark	0.9	10
+deliver	0.888888888889	27
+gather	0.875	8
+authorize	0.857142857143	21
+entertain	0.842105263158	19
+upcoming	0.833333333333	6
+run	0.833333333333	6
+use	0.828996282528	269
+
+local event
+arrive	1.0	10
+check-in	1.0	10
+specify	1.0	5
+comb	1.0	9
+go	0.857142857143	7
+navigate	0.857142857143	7
+
+itooch apps
+slide	1.0	5
+excite	1.0	5
+become	1.0	8
+enhance	0.981818181818	55
+link	0.96	25
+interact	0.944444444444	18
+read	0.934426229508	61
+switch	0.886363636364	88
+enable	0.873015873016	63
+bring	0.833333333333	24
+add	0.817307692308	104
+
+push alert
+support	0.944444444444	36
+
+advertisement notification
+require	1.0	7
+rat	1.0	86
+delete	0.9875	80
+break	0.96	25
+notify	0.870967741935	31
+support	0.843137254902	51
+select	0.833333333333	6
+notifications	0.818181818182	11
+
+american football
+represent	1.0	30
+affiliate	1.0	14
+connect	0.933333333333	15
+field	0.888888888889	9
+include	0.857142857143	7
+
+favorite apps
+slide	1.0	5
+enhance	0.981818181818	55
+link	0.96	25
+interact	0.947368421053	19
+read	0.911764705882	68
+switch	0.897727272727	88
+enable	0.873015873016	63
+bring	0.863636363636	22
+recommend	0.833333333333	6
+
+new single
+base	1.0	12
+update	1.0	102
+scan	0.944444444444	18
+
+local deal
+send	1.0	5
+lodge	1.0	17
+set	1.0	6
+give	0.95652173913	69
+enjoy	0.857142857143	7
+
+bangla newspaper
+come	0.888888888889	9
+
+group chat
+set	1.0	7
+account	1.0	5
+chat	0.875	8
+
+entertainment
+stay	1.0	15
+
+video highlight
+beautiful	1.0	6
+claim	1.0	22
+donot	1.0	21
+contribute	1.0	9
+cartoon	1.0	15
+ask	0.961538461538	26
+deliver	0.923076923077	26
+entertain	0.842105263158	19
+stay	0.833333333333	6
+come	0.826086956522	23
+
+live video
+beautiful	1.0	6
+claim	1.0	22
+donot	1.0	21
+contribute	1.0	9
+cartoon	1.0	15
+ask	0.961538461538	26
+collect	0.940909090909	220
+welcome	0.9375	16
+deliver	0.923076923077	26
+bookmark	0.9	10
+gather	0.875	8
+authorize	0.857142857143	21
+entertain	0.842105263158	19
+use	0.835205992509	267
+run	0.833333333333	6
+
+educational apps
+excite	1.0	5
+become	1.0	8
+enhance	0.981818181818	55
+link	0.96	25
+interact	0.944444444444	18
+read	0.934426229508	61
+switch	0.886363636364	88
+enable	0.873015873016	63
+add	0.833333333333	102
+bring	0.818181818182	22
+
+great video
+beautiful	1.0	6
+claim	1.0	22
+donot	1.0	21
+contribute	1.0	9
+cartoon	1.0	15
+ask	0.961538461538	26
+collect	0.940909090909	220
+welcome	0.9375	16
+deliver	0.923076923077	26
+bookmark	0.9	10
+gather	0.875	8
+authorize	0.857142857143	21
+entertain	0.842105263158	19
+use	0.835205992509	267
+

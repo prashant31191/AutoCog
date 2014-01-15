@@ -1,0 +1,2067 @@
+com.jp.zenhabits.apk
+false
+
+com.vllwp.inputmethod.latin.apk
+false
+
+com.vimeo.android.videoapp.apk
+false
+
+com.voxle.apk
+false
+
+com.sismen.android.voaafrica.apk
+false
+
+com.smartflashlight.apk
+false
+
+eyad.appstore.apk
+false
+
+com.hcg.neyo.apk
+true
+classical music	chat	music	chat
+free music	chat	music	chat
+music collection	chat	music	chat
+music	chat	music	chat
+background music	chat	music	chat
+video music	chat	music	chat
+great music	chat	music	chat
+music today	chat	music	chat
+new music	chat	music	chat
+best music	chat	music	chat
+late music	chat	music	chat
+beautiful music	chat	music	chat
+music video	chat	music	chat
+music	chat	music artist	chat
+great music	chat	music artist	chat
+music today	chat	music artist	chat
+new music	chat	music artist	chat
+best music	chat	music artist	chat
+late music	chat	music artist	chat
+
+com.jazzuplifeap.inspirationalpoems.apk
+false
+
+tw.com.geovision.mygvcam.apk
+false
+
+com.ladytimer.ovulationcalendar.apk
+false
+
+com.groundctrl.fyf.apk
+false
+
+net.manageapps.MrCheckpoint.apk
+false
+
+com.jp.losangeles.apk
+true
+book hotel	compare	hotel price	compare
+hotel deal	compare	hotel price	compare
+hotel saving	compare	hotel price	compare
+hotel review	compare	hotel price	compare
+hotel price	compare	hotel price	compare
+hotel detail	compare	hotel price	compare
+local hotel	compare	hotel price	compare
+hotel offer	compare	hotel price	compare
+listed hotel	compare	hotel price	compare
+hotel feature	compare	hotel price	compare
+hotel booking	compare	hotel price	compare
+best hotel	compare	hotel price	compare
+hotel	compare	hotel price	compare
+book hotel	search	listed hotel	search
+hotel room	search	listed hotel	search
+hotel reservation	search	listed hotel	search
+hotel deal	search	listed hotel	search
+hotel saving	search	listed hotel	search
+hotel review	search	listed hotel	search
+budget hotel	search	listed hotel	search
+discount hotel	search	listed hotel	search
+hotel price	search	listed hotel	search
+hotel detail	search	listed hotel	search
+luxury hotel	search	listed hotel	search
+local hotel	search	listed hotel	search
+boutique hotel	search	listed hotel	search
+hotel offer	search	listed hotel	search
+listed hotel	search	listed hotel	search
+hotel feature	search	listed hotel	search
+hotel booking	search	listed hotel	search
+best hotel	search	listed hotel	search
+hotel	search	listed hotel	search
+late deal	give	deal	give
+good deal	give	deal	give
+deal	give	deal	give
+local deal	give	deal	give
+special deal	give	deal	give
+best deal	give	deal	give
+record deal	give	deal	give
+exclusive deal	give	deal	give
+great deal	give	deal	give
+book hotel	km	hotel	km
+hotel restaurant	km	hotel	km
+hotel room	km	hotel	km
+hotel reservation	km	hotel	km
+hotel deal	km	hotel	km
+hotel saving	km	hotel	km
+hotel review	km	hotel	km
+budget hotel	km	hotel	km
+discount hotel	km	hotel	km
+hotel price	km	hotel	km
+hotel detail	km	hotel	km
+luxury hotel	km	hotel	km
+local hotel	km	hotel	km
+boutique hotel	km	hotel	km
+hotel offer	km	hotel	km
+listed hotel	km	hotel	km
+hotel feature	km	hotel	km
+hotel booking	km	hotel	km
+best hotel	km	hotel	km
+hotel	km	hotel	km
+book hotel	need	last minute hotel	need
+hotel room	need	last minute hotel	need
+hotel reservation	need	last minute hotel	need
+hotel deal	need	last minute hotel	need
+hotel saving	need	last minute hotel	need
+hotel review	need	last minute hotel	need
+hotel detail	need	last minute hotel	need
+local hotel	need	last minute hotel	need
+boutique hotel	need	last minute hotel	need
+hotel offer	need	last minute hotel	need
+listed hotel	need	last minute hotel	need
+hotel feature	need	last minute hotel	need
+hotel booking	need	last minute hotel	need
+best hotel	need	last minute hotel	need
+hotel	need	last minute hotel	need
+book hotel	need	last minute hotel deal	need
+hotel room	need	last minute hotel deal	need
+hotel reservation	need	last minute hotel deal	need
+hotel deal	need	last minute hotel deal	need
+hotel saving	need	last minute hotel deal	need
+hotel review	need	last minute hotel deal	need
+hotel detail	need	last minute hotel deal	need
+local hotel	need	last minute hotel deal	need
+boutique hotel	need	last minute hotel deal	need
+hotel offer	need	last minute hotel deal	need
+listed hotel	need	last minute hotel deal	need
+hotel feature	need	last minute hotel deal	need
+hotel booking	need	last minute hotel deal	need
+best hotel	need	last minute hotel deal	need
+hotel	need	last minute hotel deal	need
+
+com.billybala.pregnancysymtomsap.apk
+false
+
+com.unlocker.denmark.apk
+false
+
+com.kauf.talking.baum.TalkingLuisLion.apk
+true
+funny moment	answer	funny voice	answer
+funny image	answer	funny voice	answer
+funny voice	answer	funny voice	answer
+funny quote	answer	funny voice	answer
+crossword puzzle	slide	puzzle	slide
+puzzle piece	slide	puzzle	slide
+placement puzzle	slide	puzzle	slide
+unique puzzle	slide	puzzle	slide
+easy puzzle	slide	puzzle	slide
+puzzle game	slide	puzzle	slide
+fun puzzle	slide	puzzle	slide
+slide puzzle	slide	puzzle	slide
+jigsaw puzzle	slide	puzzle	slide
+new puzzle	slide	puzzle	slide
+puzzle	slide	puzzle	slide
+kik messenger	send	messenger tool	send
+messenger	send	messenger tool	send
+whatsapp messenger	send	messenger tool	send
+facebook messenger	send	messenger tool	send
+
+com.skillapps.diseasesymptoms.apk
+false
+
+com.limpenghoe.foodcookiesdesertrecipes.apk
+false
+
+com.klip.apk
+false
+
+com.tabtale.hitechdadstorybook.apk
+false
+
+com.hcg.robinthicke.apk
+true
+classical music	chat	music	chat
+free music	chat	music	chat
+music collection	chat	music	chat
+music	chat	music	chat
+background music	chat	music	chat
+video music	chat	music	chat
+great music	chat	music	chat
+music today	chat	music	chat
+new music	chat	music	chat
+best music	chat	music	chat
+late music	chat	music	chat
+beautiful music	chat	music	chat
+music video	chat	music	chat
+music	chat	music artist	chat
+great music	chat	music artist	chat
+music today	chat	music artist	chat
+new music	chat	music artist	chat
+best music	chat	music artist	chat
+late music	chat	music artist	chat
+
+com.dragonwork.alpha.lite.apk
+false
+
+com.rosamaria.svegliaparlante.apk
+false
+
+com.babbel.mobile.android.en.apk
+true
+interactive exercise	study	interactive exercise	study
+interactive experience	study	interactive exercise	study
+interact	study	interactive exercise	study
+interaction	study	interactive exercise	study
+fully interactive	study	interactive exercise	study
+interactive feature	study	interactive exercise	study
+interactive way	study	interactive exercise	study
+interactive	study	interactive exercise	study
+audio pronunciation	practice	pronunciation	practice
+good review	learn	review	learn
+product review	learn	review	learn
+star review	learn	review	learn
+review guide	learn	review	learn
+good review	present	review	present
+product review	present	review	present
+star review	present	review	present
+review guide	present	review	present
+chat application	create	application	create
+
+com.jacobsmedia.wwka.apk
+false
+
+com.threebanana.notes.apk
+false
+
+com.alpinereplay.android.apk
+false
+
+crewbiz.crewnetwork.org.CREWMemberDir.apk
+false
+
+com.isandroid.isflashlight.apk
+false
+
+com.nll.acr.apk
+true
+recording	call	recording	call
+syco record	call	recording	call
+record time	call	recording	call
+call recorder	call	recording	call
+record	call	recording	call
+recorder	call	recording	call
+call recording	call	recording	call
+world record	call	recording	call
+record deal	call	recording	call
+recording	start	delayed recording	start
+syco record	start	delayed recording	start
+record time	start	delayed recording	start
+call recorder	start	delayed recording	start
+record	start	delayed recording	start
+recorder	start	delayed recording	start
+call recording	start	delayed recording	start
+world record	start	delayed recording	start
+record deal	start	delayed recording	start
+recording	support	call recording	support
+syco record	support	call recording	support
+record time	support	call recording	support
+call recorder	support	call recording	support
+record	support	call recording	support
+recorder	support	call recording	support
+call recording	support	call recording	support
+world record	support	call recording	support
+record deal	support	call recording	support
+
+com.mobileappsforcashflow.heroescomics.apk
+false
+
+com.vox.omax.apk
+false
+
+com.wizetalkdialer.apk
+false
+
+com.max.maxbalancingchakrasformigrainesm1x.apk
+false
+
+com.limpenghoe.breakingnewsupdate.apk
+false
+
+com.MyFloridaFarmWeather.myapp.apk
+false
+
+nuance.com.apk
+false
+
+com.newapps.lowglycemicfoods.apk
+false
+
+com.grupogallegos.otroscuentos.apk
+false
+
+com.videofx.apk
+true
+recording	stop	recording	stop
+syco record	stop	recording	stop
+record time	stop	recording	stop
+call recorder	stop	recording	stop
+record	stop	recording	stop
+recorder	stop	recording	stop
+call recording	stop	recording	stop
+world record	stop	recording	stop
+record deal	stop	recording	stop
+recording	resume	record	resume
+syco record	resume	record	resume
+record time	resume	record	resume
+call recorder	resume	record	resume
+record	resume	record	resume
+recorder	resume	record	resume
+call recording	resume	record	resume
+world record	resume	record	resume
+record deal	resume	record	resume
+record deal	give	recording	give
+recording	start	recording	start
+syco record	start	recording	start
+record time	start	recording	start
+call recorder	start	recording	start
+record	start	recording	start
+recorder	start	recording	start
+call recording	start	recording	start
+world record	start	recording	start
+record deal	start	recording	start
+
+com.sismen.android.voaethiopia.apk
+false
+
+com.XZrtlove.apk
+false
+
+com.picadelic.fxguru.apk
+false
+
+com.karunaapps.heartquotes.apk
+false
+
+com.ns.paypalpp.apk
+false
+
+com.cci.guestmode.apk
+false
+
+com.app_reliableair.layout.apk
+true
+voice call	record	voice note	record
+voice command	record	voice note	record
+voice note	record	voice note	record
+voice recording	record	voice note	record
+voice recognition	record	voice note	record
+voice	record	voice note	record
+voice recorder	record	voice note	record
+
+org.adesanyaaa.appmoviecreator.apk
+false
+
+com.littleinc.MessageMe.apk
+false
+
+com.vox.free2calls.apk
+false
+
+com.vonage.MobileExtension.apk
+true
+chat application	save	incredible application	save
+
+com.babbel.mobile.android.pt.apk
+true
+interactive exercise	study	interactive exercise	study
+interactive experience	study	interactive exercise	study
+interact	study	interactive exercise	study
+interaction	study	interactive exercise	study
+fully interactive	study	interactive exercise	study
+interactive feature	study	interactive exercise	study
+interactive way	study	interactive exercise	study
+interactive	study	interactive exercise	study
+audio pronunciation	practice	pronunciation	practice
+good review	learn	review	learn
+product review	learn	review	learn
+star review	learn	review	learn
+review guide	learn	review	learn
+good review	present	review	present
+product review	present	review	present
+star review	present	review	present
+review guide	present	review	present
+chat application	create	application	create
+
+com.skillapps.babydevelopment.apk
+false
+
+com.shazam.android.apk
+false
+
+com.path.apk
+false
+
+com.thesourcecod.nightcamads.apk
+true
+audio video	record	audio	record
+video audio	record	audio	record
+
+com.c2call.app.android.friendcaller.apk
+true
+youtube video	send	image video	send
+animated video	send	image video	send
+video	send	image video	send
+late video	send	image video	send
+video support	send	image video	send
+exclusive video	send	image video	send
+video instruction	send	image video	send
+video song	send	image video	send
+awesome video	send	image video	send
+video call	send	image video	send
+following video	send	image video	send
+top video	send	image video	send
+walkthrough video	send	image video	send
+favorite video	send	image video	send
+instructional video	send	image video	send
+video content	send	image video	send
+streaming video	send	image video	send
+photo video	send	image video	send
+video quality	send	image video	send
+play video	send	image video	send
+sex video	send	image video	send
+video playback	send	image video	send
+video stream	send	image video	send
+free video	send	image video	send
+hd video	send	image video	send
+live video	send	image video	send
+video photo	send	image video	send
+next video	send	image video	send
+video streaming	send	image video	send
+video recording	send	image video	send
+video tip	send	image video	send
+video music	send	image video	send
+video clip	send	image video	send
+video cheat	send	image video	send
+new video	send	image video	send
+great video	send	image video	send
+watch video	send	image video	send
+video tutorial	send	image video	send
+amazing video	send	image video	send
+news video	send	image video	send
+funny video	send	image video	send
+share video	send	image video	send
+video format	send	image video	send
+sexy video	send	image video	send
+song video	send	image video	send
+stream video	send	image video	send
+best video	send	image video	send
+video highlight	send	image video	send
+video section	send	image video	send
+tutorial video	send	image video	send
+video guide	send	image video	send
+video image	send	image video	send
+image video	send	image video	send
+music video	send	image video	send
+gameplay video	send	image video	send
+hot video	send	image video	send
+youtube video	send	image video animation	send
+animated video	send	image video animation	send
+video	send	image video animation	send
+late video	send	image video animation	send
+video support	send	image video animation	send
+exclusive video	send	image video animation	send
+awesome video	send	image video animation	send
+video call	send	image video animation	send
+following video	send	image video animation	send
+top video	send	image video animation	send
+walkthrough video	send	image video animation	send
+video content	send	image video animation	send
+photo video	send	image video animation	send
+video quality	send	image video animation	send
+play video	send	image video animation	send
+free video	send	image video animation	send
+hd video	send	image video animation	send
+live video	send	image video animation	send
+video photo	send	image video animation	send
+next video	send	image video animation	send
+video recording	send	image video animation	send
+video music	send	image video animation	send
+new video	send	image video animation	send
+great video	send	image video animation	send
+watch video	send	image video animation	send
+news video	send	image video animation	send
+share video	send	image video animation	send
+video format	send	image video animation	send
+best video	send	image video animation	send
+video section	send	image video animation	send
+video guide	send	image video animation	send
+video image	send	image video animation	send
+image video	send	image video animation	send
+music video	send	image video animation	send
+gameplay video	send	image video animation	send
+youtube video	send	image video animation voice	send
+animated video	send	image video animation voice	send
+video	send	image video animation voice	send
+late video	send	image video animation voice	send
+video support	send	image video animation voice	send
+exclusive video	send	image video animation voice	send
+video call	send	image video animation voice	send
+following video	send	image video animation voice	send
+photo video	send	image video animation voice	send
+play video	send	image video animation voice	send
+live video	send	image video animation voice	send
+video photo	send	image video animation voice	send
+next video	send	image video animation voice	send
+new video	send	image video animation voice	send
+great video	send	image video animation voice	send
+news video	send	image video animation voice	send
+best video	send	image video animation voice	send
+video image	send	image video animation voice	send
+image video	send	image video animation voice	send
+gameplay video	send	image video animation voice	send
+youtube video	send	image video animation voice video	send
+animated video	send	image video animation voice video	send
+audio video	send	image video animation voice video	send
+video	send	image video animation voice video	send
+late video	send	image video animation voice video	send
+video support	send	image video animation voice video	send
+exclusive video	send	image video animation voice video	send
+video instruction	send	image video animation voice video	send
+video song	send	image video animation voice video	send
+awesome video	send	image video animation voice video	send
+video call	send	image video animation voice video	send
+following video	send	image video animation voice video	send
+top video	send	image video animation voice video	send
+walkthrough video	send	image video animation voice video	send
+favorite video	send	image video animation voice video	send
+instructional video	send	image video animation voice video	send
+video-on-demand clip	send	image video animation voice video	send
+video content	send	image video animation voice video	send
+streaming video	send	image video animation voice video	send
+photo video	send	image video animation voice video	send
+video quality	send	image video animation voice video	send
+play video	send	image video animation voice video	send
+sex video	send	image video animation voice video	send
+video playback	send	image video animation voice video	send
+video stream	send	image video animation voice video	send
+free video	send	image video animation voice video	send
+hd video	send	image video animation voice video	send
+live video	send	image video animation voice video	send
+video photo	send	image video animation voice video	send
+next video	send	image video animation voice video	send
+video streaming	send	image video animation voice video	send
+video editor	send	image video animation voice video	send
+video recording	send	image video animation voice video	send
+video tip	send	image video animation voice video	send
+video music	send	image video animation voice video	send
+video clip	send	image video animation voice video	send
+video cheat	send	image video animation voice video	send
+new video	send	image video animation voice video	send
+great video	send	image video animation voice video	send
+watch video	send	image video animation voice video	send
+video tutorial	send	image video animation voice video	send
+amazing video	send	image video animation voice video	send
+news video	send	image video animation voice video	send
+funny video	send	image video animation voice video	send
+share video	send	image video animation voice video	send
+video format	send	image video animation voice video	send
+sexy video	send	image video animation voice video	send
+song video	send	image video animation voice video	send
+stream video	send	image video animation voice video	send
+best video	send	image video animation voice video	send
+video highlight	send	image video animation voice video	send
+video section	send	image video animation voice video	send
+tutorial video	send	image video animation voice video	send
+video guide	send	image video animation voice video	send
+video image	send	image video animation voice video	send
+image video	send	image video animation voice video	send
+music video	send	image video animation voice video	send
+gameplay video	send	image video animation voice video	send
+video audio	send	image video animation voice video	send
+hot video	send	image video animation voice video	send
+youtube video	send	image video animation voice video message	send
+animated video	send	image video animation voice video message	send
+audio video	send	image video animation voice video message	send
+video	send	image video animation voice video message	send
+late video	send	image video animation voice video message	send
+video support	send	image video animation voice video message	send
+exclusive video	send	image video animation voice video message	send
+video instruction	send	image video animation voice video message	send
+video song	send	image video animation voice video message	send
+awesome video	send	image video animation voice video message	send
+video call	send	image video animation voice video message	send
+following video	send	image video animation voice video message	send
+top video	send	image video animation voice video message	send
+walkthrough video	send	image video animation voice video message	send
+favorite video	send	image video animation voice video message	send
+instructional video	send	image video animation voice video message	send
+video-on-demand clip	send	image video animation voice video message	send
+video content	send	image video animation voice video message	send
+streaming video	send	image video animation voice video message	send
+photo video	send	image video animation voice video message	send
+video quality	send	image video animation voice video message	send
+play video	send	image video animation voice video message	send
+sex video	send	image video animation voice video message	send
+video playback	send	image video animation voice video message	send
+video stream	send	image video animation voice video message	send
+free video	send	image video animation voice video message	send
+hd video	send	image video animation voice video message	send
+live video	send	image video animation voice video message	send
+video photo	send	image video animation voice video message	send
+next video	send	image video animation voice video message	send
+video streaming	send	image video animation voice video message	send
+video editor	send	image video animation voice video message	send
+video recording	send	image video animation voice video message	send
+video tip	send	image video animation voice video message	send
+video music	send	image video animation voice video message	send
+video clip	send	image video animation voice video message	send
+video cheat	send	image video animation voice video message	send
+new video	send	image video animation voice video message	send
+great video	send	image video animation voice video message	send
+watch video	send	image video animation voice video message	send
+video tutorial	send	image video animation voice video message	send
+amazing video	send	image video animation voice video message	send
+news video	send	image video animation voice video message	send
+funny video	send	image video animation voice video message	send
+share video	send	image video animation voice video message	send
+video format	send	image video animation voice video message	send
+sexy video	send	image video animation voice video message	send
+song video	send	image video animation voice video message	send
+stream video	send	image video animation voice video message	send
+best video	send	image video animation voice video message	send
+video highlight	send	image video animation voice video message	send
+video section	send	image video animation voice video message	send
+tutorial video	send	image video animation voice video message	send
+video guide	send	image video animation voice video message	send
+video image	send	image video animation voice video message	send
+image video	send	image video animation voice video message	send
+music video	send	image video animation voice video message	send
+gameplay video	send	image video animation voice video message	send
+video audio	send	image video animation voice video message	send
+hot video	send	image video animation voice video message	send
+webcam chat	create	video chat	create
+
+com.psa.android.slideshow.apk
+false
+
+com.mobicloudit3.kidscamerahd.apk
+false
+
+com.fmginc.hardlinemobile.apk
+true
+chat application	talk	application	talk
+youtube video	send	video	send
+animated video	send	video	send
+audio video	send	video	send
+video	send	video	send
+late video	send	video	send
+video support	send	video	send
+exclusive video	send	video	send
+video instruction	send	video	send
+video song	send	video	send
+awesome video	send	video	send
+video call	send	video	send
+following video	send	video	send
+top video	send	video	send
+walkthrough video	send	video	send
+favorite video	send	video	send
+instructional video	send	video	send
+video-on-demand clip	send	video	send
+video content	send	video	send
+streaming video	send	video	send
+photo video	send	video	send
+video quality	send	video	send
+play video	send	video	send
+sex video	send	video	send
+video playback	send	video	send
+video stream	send	video	send
+free video	send	video	send
+hd video	send	video	send
+live video	send	video	send
+video photo	send	video	send
+next video	send	video	send
+video streaming	send	video	send
+video editor	send	video	send
+video recording	send	video	send
+video tip	send	video	send
+video music	send	video	send
+video clip	send	video	send
+video cheat	send	video	send
+new video	send	video	send
+great video	send	video	send
+watch video	send	video	send
+video tutorial	send	video	send
+amazing video	send	video	send
+news video	send	video	send
+funny video	send	video	send
+share video	send	video	send
+video format	send	video	send
+sexy video	send	video	send
+song video	send	video	send
+stream video	send	video	send
+best video	send	video	send
+video highlight	send	video	send
+video section	send	video	send
+tutorial video	send	video	send
+video guide	send	video	send
+video image	send	video	send
+image video	send	video	send
+music video	send	video	send
+gameplay video	send	video	send
+video audio	send	video	send
+hot video	send	video	send
+
+io.appery.project100626.apk
+false
+
+com.galaxywallpaper.moban.jagljlwhjlaj.apk
+true
+puzzle mode	axis	mode	axis
+
+sexy.gameloft.hotgirl.spt.Book.apk
+false
+
+com.rene.beatmaker.apk
+false
+
+com.faremotion.consumer.apk
+false
+
+com.gaganjeetbhullar.taxcalculator.apk
+false
+
+com.laminaapps.onlinepaydayloans.apk
+false
+
+com.mdt.doforms.android.apk
+false
+
+com.appshare4life.photo.apk
+false
+
+com.newapps.freemangacomics.apk
+false
+
+com.mfw.wengweng.apk
+false
+
+com.indymobiledesigns.com.recordingstudio.apk
+true
+voice call	give	voice recording	give
+voice command	give	voice recording	give
+voice note	give	voice recording	give
+voice	give	voice recording	give
+voice call	record	voice	record
+voice command	record	voice	record
+voice note	record	voice	record
+voice recording	record	voice	record
+voice recognition	record	voice	record
+voice	record	voice	record
+voice recorder	record	voice	record
+
+com.komobile.im.ui.apk
+false
+
+com.tenvis.ipcamera.apk
+false
+
+com.google.android.voicesearch.apk
+true
+voice call	control	voice action	control
+voice command	control	voice action	control
+voice note	control	voice action	control
+voice recording	control	voice action	control
+voice recognition	control	voice action	control
+voice	control	voice action	control
+voice recorder	control	voice action	control
+
+com.thoughtstrom.free.photoeditor.apk
+false
+
+com.mparag.celebritystoriesap.apk
+false
+
+com.kauf.talking.a3headeddragon.apk
+true
+funny moment	answer	funny voice	answer
+funny image	answer	funny voice	answer
+funny voice	answer	funny voice	answer
+funny quote	answer	funny voice	answer
+voice call	speak	funny voice	speak
+voice note	speak	funny voice	speak
+voice	speak	funny voice	speak
+
+com.mk.iSpyCamera.apk
+false
+
+com.intsig.BCRLite.apk
+false
+
+com.jazzuplife.learnsignlanguageap.apk
+false
+
+mobi.androidcloud.app.ptt.client.apk
+false
+
+com.newapps.freesatelliteinternetprovider.apk
+false
+
+com.ayushapps.liverdiseasesymptoms.apk
+false
+
+com.limpenghoe.yogaaerobicspilates.apk
+false
+
+com.xzIphone4s.apk
+false
+
+com.alt12.kidfolio.apk
+false
+
+com.etoolkit.heartphoto.apk
+false
+
+com.laminaapps.fibroidpregnancyapp.apk
+false
+
+com.bhupi.balishoppingfunma38umetbh.apk
+false
+
+com.skythor.chefvillecheats.apk
+false
+
+com.ipum.app991.apk
+false
+
+com.hcg.asaprocky.apk
+false
+
+com.immomo.momo.apk
+false
+
+com.cbslocal.audioroadshow.apk
+true
+voice call	hear	voice	hear
+voice command	hear	voice	hear
+voice note	hear	voice	hear
+voice recording	hear	voice	hear
+voice recognition	hear	voice	hear
+voice	hear	voice	hear
+voice recorder	hear	voice	hear
+
+com.baishisoft.photo.japan131girl.apk
+false
+
+com.jwork.spycamera.apk
+false
+
+com.app_mtgarfield.layout.apk
+false
+
+com.laminaapps.freeaudiobooks.apk
+true
+audio play	give	free audio	give
+audio book	give	free audio	give
+audio effect	give	free audio	give
+audio recording	give	free audio	give
+audio song	give	free audio	give
+audio player	give	free audio	give
+audio format	give	free audio	give
+audio text	give	free audio	give
+audio	give	free audio	give
+audio playback	give	free audio	give
+audio pronunciation	give	free audio	give
+audio alert	give	free audio	give
+record audio	give	free audio	give
+live audio	give	free audio	give
+audio recorder	give	free audio	give
+audio quality	give	free audio	give
+audio track	give	free audio	give
+audio content	give	free audio	give
+audio play	give	free audio book	give
+audio book	give	free audio book	give
+audio effect	give	free audio book	give
+audio recording	give	free audio book	give
+audio song	give	free audio book	give
+audio player	give	free audio book	give
+audio format	give	free audio book	give
+audio text	give	free audio book	give
+audio	give	free audio book	give
+audio playback	give	free audio book	give
+audio pronunciation	give	free audio book	give
+audio alert	give	free audio book	give
+record audio	give	free audio book	give
+live audio	give	free audio book	give
+audio recorder	give	free audio book	give
+audio quality	give	free audio book	give
+audio track	give	free audio book	give
+audio content	give	free audio book	give
+audio play	give	mp free motivational audio	give
+audio	give	mp free motivational audio	give
+live audio	give	mp free motivational audio	give
+audio play	give	mp free motivational audio book	give
+audio book	give	mp free motivational audio book	give
+audio	give	mp free motivational audio book	give
+audio play	give	online free audio	give
+audio book	give	online free audio	give
+audio effect	give	online free audio	give
+audio recording	give	online free audio	give
+audio song	give	online free audio	give
+audio player	give	online free audio	give
+audio format	give	online free audio	give
+audio text	give	online free audio	give
+audio	give	online free audio	give
+audio playback	give	online free audio	give
+audio alert	give	online free audio	give
+record audio	give	online free audio	give
+live audio	give	online free audio	give
+audio recorder	give	online free audio	give
+audio quality	give	online free audio	give
+audio track	give	online free audio	give
+audio content	give	online free audio	give
+audio play	give	online free audio book	give
+audio book	give	online free audio book	give
+audio effect	give	online free audio book	give
+audio recording	give	online free audio book	give
+audio song	give	online free audio book	give
+audio player	give	online free audio book	give
+audio format	give	online free audio book	give
+audio text	give	online free audio book	give
+audio	give	online free audio book	give
+audio playback	give	online free audio book	give
+audio alert	give	online free audio book	give
+record audio	give	online free audio book	give
+live audio	give	online free audio book	give
+audio recorder	give	online free audio book	give
+audio quality	give	online free audio book	give
+audio track	give	online free audio book	give
+audio content	give	online free audio book	give
+audio play	give	online free audio book itunes	give
+audio book	give	online free audio book itunes	give
+audio effect	give	online free audio book itunes	give
+audio recording	give	online free audio book itunes	give
+audio format	give	online free audio book itunes	give
+audio text	give	online free audio book itunes	give
+audio	give	online free audio book itunes	give
+audio playback	give	online free audio book itunes	give
+record audio	give	online free audio book itunes	give
+live audio	give	online free audio book itunes	give
+audio recorder	give	online free audio book itunes	give
+audio quality	give	online free audio book itunes	give
+audio content	give	online free audio book itunes	give
+
+ru.exaybachay.pearfree.apk
+false
+
+com.app_vhba.layout.apk
+false
+
+com.xyz.zy.apk
+false
+
+com.truestapps.personaltrainer.apk
+false
+
+com.baishisoft.photo.hotkorean04girl.apk
+true
+interactive exercise	turn	interaction	turn
+interactive experience	turn	interaction	turn
+interact	turn	interaction	turn
+interaction	turn	interaction	turn
+fully interactive	turn	interaction	turn
+interactive feature	turn	interaction	turn
+interactive way	turn	interaction	turn
+interactive	turn	interaction	turn
+
+com.zeronoiseapps.motionspyvideorecorder.apk
+false
+
+com.hirevue.candidate.generic.apk
+false
+
+com.gi.talkingrapper.apk
+true
+youtube video	record	video	record
+animated video	record	video	record
+audio video	record	video	record
+video chat	record	video	record
+video	record	video	record
+late video	record	video	record
+video support	record	video	record
+exclusive video	record	video	record
+video instruction	record	video	record
+awesome video	record	video	record
+video call	record	video	record
+following video	record	video	record
+top video	record	video	record
+walkthrough video	record	video	record
+favorite video	record	video	record
+instructional video	record	video	record
+video-on-demand clip	record	video	record
+video content	record	video	record
+streaming video	record	video	record
+photo video	record	video	record
+video quality	record	video	record
+play video	record	video	record
+sex video	record	video	record
+video playback	record	video	record
+video stream	record	video	record
+free video	record	video	record
+hd video	record	video	record
+live video	record	video	record
+video photo	record	video	record
+next video	record	video	record
+video streaming	record	video	record
+video editor	record	video	record
+video recording	record	video	record
+video tip	record	video	record
+video music	record	video	record
+video clip	record	video	record
+video cheat	record	video	record
+video file	record	video	record
+new video	record	video	record
+great video	record	video	record
+watch video	record	video	record
+video tutorial	record	video	record
+amazing video	record	video	record
+news video	record	video	record
+funny video	record	video	record
+share video	record	video	record
+video format	record	video	record
+sexy video	record	video	record
+stream video	record	video	record
+best video	record	video	record
+video highlight	record	video	record
+video section	record	video	record
+tutorial video	record	video	record
+video guide	record	video	record
+video image	record	video	record
+image video	record	video	record
+music video	record	video	record
+gameplay video	record	video	record
+video audio	record	video	record
+hot video	record	video	record
+
+com.autumn.frame.kelone.apk
+false
+
+dje073.android.audiorecorderlite.apk
+true
+voice call	allow	voice	allow
+voice note	allow	voice	allow
+voice	allow	voice	allow
+recording	share	recording	share
+syco record	share	recording	share
+record time	share	recording	share
+call recorder	share	recording	share
+record	share	recording	share
+recorder	share	recording	share
+call recording	share	recording	share
+world record	share	recording	share
+recording	play	recording	play
+syco record	play	recording	play
+record time	play	recording	play
+call recorder	play	recording	play
+record	play	recording	play
+recorder	play	recording	play
+call recording	play	recording	play
+world record	play	recording	play
+record deal	play	recording	play
+
+com.nimaxy.sportsradiostations.apk
+false
+
+com.hcg.michaeljackson.apk
+true
+classical music	chat	music	chat
+free music	chat	music	chat
+music collection	chat	music	chat
+music	chat	music	chat
+background music	chat	music	chat
+video music	chat	music	chat
+great music	chat	music	chat
+music today	chat	music	chat
+new music	chat	music	chat
+best music	chat	music	chat
+late music	chat	music	chat
+beautiful music	chat	music	chat
+music video	chat	music	chat
+music	chat	music artist	chat
+great music	chat	music artist	chat
+music today	chat	music artist	chat
+new music	chat	music artist	chat
+best music	chat	music artist	chat
+late music	chat	music artist	chat
+
+las.vegas.hotel.booking.deals.free.apk
+true
+book hotel	need	hotel room	need
+hotel room	need	hotel room	need
+hotel reservation	need	hotel room	need
+hotel deal	need	hotel room	need
+hotel saving	need	hotel room	need
+hotel review	need	hotel room	need
+hotel detail	need	hotel room	need
+local hotel	need	hotel room	need
+boutique hotel	need	hotel room	need
+hotel offer	need	hotel room	need
+listed hotel	need	hotel room	need
+hotel feature	need	hotel room	need
+hotel booking	need	hotel room	need
+best hotel	need	hotel room	need
+hotel	need	hotel room	need
+late deal	lodge	deal	lodge
+good deal	lodge	deal	lodge
+deal	lodge	deal	lodge
+local deal	lodge	deal	lodge
+special deal	lodge	deal	lodge
+best deal	lodge	deal	lodge
+record deal	lodge	deal	lodge
+exclusive deal	lodge	deal	lodge
+great deal	lodge	deal	lodge
+new room	go	room	go
+room	go	room	go
+room number	go	room	go
+living room	go	room	go
+book hotel	search	hotel deal	search
+hotel room	search	hotel deal	search
+hotel reservation	search	hotel deal	search
+hotel deal	search	hotel deal	search
+hotel saving	search	hotel deal	search
+hotel review	search	hotel deal	search
+budget hotel	search	hotel deal	search
+discount hotel	search	hotel deal	search
+hotel price	search	hotel deal	search
+hotel detail	search	hotel deal	search
+luxury hotel	search	hotel deal	search
+local hotel	search	hotel deal	search
+boutique hotel	search	hotel deal	search
+hotel offer	search	hotel deal	search
+listed hotel	search	hotel deal	search
+hotel feature	search	hotel deal	search
+hotel booking	search	hotel deal	search
+best hotel	search	hotel deal	search
+hotel	search	hotel deal	search
+book hotel	allow	hotel deal	allow
+hotel restaurant	allow	hotel deal	allow
+hotel room	allow	hotel deal	allow
+hotel reservation	allow	hotel deal	allow
+hotel deal	allow	hotel deal	allow
+hotel saving	allow	hotel deal	allow
+hotel review	allow	hotel deal	allow
+budget hotel	allow	hotel deal	allow
+discount hotel	allow	hotel deal	allow
+hotel price	allow	hotel deal	allow
+hotel detail	allow	hotel deal	allow
+luxury hotel	allow	hotel deal	allow
+local hotel	allow	hotel deal	allow
+boutique hotel	allow	hotel deal	allow
+hotel offer	allow	hotel deal	allow
+listed hotel	allow	hotel deal	allow
+hotel feature	allow	hotel deal	allow
+hotel booking	allow	hotel deal	allow
+best hotel	allow	hotel deal	allow
+hotel	allow	hotel deal	allow
+book hotel	reveal	hotel	reveal
+hotel restaurant	reveal	hotel	reveal
+hotel room	reveal	hotel	reveal
+hotel reservation	reveal	hotel	reveal
+hotel deal	reveal	hotel	reveal
+hotel saving	reveal	hotel	reveal
+hotel review	reveal	hotel	reveal
+budget hotel	reveal	hotel	reveal
+discount hotel	reveal	hotel	reveal
+hotel price	reveal	hotel	reveal
+hotel detail	reveal	hotel	reveal
+luxury hotel	reveal	hotel	reveal
+local hotel	reveal	hotel	reveal
+boutique hotel	reveal	hotel	reveal
+hotel offer	reveal	hotel	reveal
+listed hotel	reveal	hotel	reveal
+hotel feature	reveal	hotel	reveal
+hotel booking	reveal	hotel	reveal
+best hotel	reveal	hotel	reveal
+hotel	reveal	hotel	reveal
+book hotel	swipe	hotel	swipe
+hotel restaurant	swipe	hotel	swipe
+hotel room	swipe	hotel	swipe
+hotel reservation	swipe	hotel	swipe
+hotel deal	swipe	hotel	swipe
+hotel saving	swipe	hotel	swipe
+hotel review	swipe	hotel	swipe
+budget hotel	swipe	hotel	swipe
+discount hotel	swipe	hotel	swipe
+hotel price	swipe	hotel	swipe
+hotel detail	swipe	hotel	swipe
+luxury hotel	swipe	hotel	swipe
+local hotel	swipe	hotel	swipe
+boutique hotel	swipe	hotel	swipe
+hotel offer	swipe	hotel	swipe
+listed hotel	swipe	hotel	swipe
+hotel feature	swipe	hotel	swipe
+hotel booking	swipe	hotel	swipe
+best hotel	swipe	hotel	swipe
+hotel	swipe	hotel	swipe
+book hotel	map	hotel	map
+hotel restaurant	map	hotel	map
+hotel room	map	hotel	map
+hotel reservation	map	hotel	map
+hotel deal	map	hotel	map
+hotel saving	map	hotel	map
+hotel review	map	hotel	map
+budget hotel	map	hotel	map
+discount hotel	map	hotel	map
+hotel price	map	hotel	map
+hotel detail	map	hotel	map
+luxury hotel	map	hotel	map
+local hotel	map	hotel	map
+boutique hotel	map	hotel	map
+hotel offer	map	hotel	map
+listed hotel	map	hotel	map
+hotel feature	map	hotel	map
+hotel booking	map	hotel	map
+best hotel	map	hotel	map
+hotel	map	hotel	map
+book hotel	list	hotel	list
+hotel restaurant	list	hotel	list
+hotel room	list	hotel	list
+hotel reservation	list	hotel	list
+hotel deal	list	hotel	list
+hotel saving	list	hotel	list
+hotel review	list	hotel	list
+budget hotel	list	hotel	list
+discount hotel	list	hotel	list
+hotel price	list	hotel	list
+hotel detail	list	hotel	list
+luxury hotel	list	hotel	list
+local hotel	list	hotel	list
+boutique hotel	list	hotel	list
+hotel offer	list	hotel	list
+listed hotel	list	hotel	list
+hotel feature	list	hotel	list
+hotel booking	list	hotel	list
+best hotel	list	hotel	list
+hotel	list	hotel	list
+late deal	give	deal	give
+good deal	give	deal	give
+deal	give	deal	give
+local deal	give	deal	give
+special deal	give	deal	give
+best deal	give	deal	give
+record deal	give	deal	give
+exclusive deal	give	deal	give
+great deal	give	deal	give
+hotel price	refine	price	refine
+book hotel	refine	hotel feature	refine
+hotel restaurant	refine	hotel feature	refine
+hotel room	refine	hotel feature	refine
+hotel reservation	refine	hotel feature	refine
+hotel deal	refine	hotel feature	refine
+hotel saving	refine	hotel feature	refine
+hotel review	refine	hotel feature	refine
+budget hotel	refine	hotel feature	refine
+discount hotel	refine	hotel feature	refine
+hotel price	refine	hotel feature	refine
+hotel detail	refine	hotel feature	refine
+luxury hotel	refine	hotel feature	refine
+local hotel	refine	hotel feature	refine
+boutique hotel	refine	hotel feature	refine
+hotel offer	refine	hotel feature	refine
+listed hotel	refine	hotel feature	refine
+hotel feature	refine	hotel feature	refine
+hotel booking	refine	hotel feature	refine
+best hotel	refine	hotel feature	refine
+hotel	refine	hotel feature	refine
+book hotel	click	hotel	click
+hotel restaurant	click	hotel	click
+hotel room	click	hotel	click
+hotel reservation	click	hotel	click
+hotel deal	click	hotel	click
+hotel saving	click	hotel	click
+hotel review	click	hotel	click
+budget hotel	click	hotel	click
+discount hotel	click	hotel	click
+hotel price	click	hotel	click
+hotel detail	click	hotel	click
+luxury hotel	click	hotel	click
+local hotel	click	hotel	click
+boutique hotel	click	hotel	click
+hotel offer	click	hotel	click
+listed hotel	click	hotel	click
+hotel feature	click	hotel	click
+hotel booking	click	hotel	click
+best hotel	click	hotel	click
+hotel	click	hotel	click
+budget hotel	book	hotel	book
+discount hotel	book	hotel	book
+hotel price	book	hotel	book
+luxury hotel	book	hotel	book
+
+com.truestapps.freemp3downloder.apk
+false
+
+com.ggp.theclub.apk
+false
+
+com.urbandroid.sleep.apk
+false
+
+com.babbel.mobile.android.fr.apk
+true
+interactive exercise	study	interactive exercise	study
+interactive experience	study	interactive exercise	study
+interact	study	interactive exercise	study
+interaction	study	interactive exercise	study
+fully interactive	study	interactive exercise	study
+interactive feature	study	interactive exercise	study
+interactive way	study	interactive exercise	study
+interactive	study	interactive exercise	study
+audio pronunciation	practice	pronunciation	practice
+good review	learn	review	learn
+product review	learn	review	learn
+star review	learn	review	learn
+review guide	learn	review	learn
+good review	present	review	present
+product review	present	review	present
+star review	present	review	present
+review guide	present	review	present
+chat application	create	application	create
+
+com.coolapps.changemyvoice.apk
+true
+voice call	change	voice	change
+voice command	change	voice	change
+voice note	change	voice	change
+voice recording	change	voice	change
+voice recognition	change	voice	change
+voice	change	voice	change
+voice recorder	change	voice	change
+voice call	hear	voice	hear
+voice command	hear	voice	hear
+voice note	hear	voice	hear
+voice recording	hear	voice	hear
+voice recognition	hear	voice	hear
+voice	hear	voice	hear
+voice recorder	hear	voice	hear
+
+com.voip.callsapp.apk
+true
+audio player	use	good audio	use
+audio format	use	good audio	use
+audio alert	use	good audio	use
+audio clip	use	good audio	use
+audio player	use	good audio quality	use
+audio format	use	good audio quality	use
+audio alert	use	good audio quality	use
+audio clip	use	good audio quality	use
+
+com.app_salon3sixty.layout.apk
+false
+
+com.whatsapp.apk
+true
+chat application	save	next application	save
+audio video	send	audio note	send
+audio play	send	audio note	send
+audio book	send	audio note	send
+audio effect	send	audio note	send
+audio recording	send	audio note	send
+audio song	send	audio note	send
+audio player	send	audio note	send
+audio text	send	audio note	send
+audio	send	audio note	send
+audio playback	send	audio note	send
+audio pronunciation	send	audio note	send
+audio alert	send	audio note	send
+record audio	send	audio note	send
+live audio	send	audio note	send
+audio recorder	send	audio note	send
+audio quality	send	audio note	send
+audio track	send	audio note	send
+audio content	send	audio note	send
+audio clip	send	audio note	send
+video audio	send	audio note	send
+youtube video	send	video message	send
+video	send	video message	send
+late video	send	video message	send
+video support	send	video message	send
+exclusive video	send	video message	send
+video call	send	video message	send
+following video	send	video message	send
+top video	send	video message	send
+walkthrough video	send	video message	send
+video content	send	video message	send
+photo video	send	video message	send
+video quality	send	video message	send
+play video	send	video message	send
+free video	send	video message	send
+hd video	send	video message	send
+live video	send	video message	send
+video photo	send	video message	send
+next video	send	video message	send
+video recording	send	video message	send
+new video	send	video message	send
+great video	send	video message	send
+news video	send	video message	send
+share video	send	video message	send
+best video	send	video message	send
+video guide	send	video message	send
+video image	send	video message	send
+image video	send	video message	send
+gameplay video	send	video message	send
+youtube video	send	video	send
+animated video	send	video	send
+audio video	send	video	send
+video	send	video	send
+late video	send	video	send
+video support	send	video	send
+exclusive video	send	video	send
+video instruction	send	video	send
+video song	send	video	send
+awesome video	send	video	send
+video call	send	video	send
+following video	send	video	send
+top video	send	video	send
+walkthrough video	send	video	send
+favorite video	send	video	send
+instructional video	send	video	send
+video-on-demand clip	send	video	send
+video content	send	video	send
+streaming video	send	video	send
+photo video	send	video	send
+video quality	send	video	send
+play video	send	video	send
+sex video	send	video	send
+video playback	send	video	send
+video stream	send	video	send
+free video	send	video	send
+hd video	send	video	send
+live video	send	video	send
+video photo	send	video	send
+next video	send	video	send
+video streaming	send	video	send
+video editor	send	video	send
+video recording	send	video	send
+video tip	send	video	send
+video music	send	video	send
+video clip	send	video	send
+video cheat	send	video	send
+new video	send	video	send
+great video	send	video	send
+watch video	send	video	send
+video tutorial	send	video	send
+amazing video	send	video	send
+news video	send	video	send
+funny video	send	video	send
+share video	send	video	send
+video format	send	video	send
+sexy video	send	video	send
+song video	send	video	send
+stream video	send	video	send
+best video	send	video	send
+video highlight	send	video	send
+video section	send	video	send
+tutorial video	send	video	send
+video guide	send	video	send
+video image	send	video	send
+image video	send	video	send
+music video	send	video	send
+gameplay video	send	video	send
+video audio	send	video	send
+hot video	send	video	send
+youtube video	send	video image	send
+animated video	send	video image	send
+video	send	video image	send
+late video	send	video image	send
+video support	send	video image	send
+exclusive video	send	video image	send
+video instruction	send	video image	send
+video song	send	video image	send
+awesome video	send	video image	send
+video call	send	video image	send
+following video	send	video image	send
+top video	send	video image	send
+walkthrough video	send	video image	send
+favorite video	send	video image	send
+instructional video	send	video image	send
+video content	send	video image	send
+streaming video	send	video image	send
+photo video	send	video image	send
+video quality	send	video image	send
+play video	send	video image	send
+sex video	send	video image	send
+video playback	send	video image	send
+video stream	send	video image	send
+free video	send	video image	send
+hd video	send	video image	send
+live video	send	video image	send
+video photo	send	video image	send
+next video	send	video image	send
+video streaming	send	video image	send
+video recording	send	video image	send
+video tip	send	video image	send
+video music	send	video image	send
+video clip	send	video image	send
+video cheat	send	video image	send
+new video	send	video image	send
+great video	send	video image	send
+watch video	send	video image	send
+video tutorial	send	video image	send
+amazing video	send	video image	send
+news video	send	video image	send
+funny video	send	video image	send
+share video	send	video image	send
+video format	send	video image	send
+sexy video	send	video image	send
+song video	send	video image	send
+stream video	send	video image	send
+best video	send	video image	send
+video highlight	send	video image	send
+video section	send	video image	send
+tutorial video	send	video image	send
+video guide	send	video image	send
+video image	send	video image	send
+image video	send	video image	send
+music video	send	video image	send
+gameplay video	send	video image	send
+hot video	send	video image	send
+youtube video	send	video image voice	send
+animated video	send	video image voice	send
+video	send	video image voice	send
+late video	send	video image voice	send
+video support	send	video image voice	send
+exclusive video	send	video image voice	send
+video call	send	video image voice	send
+following video	send	video image voice	send
+top video	send	video image voice	send
+walkthrough video	send	video image voice	send
+photo video	send	video image voice	send
+video quality	send	video image voice	send
+play video	send	video image voice	send
+free video	send	video image voice	send
+hd video	send	video image voice	send
+live video	send	video image voice	send
+video photo	send	video image voice	send
+next video	send	video image voice	send
+video recording	send	video image voice	send
+video music	send	video image voice	send
+new video	send	video image voice	send
+great video	send	video image voice	send
+news video	send	video image voice	send
+share video	send	video image voice	send
+best video	send	video image voice	send
+video guide	send	video image voice	send
+video image	send	video image voice	send
+image video	send	video image voice	send
+music video	send	video image voice	send
+gameplay video	send	video image voice	send
+
+com.bsb.hike.apk
+true
+anonymous chat	create	group chat	create
+chat application	create	group chat	create
+random chat	create	group chat	create
+casually chat	create	group chat	create
+naughty chat	create	group chat	create
+webcam chat	create	group chat	create
+youtube video	send	video	send
+animated video	send	video	send
+audio video	send	video	send
+video	send	video	send
+late video	send	video	send
+video support	send	video	send
+exclusive video	send	video	send
+video instruction	send	video	send
+video song	send	video	send
+awesome video	send	video	send
+video call	send	video	send
+following video	send	video	send
+top video	send	video	send
+walkthrough video	send	video	send
+favorite video	send	video	send
+instructional video	send	video	send
+video-on-demand clip	send	video	send
+video content	send	video	send
+streaming video	send	video	send
+photo video	send	video	send
+video quality	send	video	send
+play video	send	video	send
+sex video	send	video	send
+video playback	send	video	send
+video stream	send	video	send
+free video	send	video	send
+hd video	send	video	send
+live video	send	video	send
+video photo	send	video	send
+next video	send	video	send
+video streaming	send	video	send
+video editor	send	video	send
+video recording	send	video	send
+video tip	send	video	send
+video music	send	video	send
+video clip	send	video	send
+video cheat	send	video	send
+new video	send	video	send
+great video	send	video	send
+watch video	send	video	send
+video tutorial	send	video	send
+amazing video	send	video	send
+news video	send	video	send
+funny video	send	video	send
+share video	send	video	send
+video format	send	video	send
+sexy video	send	video	send
+song video	send	video	send
+stream video	send	video	send
+best video	send	video	send
+video highlight	send	video	send
+video section	send	video	send
+tutorial video	send	video	send
+video guide	send	video	send
+video image	send	video	send
+image video	send	video	send
+music video	send	video	send
+gameplay video	send	video	send
+video audio	send	video	send
+hot video	send	video	send
+
+com.pingshow.amper.apk
+true
+voice call	give	voice	give
+voice command	give	voice	give
+voice note	give	voice	give
+voice	give	voice	give
+
+com.intonow.apk
+false
+
+com.textmeinc.textme.apk
+true
+youtube video	send	dropbox photo video	send
+animated video	send	dropbox photo video	send
+video	send	dropbox photo video	send
+late video	send	dropbox photo video	send
+video support	send	dropbox photo video	send
+exclusive video	send	dropbox photo video	send
+video instruction	send	dropbox photo video	send
+video song	send	dropbox photo video	send
+awesome video	send	dropbox photo video	send
+video call	send	dropbox photo video	send
+following video	send	dropbox photo video	send
+top video	send	dropbox photo video	send
+walkthrough video	send	dropbox photo video	send
+favorite video	send	dropbox photo video	send
+instructional video	send	dropbox photo video	send
+video content	send	dropbox photo video	send
+streaming video	send	dropbox photo video	send
+photo video	send	dropbox photo video	send
+video quality	send	dropbox photo video	send
+play video	send	dropbox photo video	send
+sex video	send	dropbox photo video	send
+video playback	send	dropbox photo video	send
+video stream	send	dropbox photo video	send
+free video	send	dropbox photo video	send
+hd video	send	dropbox photo video	send
+live video	send	dropbox photo video	send
+video photo	send	dropbox photo video	send
+next video	send	dropbox photo video	send
+video streaming	send	dropbox photo video	send
+video recording	send	dropbox photo video	send
+video tip	send	dropbox photo video	send
+video music	send	dropbox photo video	send
+video clip	send	dropbox photo video	send
+video cheat	send	dropbox photo video	send
+new video	send	dropbox photo video	send
+great video	send	dropbox photo video	send
+watch video	send	dropbox photo video	send
+video tutorial	send	dropbox photo video	send
+amazing video	send	dropbox photo video	send
+news video	send	dropbox photo video	send
+funny video	send	dropbox photo video	send
+share video	send	dropbox photo video	send
+video format	send	dropbox photo video	send
+sexy video	send	dropbox photo video	send
+song video	send	dropbox photo video	send
+stream video	send	dropbox photo video	send
+best video	send	dropbox photo video	send
+video highlight	send	dropbox photo video	send
+video section	send	dropbox photo video	send
+tutorial video	send	dropbox photo video	send
+video guide	send	dropbox photo video	send
+video image	send	dropbox photo video	send
+image video	send	dropbox photo video	send
+music video	send	dropbox photo video	send
+gameplay video	send	dropbox photo video	send
+hot video	send	dropbox photo video	send
+youtube video	send	large photo video	send
+animated video	send	large photo video	send
+video	send	large photo video	send
+late video	send	large photo video	send
+video support	send	large photo video	send
+exclusive video	send	large photo video	send
+video instruction	send	large photo video	send
+video song	send	large photo video	send
+awesome video	send	large photo video	send
+video call	send	large photo video	send
+following video	send	large photo video	send
+top video	send	large photo video	send
+walkthrough video	send	large photo video	send
+favorite video	send	large photo video	send
+instructional video	send	large photo video	send
+video content	send	large photo video	send
+streaming video	send	large photo video	send
+photo video	send	large photo video	send
+video quality	send	large photo video	send
+play video	send	large photo video	send
+sex video	send	large photo video	send
+video playback	send	large photo video	send
+video stream	send	large photo video	send
+free video	send	large photo video	send
+hd video	send	large photo video	send
+live video	send	large photo video	send
+video photo	send	large photo video	send
+next video	send	large photo video	send
+video streaming	send	large photo video	send
+video recording	send	large photo video	send
+video tip	send	large photo video	send
+video music	send	large photo video	send
+video clip	send	large photo video	send
+new video	send	large photo video	send
+great video	send	large photo video	send
+watch video	send	large photo video	send
+video tutorial	send	large photo video	send
+news video	send	large photo video	send
+share video	send	large photo video	send
+video format	send	large photo video	send
+sexy video	send	large photo video	send
+song video	send	large photo video	send
+stream video	send	large photo video	send
+best video	send	large photo video	send
+video highlight	send	large photo video	send
+video section	send	large photo video	send
+tutorial video	send	large photo video	send
+video guide	send	large photo video	send
+video image	send	large photo video	send
+image video	send	large photo video	send
+music video	send	large photo video	send
+gameplay video	send	large photo video	send
+hot video	send	large photo video	send
+
+com.nhn.android.search.apk
+false
+
+com.youmail.android.vvm.apk
+true
+chat application	save	application	save
+
+com.billybala.hairgrowthap.apk
+false
+
+im.yixin.apk
+true
+voice call	allow	voice message	allow
+voice note	allow	voice message	allow
+voice	allow	voice message	allow
+
+com.ipc.newipc.apk
+false
+
+com.kab.kabacupunctureforpregnancyn12.apk
+false
+
+com.hcg.blakeshelton.apk
+true
+classical music	chat	music	chat
+free music	chat	music	chat
+music collection	chat	music	chat
+music	chat	music	chat
+background music	chat	music	chat
+video music	chat	music	chat
+great music	chat	music	chat
+music today	chat	music	chat
+new music	chat	music	chat
+best music	chat	music	chat
+late music	chat	music	chat
+beautiful music	chat	music	chat
+music video	chat	music	chat
+music	chat	music artist	chat
+great music	chat	music artist	chat
+music today	chat	music artist	chat
+new music	chat	music artist	chat
+best music	chat	music artist	chat
+late music	chat	music artist	chat
+
+com.sporchid.apk
+false
+
+com.hubinsoft.simplehud_ad.apk
+false
+
+org.sipdroid.sipuatom.apk
+false
+
+com.paragk.yogajournal.apk
+false
+
+com.phonegap.neuros.apk
+false
+
+com.yalldo.flying.apk
+false
+
+com.hcg.usher.apk
+true
+classical music	chat	music	chat
+free music	chat	music	chat
+music collection	chat	music	chat
+music	chat	music	chat
+background music	chat	music	chat
+video music	chat	music	chat
+great music	chat	music	chat
+music today	chat	music	chat
+new music	chat	music	chat
+best music	chat	music	chat
+late music	chat	music	chat
+beautiful music	chat	music	chat
+music video	chat	music	chat
+music	chat	music artist	chat
+great music	chat	music artist	chat
+music today	chat	music artist	chat
+new music	chat	music artist	chat
+best music	chat	music artist	chat
+late music	chat	music artist	chat
+
+com.sitrusyllc.creeperPrank.apk
+false
+
+com.delight.apk
+true
+hotel price	search	price	search
+
+com.hcg.keyshiacole.apk
+true
+classical music	chat	music	chat
+free music	chat	music	chat
+music collection	chat	music	chat
+music	chat	music	chat
+background music	chat	music	chat
+video music	chat	music	chat
+great music	chat	music	chat
+music today	chat	music	chat
+new music	chat	music	chat
+best music	chat	music	chat
+late music	chat	music	chat
+beautiful music	chat	music	chat
+music video	chat	music	chat
+music	chat	music artist	chat
+great music	chat	music artist	chat
+music today	chat	music artist	chat
+new music	chat	music artist	chat
+best music	chat	music artist	chat
+late music	chat	music artist	chat
+
+com.app_prescriptionpadpharmacy.layout.apk
+false
+
+com.newapps.cheapapartmentsap.apk
+false
+
+com.spartancoders.gtok.apk
+false
+
+com.yahoo.mobile.client.android.search.apk
+false
+
+com.hcg.metallica.apk
+true
+classical music	chat	music	chat
+free music	chat	music	chat
+music collection	chat	music	chat
+music	chat	music	chat
+background music	chat	music	chat
+video music	chat	music	chat
+great music	chat	music	chat
+music today	chat	music	chat
+new music	chat	music	chat
+best music	chat	music	chat
+late music	chat	music	chat
+beautiful music	chat	music	chat
+music video	chat	music	chat
+music	chat	music artist	chat
+great music	chat	music artist	chat
+music today	chat	music artist	chat
+new music	chat	music artist	chat
+best music	chat	music artist	chat
+late music	chat	music artist	chat
+
+me.blip.apk
+true
+voice call	allow	voice note	allow
+voice note	allow	voice note	allow
+voice	allow	voice note	allow
+
+com.intuit.gopayment.android.tablet.apk
+false
+
+com.jlsoft.inputmethod.latin.jelly.free.apk
+false
+
+com.jp.disneylandparis.apk
+true
+book hotel	compare	hotel price	compare
+hotel deal	compare	hotel price	compare
+hotel saving	compare	hotel price	compare
+hotel review	compare	hotel price	compare
+hotel price	compare	hotel price	compare
+hotel detail	compare	hotel price	compare
+local hotel	compare	hotel price	compare
+hotel offer	compare	hotel price	compare
+listed hotel	compare	hotel price	compare
+hotel feature	compare	hotel price	compare
+hotel booking	compare	hotel price	compare
+best hotel	compare	hotel price	compare
+hotel	compare	hotel price	compare
+book hotel	search	listed hotel	search
+hotel room	search	listed hotel	search
+hotel reservation	search	listed hotel	search
+hotel deal	search	listed hotel	search
+hotel saving	search	listed hotel	search
+hotel review	search	listed hotel	search
+budget hotel	search	listed hotel	search
+discount hotel	search	listed hotel	search
+hotel price	search	listed hotel	search
+hotel detail	search	listed hotel	search
+luxury hotel	search	listed hotel	search
+local hotel	search	listed hotel	search
+boutique hotel	search	listed hotel	search
+hotel offer	search	listed hotel	search
+listed hotel	search	listed hotel	search
+hotel feature	search	listed hotel	search
+hotel booking	search	listed hotel	search
+best hotel	search	listed hotel	search
+hotel	search	listed hotel	search
+late deal	give	deal	give
+good deal	give	deal	give
+deal	give	deal	give
+local deal	give	deal	give
+special deal	give	deal	give
+best deal	give	deal	give
+record deal	give	deal	give
+exclusive deal	give	deal	give
+great deal	give	deal	give
+book hotel	need	last minute hotel	need
+hotel room	need	last minute hotel	need
+hotel reservation	need	last minute hotel	need
+hotel deal	need	last minute hotel	need
+hotel saving	need	last minute hotel	need
+hotel review	need	last minute hotel	need
+hotel detail	need	last minute hotel	need
+local hotel	need	last minute hotel	need
+boutique hotel	need	last minute hotel	need
+hotel offer	need	last minute hotel	need
+listed hotel	need	last minute hotel	need
+hotel feature	need	last minute hotel	need
+hotel booking	need	last minute hotel	need
+best hotel	need	last minute hotel	need
+hotel	need	last minute hotel	need
+book hotel	need	last minute hotel deal	need
+hotel room	need	last minute hotel deal	need
+hotel reservation	need	last minute hotel deal	need
+hotel deal	need	last minute hotel deal	need
+hotel saving	need	last minute hotel deal	need
+hotel review	need	last minute hotel deal	need
+hotel detail	need	last minute hotel deal	need
+local hotel	need	last minute hotel deal	need
+boutique hotel	need	last minute hotel deal	need
+hotel offer	need	last minute hotel deal	need
+listed hotel	need	last minute hotel deal	need
+hotel feature	need	last minute hotel deal	need
+hotel booking	need	last minute hotel deal	need
+best hotel	need	last minute hotel deal	need
+hotel	need	last minute hotel deal	need
+
+com.cp.mpos.apk
+false
+
+com.joerosen.torchit.apk
+false
+
+com.by24.voip.apk
+false
+
+com.kab.kabdiabeticvegetariansdietn12.apk
+false
+
+com.gyft.android.apk
+false
+
+com.vyclone.angles.apk
+false
+
+com.zeebox.android.caa_us.apk
+false
+
+com.telly.apk
+false
+
+com.hcg.carrieunderwood.apk
+true
+classical music	chat	music	chat
+free music	chat	music	chat
+music collection	chat	music	chat
+music	chat	music	chat
+background music	chat	music	chat
+video music	chat	music	chat
+great music	chat	music	chat
+music today	chat	music	chat
+new music	chat	music	chat
+best music	chat	music	chat
+late music	chat	music	chat
+beautiful music	chat	music	chat
+music video	chat	music	chat
+music	chat	music artist	chat
+great music	chat	music artist	chat
+music today	chat	music artist	chat
+new music	chat	music artist	chat
+best music	chat	music artist	chat
+late music	chat	music artist	chat
+
+com.karunaapps.getrichquickschemes.apk
+false
+
+com.UkuleleTuner.Think.apk
+false
+
+com.xzFunny.apk
+false
+
+com.guisoft.newjustnote.apk
+true
+recording	support	record	support
+syco record	support	record	support
+record time	support	record	support
+call recorder	support	record	support
+record	support	record	support
+recorder	support	record	support
+call recording	support	record	support
+world record	support	record	support
+record deal	support	record	support
+
+com.apporder.myMacedonia.apk
+false
+
+com.renren.xiaonei.android.apk
+false
+

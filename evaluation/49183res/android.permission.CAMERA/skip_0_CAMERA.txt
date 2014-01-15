@@ -1,0 +1,499 @@
+net.hubalek.android.reborn.beta.apk
+true
+device camera	try	device	try
+
+uk.tapmedia.qrreader.apk
+false
+
+com.tdameritrade.mobile3.apk
+false
+
+ironroad.vms.apk
+true
+video camera	start	new vms-video	start
+
+com.tk.pakistanhotels.apk
+true
+late deal	lodge	deal	lodge
+
+com.app.qrcodereader.apk
+true
+device camera	note	device	note
+
+org.unitedcatholics.mobile.apk
+true
+accounting	measure	account	measure
+
+com.kfactormedia.mycalendarmobile.apk
+true
+chat application	invite	application	invite
+
+com.ifs.banking.fiid3399.apk
+false
+
+kr.sira.speed.apk
+true
+speed camera	measure	speed	measure
+
+com.sleepwalkers.diary.apk
+true
+multiple photo	take	photo	take
+
+com.hcg.katyperry.apk
+false
+
+com.jazzuplife.creditscores.apk
+false
+
+com.roche.ac360mobile.apk
+false
+
+com.ifs.mobilebanking.fiid3500.apk
+false
+
+com.gmy.vintique.apk
+true
+multiple photo	take	photo	take
+
+com.jp.maldives.apk
+true
+book hotel	search	listed hotel	search
+
+com.pind.text.pictures.emojis.apk
+false
+
+com.antivirus.apk
+false
+
+com.openvacs.android.otog.apk
+false
+
+com.xatori.Plugshare.apk
+false
+
+com.yelp.android.apk
+false
+
+com.app_dtitrader.layout.apk
+false
+
+com.enflick.android.ping.apk
+false
+
+com.ihg.apps.android.holidayinnexpress.apk
+false
+
+com.faceswitch.android.apk
+true
+gallery camera	face	gallery	face
+
+com.quickmobile.HPN.GlobalAnnualPartnersConference2013.apk
+false
+
+com.etrade.mobilepro.activity.apk
+false
+
+com.app_jackquinn.layout.apk
+false
+
+com.fishbrain.app.apk
+false
+
+com.hcg.justint.apk
+false
+
+com.xminds.lifesaver.apk
+false
+
+com.baseapp.eyeem.apk
+false
+
+air.com.fbvideochat.fbvideochat.apk
+false
+
+com.frame.love.wedding.romantic.apk
+true
+multiple photo	choose	photo	choose
+
+com.adnetapps.newsskorea.apk
+false
+
+com.talkwheel.mobile.qualatex.apk
+false
+
+com.jb.gosms.plugin.gochat.apk
+false
+
+com.bbt.androidapp.activity.apk
+true
+fee	check	fee	check
+
+com.mfoundry.mb.android.mb_504.apk
+true
+check balance	allow	balance	allow
+
+mobi.pdf417.apk
+false
+
+com.Slideshow.apk
+false
+
+com.hcg.eminem.apk
+false
+
+com.softek.ofxclmobile.texastrustcu.apk
+false
+
+appinventor.ai_progetto2003.SCAN.apk
+false
+
+com.guidebook.apps.AMA.android.apk
+false
+
+com.pams.paypams.apk
+true
+camera application	access	application	access
+
+com.kakao.talk.apk
+false
+
+com.pullups.bigkid.apk
+true
+photo frame	capture	photo frame	capture
+
+com.wsl.noom.apk
+false
+
+com.uwbadgers.gameday.apk
+false
+
+com.tangocard.apk
+false
+
+com.guidebook.android.apk
+false
+
+com.wckd_dev.mirror.apk
+true
+multiple photo	allow	photo	allow
+
+air.app.com.enfamil.debug.apk
+false
+
+com.vibeshookah.Vibe_Hookah.apk
+true
+multiple photo	take	photo	take
+
+com.keyapps.pennyauctionsites.apk
+false
+
+com.conciergist.apk
+false
+
+com.voip.perotel.apk
+false
+
+com.kickyourapps.app349.apk
+false
+
+com.eventbrite.organizer.apk
+false
+
+org.sacu.mobile.apk
+true
+checking	deposit	check	deposit
+
+oydevelopers.free_flashlight_led_hd.apk
+true
+flash	turn	user friendly bright flash	turn
+
+com.nightvision.freeedition.apk
+true
+video camera	record	video	record
+
+com.cyworld.camera.apk
+true
+multiple photo	create	photo	create
+
+com.teletica.androidapp.apk
+false
+
+nuance.com.apk
+false
+
+com.picture.decorator.photo.frame.effect.free.apk
+false
+
+atkins.diet.apk
+false
+
+com.etoolkit.iheartphoto.apk
+false
+
+com.twinme.free.apk
+true
+traffic camera	hold	camera	hold
+
+com.autonavi.xmgd.navigator4x.apk
+false
+
+com.buydotcomupdate.apk
+false
+
+com.limpenghoe.zodiacastrology.apk
+false
+
+com.booking.chile.apk
+true
+book hotel	search	listed hotel	search
+
+com.authy.authy.apk
+false
+
+com.cardomain.apk
+false
+
+com.afl.flirt.view.apk
+true
+camera application	start	application	start
+
+com.swa.swalifetimefitnesssj.apk
+false
+
+com.firstnational.colorado.apk
+true
+start banking	enroll	online banking	enroll
+start banking	enrol	online banking	enroll
+
+com.fnborrville.mobile.apk
+true
+start banking	enroll	online banking	enrol
+start banking	enrol	online banking	enrol
+
+vStudio.Android.Camera360Memento.apk
+false
+
+com.PerfectServe.Clinician.apk
+false
+
+net.fineseed.mojiire.apk
+true
+traffic camera	edit	camera	edit
+
+net.isitvegan.androidfree.apk
+false
+
+com.google.android.apps.offers.apk
+false
+
+com.minooka.apk
+false
+
+br.com.bb.android.apk
+true
+mobile deposit	make	mobile recharge	make
+
+com.bpd.smilemorph.apk
+true
+multiple image	take	multiple photo	take
+
+at.bluesource.mobilepocket.apk
+false
+
+com.voipswitch.vippie2.apk
+false
+
+com.monitise.vcu.client.apk
+true
+check balance	allow	balance	allow
+
+com.app_pdg1003.layout.apk
+false
+
+com.fingersoft.motioncamera.apk
+true
+traffic camera	hold	camera	hold
+
+hr.apps.n151266344.apk
+false
+
+com.WazeOnOff.apk
+false
+
+com.clearmechanicplus.mobile.apk
+false
+
+com.eleostech.driveaxle.apk
+false
+
+com.booking.myanmar.apk
+true
+book hotel	search	listed hotel	search
+
+cn.jingling.motu.photowonder.apk
+true
+multiple photo	take	gorgeous photo	take
+
+com.corneadiseases.apk
+false
+
+com.delta.mobile.android.apk
+false
+
+com.apw.ui.apk
+false
+
+biz.app4mobile.app_cf3a74b7401242079414a660eac78905.app.apk
+false
+
+com.dai.giftcard.viewer.us.apk
+true
+multiple photo	take	photo	take
+
+jp.co.fusioncom.smartalk.android.apk
+false
+
+com.photo.frame.halloween.apk
+true
+multiple image	take	image	take
+
+com.eheuristic.android.ledflashlightandlamplw.apk
+true
+flash	turn	flash	turn
+
+com.multicam.apk
+true
+multiple photo	take	photo	take
+
+com.swa.swaexperimentthebedroomguidesj.apk
+false
+
+net.mylol.apk
+false
+
+net.yikuaiqu.android.jinhua.jinhuamenghuangu.apk
+false
+
+net.xdevelop.rm.apk
+false
+
+com.jeffcooper.apk
+true
+multiple image	allow	image	allow
+
+me.doubledutch.dataplus.apk
+false
+
+com.laminaapps.diabeticrecipesap.apk
+false
+
+com.Printergize.CurtisGEMIF.apk
+false
+
+com.qpon.apk
+false
+
+com.app_kissit.layout.apk
+false
+
+kenneth.rtalk.apk
+false
+
+com.dteenergy.mydte.apk
+true
+traffic camera	access	actual camera	access
+
+com.app_texasmensspa.layout.apk
+false
+
+com.conduit.app_b0d61822adcb4af1acdd32106554ed5b.app.apk
+false
+
+edu.umsl.mobileapp.apk
+false
+
+biz.app4mobile.app_531a78c3056f497c8a832a405237bcc0.app.apk
+false
+
+com.gigglepop.android.apk
+false
+
+com.optimus.cupid.media.apk
+false
+
+com.laminaapps.freemp4downloads.apk
+false
+
+com.sesameplace.mobile.apk
+false
+
+com.moblynx.cameraics.apk
+false
+
+com.kmart.android.apk
+true
+multiple photo	allow	photo	allow
+
+com.aveya.howtodrawmanga.apk
+false
+
+com.autismdpectrumdisorder.apk
+false
+
+com.softek.ofxclmobile.partnersfcu.apk
+true
+mobile deposit	make	deposit	make
+
+com.ipum.app1197.apk
+false
+
+com.app_brevofield.layout.apk
+false
+
+com.hotel.myanmar.yangon.booking.apk
+true
+book hotel	click	hotel	click
+
+com.alert.tillys.apk
+false
+
+hr.apps.n66621161.apk
+false
+
+com.gigway.punchcard.apk
+true
+multiple photo	take	photo	take
+
+com.mobiletrendsinc.dent.pdadentist.apk
+false
+
+com.mfoundry.mb.android.mb_111906271.apk
+true
+check balance	allow	balance	allow
+
+com.defense.corporation.FlashBlinkingOnCallAndSMS.apk
+true
+flash	use	flash light	use
+
+com.FNBPA.mobilebanking.apk
+false
+
+com.whoshere.whoshere.apk
+false
+
+com.sureshotapps.onlinemoviewatchfree.apk
+false
+
+botweb.transparent.screen.apk
+true
+multiple image	allow	image	allow
+
+com.hcg.kendricklamar.apk
+false
+
+com.webalo.ua.mdx.apk
+false
+
+com.vitacost.android.apk
+false
+

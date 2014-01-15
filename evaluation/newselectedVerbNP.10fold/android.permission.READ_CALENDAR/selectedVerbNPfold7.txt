@@ -1,0 +1,788 @@
+busy schedule
+receive	1.0	3
+assign	1.0	3
+
+ringtones
+issue	1.0	2
+
+late event
+confirmations	1.0	2
+calendar	1.0	3
+decline	1.0	2
+define	1.0	2
+easy	1.0	4
+insert	1.0	2
+google	1.0	2
+schedule	1.0	3
+log	1.0	2
+
+yahoo news
+cover	1.0	2
+
+select widget
+specify	1.0	2
+
+event calendar
+restore	1.0	2
+help	1.0	2
+integrate	1.0	5
+read	1.0	5
+tick	1.0	3
+remove	1.0	2
+synchronize	1.0	2
+schedule	1.0	3
+let	1.0	2
+protect	1.0	2
+backup	1.0	2
+support	1.0	5
+enable	1.0	2
+require	1.0	4
+write	1.0	7
+
+current date
+customizable	1.0	2
+press	1.0	3
+long-press	1.0	2
+accompany	1.0	3
+
+severe weather
+do	1.0	2
+build	1.0	2
+
+current day
+perform	1.0	2
+start	1.0	2
+
+beautiful widget
+specify	1.0	2
+
+notification ringtones
+issue	1.0	2
+
+new event
+confirmations	1.0	2
+calendar	1.0	3
+decline	1.0	2
+define	1.0	2
+easy	1.0	4
+insert	1.0	2
+google	1.0	2
+schedule	1.0	3
+log	1.0	2
+
+new widget
+specify	1.0	2
+
+up-to-date information
+customizable	1.0	2
+long-press	1.0	2
+
+location
+accompany	1.0	6
+
+late date
+assign	1.0	2
+long-press	1.0	2
+accompany	1.0	3
+customizable	1.0	2
+
+event organizer
+confirmations	1.0	2
+log	1.0	2
+calendar	1.0	3
+decline	1.0	2
+define	1.0	2
+easy	1.0	4
+insert	1.0	2
+google	1.0	2
+schedule	1.0	2
+
+contact page
+convert	1.0	2
+love	1.0	2
+reminders	1.0	2
+notify	1.0	2
+accompany	1.0	2
+
+different view
+arrange	1.0	2
+
+important event
+confirmations	1.0	2
+calendar	1.0	3
+decline	1.0	2
+define	1.0	2
+easy	1.0	4
+insert	1.0	2
+google	1.0	2
+schedule	1.0	3
+log	1.0	2
+
+different ringtones
+issue	1.0	2
+
+on-top-widget
+specify	1.0	2
+
+quick note
+access	1.0	7
+
+scheduler
+receive	1.0	3
+assign	1.0	3
+
+contact detail
+convert	1.0	2
+love	1.0	2
+reminders	1.0	2
+notify	1.0	2
+accompany	1.0	2
+
+event information
+confirmations	1.0	2
+calendar	1.0	3
+decline	1.0	2
+define	1.0	2
+easy	1.0	4
+insert	1.0	2
+google	1.0	2
+schedule	1.0	3
+log	1.0	2
+
+best view
+arrange	1.0	2
+
+next widget
+specify	1.0	2
+
+nature sound
+scream	1.0	3
+
+news weather
+build	1.0	2
+do	1.0	2
+
+event date
+confirmations	1.0	2
+calendar	1.0	3
+decline	1.0	2
+define	1.0	2
+easy	1.0	4
+insert	1.0	2
+google	1.0	2
+schedule	1.0	3
+log	1.0	2
+
+release date
+assign	1.0	2
+press	1.0	2
+long-press	1.0	2
+accompany	1.0	3
+customizable	1.0	2
+
+convenience
+maximize	0.941176470588	17
+
+class schedule
+receive	1.0	3
+assign	1.0	3
+maximize	1.0	13
+sign	0.928571428571	14
+
+go contact
+convert	1.0	2
+love	1.0	2
+reminders	1.0	2
+notify	1.0	2
+accompany	1.0	2
+
+view
+arrange	1.0	2
+
+time widget
+specify	1.0	2
+
+current time
+perform	1.0	2
+start	1.0	2
+
+contact list
+convert	1.0	2
+love	1.0	2
+reminders	1.0	2
+notify	1.0	2
+accompany	1.0	2
+
+contact form
+convert	1.0	2
+love	1.0	2
+reminders	1.0	2
+notify	1.0	2
+accompany	1.0	2
+
+detailed view
+arrange	1.0	2
+
+ringtones notification
+issue	1.0	2
+
+natural sound
+scream	1.0	3
+
+calendar
+restore	1.0	2
+help	1.0	2
+integrate	1.0	5
+read	1.0	5
+tick	1.0	3
+remove	1.0	2
+synchronize	1.0	2
+schedule	1.0	3
+let	1.0	2
+protect	1.0	2
+backup	1.0	2
+support	1.0	5
+enable	1.0	2
+require	1.0	4
+write	1.0	7
+
+weather report
+build	1.0	2
+do	1.0	2
+
+event
+confirmations	1.0	2
+calendar	1.0	3
+decline	1.0	2
+define	1.0	2
+easy	1.0	4
+insert	1.0	2
+google	1.0	2
+schedule	1.0	3
+log	1.0	2
+
+useful widget
+specify	1.0	2
+
+school student
+handle	1.0	7
+content	1.0	7
+
+current
+perform	1.0	2
+start	1.0	2
+
+view schedule
+receive	1.0	3
+assign	1.0	3
+
+popular ringtones
+issue	1.0	2
+
+ringtone notification
+issue	1.0	2
+
+dating
+assign	1.0	2
+press	1.0	2
+long-press	1.0	2
+accompany	1.0	3
+customizable	1.0	2
+
+device calendar
+restore	1.0	2
+help	1.0	2
+integrate	1.0	5
+read	1.0	5
+tick	1.0	3
+remove	1.0	2
+sync	1.0	4
+schedule	1.0	3
+let	1.0	2
+protect	1.0	2
+backup	1.0	2
+support	1.0	3
+require	1.0	2
+write	1.0	5
+
+locate
+accompany	1.0	6
+
+widget
+specify	1.0	2
+
+various location
+accompany	1.0	6
+
+schedule
+receive	1.0	3
+assign	1.0	3
+
+emergency contact
+convert	1.0	2
+love	1.0	2
+reminders	1.0	2
+notify	1.0	2
+accompany	1.0	2
+
+bill reminder
+base	1.0	8
+
+perfect widget
+specify	1.0	2
+
+live view
+arrange	1.0	2
+
+gps location
+accompany	1.0	6
+
+widget support
+specify	1.0	2
+
+top widget
+specify	1.0	2
+
+local weather
+build	1.0	2
+do	1.0	2
+
+homescreen widget
+specify	1.0	2
+
+search widget
+specify	1.0	2
+
+current weather
+build	1.0	2
+do	1.0	2
+
+place locator
+accompany	1.0	6
+remind	1.0	2
+
+live event
+confirmations	1.0	2
+calendar	1.0	3
+decline	1.0	2
+define	1.0	2
+easy	1.0	4
+insert	1.0	2
+google	1.0	2
+schedule	1.0	3
+log	1.0	2
+
+viewing
+arrange	1.0	2
+
+current event
+confirmations	1.0	2
+calendar	1.0	3
+decline	1.0	2
+define	1.0	2
+easy	1.0	4
+insert	1.0	2
+google	1.0	2
+schedule	1.0	3
+log	1.0	2
+
+widget size
+specify	1.0	2
+
+weather information
+build	1.0	2
+do	1.0	2
+
+backup
+schedule	1.0	2
+
+weather industry
+do	1.0	2
+build	1.0	2
+
+daily schedule
+assign	1.0	3
+
+college student
+handle	1.0	7
+content	1.0	7
+
+up-to-date
+assign	1.0	2
+press	1.0	2
+long-press	1.0	2
+accompany	1.0	3
+customizable	1.0	2
+
+good view
+arrange	1.0	2
+
+contact name
+convert	1.0	2
+love	1.0	2
+reminders	1.0	2
+notify	1.0	2
+accompany	1.0	2
+
+current news
+perform	1.0	2
+start	1.0	2
+
+locator
+accompany	1.0	6
+
+contact ringtone
+reminders	1.0	2
+synchronize	1.0	2
+issue	1.0	2
+organize	1.0	2
+notify	1.0	3
+accompany	1.0	2
+
+weather
+build	1.0	2
+do	1.0	2
+
+calendar view
+restore	1.0	2
+help	1.0	2
+integrate	1.0	5
+read	1.0	5
+tick	1.0	3
+remove	1.0	2
+synchronize	1.0	2
+schedule	1.0	3
+let	1.0	2
+protect	1.0	2
+backup	1.0	2
+support	1.0	5
+enable	1.0	2
+require	1.0	4
+write	1.0	7
+
+popular ringtone
+issue	1.0	2
+
+convenient way
+maximize	0.941176470588	17
+
+time date
+assign	1.0	2
+press	1.0	2
+long-press	1.0	2
+accompany	1.0	3
+customizable	1.0	2
+
+different location
+accompany	1.0	6
+
+medical student
+handle	1.0	7
+content	1.0	7
+
+quick view
+access	1.0	7
+
+specific contact
+convert	1.0	2
+love	1.0	2
+reminders	1.0	2
+notify	1.0	2
+accompany	1.0	2
+
+best ringtones
+issue	1.0	2
+
+new location
+accompany	1.0	6
+
+important date
+assign	1.0	2
+long-press	1.0	2
+accompany	1.0	3
+customizable	1.0	2
+
+gregorian calendar
+restore	1.0	2
+help	1.0	2
+integrate	1.0	5
+read	1.0	5
+tick	1.0	3
+remove	1.0	2
+sync	1.0	4
+schedule	1.0	3
+let	1.0	2
+protect	1.0	2
+backup	1.0	2
+support	1.0	3
+require	1.0	2
+write	1.0	5
+
+weather condition
+do	1.0	2
+build	1.0	2
+
+simple widget
+specify	1.0	2
+
+iphone rington
+issue	1.0	2
+
+yahoo
+cover	1.0	2
+
+first date
+assign	1.0	2
+press	1.0	2
+long-press	1.0	2
+accompany	1.0	3
+customizable	1.0	2
+
+add widget
+specify	1.0	2
+
+deep weather
+do	1.0	2
+build	1.0	2
+
+contact ringtones
+reminders	1.0	2
+synchronize	1.0	2
+issue	1.0	2
+organize	1.0	2
+notify	1.0	3
+accompany	1.0	2
+
+contact developer
+convert	1.0	2
+love	1.0	2
+reminders	1.0	2
+notify	1.0	2
+accompany	1.0	2
+
+precise location
+accompany	1.0	6
+
+free ringtones
+issue	1.0	2
+
+weather widget
+specify	1.0	2
+
+current location
+accompany	1.0	6
+
+widget list
+specify	1.0	2
+
+calendar event
+restore	1.0	2
+help	1.0	2
+integrate	1.0	5
+read	1.0	5
+tick	1.0	3
+remove	1.0	2
+synchronize	1.0	2
+schedule	1.0	3
+let	1.0	2
+protect	1.0	2
+backup	1.0	2
+support	1.0	5
+enable	1.0	2
+require	1.0	4
+write	1.0	7
+
+due date
+assign	1.0	2
+long-press	1.0	2
+accompany	1.0	3
+customizable	1.0	2
+
+floating on-top-widget
+specify	1.0	2
+
+quick overview
+access	1.0	7
+
+lockscreen widget
+specify	1.0	2
+
+weather forecast
+do	1.0	2
+
+time location
+accompany	1.0	6
+
+scheduling
+receive	1.0	3
+assign	1.0	3
+
+event activity
+confirmations	1.0	2
+calendar	1.0	3
+decline	1.0	2
+define	1.0	2
+easy	1.0	4
+insert	1.0	2
+google	1.0	2
+schedule	1.0	3
+log	1.0	2
+
+schedule information
+receive	1.0	3
+assign	1.0	3
+
+personal schedule
+receive	1.0	3
+assign	1.0	3
+
+widget section
+specify	1.0	2
+
+on-top-widget functionality
+specify	1.0	2
+
+read contact
+convert	1.0	2
+love	1.0	2
+reminders	1.0	2
+notify	1.0	2
+accompany	1.0	2
+
+current status
+perform	1.0	2
+start	1.0	2
+
+ringtone
+issue	1.0	2
+
+new contact
+convert	1.0	2
+love	1.0	2
+reminders	1.0	2
+notify	1.0	2
+accompany	1.0	2
+
+special event
+confirmations	1.0	2
+calendar	1.0	3
+decline	1.0	2
+define	1.0	2
+easy	1.0	4
+insert	1.0	2
+google	1.0	2
+schedule	1.0	3
+log	1.0	2
+
+day weather
+build	1.0	2
+do	1.0	2
+
+late ringtones
+issue	1.0	2
+
+news widget
+specify	1.0	2
+
+free ringtone
+issue	1.0	2
+
+local event
+confirmations	1.0	2
+calendar	1.0	3
+decline	1.0	2
+define	1.0	2
+easy	1.0	4
+insert	1.0	2
+google	1.0	2
+schedule	1.0	3
+log	1.0	2
+
+late weather
+build	1.0	2
+do	1.0	2
+
+contact photo
+convert	1.0	2
+love	1.0	2
+reminders	1.0	2
+notify	1.0	2
+accompany	1.0	2
+
+date
+assign	1.0	2
+press	1.0	2
+long-press	1.0	2
+accompany	1.0	3
+customizable	1.0	2
+
+screen widget
+specify	1.0	2
+
+bangla calendar
+restore	1.0	2
+help	1.0	2
+integrate	1.0	5
+read	1.0	5
+tick	1.0	3
+remove	1.0	2
+sync	1.0	4
+schedule	1.0	3
+let	1.0	2
+protect	1.0	2
+backup	1.0	2
+support	1.0	3
+require	1.0	2
+write	1.0	4
+
+contact number
+convert	1.0	2
+love	1.0	2
+reminders	1.0	2
+notify	1.0	2
+accompany	1.0	2
+
+list view
+arrange	1.0	2
+
+date information
+customizable	1.0	2
+long-press	1.0	2
+
+near location
+accompany	1.0	6
+
+contact
+convert	1.0	2
+love	1.0	2
+reminders	1.0	2
+notify	1.0	2
+accompany	1.0	2
+
+date time
+assign	1.0	2
+press	1.0	2
+long-press	1.0	2
+accompany	1.0	3
+customizable	1.0	2
+
+convenient
+maximize	0.941176470588	17
+
+edit widget
+specify	1.0	2
+
+problem contact
+convert	1.0	2
+love	1.0	2
+reminders	1.0	2
+notify	1.0	2
+accompany	1.0	2
+
+contact information
+convert	1.0	2
+love	1.0	2
+reminders	1.0	2
+notify	1.0	2
+accompany	1.0	2
+
