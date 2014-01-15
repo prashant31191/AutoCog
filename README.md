@@ -12,9 +12,15 @@ To Use it:
 
 (2) Copy all the contents in file esalib_data to /AutoCog/esalib/data/
 
-(3) Copy neweval_0103.jar and neweval_0103.jar_lib in src/ to /AutoCog/esalib/
+(3) You may use our dataset with descriptions of over 40,000 Android applications (Each sentence is cunducted a sentence structure analysis with Stanford parser in .xml format).
 
-(4) Go to dir: /semant2/esalib
+Available at https://www.dropbox.com/s/0er8msbkzm2lpzi/androidDS.tar.gz
+
+After downloading it, replace the file /AutoCog/androidDS with it 
+
+(4) Copy neweval_0103.jar and neweval_0103.jar_lib in src/ to /AutoCog/esalib/
+
+(5) Go to dir: /semant2/esalib
 
 Command: java -jar neweval_0103.jar noskip(skip) PERMISSION
 
