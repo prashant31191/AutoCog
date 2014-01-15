@@ -1,0 +1,31 @@
+<ROOT>
+  <NP>
+    <NP>
+      <NNP>
+        <Move/>
+      </NNP>
+      <NNP>
+        <Delete/>
+      </NNP>
+      <CC>
+        <and/>
+      </CC>
+      <NNP>
+        <Undelete/>
+      </NNP>
+      <NNP>
+        <Objects/>
+      </NNP>
+    </NP>
+    <PRN>
+      <NP>
+        <JJ>
+          <tombstone/>
+        </JJ>
+        <NNS>
+          <objects/>
+        </NNS>
+      </NP>
+    </PRN>
+  </NP>
+</ROOT>

@@ -1,0 +1,40 @@
+<ROOT>
+  <NP>
+    <NP>
+      <NNP>
+        <Group/>
+      </NNP>
+      <NNP>
+        <Chat/>
+      </NNP>
+    </NP>
+    <PP>
+      <IN>
+        <with/>
+      </IN>
+      <NP>
+        <QP>
+          <IN>
+            <up/>
+          </IN>
+          <TO>
+            <to/>
+          </TO>
+          <CD>
+            <50/>
+          </CD>
+        </QP>
+        <NNS>
+          <friends/>
+        </NNS>
+      </NP>
+    </PP>
+  </NP>
+</ROOT>
+nn(Chat-2, Group-1)
+root(ROOT-0, Chat-2)
+quantmod(50-6, up-4)
+dep(50-6, to-5)
+num(friends-7, 50-6)
+prep_with(Chat-2, friends-7)
+

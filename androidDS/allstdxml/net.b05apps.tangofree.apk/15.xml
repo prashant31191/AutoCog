@@ -1,0 +1,44 @@
+<ROOT>
+  <S>
+    <VP>
+      <VB>
+        <Personalize/>
+      </VB>
+      <NP>
+        <PRP$>
+          <your/>
+        </PRP$>
+        <NNS>
+          <calls/>
+        </NNS>
+        <CC>
+          <and/>
+        </CC>
+        <NNS>
+          <messages/>
+        </NNS>
+      </NP>
+      <PP>
+        <IN>
+          <with/>
+        </IN>
+        <NP>
+          <NN>
+            <fun/>
+          </NN>
+          <NNS>
+            <animations/>
+          </NNS>
+        </NP>
+      </PP>
+    </VP>
+  </S>
+</ROOT>
+root(ROOT-0, Personalize-1)
+poss(calls-3, your-2)
+dobj(Personalize-1, calls-3)
+dobj(Personalize-1, messages-5)
+conj_and(calls-3, messages-5)
+nn(animations-8, fun-7)
+prep_with(Personalize-1, animations-8)
+

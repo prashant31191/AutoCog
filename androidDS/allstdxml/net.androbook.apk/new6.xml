@@ -1,0 +1,25 @@
+<ROOT>
+  <NP>
+    <NP>
+      <NNP>
+        <Zipped/>
+      </NNP>
+    </NP>
+    <NP>
+      <NNP>
+        <JPEG/>
+      </NNP>
+      <NNP>
+        <PNG/>
+      </NNP>
+      <NNP>
+        <GIF/>
+      </NNP>
+    </NP>
+    <NP>
+      <NN>
+        <pdf/>
+      </NN>
+    </NP>
+  </NP>
+</ROOT>

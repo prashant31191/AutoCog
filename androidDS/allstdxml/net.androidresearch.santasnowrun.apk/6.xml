@@ -1,0 +1,46 @@
+<ROOT>
+  <S>
+    <VP>
+      <VB>
+        <Collect/>
+      </VB>
+      <PP>
+        <IN>
+          <as/>
+        </IN>
+        <NP>
+          <JJ>
+            <many/>
+          </JJ>
+          <NNS>
+            <presents/>
+          </NNS>
+        </NP>
+      </PP>
+      <SBAR>
+        <IN>
+          <as/>
+        </IN>
+        <S>
+          <NP>
+            <PRP>
+              <you/>
+            </PRP>
+          </NP>
+          <VP>
+            <MD>
+              <can/>
+            </MD>
+          </VP>
+        </S>
+      </SBAR>
+    </VP>
+  </S>
+</ROOT>
+root(ROOT-0, Collect-1)
+amod(presents-4, many-3)
+prep_as(Collect-1, presents-4)
+mark(can-7, as-5)
+nsubj(can-7, you-6)
+advcl(Collect-1, can-7)
+

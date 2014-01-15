@@ -1,0 +1,27 @@
+<ROOT>
+  <FRAG>
+    <NP>
+      <DT>
+        <No/>
+      </DT>
+      <ADJP>
+        <JJ>
+          <technical/>
+        </JJ>
+      </ADJP>
+      <NN>
+        <knowledge/>
+      </NN>
+    </NP>
+    <ADJP>
+      <JJ>
+        <necessary/>
+      </JJ>
+    </ADJP>
+  </FRAG>
+</ROOT>
+det(knowledge-3, No-1)
+amod(knowledge-3, technical-2)
+root(ROOT-0, knowledge-3)
+dep(knowledge-3, necessary-4)
+

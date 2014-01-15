@@ -1,0 +1,13 @@
+<ROOT>
+  <NP>
+    <NNP>
+      <Call/>
+    </NNP>
+    <NNP>
+      <Taxi/>
+    </NNP>
+  </NP>
+</ROOT>
+nn(Taxi-2, Call-1)
+root(ROOT-0, Taxi-2)
+

@@ -1,0 +1,23 @@
+<ROOT>
+  <NP>
+    <NP>
+      <NN>
+        <Share/>
+      </NN>
+      <NNS>
+        <photos/>
+      </NNS>
+    </NP>
+    <NP>
+      <NNS>
+        <videos/>
+      </NNS>
+      <CC>
+        <and/>
+      </CC>
+      <NNS>
+        <locations/>
+      </NNS>
+    </NP>
+  </NP>
+</ROOT>

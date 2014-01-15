@@ -1,0 +1,38 @@
+<ROOT>
+  <S>
+    <NP>
+      <PRP>
+        <He/>
+      </PRP>
+    </NP>
+    <VP>
+      <VBZ>
+        <faces/>
+      </VBZ>
+      <NP>
+        <NP>
+          <JJ>
+            <many/>
+          </JJ>
+          <NNS>
+            <obstacles/>
+          </NNS>
+        </NP>
+        <,>
+          <,/>
+        </,>
+        <NP>
+          <NN>
+            <eg/>
+          </NN>
+        </NP>
+      </NP>
+    </VP>
+  </S>
+</ROOT>
+nsubj(faces-2, He-1)
+root(ROOT-0, faces-2)
+amod(obstacles-4, many-3)
+dobj(faces-2, obstacles-4)
+appos(obstacles-4, eg-6)
+

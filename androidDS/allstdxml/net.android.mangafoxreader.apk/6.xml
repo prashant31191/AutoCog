@@ -1,0 +1,21 @@
+<ROOT>
+  <S>
+    <NP>
+      <NNP>
+        <Show/>
+      </NNP>
+      <NNP>
+        <lastest/>
+      </NNP>
+    </NP>
+    <VP>
+      <VBZ>
+        <releases/>
+      </VBZ>
+    </VP>
+  </S>
+</ROOT>
+nn(lastest-2, Show-1)
+nsubj(releases-3, lastest-2)
+root(ROOT-0, releases-3)
+

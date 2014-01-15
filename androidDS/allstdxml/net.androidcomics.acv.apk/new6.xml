@@ -1,0 +1,27 @@
+<ROOT>
+  <S>
+    <VP>
+      <VB>
+        <Read/>
+      </VB>
+      <NP>
+        <NNS>
+          <comics/>
+        </NNS>
+      </NP>
+      <PP>
+        <IN>
+          <from/>
+        </IN>
+        <NP>
+          <NNP>
+            <SD/>
+          </NNP>
+          <NN>
+            <card/>
+          </NN>
+        </NP>
+      </PP>
+    </VP>
+  </S>
+</ROOT>

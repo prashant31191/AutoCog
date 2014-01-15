@@ -1,0 +1,13 @@
+<ROOT>
+  <NP>
+    <JJ>
+      <Toggle/>
+    </JJ>
+    <NNS>
+      <buttons/>
+    </NNS>
+  </NP>
+</ROOT>
+amod(buttons-2, Toggle-1)
+root(ROOT-0, buttons-2)
+

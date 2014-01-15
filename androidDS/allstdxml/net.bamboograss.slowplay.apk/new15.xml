@@ -1,0 +1,22 @@
+<ROOT>
+  <NP>
+    <NP>
+      <JJ>
+        <Frame-By-Frame/>
+      </JJ>
+      <NN>
+        <operation/>
+      </NN>
+    </NP>
+    <PP>
+      <IN>
+        <by/>
+      </IN>
+      <NP>
+        <NNP>
+          <Dial/>
+        </NNP>
+      </NP>
+    </PP>
+  </NP>
+</ROOT>

@@ -1,0 +1,45 @@
+<ROOT>
+  <NP>
+    <NP>
+      <JJ>
+        <Great/>
+      </JJ>
+      <NN>
+        <quality/>
+      </NN>
+    </NP>
+    <PP>
+      <IN>
+        <on/>
+      </IN>
+      <NP>
+        <CD>
+          <3G/>
+        </CD>
+        <,>
+          <,/>
+        </,>
+        <NNP>
+          <4G/>
+        </NNP>
+        <,>
+          <,/>
+        </,>
+        <CC>
+          <and/>
+        </CC>
+        <NNP>
+          <Wi-Fi/>
+        </NNP>
+      </NP>
+    </PP>
+  </NP>
+</ROOT>
+amod(quality-2, Great-1)
+root(ROOT-0, quality-2)
+prep_on(quality-2, 3G-4)
+prep_on(quality-2, 4G-6)
+conj_and(3G-4, 4G-6)
+prep_on(quality-2, Wi-Fi-9)
+conj_and(3G-4, Wi-Fi-9)
+

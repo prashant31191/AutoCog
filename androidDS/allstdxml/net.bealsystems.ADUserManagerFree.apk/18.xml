@@ -1,0 +1,41 @@
+<ROOT>
+  <NP>
+    <NP>
+      <JJ>
+        <Unlimited/>
+      </JJ>
+      <NN>
+        <directory/>
+      </NN>
+      <NN>
+        <size/>
+      </NN>
+    </NP>
+    <PRN>
+      <-LRB->
+        <-LRB-/>
+      </-LRB->
+      <NP>
+        <NN>
+          <result/>
+        </NN>
+        <NN>
+          <size/>
+        </NN>
+        <NNS>
+          <adjustable/>
+        </NNS>
+      </NP>
+      <-RRB->
+        <-RRB-/>
+      </-RRB->
+    </PRN>
+  </NP>
+</ROOT>
+amod(size-3, Unlimited-1)
+nn(size-3, directory-2)
+root(ROOT-0, size-3)
+nn(adjustable-7, result-5)
+nn(adjustable-7, size-6)
+appos(size-3, adjustable-7)
+

@@ -1,0 +1,24 @@
+<ROOT>
+  <ADJP>
+    <RB>
+      <Highly/>
+    </RB>
+    <VBN>
+      <integrated/>
+    </VBN>
+    <PP>
+      <IN>
+        <into/>
+      </IN>
+      <NP>
+        <NNP>
+          <Android/>
+        </NNP>
+      </NP>
+    </PP>
+  </ADJP>
+</ROOT>
+advmod(integrated-2, Highly-1)
+root(ROOT-0, integrated-2)
+prep_into(integrated-2, Android-4)
+

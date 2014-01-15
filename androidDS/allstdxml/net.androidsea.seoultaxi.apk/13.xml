@@ -1,0 +1,45 @@
+<ROOT>
+  <VP>
+    <PRN>
+      <-LRB->
+        <-LRB-/>
+      </-LRB->
+      <PP>
+        <IN>
+          <for/>
+        </IN>
+        <NP>
+          <PRP$>
+            <your/>
+          </PRP$>
+          <NN>
+            <wife/>
+          </NN>
+          <CC>
+            <or/>
+          </CC>
+          <NN>
+            <husband/>
+          </NN>
+          <NNS>
+            <~/>
+          </NNS>
+        </NP>
+      </PP>
+      <-RRB->
+        <-RRB-/>
+      </-RRB->
+    </PRN>
+    <VBN>
+      <4/>
+    </VBN>
+  </VP>
+</ROOT>
+dep(4-9, for-2)
+poss(wife-4, your-3)
+pobj(for-2, wife-4)
+nn(~-7, husband-6)
+pobj(for-2, ~-7)
+conj_or(wife-4, ~-7)
+root(ROOT-0, 4-9)
+

@@ -1,0 +1,22 @@
+<ROOT>
+  <VP>
+    <VB>
+      <Explorer/>
+    </VB>
+    <NP>
+      <NP>
+        <NNP>
+          <Tree/>
+        </NNP>
+        <NNP>
+          <Style/>
+        </NNP>
+        <POS>
+        </POS>
+      </NP>
+      <NN>
+        <view/>
+      </NN>
+    </NP>
+  </VP>
+</ROOT>

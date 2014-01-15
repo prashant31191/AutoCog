@@ -1,0 +1,17 @@
+<ROOT>
+  <FRAG>
+    <NP>
+      <NNP>
+      </NNP>
+      <NNP>
+        <Low/>
+      </NNP>
+      <NN>
+        <bandwidth/>
+      </NN>
+      <NN>
+        <consumption/>
+      </NN>
+    </NP>
+  </FRAG>
+</ROOT>

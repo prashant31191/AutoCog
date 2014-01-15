@@ -1,0 +1,28 @@
+<ROOT>
+  <NP>
+    <NP>
+      <DT>
+        <a/>
+      </DT>
+      <NN>
+        <widget/>
+      </NN>
+    </NP>
+    <PP>
+      <IN>
+        <for/>
+      </IN>
+      <NP>
+        <DT>
+          <the/>
+        </DT>
+        <NN>
+          <home/>
+        </NN>
+        <NN>
+          <screen/>
+        </NN>
+      </NP>
+    </PP>
+  </NP>
+</ROOT>

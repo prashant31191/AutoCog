@@ -1,0 +1,13 @@
+<ROOT>
+  <NP>
+    <NNS>
+      <Problems/>
+    </NNS>
+    <CC>
+      <or/>
+    </CC>
+    <NNS>
+      <Questions/>
+    </NNS>
+  </NP>
+</ROOT>

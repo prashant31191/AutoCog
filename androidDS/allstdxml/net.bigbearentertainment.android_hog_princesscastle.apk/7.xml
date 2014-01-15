@@ -1,0 +1,39 @@
+<ROOT>
+  <SINV>
+    <VP>
+      <VBP>
+        <EXPLORE/>
+      </VBP>
+      <NP>
+        <DT>
+          <A/>
+        </DT>
+        <JJ>
+          <ROYAL/>
+        </JJ>
+        <NN>
+          <WORLD/>
+        </NN>
+      </NP>
+    </VP>
+    <NP>
+      <NNP>
+        <INSIDE/>
+      </NNP>
+      <NNP>
+        <ELEGANT/>
+      </NNP>
+      <NNP>
+        <ROOMS/>
+      </NNP>
+    </NP>
+  </SINV>
+</ROOT>
+root(ROOT-0, EXPLORE-1)
+det(WORLD-4, A-2)
+amod(WORLD-4, ROYAL-3)
+dobj(EXPLORE-1, WORLD-4)
+nn(ROOMS-7, INSIDE-5)
+nn(ROOMS-7, ELEGANT-6)
+nsubj(EXPLORE-1, ROOMS-7)
+

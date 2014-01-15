@@ -1,0 +1,35 @@
+<ROOT>
+  <NP>
+    <NP>
+      <NNP>
+        <Select/>
+      </NNP>
+    </NP>
+    <NP>
+      <NP>
+        <DT>
+          <the/>
+        </DT>
+        <NN>
+          <interval/>
+        </NN>
+      </NP>
+      <PP>
+        <IN>
+          <for/>
+        </IN>
+        <NP>
+          <DT>
+            <the/>
+          </DT>
+          <JJ>
+            <associated/>
+          </JJ>
+          <NN>
+            <item/>
+          </NN>
+        </NP>
+      </PP>
+    </NP>
+  </NP>
+</ROOT>

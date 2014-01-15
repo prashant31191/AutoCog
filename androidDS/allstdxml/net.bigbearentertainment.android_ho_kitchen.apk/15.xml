@@ -1,0 +1,31 @@
+<ROOT>
+  <S>
+    <VP>
+      <VB>
+        <Unlock/>
+      </VB>
+      <NP>
+        <DT>
+          <the/>
+        </DT>
+        <JJ>
+          <full/>
+        </JJ>
+        <NN>
+          <adventure/>
+        </NN>
+      </NP>
+      <ADVP>
+        <RB>
+          <inside/>
+        </RB>
+      </ADVP>
+    </VP>
+  </S>
+</ROOT>
+root(ROOT-0, Unlock-1)
+det(adventure-4, the-2)
+amod(adventure-4, full-3)
+dobj(Unlock-1, adventure-4)
+advmod(Unlock-1, inside-5)
+

@@ -1,0 +1,22 @@
+<ROOT>
+  <S>
+    <VP>
+      <VBG>
+        <Downloading/>
+      </VBG>
+      <PP>
+        <IN>
+          <of/>
+        </IN>
+        <NP>
+          <NN>
+            <music/>
+          </NN>
+        </NP>
+      </PP>
+    </VP>
+  </S>
+</ROOT>
+root(ROOT-0, Downloading-1)
+prep_of(Downloading-1, music-3)
+

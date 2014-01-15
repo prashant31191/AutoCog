@@ -1,0 +1,45 @@
+<ROOT>
+  <S>
+    <NP>
+      <PRP>
+        <You/>
+      </PRP>
+    </NP>
+    <VP>
+      <MD>
+        <can/>
+      </MD>
+      <VP>
+        <VB>
+          <select/>
+        </VB>
+        <NP>
+          <DT>
+            <an/>
+          </DT>
+          <NN>
+            <action/>
+          </NN>
+        </NP>
+        <PP>
+          <IN>
+            <from/>
+          </IN>
+          <NP>
+            <RB>
+              <there/>
+            </RB>
+          </NP>
+        </PP>
+      </VP>
+    </VP>
+  </S>
+</ROOT>
+nsubj(select-3, You-1)
+aux(select-3, can-2)
+root(ROOT-0, select-3)
+det(action-5, an-4)
+dobj(select-3, action-5)
+prep(select-3, from-6)
+pobj(from-6, there-7)
+

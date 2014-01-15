@@ -1,0 +1,23 @@
+<ROOT>
+  <NP>
+    <NP>
+      <NNP>
+        <Next/>
+      </NNP>
+    </NP>
+    <CC>
+      <and/>
+    </CC>
+    <NP>
+      <JJ>
+        <previous/>
+      </JJ>
+      <NN>
+        <screen/>
+      </NN>
+      <NN>
+        <cache/>
+      </NN>
+    </NP>
+  </NP>
+</ROOT>

@@ -1,0 +1,36 @@
+<ROOT>
+  <S>
+    <VP>
+      <VB>
+        <Personalize/>
+      </VB>
+      <NP>
+        <PRP>
+          <your/>
+        </PRP>
+        <NNS>
+          <calls/>
+        </NNS>
+        <CC>
+          <and/>
+        </CC>
+        <NNS>
+          <messages/>
+        </NNS>
+      </NP>
+      <PP>
+        <IN>
+          <with/>
+        </IN>
+        <NP>
+          <NN>
+            <fun/>
+          </NN>
+          <NNS>
+            <animations/>
+          </NNS>
+        </NP>
+      </PP>
+    </VP>
+  </S>
+</ROOT>

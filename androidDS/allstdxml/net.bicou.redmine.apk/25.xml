@@ -1,0 +1,13 @@
+<ROOT>
+  <NP>
+    <JJ>
+      <other/>
+    </JJ>
+    <NN>
+      <stuff/>
+    </NN>
+  </NP>
+</ROOT>
+amod(stuff-2, other-1)
+root(ROOT-0, stuff-2)
+

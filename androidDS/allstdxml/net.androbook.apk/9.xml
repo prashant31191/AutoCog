@@ -1,0 +1,29 @@
+<ROOT>
+  <S>
+    <VP>
+      <VB>
+        <Cache/>
+      </VB>
+      <NP>
+        <JJ>
+          <next/>
+        </JJ>
+        <CC>
+          <and/>
+        </CC>
+        <JJ>
+          <previous/>
+        </JJ>
+        <NN>
+          <page/>
+        </NN>
+      </NP>
+    </VP>
+  </S>
+</ROOT>
+root(ROOT-0, Cache-1)
+amod(page-5, next-2)
+conj_and(next-2, previous-4)
+amod(page-5, previous-4)
+dobj(Cache-1, page-5)
+

@@ -1,0 +1,30 @@
+<ROOT>
+  <NP>
+    <NP>
+      <NNP>
+        <Mark/>
+      </NNP>
+    </NP>
+    <NP>
+      <NP>
+        <PRP>
+          <them/>
+        </PRP>
+      </NP>
+      <PP>
+        <IN>
+          <as/>
+        </IN>
+        <NP>
+          <NN>
+            <favorite/>
+          </NN>
+        </NP>
+      </PP>
+    </NP>
+  </NP>
+</ROOT>
+root(ROOT-0, Mark-1)
+dep(Mark-1, them-2)
+prep_as(them-2, favorite-4)
+

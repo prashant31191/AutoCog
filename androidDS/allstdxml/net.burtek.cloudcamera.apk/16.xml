@@ -1,0 +1,47 @@
+<ROOT>
+  <NP>
+    <NP>
+      <NNP>
+        <+/>
+      </NNP>
+      <NNP>
+        <Supports/>
+      </NNP>
+    </NP>
+    <NP>
+      <JJ>
+        <full/>
+      </JJ>
+      <JJ>
+        <HD/>
+      </JJ>
+      <NN>
+        <video/>
+      </NN>
+      <NN>
+        <surveillance/>
+      </NN>
+    </NP>
+    <NP>
+      <NN>
+        <viewing/>
+      </NN>
+      <CC>
+        <and/>
+      </CC>
+      <NN>
+        <recording/>
+      </NN>
+    </NP>
+  </NP>
+</ROOT>
+nn(Supports-2, +-1)
+root(ROOT-0, Supports-2)
+amod(surveillance-6, full-3)
+amod(surveillance-6, HD-4)
+nn(surveillance-6, video-5)
+dep(Supports-2, surveillance-6)
+dep(Supports-2, viewing-7)
+dep(Supports-2, recording-9)
+conj_and(viewing-7, recording-9)
+

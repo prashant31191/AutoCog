@@ -1,0 +1,32 @@
+<ROOT>
+  <NP>
+    <NP>
+      <NNP>
+        <Automatic/>
+      </NNP>
+      <NNP>
+        <scrolling/>
+      </NNP>
+    </NP>
+    <,>
+      <,/>
+    </,>
+    <NP>
+      <JJ>
+        <automatic/>
+      </JJ>
+      <NN>
+        <day\/night/>
+      </NN>
+      <NN>
+        <mode/>
+      </NN>
+    </NP>
+  </NP>
+</ROOT>
+nn(scrolling-2, Automatic-1)
+root(ROOT-0, scrolling-2)
+amod(mode-6, automatic-4)
+nn(mode-6, day\/night-5)
+appos(scrolling-2, mode-6)
+

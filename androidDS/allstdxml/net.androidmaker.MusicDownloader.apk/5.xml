@@ -1,0 +1,13 @@
+<ROOT>
+  <NP>
+    <JJ>
+      <Saving/>
+    </JJ>
+    <NN>
+      <music/>
+    </NN>
+  </NP>
+</ROOT>
+amod(music-2, Saving-1)
+root(ROOT-0, music-2)
+

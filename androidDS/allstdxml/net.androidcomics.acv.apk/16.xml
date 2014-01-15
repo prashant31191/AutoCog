@@ -1,0 +1,13 @@
+<ROOT>
+  <NP>
+    <NNP>
+      <OPEN/>
+    </NNP>
+    <NNP>
+      <SOURCE/>
+    </NNP>
+  </NP>
+</ROOT>
+nn(SOURCE-2, OPEN-1)
+root(ROOT-0, SOURCE-2)
+

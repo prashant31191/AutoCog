@@ -1,0 +1,17 @@
+<ROOT>
+  <S>
+    <VP>
+      <VB>
+        <Mute/>
+      </VB>
+      <NP>
+        <DT>
+          <any/>
+        </DT>
+        <NN>
+          <music/>
+        </NN>
+      </NP>
+    </VP>
+  </S>
+</ROOT>

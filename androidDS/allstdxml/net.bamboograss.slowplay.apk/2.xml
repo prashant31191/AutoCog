@@ -1,0 +1,17 @@
+<ROOT>
+  <NP>
+    <NNP>
+      <Slow/>
+    </NNP>
+    <NNP>
+      <Motion/>
+    </NNP>
+    <NNP>
+      <playback/>
+    </NNP>
+  </NP>
+</ROOT>
+nn(playback-3, Slow-1)
+nn(playback-3, Motion-2)
+root(ROOT-0, playback-3)
+

@@ -1,0 +1,34 @@
+<ROOT>
+  <NP>
+    <NP>
+      <DT>
+        <no/>
+      </DT>
+      <NN>
+        <need/>
+      </NN>
+    </NP>
+    <PP>
+      <IN>
+        <for/>
+      </IN>
+      <NP>
+        <DT>
+          <a/>
+        </DT>
+        <NN>
+          <data/>
+        </NN>
+        <NN>
+          <connection/>
+        </NN>
+      </NP>
+    </PP>
+  </NP>
+</ROOT>
+det(need-2, no-1)
+root(ROOT-0, need-2)
+det(connection-6, a-4)
+nn(connection-6, data-5)
+prep_for(need-2, connection-6)
+

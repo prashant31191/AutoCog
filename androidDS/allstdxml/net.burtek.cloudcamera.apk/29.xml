@@ -1,0 +1,17 @@
+<ROOT>
+  <NP>
+    <NNP>
+      <+/>
+    </NNP>
+    <NNP>
+      <Remote/>
+    </NNP>
+    <NNP>
+      <arming\/disarming/>
+    </NNP>
+  </NP>
+</ROOT>
+nn(arming\/disarming-3, +-1)
+nn(arming\/disarming-3, Remote-2)
+root(ROOT-0, arming\/disarming-3)
+

@@ -1,0 +1,23 @@
+<ROOT>
+  <ADJP>
+    <JJ>
+      <Free/>
+    </JJ>
+    <S>
+      <VP>
+        <TO>
+          <to/>
+        </TO>
+        <VP>
+          <VB>
+            <use/>
+          </VB>
+        </VP>
+      </VP>
+    </S>
+  </ADJP>
+</ROOT>
+root(ROOT-0, Free-1)
+aux(use-3, to-2)
+xcomp(Free-1, use-3)
+

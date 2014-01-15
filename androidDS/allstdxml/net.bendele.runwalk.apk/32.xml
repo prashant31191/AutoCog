@@ -1,0 +1,42 @@
+<ROOT>
+  <NP>
+    <NP>
+      <NNP>
+        <Select/>
+      </NNP>
+    </NP>
+    <NP>
+      <NP>
+        <DT>
+          <the/>
+        </DT>
+        <NN>
+          <interval/>
+        </NN>
+      </NP>
+      <PP>
+        <IN>
+          <for/>
+        </IN>
+        <NP>
+          <DT>
+            <the/>
+          </DT>
+          <JJ>
+            <associated/>
+          </JJ>
+          <NN>
+            <item/>
+          </NN>
+        </NP>
+      </PP>
+    </NP>
+  </NP>
+</ROOT>
+root(ROOT-0, Select-1)
+det(interval-3, the-2)
+dep(Select-1, interval-3)
+det(item-7, the-5)
+amod(item-7, associated-6)
+prep_for(interval-3, item-7)
+

@@ -1,0 +1,36 @@
+<ROOT>
+  <S>
+    <VP>
+      <VB>
+        <Save/>
+      </VB>
+      <NP>
+        <NN>
+          <connection/>
+        </NN>
+        <NNS>
+          <settings/>
+        </NNS>
+      </NP>
+      <PP>
+        <IN>
+          <for/>
+        </IN>
+        <NP>
+          <JJ>
+            <multiple/>
+          </JJ>
+          <NNS>
+            <directories/>
+          </NNS>
+        </NP>
+      </PP>
+    </VP>
+  </S>
+</ROOT>
+root(ROOT-0, Save-1)
+nn(settings-3, connection-2)
+dobj(Save-1, settings-3)
+amod(directories-6, multiple-5)
+prep_for(Save-1, directories-6)
+

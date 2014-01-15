@@ -1,0 +1,35 @@
+<ROOT>
+  <S>
+    <NP>
+      <NNP>
+        <Viber/>
+      </NNP>
+    </NP>
+    <VP>
+      <VBZ>
+        <is/>
+      </VBZ>
+      <ADJP>
+        <RB>
+          <completely/>
+        </RB>
+        <JJ>
+          <free/>
+        </JJ>
+        <PP>
+          <IN>
+            <with/>
+          </IN>
+          <NP>
+            <DT>
+              <no/>
+            </DT>
+            <NN>
+              <advertising/>
+            </NN>
+          </NP>
+        </PP>
+      </ADJP>
+    </VP>
+  </S>
+</ROOT>

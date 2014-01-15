@@ -1,0 +1,28 @@
+<ROOT>
+  <S>
+    <VP>
+      <VB>
+        <Watch/>
+      </VB>
+      <CC>
+        <and/>
+      </CC>
+      <VB>
+        <monitor/>
+      </VB>
+      <NP>
+        <NN>
+          <anything/>
+        </NN>
+        <NNS>
+          <remotely/>
+        </NNS>
+      </NP>
+    </VP>
+  </S>
+</ROOT>
+root(ROOT-0, Watch-1)
+conj_and(Watch-1, monitor-3)
+nn(remotely-5, anything-4)
+dobj(Watch-1, remotely-5)
+

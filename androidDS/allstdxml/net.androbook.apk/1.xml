@@ -1,0 +1,26 @@
+<ROOT>
+  <NP>
+    <NP>
+      <NNS>
+        <THANKS/>
+      </NNS>
+    </NP>
+    <PP>
+      <IN>
+        <FOR/>
+      </IN>
+      <NP>
+        <CD>
+          <1,000,000/>
+        </CD>
+        <NNS>
+          <DOWNLOADS/>
+        </NNS>
+      </NP>
+    </PP>
+  </NP>
+</ROOT>
+root(ROOT-0, THANKS-1)
+num(DOWNLOADS-4, 1,000,000-3)
+prep_for(THANKS-1, DOWNLOADS-4)
+

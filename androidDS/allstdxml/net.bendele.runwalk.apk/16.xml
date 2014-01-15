@@ -1,0 +1,46 @@
+<ROOT>
+  <S>
+    <NP>
+      <DT>
+        <The/>
+      </DT>
+      <NN>
+        <conversation/>
+      </NN>
+    </NP>
+    <VP>
+      <VBZ>
+        <is/>
+      </VBZ>
+      <RB>
+        <not/>
+      </RB>
+      <VP>
+        <VBN>
+          <interrupted/>
+        </VBN>
+        <PP>
+          <IN>
+            <in/>
+          </IN>
+          <NP>
+            <DT>
+              <any/>
+            </DT>
+            <NN>
+              <way/>
+            </NN>
+          </NP>
+        </PP>
+      </VP>
+    </VP>
+  </S>
+</ROOT>
+det(conversation-2, The-1)
+nsubjpass(interrupted-5, conversation-2)
+auxpass(interrupted-5, is-3)
+neg(interrupted-5, not-4)
+root(ROOT-0, interrupted-5)
+det(way-8, any-7)
+prep_in(interrupted-5, way-8)
+

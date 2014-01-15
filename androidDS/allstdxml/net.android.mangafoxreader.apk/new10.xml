@@ -1,0 +1,26 @@
+<ROOT>
+  <VP>
+    <VBN>
+      <Download/>
+    </VBN>
+    <PP>
+      <IN>
+        <in/>
+      </IN>
+      <NP>
+        <DT>
+          <the/>
+        </DT>
+        <NN>
+          <background/>
+        </NN>
+        <NN>
+          <while/>
+        </NN>
+        <NN>
+          <reading/>
+        </NN>
+      </NP>
+    </PP>
+  </VP>
+</ROOT>

@@ -1,0 +1,36 @@
+<ROOT>
+  <S>
+    <VP>
+      <VB>
+        <Personalize/>
+      </VB>
+      <NP>
+        <PRP>
+          <your/>
+        </PRP>
+        <NN>
+          <profile/>
+        </NN>
+      </NP>
+      <PP>
+        <IN>
+          <with/>
+        </IN>
+        <NP>
+          <NN>
+            <status/>
+          </NN>
+          <NNS>
+            <updates/>
+          </NNS>
+          <CC>
+            <and/>
+          </CC>
+          <NNS>
+            <photos/>
+          </NNS>
+        </NP>
+      </PP>
+    </VP>
+  </S>
+</ROOT>

@@ -1,0 +1,28 @@
+<ROOT>
+  <S>
+    <VP>
+      <VB>
+        <See/>
+      </VB>
+      <NP>
+        <NN>
+          <www.battlescribe.net/>
+        </NN>
+      </NP>
+      <PP>
+        <IN>
+          <for/>
+        </IN>
+        <NP>
+          <NNS>
+            <downloads/>
+          </NNS>
+        </NP>
+      </PP>
+    </VP>
+  </S>
+</ROOT>
+root(ROOT-0, See-1)
+dobj(See-1, www.battlescribe.net-2)
+prep_for(See-1, downloads-4)
+

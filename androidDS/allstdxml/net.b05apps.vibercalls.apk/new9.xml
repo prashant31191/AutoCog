@@ -1,0 +1,33 @@
+<ROOT>
+  <S>
+    <VP>
+      <VB>
+        <Make/>
+      </VB>
+      <NP>
+        <JJ>
+          <free/>
+        </JJ>
+        <NNS>
+          <calls/>
+        </NNS>
+      </NP>
+      <PP>
+        <IN>
+          <with/>
+        </IN>
+        <NP>
+          <NNP>
+            <HD/>
+          </NNP>
+          <JJ>
+            <sound/>
+          </JJ>
+          <NN>
+            <quality/>
+          </NN>
+        </NP>
+      </PP>
+    </VP>
+  </S>
+</ROOT>

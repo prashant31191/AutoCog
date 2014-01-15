@@ -1,0 +1,13 @@
+<ROOT>
+  <NP>
+    <NN>
+      <project/>
+    </NN>
+    <NN>
+      <list/>
+    </NN>
+  </NP>
+</ROOT>
+nn(list-2, project-1)
+root(ROOT-0, list-2)
+

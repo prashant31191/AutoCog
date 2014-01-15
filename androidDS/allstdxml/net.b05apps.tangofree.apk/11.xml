@@ -1,0 +1,25 @@
+<ROOT>
+  <S>
+    <VP>
+      <VB>
+        <Fun/>
+      </VB>
+      <S>
+        <VP>
+          <TO>
+            <to/>
+          </TO>
+          <VP>
+            <VB>
+              <use/>
+            </VB>
+          </VP>
+        </VP>
+      </S>
+    </VP>
+  </S>
+</ROOT>
+root(ROOT-0, Fun-1)
+aux(use-3, to-2)
+xcomp(Fun-1, use-3)
+

@@ -1,0 +1,17 @@
+<ROOT>
+  <NP>
+    <NNP>
+      <AWESOME/>
+    </NNP>
+    <NNP>
+      <GAMING/>
+    </NNP>
+    <NNP>
+      <MODES/>
+    </NNP>
+  </NP>
+</ROOT>
+nn(MODES-3, AWESOME-1)
+nn(MODES-3, GAMING-2)
+root(ROOT-0, MODES-3)
+

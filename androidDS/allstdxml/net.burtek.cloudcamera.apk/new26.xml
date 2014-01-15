@@ -1,0 +1,32 @@
+<ROOT>
+  <NP>
+    <NP>
+      <NNP>
+      </NNP>
+      <NNP>
+        <Wifi/>
+      </NNP>
+    </NP>
+    <NP>
+      <NP>
+        <NN>
+          <security/>
+        </NN>
+        <NN>
+          <camera/>
+        </NN>
+      </NP>
+      <CC>
+        <and/>
+      </CC>
+      <NP>
+        <CD>
+          <G/>
+        </CD>
+        <NN>
+          <connectivity/>
+        </NN>
+      </NP>
+    </NP>
+  </NP>
+</ROOT>

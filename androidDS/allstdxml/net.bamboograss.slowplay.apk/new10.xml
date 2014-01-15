@@ -1,0 +1,23 @@
+<ROOT>
+  <S>
+    <VP>
+      <VB>
+        <Compose/>
+      </VB>
+      <NP>
+        <JJ>
+          <audio/>
+        </JJ>
+        <JJ>
+          <XXXXX/>
+        </JJ>
+        <NN>
+          <video/>
+        </NN>
+        <NNS>
+          <tracks/>
+        </NNS>
+      </NP>
+    </VP>
+  </S>
+</ROOT>

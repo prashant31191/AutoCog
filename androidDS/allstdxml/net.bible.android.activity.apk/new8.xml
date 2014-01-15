@@ -1,0 +1,26 @@
+<ROOT>
+  <NP>
+    <NP>
+      <JJ>
+        <Extensive/>
+      </JJ>
+      <NN>
+        <dictionary/>
+      </NN>
+    </NP>
+    <CC>
+      <and/>
+    </CC>
+    <NP>
+      <JJ>
+        <Christian/>
+      </JJ>
+      <NN>
+        <book/>
+      </NN>
+      <NN>
+        <collection/>
+      </NN>
+    </NP>
+  </NP>
+</ROOT>

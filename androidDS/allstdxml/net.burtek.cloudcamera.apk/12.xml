@@ -1,0 +1,13 @@
+<ROOT>
+  <NP>
+    <NNP>
+      <FEATURES/>
+    </NNP>
+    <NNP>
+      <INCLUDE/>
+    </NNP>
+  </NP>
+</ROOT>
+nn(INCLUDE-2, FEATURES-1)
+root(ROOT-0, INCLUDE-2)
+

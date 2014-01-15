@@ -1,0 +1,38 @@
+<ROOT>
+  <S>
+    <ADVP>
+      <RB>
+        <Disable/>
+      </RB>
+    </ADVP>
+    <VP>
+      <VB>
+        <zoom/>
+      </VB>
+      <NP>
+        <NNS>
+          <buttons/>
+        </NNS>
+      </NP>
+      <PP>
+        <IN>
+          <with/>
+        </IN>
+        <NP>
+          <PRP$>
+            <your/>
+          </PRP$>
+          <NNS>
+            <preferences/>
+          </NNS>
+        </NP>
+      </PP>
+    </VP>
+  </S>
+</ROOT>
+advmod(zoom-2, Disable-1)
+root(ROOT-0, zoom-2)
+dobj(zoom-2, buttons-3)
+poss(preferences-6, your-5)
+prep_with(zoom-2, preferences-6)
+

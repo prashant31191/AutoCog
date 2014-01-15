@@ -1,0 +1,9 @@
+<ROOT>
+  <NP>
+    <NN>
+      <android.permission.INTERNET/>
+    </NN>
+  </NP>
+</ROOT>
+root(ROOT-0, android.permission.INTERNET-1)
+

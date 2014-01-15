@@ -1,0 +1,35 @@
+<ROOT>
+  <S>
+    <VP>
+      <VB>
+        <Cut/>
+      </VB>
+      <PRT>
+        <RP>
+          <out/>
+        </RP>
+      </PRT>
+      <NP>
+        <JJ>
+          <unnecessary/>
+        </JJ>
+        <NN>
+          <part/>
+        </NN>
+      </NP>
+      <PP>
+        <IN>
+          <from/>
+        </IN>
+        <NP>
+          <DT>
+            <a/>
+          </DT>
+          <NN>
+            <movie/>
+          </NN>
+        </NP>
+      </PP>
+    </VP>
+  </S>
+</ROOT>

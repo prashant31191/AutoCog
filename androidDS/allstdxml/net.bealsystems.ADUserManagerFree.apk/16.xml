@@ -1,0 +1,45 @@
+<ROOT>
+  <NP>
+    <NP>
+      <NNS>
+        <Supports/>
+      </NNS>
+    </NP>
+    <NP>
+      <NP>
+        <DT>
+          <all/>
+        </DT>
+        <JJ>
+          <current/>
+        </JJ>
+        <NNP>
+          <AD/>
+        </NNP>
+        <NNS>
+          <versions/>
+        </NNS>
+      </NP>
+      <CC>
+        <and/>
+      </CC>
+      <NP>
+        <JJ>
+          <functional/>
+        </JJ>
+        <NNS>
+          <modes/>
+        </NNS>
+      </NP>
+    </NP>
+  </NP>
+</ROOT>
+root(ROOT-0, Supports-1)
+det(versions-5, all-2)
+amod(versions-5, current-3)
+nn(versions-5, AD-4)
+dep(Supports-1, versions-5)
+amod(modes-8, functional-7)
+dep(Supports-1, modes-8)
+conj_and(versions-5, modes-8)
+

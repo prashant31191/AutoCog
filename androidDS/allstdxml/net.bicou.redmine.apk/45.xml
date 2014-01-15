@@ -1,0 +1,13 @@
+<ROOT>
+  <NP>
+    <NNP>
+      <ALPHA/>
+    </NNP>
+    <NNP>
+      <VERSION/>
+    </NNP>
+  </NP>
+</ROOT>
+nn(VERSION-2, ALPHA-1)
+root(ROOT-0, VERSION-2)
+

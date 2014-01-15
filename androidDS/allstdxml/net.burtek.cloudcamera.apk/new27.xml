@@ -1,0 +1,24 @@
+<ROOT>
+  <FRAG>
+    <ADVP>
+      <RB>
+      </RB>
+    </ADVP>
+    <PP>
+      <IN>
+        <In/>
+      </IN>
+      <NP>
+        <NN>
+          <app/>
+        </NN>
+        <NN>
+          <alarm/>
+        </NN>
+        <NNS>
+          <alerts/>
+        </NNS>
+      </NP>
+    </PP>
+  </FRAG>
+</ROOT>

@@ -1,0 +1,45 @@
+<ROOT>
+  <VP>
+    <VBN>
+      <Designed/>
+    </VBN>
+    <PP>
+      <IN>
+        <with/>
+      </IN>
+      <NP>
+        <NP>
+          <DT>
+            <the/>
+          </DT>
+          <JJ>
+            <Native/>
+          </JJ>
+          <NNP>
+            <Android/>
+          </NNP>
+          <NNP>
+            <UI/>
+          </NNP>
+        </NP>
+        <PP>
+          <IN>
+            <in/>
+          </IN>
+          <NP>
+            <NN>
+              <mind/>
+            </NN>
+          </NP>
+        </PP>
+      </NP>
+    </PP>
+  </VP>
+</ROOT>
+root(ROOT-0, Designed-1)
+det(UI-6, the-3)
+amod(UI-6, Native-4)
+nn(UI-6, Android-5)
+prep_with(Designed-1, UI-6)
+prep_in(UI-6, mind-8)
+

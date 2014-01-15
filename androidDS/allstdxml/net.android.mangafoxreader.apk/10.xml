@@ -1,0 +1,32 @@
+<ROOT>
+  <VP>
+    <VBN>
+      <Download/>
+    </VBN>
+    <PP>
+      <IN>
+        <in/>
+      </IN>
+      <NP>
+        <DT>
+          <the/>
+        </DT>
+        <NN>
+          <background/>
+        </NN>
+        <NN>
+          <while/>
+        </NN>
+        <NN>
+          <reading/>
+        </NN>
+      </NP>
+    </PP>
+  </VP>
+</ROOT>
+root(ROOT-0, Download-1)
+det(reading-6, the-3)
+nn(reading-6, background-4)
+nn(reading-6, while-5)
+prep_in(Download-1, reading-6)
+

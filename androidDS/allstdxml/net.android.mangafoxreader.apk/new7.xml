@@ -1,0 +1,28 @@
+<ROOT>
+  <S>
+    <VP>
+      <VB>
+        <Search/>
+      </VB>
+      <PP>
+        <IN>
+          <by/>
+        </IN>
+        <NP>
+          <NN>
+            <title/>
+          </NN>
+          <CC>
+            <or/>
+          </CC>
+          <VBN>
+            <advanced/>
+          </VBN>
+          <NN>
+            <search/>
+          </NN>
+        </NP>
+      </PP>
+    </VP>
+  </S>
+</ROOT>

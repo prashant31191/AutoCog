@@ -1,0 +1,37 @@
+<ROOT>
+  <S>
+    <NP>
+      <NNP>
+        <StatusbarXXXXXSoundXXXXXVibration/>
+      </NNP>
+      <NNP>
+        <XXXXX/>
+      </NNP>
+    </NP>
+    <VP>
+      <VBP>
+        <LED/>
+      </VBP>
+      <NP>
+        <NP>
+          <NNS>
+            <notifications/>
+          </NNS>
+        </NP>
+        <PP>
+          <IN>
+            <on/>
+          </IN>
+          <NP>
+            <JJ>
+              <new/>
+            </JJ>
+            <NNS>
+              <messages/>
+            </NNS>
+          </NP>
+        </PP>
+      </NP>
+    </VP>
+  </S>
+</ROOT>

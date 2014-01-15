@@ -1,0 +1,32 @@
+<ROOT>
+  <FRAG>
+    <NP>
+      <NNP>
+        <Totally/>
+      </NNP>
+    </NP>
+    <NP>
+      <NP>
+        <JJ>
+          <free/>
+        </JJ>
+      </NP>
+      <NP>
+        <DT>
+          <no/>
+        </DT>
+        <NNS>
+          <ads/>
+        </NNS>
+      </NP>
+      <NP>
+        <DT>
+          <no/>
+        </DT>
+        <NNS>
+          <e-mails/>
+        </NNS>
+      </NP>
+    </NP>
+  </FRAG>
+</ROOT>

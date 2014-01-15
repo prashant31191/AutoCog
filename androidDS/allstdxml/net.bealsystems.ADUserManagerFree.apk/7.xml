@@ -1,0 +1,24 @@
+<ROOT>
+  <NP>
+    <NP>
+      <NNP>
+        <Enable/>
+      </NNP>
+    </NP>
+    <CC>
+      <or/>
+    </CC>
+    <NP>
+      <JJ>
+        <Disable/>
+      </JJ>
+      <NNS>
+        <users/>
+      </NNS>
+    </NP>
+  </NP>
+</ROOT>
+root(ROOT-0, Enable-1)
+amod(users-4, Disable-3)
+conj_or(Enable-1, users-4)
+

@@ -1,0 +1,38 @@
+<ROOT>
+  <S>
+    <NP>
+      <DT>
+        <This/>
+      </DT>
+      <NN>
+        <app/>
+      </NN>
+    </NP>
+    <VP>
+      <VBZ>
+        <is/>
+      </VBZ>
+      <VP>
+        <VBN>
+          <supported/>
+        </VBN>
+        <PP>
+          <IN>
+            <via/>
+          </IN>
+          <NP>
+            <NN>
+              <search/>
+            </NN>
+          </NP>
+        </PP>
+      </VP>
+    </VP>
+  </S>
+</ROOT>
+det(app-2, This-1)
+nsubjpass(supported-4, app-2)
+auxpass(supported-4, is-3)
+root(ROOT-0, supported-4)
+prep_via(supported-4, search-6)
+

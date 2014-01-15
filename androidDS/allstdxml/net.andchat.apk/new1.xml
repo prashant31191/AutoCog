@@ -1,0 +1,29 @@
+<ROOT>
+  <NP>
+    <NP>
+      <NN>
+        <Contact/>
+      </NN>
+    </NP>
+    <NP>
+      <NP>
+        <PRP>
+          <me/>
+        </PRP>
+      </NP>
+      <PP>
+        <IN>
+          <for/>
+        </IN>
+        <NP>
+          <DT>
+            <any/>
+          </DT>
+          <NNS>
+            <problems/>
+          </NNS>
+        </NP>
+      </PP>
+    </NP>
+  </NP>
+</ROOT>

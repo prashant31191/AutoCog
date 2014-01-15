@@ -1,0 +1,28 @@
+<ROOT>
+  <X>
+    <ADVP>
+      <RB>
+        <Only/>
+      </RB>
+      <PP>
+        <IN>
+          <on/>
+        </IN>
+        <NP>
+          <VBG>
+            <viewing/>
+          </VBG>
+          <CC>
+            <and/>
+          </CC>
+          <VBG>
+            <uploading/>
+          </VBG>
+          <NNS>
+            <alarms/>
+          </NNS>
+        </NP>
+      </PP>
+    </ADVP>
+  </X>
+</ROOT>

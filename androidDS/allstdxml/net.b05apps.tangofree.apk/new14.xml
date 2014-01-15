@@ -1,0 +1,32 @@
+<ROOT>
+  <NP>
+    <NP>
+      <NNP>
+        <Group/>
+      </NNP>
+      <NNP>
+        <Chat/>
+      </NNP>
+    </NP>
+    <PP>
+      <IN>
+        <with/>
+      </IN>
+      <NP>
+        <QP>
+          <IN>
+            <up/>
+          </IN>
+          <TO>
+            <to/>
+          </TO>
+          <CD>
+          </CD>
+        </QP>
+        <NNS>
+          <friends/>
+        </NNS>
+      </NP>
+    </PP>
+  </NP>
+</ROOT>

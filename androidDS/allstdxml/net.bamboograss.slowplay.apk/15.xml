@@ -1,0 +1,26 @@
+<ROOT>
+  <NP>
+    <NP>
+      <JJ>
+        <Frame-By-Frame/>
+      </JJ>
+      <NN>
+        <operation/>
+      </NN>
+    </NP>
+    <PP>
+      <IN>
+        <by/>
+      </IN>
+      <NP>
+        <NNP>
+          <Dial/>
+        </NNP>
+      </NP>
+    </PP>
+  </NP>
+</ROOT>
+amod(operation-2, Frame-By-Frame-1)
+root(ROOT-0, operation-2)
+prep_by(operation-2, Dial-4)
+

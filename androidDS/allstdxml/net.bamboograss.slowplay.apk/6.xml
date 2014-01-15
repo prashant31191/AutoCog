@@ -1,0 +1,32 @@
+<ROOT>
+  <S>
+    <VP>
+      <VB>
+        <Save/>
+      </VB>
+      <NP>
+        <NN>
+          <snapshot/>
+        </NN>
+      </NP>
+      <PP>
+        <IN>
+          <as/>
+        </IN>
+        <NP>
+          <RB>
+            <still/>
+          </RB>
+          <NN>
+            <image/>
+          </NN>
+        </NP>
+      </PP>
+    </VP>
+  </S>
+</ROOT>
+root(ROOT-0, Save-1)
+dobj(Save-1, snapshot-2)
+advmod(image-5, still-4)
+prep_as(Save-1, image-5)
+

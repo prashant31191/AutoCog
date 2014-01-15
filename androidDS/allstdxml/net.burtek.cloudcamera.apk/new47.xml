@@ -1,0 +1,32 @@
+<ROOT>
+  <NP>
+    <NP>
+      <CD>
+      </CD>
+    </NP>
+    <NP>
+      <NP>
+        <NNP>
+          <Security/>
+        </NNP>
+        <NNP>
+          <Camera/>
+        </NNP>
+      </NP>
+      <CC>
+        <and/>
+      </CC>
+      <NP>
+        <JJ>
+          <Surveillance/>
+        </JJ>
+        <NN>
+          <app/>
+        </NN>
+        <NN>
+          <today/>
+        </NN>
+      </NP>
+    </NP>
+  </NP>
+</ROOT>

@@ -1,0 +1,22 @@
+<ROOT>
+  <NP>
+    <NP>
+      <NNP>
+      </NNP>
+      <NNP>
+        <Fast/>
+      </NNP>
+    </NP>
+    <CC>
+      <and/>
+    </CC>
+    <NP>
+      <JJ>
+        <simple/>
+      </JJ>
+      <NN>
+        <setup/>
+      </NN>
+    </NP>
+  </NP>
+</ROOT>

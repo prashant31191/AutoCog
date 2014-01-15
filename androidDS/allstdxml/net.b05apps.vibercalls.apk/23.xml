@@ -1,0 +1,27 @@
+<ROOT>
+  <S>
+    <NP>
+      <PRP>
+        <We/>
+      </PRP>
+    </NP>
+    <VP>
+      <VBP>
+        <value/>
+      </VBP>
+      <NP>
+        <PRP$>
+          <your/>
+        </PRP$>
+        <NN>
+          <privacy/>
+        </NN>
+      </NP>
+    </VP>
+  </S>
+</ROOT>
+nsubj(value-2, We-1)
+root(ROOT-0, value-2)
+poss(privacy-4, your-3)
+dobj(value-2, privacy-4)
+

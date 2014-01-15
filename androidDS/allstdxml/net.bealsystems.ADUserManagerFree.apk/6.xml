@@ -1,0 +1,17 @@
+<ROOT>
+  <NP>
+    <NNP>
+      <Undo/>
+    </NNP>
+    <NNP>
+      <Password/>
+    </NNP>
+    <NNPS>
+      <Lockouts/>
+    </NNPS>
+  </NP>
+</ROOT>
+nn(Lockouts-3, Undo-1)
+nn(Lockouts-3, Password-2)
+root(ROOT-0, Lockouts-3)
+

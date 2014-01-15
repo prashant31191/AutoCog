@@ -1,0 +1,26 @@
+<ROOT>
+  <NP>
+    <NP>
+      <NNP>
+        <Quick/>
+      </NNP>
+      <NN>
+        <channel/>
+      </NN>
+      <NN>
+        <switcher/>
+      </NN>
+    </NP>
+    <PRN>
+      <NP>
+        <NNP>
+          <Android/>
+        </NNP>
+        <NNP>
+        </NNP>
+        <NNP>
+        </NNP>
+      </NP>
+    </PRN>
+  </NP>
+</ROOT>

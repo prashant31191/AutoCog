@@ -1,0 +1,34 @@
+<ROOT>
+  <NP>
+    <NP>
+      <DT>
+        <The/>
+      </DT>
+      <JJS>
+        <best/>
+      </JJS>
+      <NN>
+        <client/>
+      </NN>
+    </NP>
+    <PP>
+      <TO>
+        <to/>
+      </TO>
+      <NP>
+        <DT>
+          <any/>
+        </DT>
+        <JJ>
+          <REST-enabled/>
+        </JJ>
+        <NNP>
+          <Redmine/>
+        </NNP>
+        <NN>
+          <server/>
+        </NN>
+      </NP>
+    </PP>
+  </NP>
+</ROOT>

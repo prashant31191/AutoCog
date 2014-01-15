@@ -1,0 +1,33 @@
+<ROOT>
+  <S>
+    <NP>
+      <PRP>
+        <You/>
+      </PRP>
+    </NP>
+    <VP>
+      <MD>
+        <can/>
+      </MD>
+      <VP>
+        <VB>
+          <call/>
+        </VB>
+        <NP>
+          <NN>
+            <taxi/>
+          </NN>
+          <NNS>
+            <companies/>
+          </NNS>
+        </NP>
+      </VP>
+    </VP>
+  </S>
+</ROOT>
+nsubj(call-3, You-1)
+aux(call-3, can-2)
+root(ROOT-0, call-3)
+nn(companies-5, taxi-4)
+dobj(call-3, companies-5)
+

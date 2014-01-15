@@ -1,0 +1,22 @@
+<ROOT>
+  <S>
+    <NP>
+      <DT>
+        <The/>
+      </DT>
+      <NN>
+        <application/>
+      </NN>
+    </NP>
+    <VP>
+      <VBZ>
+        <is/>
+      </VBZ>
+      <ADJP>
+        <JJ>
+          <configurable/>
+        </JJ>
+      </ADJP>
+    </VP>
+  </S>
+</ROOT>

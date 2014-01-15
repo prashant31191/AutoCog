@@ -1,0 +1,32 @@
+<ROOT>
+  <NP>
+    <NP>
+      <NNP>
+        <Timed/>
+      </NNP>
+      <NNP>
+        <Challenge/>
+      </NNP>
+    </NP>
+    <CC>
+      <and/>
+    </CC>
+    <NP>
+      <NNP>
+        <SUPER/>
+      </NNP>
+      <NNP>
+        <BLITZ/>
+      </NNP>
+      <NNP>
+        <MODE/>
+      </NNP>
+    </NP>
+  </NP>
+</ROOT>
+nn(Challenge-2, Timed-1)
+root(ROOT-0, Challenge-2)
+nn(MODE-6, SUPER-4)
+nn(MODE-6, BLITZ-5)
+conj_and(Challenge-2, MODE-6)
+

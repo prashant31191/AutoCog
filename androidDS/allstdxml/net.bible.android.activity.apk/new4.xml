@@ -1,0 +1,35 @@
+<ROOT>
+  <NP>
+    <NP>
+      <NNP>
+        <Chinese/>
+      </NNP>
+    </NP>
+    <NP>
+      <NNP>
+        <Russian/>
+      </NNP>
+      <NNP>
+        <German/>
+      </NNP>
+      <NNP>
+        <French/>
+      </NNP>
+      <NNP>
+        <Hungarian/>
+      </NNP>
+      <NNP>
+        <Czech/>
+      </NNP>
+      <NNP>
+        <Polish/>
+      </NNP>
+      <NNP>
+        <Hebrew/>
+      </NNP>
+      <NNP>
+        <Hindi/>
+      </NNP>
+    </NP>
+  </NP>
+</ROOT>

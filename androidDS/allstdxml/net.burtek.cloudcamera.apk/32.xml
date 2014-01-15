@@ -1,0 +1,23 @@
+<ROOT>
+  <FRAG>
+    <NP>
+      <NNP>
+        <+/>
+      </NNP>
+      <NNP>
+        <Low/>
+      </NNP>
+      <NN>
+        <bandwidth/>
+      </NN>
+      <NN>
+        <consumption/>
+      </NN>
+    </NP>
+  </FRAG>
+</ROOT>
+nn(consumption-4, +-1)
+nn(consumption-4, Low-2)
+nn(consumption-4, bandwidth-3)
+root(ROOT-0, consumption-4)
+

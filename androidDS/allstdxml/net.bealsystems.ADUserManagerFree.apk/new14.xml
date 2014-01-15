@@ -1,0 +1,25 @@
+<ROOT>
+  <S>
+    <NP>
+      <NN>
+        <Simple/>
+      </NN>
+    </NP>
+    <VP>
+      <VBP>
+        <find/>
+      </VBP>
+      <NP>
+        <JJ>
+          <only/>
+        </JJ>
+        <NNP>
+          <Locked/>
+        </NNP>
+        <NNS>
+          <users/>
+        </NNS>
+      </NP>
+    </VP>
+  </S>
+</ROOT>

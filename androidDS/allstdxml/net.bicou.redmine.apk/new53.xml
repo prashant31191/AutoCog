@@ -1,0 +1,27 @@
+<ROOT>
+  <VP>
+    <VBN>
+      <required/>
+    </VBN>
+    <S>
+      <VP>
+        <TO>
+          <to/>
+        </TO>
+        <VP>
+          <VB>
+            <access/>
+          </VB>
+          <NP>
+            <PRP>
+              <your/>
+            </PRP>
+            <NN>
+              <server/>
+            </NN>
+          </NP>
+        </VP>
+      </VP>
+    </S>
+  </VP>
+</ROOT>

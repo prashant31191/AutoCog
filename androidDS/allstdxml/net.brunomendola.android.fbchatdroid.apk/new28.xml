@@ -1,0 +1,34 @@
+<ROOT>
+  <S>
+    <NP>
+      <NNS>
+        <THIS/>
+      </NNS>
+    </NP>
+    <VP>
+      <VBZ>
+        <IS/>
+      </VBZ>
+      <NP>
+        <DT>
+          <THE/>
+        </DT>
+        <NNP>
+          <APP/>
+        </NNP>
+        <NNP>
+          <FORMERLY/>
+        </NNP>
+        <NNP>
+          <KNOWN/>
+        </NNP>
+        <IN>
+          <AS/>
+        </IN>
+        <NNP>
+          <FBChatDroid/>
+        </NNP>
+      </NP>
+    </VP>
+  </S>
+</ROOT>

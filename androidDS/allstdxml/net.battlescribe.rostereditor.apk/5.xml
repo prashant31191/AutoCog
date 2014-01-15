@@ -1,0 +1,45 @@
+<ROOT>
+  <ADJP>
+    <RB>
+      <Fully/>
+    </RB>
+    <JJ>
+      <compatible/>
+    </JJ>
+    <PP>
+      <IN>
+        <with/>
+      </IN>
+      <NP>
+        <NP>
+          <DT>
+            <the/>
+          </DT>
+          <JJ>
+            <desktop/>
+          </JJ>
+          <NN>
+            <version/>
+          </NN>
+        </NP>
+        <PP>
+          <IN>
+            <of/>
+          </IN>
+          <NP>
+            <NNP>
+              <BattleScribe/>
+            </NNP>
+          </NP>
+        </PP>
+      </NP>
+    </PP>
+  </ADJP>
+</ROOT>
+advmod(compatible-2, Fully-1)
+root(ROOT-0, compatible-2)
+det(version-6, the-4)
+amod(version-6, desktop-5)
+prep_with(compatible-2, version-6)
+prep_of(version-6, BattleScribe-8)
+

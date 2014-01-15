@@ -1,0 +1,31 @@
+<ROOT>
+  <VP>
+    <VB>
+      <Explorer/>
+    </VB>
+    <``>
+      <`/>
+    </``>
+    <NP>
+      <NP>
+        <NNP>
+          <Tree/>
+        </NNP>
+        <NNP>
+          <Style/>
+        </NNP>
+        <POS>
+          <&apos;/>
+        </POS>
+      </NP>
+      <NN>
+        <view/>
+      </NN>
+    </NP>
+  </VP>
+</ROOT>
+root(ROOT-0, Explorer-1)
+nn(Style-4, Tree-3)
+poss(view-6, Style-4)
+dobj(Explorer-1, view-6)
+

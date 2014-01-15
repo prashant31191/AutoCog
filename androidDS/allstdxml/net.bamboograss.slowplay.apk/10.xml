@@ -1,0 +1,29 @@
+<ROOT>
+  <S>
+    <VP>
+      <VB>
+        <Compose/>
+      </VB>
+      <NP>
+        <JJ>
+          <audio/>
+        </JJ>
+        <JJ>
+          <\//>
+        </JJ>
+        <NN>
+          <video/>
+        </NN>
+        <NNS>
+          <tracks/>
+        </NNS>
+      </NP>
+    </VP>
+  </S>
+</ROOT>
+root(ROOT-0, Compose-1)
+amod(tracks-5, audio-2)
+amod(tracks-5, \/-3)
+nn(tracks-5, video-4)
+dobj(Compose-1, tracks-5)
+

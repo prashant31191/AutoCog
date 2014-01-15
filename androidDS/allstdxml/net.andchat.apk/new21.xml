@@ -1,0 +1,32 @@
+<ROOT>
+  <NP>
+    <NP>
+      <NNP>
+        <Nick/>
+      </NNP>
+    </NP>
+    <NP>
+      <NP>
+        <NN>
+          <highlight/>
+        </NN>
+        <NN>
+          <support/>
+        </NN>
+      </NP>
+      <PP>
+        <IN>
+          <for/>
+        </IN>
+        <NP>
+          <JJ>
+            <multiple/>
+          </JJ>
+          <NNS>
+            <nicknames/>
+          </NNS>
+        </NP>
+      </PP>
+    </NP>
+  </NP>
+</ROOT>

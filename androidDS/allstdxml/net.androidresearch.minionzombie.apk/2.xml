@@ -1,0 +1,46 @@
+<ROOT>
+  <S>
+    <NP>
+      <JJ>
+        <Cute/>
+      </JJ>
+      <NNS>
+        <minions/>
+      </NNS>
+    </NP>
+    <VP>
+      <VBP>
+        <are/>
+      </VBP>
+      <VP>
+        <VBG>
+          <working/>
+        </VBG>
+        <PP>
+          <IN>
+            <in/>
+          </IN>
+          <NP>
+            <DT>
+              <a/>
+            </DT>
+            <NN>
+              <banana/>
+            </NN>
+            <NN>
+              <factory/>
+            </NN>
+          </NP>
+        </PP>
+      </VP>
+    </VP>
+  </S>
+</ROOT>
+amod(minions-2, Cute-1)
+nsubj(working-4, minions-2)
+aux(working-4, are-3)
+root(ROOT-0, working-4)
+det(factory-8, a-6)
+nn(factory-8, banana-7)
+prep_in(working-4, factory-8)
+

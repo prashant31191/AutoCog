@@ -1,0 +1,30 @@
+<ROOT>
+  <NP>
+    <NP>
+      <JJ>
+        <Same/>
+      </JJ>
+      <NN>
+        <genre/>
+      </NN>
+    </NP>
+    <PP>
+      <IN>
+        <as/>
+      </IN>
+      <NP>
+        <NNP>
+          <Temple/>
+        </NNP>
+        <NNP>
+          <Run/>
+        </NNP>
+      </NP>
+    </PP>
+  </NP>
+</ROOT>
+amod(genre-2, Same-1)
+root(ROOT-0, genre-2)
+nn(Run-5, Temple-4)
+prep_as(genre-2, Run-5)
+

@@ -1,0 +1,29 @@
+<ROOT>
+  <VP>
+    <PRN>
+      <PP>
+        <IN>
+          <for/>
+        </IN>
+        <NP>
+          <PRP>
+            <your/>
+          </PRP>
+          <NN>
+            <wife/>
+          </NN>
+          <CC>
+            <or/>
+          </CC>
+          <NN>
+            <husband/>
+          </NN>
+          <NNS>
+          </NNS>
+        </NP>
+      </PP>
+    </PRN>
+    <VBN>
+    </VBN>
+  </VP>
+</ROOT>

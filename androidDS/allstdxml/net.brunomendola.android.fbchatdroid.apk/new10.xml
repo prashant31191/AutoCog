@@ -1,0 +1,27 @@
+<ROOT>
+  <S>
+    <NP>
+      <NNP>
+        <Automatic/>
+      </NNP>
+    </NP>
+    <VP>
+      <VBN>
+        <reconnection/>
+      </VBN>
+      <PP>
+        <IN>
+          <after/>
+        </IN>
+        <NP>
+          <NN>
+            <connection/>
+          </NN>
+          <NN>
+            <loss/>
+          </NN>
+        </NP>
+      </PP>
+    </VP>
+  </S>
+</ROOT>

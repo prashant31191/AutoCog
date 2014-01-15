@@ -1,0 +1,33 @@
+<ROOT>
+  <S>
+    <VP>
+      <VB>
+        <Edit/>
+      </VB>
+      <NP>
+        <PRP>
+          <your/>
+        </PRP>
+        <NNS>
+          <photos/>
+        </NNS>
+        <CC>
+          <and/>
+        </CC>
+        <NN>
+          <share/>
+        </NN>
+      </NP>
+      <PP>
+        <IN>
+          <with/>
+        </IN>
+        <NP>
+          <NNS>
+            <friends/>
+          </NNS>
+        </NP>
+      </PP>
+    </VP>
+  </S>
+</ROOT>

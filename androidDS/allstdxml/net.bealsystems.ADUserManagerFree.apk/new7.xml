@@ -1,0 +1,20 @@
+<ROOT>
+  <NP>
+    <NP>
+      <NNP>
+        <Enable/>
+      </NNP>
+    </NP>
+    <CC>
+      <or/>
+    </CC>
+    <NP>
+      <JJ>
+        <Disable/>
+      </JJ>
+      <NNS>
+        <users/>
+      </NNS>
+    </NP>
+  </NP>
+</ROOT>

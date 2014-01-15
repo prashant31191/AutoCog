@@ -1,0 +1,38 @@
+<ROOT>
+  <S>
+    <NP>
+      <NNP>
+        <Viber/>
+      </NNP>
+    </NP>
+    <VP>
+      <VBZ>
+        <is/>
+      </VBZ>
+      <ADJP>
+        <JJ>
+          <available/>
+        </JJ>
+        <PP>
+          <IN>
+            <for/>
+          </IN>
+          <NP>
+            <JJ>
+              <many/>
+            </JJ>
+            <NNS>
+              <smartphones/>
+            </NNS>
+          </NP>
+        </PP>
+      </ADJP>
+    </VP>
+  </S>
+</ROOT>
+nsubj(available-3, Viber-1)
+cop(available-3, is-2)
+root(ROOT-0, available-3)
+amod(smartphones-6, many-5)
+prep_for(available-3, smartphones-6)
+

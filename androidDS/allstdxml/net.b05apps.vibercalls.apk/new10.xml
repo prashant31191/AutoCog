@@ -1,0 +1,29 @@
+<ROOT>
+  <NP>
+    <NP>
+      <NNS>
+        <Groups/>
+      </NNS>
+    </NP>
+    <PP>
+      <IN>
+        <with/>
+      </IN>
+      <NP>
+        <QP>
+          <IN>
+            <up/>
+          </IN>
+          <TO>
+            <to/>
+          </TO>
+          <CD>
+          </CD>
+        </QP>
+        <NNS>
+          <participants/>
+        </NNS>
+      </NP>
+    </PP>
+  </NP>
+</ROOT>

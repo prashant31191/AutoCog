@@ -1,0 +1,13 @@
+<ROOT>
+  <NP>
+    <NN>
+      <Flick/>
+    </NN>
+    <NN>
+      <operation/>
+    </NN>
+  </NP>
+</ROOT>
+nn(operation-2, Flick-1)
+root(ROOT-0, operation-2)
+

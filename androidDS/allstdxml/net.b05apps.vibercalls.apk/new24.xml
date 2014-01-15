@@ -1,0 +1,30 @@
+<ROOT>
+  <S>
+    <VP>
+      <VB>
+        <Follow/>
+      </VB>
+      <NP>
+        <PRP>
+          <us/>
+        </PRP>
+      </NP>
+      <PP>
+        <IN>
+          <for/>
+        </IN>
+        <NP>
+          <NNS>
+            <updates/>
+          </NNS>
+          <CC>
+            <and/>
+          </CC>
+          <NN>
+            <news/>
+          </NN>
+        </NP>
+      </PP>
+    </VP>
+  </S>
+</ROOT>

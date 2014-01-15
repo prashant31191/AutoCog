@@ -1,0 +1,35 @@
+<ROOT>
+  <SINV>
+    <VP>
+      <VB>
+        <issue/>
+      </VB>
+      <NP>
+        <NN>
+          <addition/>
+        </NN>
+      </NP>
+    </VP>
+    <NP>
+      <CD>
+        <\//>
+      </CD>
+      <NN>
+        <modification/>
+      </NN>
+      <NN>
+        <\//>
+      </NN>
+      <NN>
+        <deletion/>
+      </NN>
+    </NP>
+  </SINV>
+</ROOT>
+root(ROOT-0, issue-1)
+dobj(issue-1, addition-2)
+num(deletion-6, \/-3)
+nn(deletion-6, modification-4)
+nn(deletion-6, \/-5)
+nsubj(issue-1, deletion-6)
+

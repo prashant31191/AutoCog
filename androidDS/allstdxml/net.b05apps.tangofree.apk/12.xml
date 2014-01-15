@@ -1,0 +1,44 @@
+<ROOT>
+  <S>
+    <VP>
+      <VB>
+        <Personalize/>
+      </VB>
+      <NP>
+        <PRP$>
+          <your/>
+        </PRP$>
+        <NN>
+          <profile/>
+        </NN>
+      </NP>
+      <PP>
+        <IN>
+          <with/>
+        </IN>
+        <NP>
+          <NN>
+            <status/>
+          </NN>
+          <NNS>
+            <updates/>
+          </NNS>
+          <CC>
+            <and/>
+          </CC>
+          <NNS>
+            <photos/>
+          </NNS>
+        </NP>
+      </PP>
+    </VP>
+  </S>
+</ROOT>
+root(ROOT-0, Personalize-1)
+poss(profile-3, your-2)
+dobj(Personalize-1, profile-3)
+nn(updates-6, status-5)
+prep_with(Personalize-1, updates-6)
+prep_with(Personalize-1, photos-8)
+conj_and(updates-6, photos-8)
+

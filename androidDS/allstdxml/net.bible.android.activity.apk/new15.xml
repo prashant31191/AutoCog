@@ -1,0 +1,25 @@
+<ROOT>
+  <NP>
+    <NP>
+      <NNS>
+        <Maps/>
+      </NNS>
+    </NP>
+    <PP>
+      <IN>
+        <of/>
+      </IN>
+      <NP>
+        <DT>
+          <the/>
+        </DT>
+        <JJ>
+          <bible/>
+        </JJ>
+        <NNS>
+          <lands/>
+        </NNS>
+      </NP>
+    </PP>
+  </NP>
+</ROOT>

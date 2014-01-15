@@ -1,0 +1,25 @@
+<ROOT>
+  <S>
+    <VP>
+      <VB>
+        <chineese/>
+      </VB>
+      <,>
+        <,/>
+      </,>
+      <VB>
+        <japanese/>
+      </VB>
+      <,>
+        <,/>
+      </,>
+      <VB>
+        <russian/>
+      </VB>
+    </VP>
+  </S>
+</ROOT>
+root(ROOT-0, chineese-1)
+dep(chineese-1, japanese-3)
+dep(chineese-1, russian-5)
+

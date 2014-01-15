@@ -1,0 +1,13 @@
+<ROOT>
+  <NP>
+    <JJ>
+      <Frame-By-Frame/>
+    </JJ>
+    <NN>
+      <playback/>
+    </NN>
+  </NP>
+</ROOT>
+amod(playback-2, Frame-By-Frame-1)
+root(ROOT-0, playback-2)
+

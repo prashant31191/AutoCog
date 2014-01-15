@@ -1,0 +1,42 @@
+<ROOT>
+  <S>
+    <NP>
+      <NNP>
+        <Viber/>
+      </NNP>
+    </NP>
+    <VP>
+      <VBZ>
+        <is/>
+      </VBZ>
+      <ADJP>
+        <RB>
+          <completely/>
+        </RB>
+        <JJ>
+          <free/>
+        </JJ>
+        <PP>
+          <IN>
+            <with/>
+          </IN>
+          <NP>
+            <DT>
+              <no/>
+            </DT>
+            <NN>
+              <advertising/>
+            </NN>
+          </NP>
+        </PP>
+      </ADJP>
+    </VP>
+  </S>
+</ROOT>
+nsubj(free-4, Viber-1)
+cop(free-4, is-2)
+advmod(free-4, completely-3)
+root(ROOT-0, free-4)
+det(advertising-7, no-6)
+prep_with(free-4, advertising-7)
+

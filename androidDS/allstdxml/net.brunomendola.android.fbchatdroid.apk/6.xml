@@ -1,0 +1,33 @@
+<ROOT>
+  <NP>
+    <NP>
+      <JJ>
+        <Clickable/>
+      </JJ>
+      <NNS>
+        <links/>
+      </NNS>
+    </NP>
+    <PP>
+      <IN>
+        <in/>
+      </IN>
+      <NP>
+        <NN>
+          <chat/>
+        </NN>
+        <NNS>
+          <messages/>
+        </NNS>
+      </NP>
+    </PP>
+    <:>
+      <;/>
+    </:>
+  </NP>
+</ROOT>
+amod(links-2, Clickable-1)
+root(ROOT-0, links-2)
+nn(messages-5, chat-4)
+prep_in(links-2, messages-5)
+

@@ -1,0 +1,20 @@
+<ROOT>
+  <VP>
+    <VBN>
+      <Designed/>
+    </VBN>
+    <PP>
+      <IN>
+        <for/>
+      </IN>
+      <NP>
+        <NNS>
+          <tablets/>
+        </NNS>
+      </NP>
+    </PP>
+  </VP>
+</ROOT>
+root(ROOT-0, Designed-1)
+prep_for(Designed-1, tablets-3)
+

@@ -1,0 +1,13 @@
+<ROOT>
+  <NP>
+    <NNP>
+      <UTF-8/>
+    </NNP>
+    <NNP>
+      <Detection/>
+    </NNP>
+  </NP>
+</ROOT>
+nn(Detection-2, UTF-8-1)
+root(ROOT-0, Detection-2)
+

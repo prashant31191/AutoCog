@@ -1,0 +1,20 @@
+<ROOT>
+  <S>
+    <VP>
+      <VB>
+        <display/>
+      </VB>
+      <NP>
+        <DT>
+          <a/>
+        </DT>
+        <NN>
+          <search/>
+        </NN>
+        <NN>
+          <form/>
+        </NN>
+      </NP>
+    </VP>
+  </S>
+</ROOT>

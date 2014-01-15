@@ -1,0 +1,30 @@
+<ROOT>
+  <SINV>
+    <VP>
+      <VBP>
+        <FREE/>
+      </VBP>
+      <NP>
+        <NNP>
+          <TODAY/>
+        </NNP>
+        <&apos;&apos;>
+          <&apos;&apos;/>
+        </&apos;&apos;>
+      </NP>
+    </VP>
+    <NP>
+      <NNP>
+        <Princess/>
+      </NNP>
+      <NNP>
+        <Castle/>
+      </NNP>
+    </NP>
+  </SINV>
+</ROOT>
+root(ROOT-0, FREE-1)
+tmod(FREE-1, TODAY-2)
+nn(Castle-5, Princess-4)
+nsubj(FREE-1, Castle-5)
+

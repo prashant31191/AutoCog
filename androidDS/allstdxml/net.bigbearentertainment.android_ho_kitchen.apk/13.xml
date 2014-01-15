@@ -1,0 +1,35 @@
+<ROOT>
+  <NP>
+    <NP>
+      <NNPS>
+        <HINTS/>
+      </NNPS>
+      <,>
+        <,/>
+      </,>
+      <NNP>
+        <TIMED/>
+      </NNP>
+      <NNPS>
+        <LEVELS/>
+      </NNPS>
+    </NP>
+    <,>
+      <,/>
+    </,>
+    <NP>
+      <NNP>
+        <HIGH/>
+      </NNP>
+      <NNP>
+        <SCORES/>
+      </NNP>
+    </NP>
+  </NP>
+</ROOT>
+nn(LEVELS-4, HINTS-1)
+dep(LEVELS-4, TIMED-3)
+root(ROOT-0, LEVELS-4)
+nn(SCORES-7, HIGH-6)
+appos(LEVELS-4, SCORES-7)
+

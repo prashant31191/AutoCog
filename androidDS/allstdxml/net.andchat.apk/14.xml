@@ -1,0 +1,13 @@
+<ROOT>
+  <NP>
+    <JJ>
+      <Multi-Server/>
+    </JJ>
+    <NN>
+      <support/>
+    </NN>
+  </NP>
+</ROOT>
+amod(support-2, Multi-Server-1)
+root(ROOT-0, support-2)
+

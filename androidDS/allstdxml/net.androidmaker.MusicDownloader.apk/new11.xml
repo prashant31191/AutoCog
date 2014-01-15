@@ -1,0 +1,22 @@
+<ROOT>
+  <NP>
+    <NP>
+      <NNP>
+        <Auto/>
+      </NNP>
+      <NNP>
+        <Pause/>
+      </NNP>
+    </NP>
+    <PP>
+      <IN>
+        <during/>
+      </IN>
+      <NP>
+        <NNP>
+          <inbound/>
+        </NNP>
+      </NP>
+    </PP>
+  </NP>
+</ROOT>

@@ -1,0 +1,20 @@
+<ROOT>
+  <NP>
+    <NP>
+      <``>
+        <`/>
+      </``>
+      <NNP>
+        <Princess/>
+      </NNP>
+    </NP>
+    <NP>
+      <NNP>
+        <Castle/>
+      </NNP>
+    </NP>
+  </NP>
+</ROOT>
+root(ROOT-0, Princess-2)
+dep(Princess-2, Castle-3)
+

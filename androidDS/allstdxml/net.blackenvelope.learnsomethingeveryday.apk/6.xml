@@ -1,0 +1,38 @@
+<ROOT>
+  <NP>
+    <NP>
+      <NN>
+        <Concept/>
+      </NN>
+      <CC>
+        <and/>
+      </CC>
+      <NN>
+        <illustration/>
+      </NN>
+    </NP>
+    <PRN>
+      <-LRB->
+        <-LRB-/>
+      </-LRB->
+      <NP>
+        <NNP>
+          <C/>
+        </NNP>
+      </NP>
+      <-RRB->
+        <-RRB-/>
+      </-RRB->
+    </PRN>
+    <NP>
+      <NNP>
+        <Young/>
+      </NNP>
+    </NP>
+  </NP>
+</ROOT>
+root(ROOT-0, Concept-1)
+conj_and(Concept-1, illustration-3)
+appos(Concept-1, C-5)
+dep(Concept-1, Young-7)
+

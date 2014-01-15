@@ -1,0 +1,27 @@
+<ROOT>
+  <S>
+    <VP>
+      <VB>
+        <See/>
+      </VB>
+      <NP>
+        <JJ>
+          <full/>
+        </JJ>
+        <NNS>
+          <details/>
+        </NNS>
+      </NP>
+      <ADVP>
+        <RB>
+          <here/>
+        </RB>
+      </ADVP>
+    </VP>
+  </S>
+</ROOT>
+root(ROOT-0, See-1)
+amod(details-3, full-2)
+dobj(See-1, details-3)
+advmod(See-1, here-4)
+

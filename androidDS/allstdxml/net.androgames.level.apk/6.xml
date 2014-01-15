@@ -1,0 +1,22 @@
+<ROOT>
+  <S>
+    <VP>
+      <VB>
+        <Install/>
+      </VB>
+      <PP>
+        <IN>
+          <on/>
+        </IN>
+        <NP>
+          <NNP>
+            <SD/>
+          </NNP>
+        </NP>
+      </PP>
+    </VP>
+  </S>
+</ROOT>
+root(ROOT-0, Install-1)
+prep_on(Install-1, SD-3)
+

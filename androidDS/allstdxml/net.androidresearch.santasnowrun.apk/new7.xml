@@ -1,0 +1,25 @@
+<ROOT>
+  <NP>
+    <NP>
+      <JJ>
+        <Same/>
+      </JJ>
+      <NN>
+        <genre/>
+      </NN>
+    </NP>
+    <PP>
+      <IN>
+        <as/>
+      </IN>
+      <NP>
+        <NNP>
+          <Temple/>
+        </NNP>
+        <NNP>
+          <Run/>
+        </NNP>
+      </NP>
+    </PP>
+  </NP>
+</ROOT>

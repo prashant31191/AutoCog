@@ -1,0 +1,21 @@
+<ROOT>
+  <S>
+    <NP>
+      <NP>
+        <NNS>
+          <Materials/>
+        </NNS>
+      </NP>
+      <VP>
+        <VBN>
+          <supported/>
+        </VBN>
+      </VP>
+    </NP>
+    <VP>
+      <VBP>
+        <are/>
+      </VBP>
+    </VP>
+  </S>
+</ROOT>

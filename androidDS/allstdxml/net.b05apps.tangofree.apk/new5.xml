@@ -1,0 +1,20 @@
+<ROOT>
+  <NP>
+    <NP>
+      <DT>
+        <No/>
+      </DT>
+      <NN>
+        <login/>
+      </NN>
+    </NP>
+    <CC>
+      <and/>
+    </CC>
+    <NP>
+      <NN>
+        <password/>
+      </NN>
+    </NP>
+  </NP>
+</ROOT>

@@ -1,0 +1,25 @@
+<ROOT>
+  <S>
+    <VP>
+      <VB>
+        <Visit/>
+      </VB>
+      <NP>
+        <PRP$>
+          <our/>
+        </PRP$>
+        <NNP>
+          <Facebook/>
+        </NNP>
+        <NNP>
+          <Page/>
+        </NNP>
+      </NP>
+    </VP>
+  </S>
+</ROOT>
+root(ROOT-0, Visit-1)
+poss(Page-4, our-2)
+nn(Page-4, Facebook-3)
+dobj(Visit-1, Page-4)
+

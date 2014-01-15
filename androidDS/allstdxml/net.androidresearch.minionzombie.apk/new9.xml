@@ -1,0 +1,35 @@
+<ROOT>
+  <ADJP>
+    <RB>
+      <Destroy/>
+    </RB>
+    <SBAR>
+      <S>
+        <NP>
+          <PRP>
+            <it/>
+          </PRP>
+          <CC>
+            <and/>
+          </CC>
+          <PRP>
+            <you/>
+          </PRP>
+        </NP>
+        <VP>
+          <VBP>
+            <win/>
+          </VBP>
+          <NP>
+            <DT>
+              <the/>
+            </DT>
+            <NN>
+              <Level/>
+            </NN>
+          </NP>
+        </VP>
+      </S>
+    </SBAR>
+  </ADJP>
+</ROOT>

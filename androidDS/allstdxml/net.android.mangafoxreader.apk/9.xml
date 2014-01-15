@@ -1,0 +1,13 @@
+<ROOT>
+  <NP>
+    <NNP>
+      <Bookmark/>
+    </NNP>
+    <NNP>
+      <manga/>
+    </NNP>
+  </NP>
+</ROOT>
+nn(manga-2, Bookmark-1)
+root(ROOT-0, manga-2)
+

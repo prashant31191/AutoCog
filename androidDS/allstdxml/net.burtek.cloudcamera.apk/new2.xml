@@ -1,0 +1,23 @@
+<ROOT>
+  <S>
+    <VP>
+      <VB>
+        <Watch/>
+      </VB>
+      <CC>
+        <and/>
+      </CC>
+      <VB>
+        <monitor/>
+      </VB>
+      <NP>
+        <NN>
+          <anything/>
+        </NN>
+        <NNS>
+          <remotely/>
+        </NNS>
+      </NP>
+    </VP>
+  </S>
+</ROOT>

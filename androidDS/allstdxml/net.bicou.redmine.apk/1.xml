@@ -1,0 +1,42 @@
+<ROOT>
+  <NP>
+    <NP>
+      <DT>
+        <The/>
+      </DT>
+      <JJS>
+        <best/>
+      </JJS>
+      <NN>
+        <client/>
+      </NN>
+    </NP>
+    <PP>
+      <TO>
+        <to/>
+      </TO>
+      <NP>
+        <DT>
+          <any/>
+        </DT>
+        <JJ>
+          <REST-enabled/>
+        </JJ>
+        <NNP>
+          <Redmine/>
+        </NNP>
+        <NN>
+          <server/>
+        </NN>
+      </NP>
+    </PP>
+  </NP>
+</ROOT>
+det(client-3, The-1)
+amod(client-3, best-2)
+root(ROOT-0, client-3)
+det(server-8, any-5)
+amod(server-8, REST-enabled-6)
+nn(server-8, Redmine-7)
+prep_to(client-3, server-8)
+

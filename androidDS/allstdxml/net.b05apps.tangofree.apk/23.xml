@@ -1,0 +1,30 @@
+<ROOT>
+  <FRAG>
+    <NP>
+      <NP>
+        <JJ>
+          <Free/>
+        </JJ>
+        <NNS>
+          <calls/>
+        </NNS>
+        <CC>
+          <and/>
+        </CC>
+        <NNS>
+          <messages/>
+        </NNS>
+      </NP>
+      <ADVP>
+        <RB>
+          <internationally/>
+        </RB>
+      </ADVP>
+    </NP>
+  </FRAG>
+</ROOT>
+amod(calls-2, Free-1)
+root(ROOT-0, calls-2)
+conj_and(calls-2, messages-4)
+advmod(calls-2, internationally-5)
+

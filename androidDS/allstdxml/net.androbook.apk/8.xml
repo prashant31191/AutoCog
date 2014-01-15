@@ -1,0 +1,13 @@
+<ROOT>
+  <NP>
+    <NN>
+      <Bookshelf/>
+    </NN>
+    <NN>
+      <function/>
+    </NN>
+  </NP>
+</ROOT>
+nn(function-2, Bookshelf-1)
+root(ROOT-0, function-2)
+

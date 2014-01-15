@@ -1,0 +1,35 @@
+<ROOT>
+  <FRAG>
+    <NP>
+      <NN>
+        <Support/>
+      </NN>
+      <NN>
+        <pinch/>
+      </NN>
+    </NP>
+    <S>
+      <VP>
+        <TO>
+          <to/>
+        </TO>
+        <VP>
+          <VB>
+            <zoom/>
+          </VB>
+          <CC>
+            <and/>
+          </CC>
+          <VB>
+            <flinting/>
+          </VB>
+          <NP>
+            <NN>
+              <gesture/>
+            </NN>
+          </NP>
+        </VP>
+      </VP>
+    </S>
+  </FRAG>
+</ROOT>

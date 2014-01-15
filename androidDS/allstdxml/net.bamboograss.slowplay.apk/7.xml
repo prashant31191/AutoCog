@@ -1,0 +1,32 @@
+<ROOT>
+  <S>
+    <VP>
+      <VB>
+        <Make/>
+      </VB>
+      <NP>
+        <NN>
+          <clip/>
+        </NN>
+      </NP>
+      <PP>
+        <IN>
+          <from/>
+        </IN>
+        <NP>
+          <DT>
+            <a/>
+          </DT>
+          <NN>
+            <movie/>
+          </NN>
+        </NP>
+      </PP>
+    </VP>
+  </S>
+</ROOT>
+root(ROOT-0, Make-1)
+dobj(Make-1, clip-2)
+det(movie-5, a-4)
+prep_from(Make-1, movie-5)
+

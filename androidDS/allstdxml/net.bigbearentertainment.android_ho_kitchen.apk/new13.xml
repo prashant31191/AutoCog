@@ -1,0 +1,23 @@
+<ROOT>
+  <NP>
+    <NP>
+      <NNPS>
+        <HINTS/>
+      </NNPS>
+      <NNP>
+        <TIMED/>
+      </NNP>
+      <NNPS>
+        <LEVELS/>
+      </NNPS>
+    </NP>
+    <NP>
+      <NNP>
+        <HIGH/>
+      </NNP>
+      <NNP>
+        <SCORES/>
+      </NNP>
+    </NP>
+  </NP>
+</ROOT>

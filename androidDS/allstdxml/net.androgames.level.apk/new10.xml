@@ -1,0 +1,20 @@
+<ROOT>
+  <S>
+    <NP>
+      <DT>
+        <No/>
+      </DT>
+      <NN>
+        <Internet/>
+      </NN>
+      <NN>
+        <access/>
+      </NN>
+    </NP>
+    <VP>
+      <VBN>
+        <required/>
+      </VBN>
+    </VP>
+  </S>
+</ROOT>

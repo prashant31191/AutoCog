@@ -1,0 +1,35 @@
+<ROOT>
+  <S>
+    <NP>
+      <JJ>
+        <Several/>
+      </JJ>
+      <JJ>
+        <new/>
+      </JJ>
+      <NNS>
+        <features/>
+      </NNS>
+    </NP>
+    <VP>
+      <MD>
+        <will/>
+      </MD>
+      <VP>
+        <VB>
+          <be/>
+        </VB>
+        <VP>
+          <VBN>
+            <added/>
+          </VBN>
+          <ADVP>
+            <RB>
+              <shortly/>
+            </RB>
+          </ADVP>
+        </VP>
+      </VP>
+    </VP>
+  </S>
+</ROOT>

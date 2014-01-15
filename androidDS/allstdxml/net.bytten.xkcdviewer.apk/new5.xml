@@ -1,0 +1,32 @@
+<ROOT>
+  <NP>
+    <NP>
+      <NNP>
+        <Star/>
+      </NNP>
+    </NP>
+    <NP>
+      <NP>
+        <PRP>
+          <your/>
+        </PRP>
+        <NNS>
+          <favorites/>
+        </NNS>
+      </NP>
+      <PP>
+        <IN>
+          <for/>
+        </IN>
+        <NP>
+          <JJ>
+            <later/>
+          </JJ>
+          <NN>
+            <reading/>
+          </NN>
+        </NP>
+      </PP>
+    </NP>
+  </NP>
+</ROOT>

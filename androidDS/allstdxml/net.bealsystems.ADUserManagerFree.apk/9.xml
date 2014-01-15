@@ -1,0 +1,45 @@
+<ROOT>
+  <NP>
+    <NP>
+      <NNP>
+        <Adjust/>
+      </NNP>
+      <NNP>
+        <Group/>
+      </NNP>
+      <NNP>
+        <Membership/>
+      </NNP>
+    </NP>
+    <PRN>
+      <-LRB->
+        <-LRB-/>
+      </-LRB->
+      <NP>
+        <NP>
+          <NNS>
+            <members/>
+          </NNS>
+        </NP>
+        <CC>
+          <and/>
+        </CC>
+        <NP>
+          <NN>
+            <memberOf/>
+          </NN>
+        </NP>
+      </NP>
+      <-RRB->
+        <-RRB-/>
+      </-RRB->
+    </PRN>
+  </NP>
+</ROOT>
+nn(Membership-3, Adjust-1)
+nn(Membership-3, Group-2)
+root(ROOT-0, Membership-3)
+dep(Membership-3, members-5)
+dep(Membership-3, memberOf-7)
+conj_and(members-5, memberOf-7)
+

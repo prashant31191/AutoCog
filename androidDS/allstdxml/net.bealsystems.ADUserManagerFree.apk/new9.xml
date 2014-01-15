@@ -1,0 +1,32 @@
+<ROOT>
+  <NP>
+    <NP>
+      <NNP>
+        <Adjust/>
+      </NNP>
+      <NNP>
+        <Group/>
+      </NNP>
+      <NNP>
+        <Membership/>
+      </NNP>
+    </NP>
+    <PRN>
+      <NP>
+        <NP>
+          <NNS>
+            <members/>
+          </NNS>
+        </NP>
+        <CC>
+          <and/>
+        </CC>
+        <NP>
+          <NN>
+            <memberOf/>
+          </NN>
+        </NP>
+      </NP>
+    </PRN>
+  </NP>
+</ROOT>

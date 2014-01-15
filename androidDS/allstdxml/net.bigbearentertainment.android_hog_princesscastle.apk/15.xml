@@ -1,0 +1,21 @@
+<ROOT>
+  <NP>
+    <NNP>
+      <A/>
+    </NNP>
+    <NNP>
+      <Kid/>
+    </NNP>
+    <NNP>
+      <Friendly/>
+    </NNP>
+    <NNP>
+      <Mode/>
+    </NNP>
+  </NP>
+</ROOT>
+nn(Mode-4, A-1)
+nn(Mode-4, Kid-2)
+nn(Mode-4, Friendly-3)
+root(ROOT-0, Mode-4)
+

@@ -1,0 +1,41 @@
+<ROOT>
+  <NP>
+    <NP>
+      <NNP>
+        <+/>
+      </NNP>
+      <NNP>
+        <Wifi/>
+      </NNP>
+    </NP>
+    <NP>
+      <NP>
+        <NN>
+          <security/>
+        </NN>
+        <NN>
+          <camera/>
+        </NN>
+      </NP>
+      <CC>
+        <and/>
+      </CC>
+      <NP>
+        <CD>
+          <3G/>
+        </CD>
+        <NN>
+          <connectivity/>
+        </NN>
+      </NP>
+    </NP>
+  </NP>
+</ROOT>
+nn(Wifi-2, +-1)
+root(ROOT-0, Wifi-2)
+nn(camera-4, security-3)
+dep(Wifi-2, camera-4)
+num(connectivity-7, 3G-6)
+dep(Wifi-2, connectivity-7)
+conj_and(camera-4, connectivity-7)
+

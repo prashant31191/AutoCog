@@ -1,0 +1,25 @@
+<ROOT>
+  <S>
+    <NP>
+      <NP>
+        <NNS>
+          <Materials/>
+        </NNS>
+      </NP>
+      <VP>
+        <VBN>
+          <supported/>
+        </VBN>
+      </VP>
+    </NP>
+    <VP>
+      <VBP>
+        <are/>
+      </VBP>
+    </VP>
+  </S>
+</ROOT>
+nsubj(are-3, Materials-1)
+partmod(Materials-1, supported-2)
+root(ROOT-0, are-3)
+

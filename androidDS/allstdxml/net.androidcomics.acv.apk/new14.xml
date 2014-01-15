@@ -1,0 +1,20 @@
+<ROOT>
+  <NP>
+    <NP>
+      <NNP>
+        <FEATURE/>
+      </NNP>
+      <NNP>
+        <REQUESTS/>
+      </NNP>
+    </NP>
+    <CC>
+      <and/>
+    </CC>
+    <NP>
+      <NNP>
+        <SUPPORT/>
+      </NNP>
+    </NP>
+  </NP>
+</ROOT>

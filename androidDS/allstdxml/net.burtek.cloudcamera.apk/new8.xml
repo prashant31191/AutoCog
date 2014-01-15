@@ -1,0 +1,31 @@
+<ROOT>
+  <SINV>
+    <VP>
+      <VBD>
+        <Download/>
+      </VBD>
+      <NP>
+        <DT>
+          <the/>
+        </DT>
+        <NN>
+          <app/>
+        </NN>
+        <CC>
+          <and/>
+        </CC>
+        <NN>
+          <setup/>
+        </NN>
+      </NP>
+    </VP>
+    <NP>
+      <PRP>
+        <your/>
+      </PRP>
+      <NNS>
+        <devices/>
+      </NNS>
+    </NP>
+  </SINV>
+</ROOT>

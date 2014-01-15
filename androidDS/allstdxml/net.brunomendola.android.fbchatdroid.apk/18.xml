@@ -1,0 +1,9 @@
+<ROOT>
+  <NP>
+    <NN>
+      <android.permission.VIBRATE/>
+    </NN>
+  </NP>
+</ROOT>
+root(ROOT-0, android.permission.VIBRATE-1)
+

@@ -1,0 +1,26 @@
+<ROOT>
+  <NP>
+    <NP>
+      <NNP>
+        <Timed/>
+      </NNP>
+      <NNP>
+        <Challenge/>
+      </NNP>
+    </NP>
+    <CC>
+      <and/>
+    </CC>
+    <NP>
+      <NNP>
+        <SUPER/>
+      </NNP>
+      <NNP>
+        <BLITZ/>
+      </NNP>
+      <NNP>
+        <MODE/>
+      </NNP>
+    </NP>
+  </NP>
+</ROOT>

@@ -1,0 +1,44 @@
+<ROOT>
+  <S>
+    <NP>
+      <NNP>
+        <Change/>
+      </NNP>
+      <NN>
+        <movie/>
+      </NN>
+    </NP>
+    <VP>
+      <VBP>
+        <display/>
+      </VBP>
+      <NP>
+        <NN>
+          <size/>
+        </NN>
+      </NP>
+      <PP>
+        <IN>
+          <by/>
+        </IN>
+        <``>
+          <`/>
+        </``>
+        <NP>
+          <NNP>
+            <Pinch/>
+          </NNP>
+        </NP>
+        <&apos;&apos;>
+          <&apos;/>
+        </&apos;&apos;>
+      </PP>
+    </VP>
+  </S>
+</ROOT>
+nn(movie-2, Change-1)
+nsubj(display-3, movie-2)
+root(ROOT-0, display-3)
+dobj(display-3, size-4)
+prep_by(display-3, Pinch-7)
+

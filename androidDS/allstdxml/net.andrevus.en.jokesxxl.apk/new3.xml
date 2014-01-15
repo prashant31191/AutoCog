@@ -1,0 +1,36 @@
+<ROOT>
+  <NP>
+    <NP>
+      <NP>
+        <NNP>
+          <Send/>
+        </NNP>
+        <NNP>
+          <Jokes/>
+        </NNP>
+      </NP>
+      <PP>
+        <IN>
+          <via/>
+        </IN>
+        <NP>
+          <NP>
+            <NNP>
+              <SMS/>
+            </NNP>
+          </NP>
+          <NP>
+            <NN>
+              <E-mail/>
+            </NN>
+          </NP>
+        </NP>
+      </PP>
+    </NP>
+    <NP>
+      <NNP>
+        <Facebook/>
+      </NNP>
+    </NP>
+  </NP>
+</ROOT>

@@ -1,0 +1,27 @@
+<ROOT>
+  <NP>
+    <NP>
+      <NN>
+        <Concept/>
+      </NN>
+      <CC>
+        <and/>
+      </CC>
+      <NN>
+        <illustration/>
+      </NN>
+    </NP>
+    <PRN>
+      <NP>
+        <NNP>
+          <C/>
+        </NNP>
+      </NP>
+    </PRN>
+    <NP>
+      <NNP>
+        <Young/>
+      </NNP>
+    </NP>
+  </NP>
+</ROOT>

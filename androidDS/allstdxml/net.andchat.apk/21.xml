@@ -1,0 +1,38 @@
+<ROOT>
+  <NP>
+    <NP>
+      <NNP>
+        <Nick/>
+      </NNP>
+    </NP>
+    <NP>
+      <NP>
+        <NN>
+          <highlight/>
+        </NN>
+        <NN>
+          <support/>
+        </NN>
+      </NP>
+      <PP>
+        <IN>
+          <for/>
+        </IN>
+        <NP>
+          <JJ>
+            <multiple/>
+          </JJ>
+          <NNS>
+            <nicknames/>
+          </NNS>
+        </NP>
+      </PP>
+    </NP>
+  </NP>
+</ROOT>
+root(ROOT-0, Nick-1)
+nn(support-3, highlight-2)
+dep(Nick-1, support-3)
+amod(nicknames-6, multiple-5)
+prep_for(support-3, nicknames-6)
+

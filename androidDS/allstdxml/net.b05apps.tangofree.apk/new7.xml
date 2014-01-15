@@ -1,0 +1,34 @@
+<ROOT>
+  <SINV>
+    <ADVP>
+      <RB>
+        <Automatically/>
+      </RB>
+    </ADVP>
+    <VP>
+      <VBZ>
+        <finds/>
+      </VBZ>
+    </VP>
+    <NP>
+      <NP>
+        <PRP>
+          <your/>
+        </PRP>
+        <NNS>
+          <friends/>
+        </NNS>
+      </NP>
+      <VP>
+        <VBG>
+          <using/>
+        </VBG>
+        <NP>
+          <NNP>
+            <Tango/>
+          </NNP>
+        </NP>
+      </VP>
+    </NP>
+  </SINV>
+</ROOT>

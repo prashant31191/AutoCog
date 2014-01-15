@@ -1,0 +1,28 @@
+<ROOT>
+  <SINV>
+    <VP>
+      <VB>
+        <issue/>
+      </VB>
+      <NP>
+        <NN>
+          <addition/>
+        </NN>
+      </NP>
+    </VP>
+    <NP>
+      <CD>
+        <XXXXX/>
+      </CD>
+      <NN>
+        <modification/>
+      </NN>
+      <NN>
+        <XXXXX/>
+      </NN>
+      <NN>
+        <deletion/>
+      </NN>
+    </NP>
+  </SINV>
+</ROOT>

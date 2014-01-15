@@ -1,0 +1,34 @@
+<ROOT>
+  <NP>
+    <NP>
+      <NN>
+        <Contact/>
+      </NN>
+    </NP>
+    <NP>
+      <NP>
+        <PRP>
+          <me/>
+        </PRP>
+      </NP>
+      <PP>
+        <IN>
+          <for/>
+        </IN>
+        <NP>
+          <DT>
+            <any/>
+          </DT>
+          <NNS>
+            <problems/>
+          </NNS>
+        </NP>
+      </PP>
+    </NP>
+  </NP>
+</ROOT>
+root(ROOT-0, Contact-1)
+dep(Contact-1, me-2)
+det(problems-5, any-4)
+prep_for(me-2, problems-5)
+

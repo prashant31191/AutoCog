@@ -1,0 +1,30 @@
+<ROOT>
+  <NP>
+    <NP>
+      <NNS>
+        <Maps/>
+      </NNS>
+    </NP>
+    <PP>
+      <IN>
+        <of/>
+      </IN>
+      <NP>
+        <DT>
+          <the/>
+        </DT>
+        <JJ>
+          <bible/>
+        </JJ>
+        <NNS>
+          <lands/>
+        </NNS>
+      </NP>
+    </PP>
+  </NP>
+</ROOT>
+root(ROOT-0, Maps-1)
+det(lands-5, the-3)
+amod(lands-5, bible-4)
+prep_of(Maps-1, lands-5)
+

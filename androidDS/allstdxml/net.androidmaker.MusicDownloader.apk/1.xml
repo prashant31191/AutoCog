@@ -1,0 +1,47 @@
+<ROOT>
+  <S>
+    <NP>
+      <PRP>
+        <It/>
+      </PRP>
+    </NP>
+    <VP>
+      <VBZ>
+        <is/>
+      </VBZ>
+      <NP>
+        <DT>
+          <an/>
+        </DT>
+        <NN>
+          <app/>
+        </NN>
+        <S>
+          <VP>
+            <TO>
+              <to/>
+            </TO>
+            <VP>
+              <VB>
+                <download/>
+              </VB>
+              <NP>
+                <NN>
+                  <music/>
+                </NN>
+              </NP>
+            </VP>
+          </VP>
+        </S>
+      </NP>
+    </VP>
+  </S>
+</ROOT>
+nsubj(app-4, It-1)
+cop(app-4, is-2)
+det(app-4, an-3)
+root(ROOT-0, app-4)
+aux(download-6, to-5)
+infmod(app-4, download-6)
+dobj(download-6, music-7)
+

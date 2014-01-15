@@ -1,0 +1,34 @@
+<ROOT>
+  <S>
+    <VP>
+      <VB>
+        <Toggle/>
+      </VB>
+      <NP>
+        <DT>
+          <a/>
+        </DT>
+        <JJ>
+          <cool/>
+        </JJ>
+        <JJ>
+          <down/>
+        </JJ>
+        <NN>
+          <interval/>
+        </NN>
+      </NP>
+      <ADVP>
+        <RP>
+          <on/>
+        </RP>
+        <CC>
+          <or/>
+        </CC>
+        <RP>
+          <off/>
+        </RP>
+      </ADVP>
+    </VP>
+  </S>
+</ROOT>

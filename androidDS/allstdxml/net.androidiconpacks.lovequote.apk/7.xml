@@ -1,0 +1,31 @@
+<ROOT>
+  <S>
+    <VP>
+      <VB>
+        <Swipe/>
+      </VB>
+      <ADJP>
+        <JJ>
+          <left\/right/>
+        </JJ>
+        <S>
+          <VP>
+            <TO>
+              <to/>
+            </TO>
+            <VP>
+              <VB>
+                <navigate/>
+              </VB>
+            </VP>
+          </VP>
+        </S>
+      </ADJP>
+    </VP>
+  </S>
+</ROOT>
+root(ROOT-0, Swipe-1)
+acomp(Swipe-1, left\/right-2)
+aux(navigate-4, to-3)
+xcomp(left\/right-2, navigate-4)
+

@@ -1,0 +1,33 @@
+<ROOT>
+  <NP>
+    <NP>
+      <NN>
+        <Learn/>
+      </NN>
+      <NN>
+        <something/>
+      </NN>
+    </NP>
+    <NP>
+      <NP>
+        <JJ>
+          <new/>
+        </JJ>
+      </NP>
+      <NP>
+        <DT>
+          <every/>
+        </DT>
+        <NN>
+          <day/>
+        </NN>
+      </NP>
+    </NP>
+  </NP>
+</ROOT>
+nn(something-2, Learn-1)
+root(ROOT-0, something-2)
+dep(something-2, new-3)
+det(day-5, every-4)
+dep(new-3, day-5)
+

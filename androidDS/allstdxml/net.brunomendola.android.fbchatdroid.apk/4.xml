@@ -1,0 +1,42 @@
+<ROOT>
+  <SINV>
+    <VP>
+      <VBN>
+        <myChatDroid/>
+      </VBN>
+      <PP>
+        <IN>
+          <for/>
+        </IN>
+        <NP>
+          <NNP>
+            <Facebook/>
+          </NNP>
+        </NP>
+      </PP>
+    </VP>
+    <VP>
+      <VBZ>
+        <supports/>
+      </VBZ>
+    </VP>
+    <NP>
+      <DT>
+        <the/>
+      </DT>
+      <JJ>
+        <following/>
+      </JJ>
+      <NNS>
+        <features/>
+      </NNS>
+    </NP>
+  </SINV>
+</ROOT>
+root(ROOT-0, myChatDroid-1)
+prep_for(myChatDroid-1, Facebook-3)
+dep(myChatDroid-1, supports-4)
+det(features-7, the-5)
+amod(features-7, following-6)
+nsubj(myChatDroid-1, features-7)
+

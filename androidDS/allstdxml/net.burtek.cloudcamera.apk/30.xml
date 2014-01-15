@@ -1,0 +1,17 @@
+<ROOT>
+  <NP>
+    <NNP>
+      <+/>
+    </NNP>
+    <NNP>
+      <Cloud/>
+    </NNP>
+    <NNP>
+      <storage/>
+    </NNP>
+  </NP>
+</ROOT>
+nn(storage-3, +-1)
+nn(storage-3, Cloud-2)
+root(ROOT-0, storage-3)
+

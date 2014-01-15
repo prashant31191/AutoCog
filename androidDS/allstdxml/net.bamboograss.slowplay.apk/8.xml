@@ -1,0 +1,42 @@
+<ROOT>
+  <S>
+    <VP>
+      <VB>
+        <Cut/>
+      </VB>
+      <PRT>
+        <RP>
+          <out/>
+        </RP>
+      </PRT>
+      <NP>
+        <JJ>
+          <unnecessary/>
+        </JJ>
+        <NN>
+          <part/>
+        </NN>
+      </NP>
+      <PP>
+        <IN>
+          <from/>
+        </IN>
+        <NP>
+          <DT>
+            <a/>
+          </DT>
+          <NN>
+            <movie/>
+          </NN>
+        </NP>
+      </PP>
+    </VP>
+  </S>
+</ROOT>
+root(ROOT-0, Cut-1)
+prt(Cut-1, out-2)
+amod(part-4, unnecessary-3)
+dobj(Cut-1, part-4)
+det(movie-7, a-6)
+prep_from(Cut-1, movie-7)
+

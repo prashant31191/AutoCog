@@ -1,0 +1,24 @@
+<ROOT>
+  <NP>
+    <NP>
+      <NN>
+        <Left-to-right/>
+      </NN>
+    </NP>
+    <CC>
+      <or/>
+    </CC>
+    <NP>
+      <JJ>
+        <right-to-left/>
+      </JJ>
+      <NN>
+        <reading/>
+      </NN>
+    </NP>
+  </NP>
+</ROOT>
+root(ROOT-0, Left-to-right-1)
+amod(reading-4, right-to-left-3)
+conj_or(Left-to-right-1, reading-4)
+

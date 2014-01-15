@@ -1,0 +1,44 @@
+<ROOT>
+  <VP>
+    <VBN>
+      <Respond/>
+    </VBN>
+    <ADVP>
+      <RB>
+        <immediately/>
+      </RB>
+    </ADVP>
+    <PP>
+      <TO>
+        <to/>
+      </TO>
+      <NP>
+        <NP>
+          <NNS>
+            <messages/>
+          </NNS>
+        </NP>
+        <VP>
+          <VBG>
+            <using/>
+          </VBG>
+          <NP>
+            <JJ>
+              <quick/>
+            </JJ>
+            <NN>
+              <reply/>
+            </NN>
+          </NP>
+        </VP>
+      </NP>
+    </PP>
+  </VP>
+</ROOT>
+root(ROOT-0, Respond-1)
+advmod(Respond-1, immediately-2)
+prep_to(Respond-1, messages-4)
+partmod(messages-4, using-5)
+amod(reply-7, quick-6)
+dobj(using-5, reply-7)
+

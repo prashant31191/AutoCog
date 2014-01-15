@@ -1,0 +1,21 @@
+<ROOT>
+  <NP>
+    <JJ>
+      <Full/>
+    </JJ>
+    <NN>
+      <screen/>
+    </NN>
+    <NN>
+      <manga/>
+    </NN>
+    <NNS>
+      <viewer/>
+    </NNS>
+  </NP>
+</ROOT>
+amod(viewer-4, Full-1)
+nn(viewer-4, screen-2)
+nn(viewer-4, manga-3)
+root(ROOT-0, viewer-4)
+

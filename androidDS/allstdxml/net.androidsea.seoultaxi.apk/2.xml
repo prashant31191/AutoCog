@@ -1,0 +1,35 @@
+<ROOT>
+  <S>
+    <VP>
+      <VB>
+        <sign/>
+      </VB>
+      <S>
+        <VP>
+          <TO>
+            <to/>
+          </TO>
+          <VP>
+            <VB>
+              <Take/>
+            </VB>
+            <NP>
+              <DT>
+                <a/>
+              </DT>
+              <NN>
+                <Taxi/>
+              </NN>
+            </NP>
+          </VP>
+        </VP>
+      </S>
+    </VP>
+  </S>
+</ROOT>
+root(ROOT-0, sign-1)
+aux(Take-3, to-2)
+xcomp(sign-1, Take-3)
+det(Taxi-5, a-4)
+dobj(Take-3, Taxi-5)
+

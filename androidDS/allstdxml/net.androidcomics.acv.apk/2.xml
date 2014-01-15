@@ -1,0 +1,32 @@
+<ROOT>
+  <ADJP>
+    <RB>
+      <previously/>
+    </RB>
+    <VBN>
+      <known/>
+    </VBN>
+    <PP>
+      <IN>
+        <as/>
+      </IN>
+      <NP>
+        <NNP>
+          <Droid/>
+        </NNP>
+        <NNP>
+          <Comic/>
+        </NNP>
+        <NNP>
+          <Viewer/>
+        </NNP>
+      </NP>
+    </PP>
+  </ADJP>
+</ROOT>
+advmod(known-2, previously-1)
+root(ROOT-0, known-2)
+nn(Viewer-6, Droid-4)
+nn(Viewer-6, Comic-5)
+prep_as(known-2, Viewer-6)
+

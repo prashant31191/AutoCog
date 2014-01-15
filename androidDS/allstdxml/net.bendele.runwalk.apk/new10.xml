@@ -1,0 +1,33 @@
+<ROOT>
+  <S>
+    <VP>
+      <VB>
+        <Vibrate/>
+      </VB>
+      <NP>
+        <NP>
+          <DT>
+            <the/>
+          </DT>
+          <NN>
+            <phone/>
+          </NN>
+        </NP>
+        <PRN>
+          <SBAR>
+            <IN>
+              <if/>
+            </IN>
+            <S>
+              <VP>
+                <VBD>
+                  <selected/>
+                </VBD>
+              </VP>
+            </S>
+          </SBAR>
+        </PRN>
+      </NP>
+    </VP>
+  </S>
+</ROOT>

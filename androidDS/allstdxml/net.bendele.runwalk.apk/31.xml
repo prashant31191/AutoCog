@@ -1,0 +1,13 @@
+<ROOT>
+  <NP>
+    <JJ>
+      <Edit/>
+    </JJ>
+    <NNS>
+      <buttons/>
+    </NNS>
+  </NP>
+</ROOT>
+amod(buttons-2, Edit-1)
+root(ROOT-0, buttons-2)
+

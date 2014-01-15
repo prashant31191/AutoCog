@@ -1,0 +1,37 @@
+<ROOT>
+  <S>
+    <NP>
+      <PRP>
+        <You/>
+      </PRP>
+    </NP>
+    <VP>
+      <MD>
+        <can/>
+      </MD>
+      <VP>
+        <VB>
+          <calculte/>
+        </VB>
+        <NP>
+          <DT>
+            <a/>
+          </DT>
+          <NN>
+            <Taxi/>
+          </NN>
+          <NN>
+            <fare/>
+          </NN>
+        </NP>
+      </VP>
+    </VP>
+  </S>
+</ROOT>
+nsubj(calculte-3, You-1)
+aux(calculte-3, can-2)
+root(ROOT-0, calculte-3)
+det(fare-6, a-4)
+nn(fare-6, Taxi-5)
+dobj(calculte-3, fare-6)
+

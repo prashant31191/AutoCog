@@ -1,0 +1,20 @@
+<ROOT>
+  <VP>
+    <VBN>
+      <released/>
+    </VBN>
+    <PP>
+      <IN>
+        <by/>
+      </IN>
+      <NP>
+        <JJ>
+          <killed/>
+        </JJ>
+        <NNS>
+          <zombies/>
+        </NNS>
+      </NP>
+    </PP>
+  </VP>
+</ROOT>

@@ -1,0 +1,31 @@
+<ROOT>
+  <SINV>
+    <VP>
+      <VBP>
+        <EXPLORE/>
+      </VBP>
+      <NP>
+        <DT>
+          <A/>
+        </DT>
+        <NNS>
+          <MYSTERIOUS/>
+        </NNS>
+      </NP>
+    </VP>
+    <NP>
+      <NN>
+        <WORLD/>
+      </NN>
+      <NNP>
+        <BEYOND/>
+      </NNP>
+      <NNP>
+        <YOUR/>
+      </NNP>
+      <NNP>
+        <IMAGINATION/>
+      </NNP>
+    </NP>
+  </SINV>
+</ROOT>

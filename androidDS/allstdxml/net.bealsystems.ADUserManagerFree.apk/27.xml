@@ -1,0 +1,33 @@
+<ROOT>
+  <S>
+    <NP>
+      <JJ>
+        <Full/>
+      </JJ>
+      <NN>
+        <version/>
+      </NN>
+    </NP>
+    <VP>
+      <VBZ>
+        <is/>
+      </VBZ>
+      <ADJP>
+        <JJ>
+          <availiable/>
+        </JJ>
+      </ADJP>
+      <ADVP>
+        <RB>
+          <here/>
+        </RB>
+      </ADVP>
+    </VP>
+  </S>
+</ROOT>
+amod(version-2, Full-1)
+nsubj(availiable-4, version-2)
+cop(availiable-4, is-3)
+root(ROOT-0, availiable-4)
+advmod(availiable-4, here-5)
+

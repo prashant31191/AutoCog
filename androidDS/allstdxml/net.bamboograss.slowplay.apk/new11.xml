@@ -1,0 +1,32 @@
+<ROOT>
+  <S>
+    <NP>
+      <NNP>
+        <Change/>
+      </NNP>
+      <NN>
+        <movie/>
+      </NN>
+    </NP>
+    <VP>
+      <VBP>
+        <display/>
+      </VBP>
+      <NP>
+        <NN>
+          <size/>
+        </NN>
+      </NP>
+      <PP>
+        <IN>
+          <by/>
+        </IN>
+        <NP>
+          <NNP>
+            <Pinch/>
+          </NNP>
+        </NP>
+      </PP>
+    </VP>
+  </S>
+</ROOT>

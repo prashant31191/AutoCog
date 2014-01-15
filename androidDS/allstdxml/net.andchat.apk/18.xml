@@ -1,0 +1,13 @@
+<ROOT>
+  <NP>
+    <NNP>
+      <Chat/>
+    </NNP>
+    <NNPS>
+      <Logs/>
+    </NNPS>
+  </NP>
+</ROOT>
+nn(Logs-2, Chat-1)
+root(ROOT-0, Logs-2)
+

@@ -1,0 +1,46 @@
+<ROOT>
+  <VP>
+    <VB>
+      <improve/>
+    </VB>
+    <CC>
+      <or/>
+    </CC>
+    <VB>
+      <change/>
+    </VB>
+    <NP>
+      <DT>
+        <the/>
+      </DT>
+      <NN>
+        <code/>
+      </NN>
+    </NP>
+    <SBAR>
+      <IN>
+        <if/>
+      </IN>
+      <S>
+        <NP>
+          <PRP>
+            <you/>
+          </PRP>
+        </NP>
+        <VP>
+          <VBP>
+            <like/>
+          </VBP>
+        </VP>
+      </S>
+    </SBAR>
+  </VP>
+</ROOT>
+root(ROOT-0, improve-1)
+conj_or(improve-1, change-3)
+det(code-5, the-4)
+dobj(improve-1, code-5)
+mark(like-8, if-6)
+nsubj(like-8, you-7)
+advcl(improve-1, like-8)
+

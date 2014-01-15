@@ -1,0 +1,13 @@
+<ROOT>
+  <NP>
+    <JJ>
+      <Sound/>
+    </JJ>
+    <NNS>
+      <effects/>
+    </NNS>
+  </NP>
+</ROOT>
+amod(effects-2, Sound-1)
+root(ROOT-0, effects-2)
+

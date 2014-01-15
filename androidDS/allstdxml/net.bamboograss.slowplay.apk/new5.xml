@@ -1,0 +1,33 @@
+<ROOT>
+  <S>
+    <NP>
+      <NNP>
+        <Repetition/>
+      </NNP>
+    </NP>
+    <VP>
+      <VBP>
+        <playback/>
+      </VBP>
+      <PP>
+        <IN>
+          <between/>
+        </IN>
+        <NP>
+          <NN>
+            <start/>
+          </NN>
+          <CC>
+            <and/>
+          </CC>
+          <NN>
+            <stop/>
+          </NN>
+          <NN>
+            <marker/>
+          </NN>
+        </NP>
+      </PP>
+    </VP>
+  </S>
+</ROOT>

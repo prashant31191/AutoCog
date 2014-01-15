@@ -1,0 +1,25 @@
+<ROOT>
+  <NP>
+    <ADJP>
+      <NP>
+        <CD>
+          <3/>
+        </CD>
+        <NNS>
+          <GREAT/>
+        </NNS>
+      </NP>
+      <JJ>
+        <ADVENTURE/>
+      </JJ>
+    </ADJP>
+    <NNPS>
+      <STYLES/>
+    </NNPS>
+  </NP>
+</ROOT>
+num(GREAT-2, 3-1)
+npadvmod(ADVENTURE-3, GREAT-2)
+amod(STYLES-4, ADVENTURE-3)
+root(ROOT-0, STYLES-4)
+

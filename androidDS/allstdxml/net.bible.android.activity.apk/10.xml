@@ -1,0 +1,13 @@
+<ROOT>
+  <NP>
+    <JJ>
+      <Split/>
+    </JJ>
+    <NN>
+      <screen/>
+    </NN>
+  </NP>
+</ROOT>
+amod(screen-2, Split-1)
+root(ROOT-0, screen-2)
+

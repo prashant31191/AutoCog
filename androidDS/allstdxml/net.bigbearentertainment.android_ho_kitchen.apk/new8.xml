@@ -1,0 +1,30 @@
+<ROOT>
+  <NP>
+    <NP>
+      <CD>
+      </CD>
+    </NP>
+    <NP>
+      <NNP>
+        <DIFFERENT/>
+      </NNP>
+      <NNP>
+        <BUT/>
+      </NNP>
+      <NNP>
+        <EQUALLY/>
+      </NNP>
+    </NP>
+    <NP>
+      <NNP>
+        <FUN/>
+      </NNP>
+      <NNP>
+        <GAME/>
+      </NNP>
+      <NNP>
+        <MODES/>
+      </NNP>
+    </NP>
+  </NP>
+</ROOT>

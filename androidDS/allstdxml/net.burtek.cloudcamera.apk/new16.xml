@@ -1,0 +1,36 @@
+<ROOT>
+  <NP>
+    <NP>
+      <NNP>
+      </NNP>
+      <NNP>
+        <Supports/>
+      </NNP>
+    </NP>
+    <NP>
+      <JJ>
+        <full/>
+      </JJ>
+      <JJ>
+        <HD/>
+      </JJ>
+      <NN>
+        <video/>
+      </NN>
+      <NN>
+        <surveillance/>
+      </NN>
+    </NP>
+    <NP>
+      <NN>
+        <viewing/>
+      </NN>
+      <CC>
+        <and/>
+      </CC>
+      <NN>
+        <recording/>
+      </NN>
+    </NP>
+  </NP>
+</ROOT>

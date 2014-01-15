@@ -1,0 +1,20 @@
+<ROOT>
+  <NP>
+    <NP>
+      <NN>
+        <Left-to-right/>
+      </NN>
+    </NP>
+    <CC>
+      <or/>
+    </CC>
+    <NP>
+      <JJ>
+        <right-to-left/>
+      </JJ>
+      <NN>
+        <reading/>
+      </NN>
+    </NP>
+  </NP>
+</ROOT>

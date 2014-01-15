@@ -1,0 +1,40 @@
+<ROOT>
+  <S>
+    <NP>
+      <NNP>
+        <Repetition/>
+      </NNP>
+    </NP>
+    <VP>
+      <VBP>
+        <playback/>
+      </VBP>
+      <PP>
+        <IN>
+          <between/>
+        </IN>
+        <NP>
+          <NN>
+            <start/>
+          </NN>
+          <CC>
+            <and/>
+          </CC>
+          <NN>
+            <stop/>
+          </NN>
+          <NN>
+            <marker/>
+          </NN>
+        </NP>
+      </PP>
+    </VP>
+  </S>
+</ROOT>
+nsubj(playback-2, Repetition-1)
+root(ROOT-0, playback-2)
+nn(marker-7, start-4)
+conj_and(start-4, stop-6)
+nn(marker-7, stop-6)
+prep_between(playback-2, marker-7)
+

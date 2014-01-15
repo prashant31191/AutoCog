@@ -1,0 +1,13 @@
+<ROOT>
+  <NP>
+    <NNP>
+      <Traffic/>
+    </NNP>
+    <NNP>
+      <Information/>
+    </NNP>
+  </NP>
+</ROOT>
+nn(Information-2, Traffic-1)
+root(ROOT-0, Information-2)
+

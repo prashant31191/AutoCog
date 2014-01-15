@@ -1,0 +1,21 @@
+<ROOT>
+  <S>
+    <VP>
+      <VB>
+        <Fun/>
+      </VB>
+      <S>
+        <VP>
+          <TO>
+            <to/>
+          </TO>
+          <VP>
+            <VB>
+              <use/>
+            </VB>
+          </VP>
+        </VP>
+      </S>
+    </VP>
+  </S>
+</ROOT>

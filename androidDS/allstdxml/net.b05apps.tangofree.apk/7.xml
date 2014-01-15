@@ -1,0 +1,41 @@
+<ROOT>
+  <SINV>
+    <ADVP>
+      <RB>
+        <Automatically/>
+      </RB>
+    </ADVP>
+    <VP>
+      <VBZ>
+        <finds/>
+      </VBZ>
+    </VP>
+    <NP>
+      <NP>
+        <PRP$>
+          <your/>
+        </PRP$>
+        <NNS>
+          <friends/>
+        </NNS>
+      </NP>
+      <VP>
+        <VBG>
+          <using/>
+        </VBG>
+        <NP>
+          <NNP>
+            <Tango/>
+          </NNP>
+        </NP>
+      </VP>
+    </NP>
+  </SINV>
+</ROOT>
+advmod(finds-2, Automatically-1)
+root(ROOT-0, finds-2)
+poss(friends-4, your-3)
+nsubj(finds-2, friends-4)
+partmod(friends-4, using-5)
+dobj(using-5, Tango-6)
+

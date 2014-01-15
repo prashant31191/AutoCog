@@ -1,0 +1,20 @@
+<ROOT>
+  <S>
+    <VP>
+      <VB>
+        <Show/>
+      </VB>
+      <NP>
+        <NN>
+          <angle/>
+        </NN>
+        <CC>
+          <or/>
+        </CC>
+        <NN>
+          <inclination/>
+        </NN>
+      </NP>
+    </VP>
+  </S>
+</ROOT>

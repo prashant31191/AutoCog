@@ -1,0 +1,32 @@
+<ROOT>
+  <S>
+    <ADVP>
+      <RB>
+        <Disable/>
+      </RB>
+    </ADVP>
+    <VP>
+      <VB>
+        <zoom/>
+      </VB>
+      <NP>
+        <NNS>
+          <buttons/>
+        </NNS>
+      </NP>
+      <PP>
+        <IN>
+          <with/>
+        </IN>
+        <NP>
+          <PRP>
+            <your/>
+          </PRP>
+          <NNS>
+            <preferences/>
+          </NNS>
+        </NP>
+      </PP>
+    </VP>
+  </S>
+</ROOT>

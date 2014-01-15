@@ -1,0 +1,25 @@
+<ROOT>
+  <SINV>
+    <VP>
+      <VBZ>
+        <Sends/>
+      </VBZ>
+    </VP>
+    <NP>
+      <DT>
+        <a/>
+      </DT>
+      <NN>
+        <taxi/>
+      </NN>
+      <NN>
+        <sign/>
+      </NN>
+    </NP>
+  </SINV>
+</ROOT>
+root(ROOT-0, Sends-1)
+det(sign-4, a-2)
+nn(sign-4, taxi-3)
+nsubj(Sends-1, sign-4)
+

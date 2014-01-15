@@ -1,0 +1,35 @@
+<ROOT>
+  <NP>
+    <NP>
+      <NNS>
+        <Uses/>
+      </NNS>
+    </NP>
+    <NP>
+      <NP>
+        <DT>
+          <the/>
+        </DT>
+        <JJ>
+          <powerful/>
+        </JJ>
+        <NNP>
+          <JSword/>
+        </NNP>
+        <NN>
+          <engine/>
+        </NN>
+      </NP>
+      <PP>
+        <IN>
+          <from/>
+        </IN>
+        <NP>
+          <NNP>
+            <CrossWire/>
+          </NNP>
+        </NP>
+      </PP>
+    </NP>
+  </NP>
+</ROOT>

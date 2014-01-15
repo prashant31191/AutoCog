@@ -1,0 +1,25 @@
+<ROOT>
+  <S>
+    <VP>
+      <VB>
+        <Show/>
+      </VB>
+      <NP>
+        <NN>
+          <angle/>
+        </NN>
+        <CC>
+          <or/>
+        </CC>
+        <NN>
+          <inclination/>
+        </NN>
+      </NP>
+    </VP>
+  </S>
+</ROOT>
+root(ROOT-0, Show-1)
+dobj(Show-1, angle-2)
+dobj(Show-1, inclination-4)
+conj_or(angle-2, inclination-4)
+

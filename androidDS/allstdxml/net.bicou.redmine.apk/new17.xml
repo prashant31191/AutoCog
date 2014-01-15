@@ -1,0 +1,28 @@
+<ROOT>
+  <NP>
+    <NP>
+      <JJ>
+        <unlimited/>
+      </JJ>
+      <NN>
+        <number/>
+      </NN>
+    </NP>
+    <PP>
+      <IN>
+        <of/>
+      </IN>
+      <NP>
+        <NNS>
+          <servers/>
+        </NNS>
+        <CC>
+          <and/>
+        </CC>
+        <NNS>
+          <projects/>
+        </NNS>
+      </NP>
+    </PP>
+  </NP>
+</ROOT>

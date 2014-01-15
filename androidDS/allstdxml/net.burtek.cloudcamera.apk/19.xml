@@ -1,0 +1,33 @@
+<ROOT>
+  <SINV>
+    <VP>
+      <VBZ>
+        <+/>
+      </VBZ>
+    </VP>
+    <NP>
+      <NNP>
+        <Live/>
+      </NNP>
+      <JJ>
+        <remote/>
+      </JJ>
+      <NN>
+        <security/>
+      </NN>
+      <NN>
+        <camera/>
+      </NN>
+      <NN>
+        <viewing/>
+      </NN>
+    </NP>
+  </SINV>
+</ROOT>
+root(ROOT-0, +-1)
+nn(viewing-6, Live-2)
+amod(viewing-6, remote-3)
+nn(viewing-6, security-4)
+nn(viewing-6, camera-5)
+nsubj(+-1, viewing-6)
+

@@ -1,0 +1,21 @@
+<ROOT>
+  <S>
+    <VP>
+      <VBG>
+        <Taking/>
+      </VBG>
+      <NP>
+        <DT>
+          <a/>
+        </DT>
+        <NN>
+          <taxi/>
+        </NN>
+      </NP>
+    </VP>
+  </S>
+</ROOT>
+root(ROOT-0, Taking-1)
+det(taxi-3, a-2)
+dobj(Taking-1, taxi-3)
+

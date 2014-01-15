@@ -1,0 +1,21 @@
+<ROOT>
+  <NP>
+    <NP>
+      <NNS>
+        <Avoids/>
+      </NNS>
+    </NP>
+    <NP>
+      <JJ>
+        <false/>
+      </JJ>
+      <NNS>
+        <alarms/>
+      </NNS>
+    </NP>
+  </NP>
+</ROOT>
+root(ROOT-0, Avoids-1)
+amod(alarms-3, false-2)
+dep(Avoids-1, alarms-3)
+

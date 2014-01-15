@@ -1,0 +1,26 @@
+<ROOT>
+  <S>
+    <VP>
+      <VB>
+        <Text/>
+      </VB>
+      <PP>
+        <IN>
+          <with/>
+        </IN>
+        <NP>
+          <PRP$>
+            <your/>
+          </PRP$>
+          <NNS>
+            <friends/>
+          </NNS>
+        </NP>
+      </PP>
+    </VP>
+  </S>
+</ROOT>
+root(ROOT-0, Text-1)
+poss(friends-4, your-3)
+prep_with(Text-1, friends-4)
+

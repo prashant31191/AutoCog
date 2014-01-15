@@ -1,0 +1,22 @@
+<ROOT>
+  <FRAG>
+    <NP>
+      <DT>
+        <No/>
+      </DT>
+      <ADJP>
+        <JJ>
+          <technical/>
+        </JJ>
+      </ADJP>
+      <NN>
+        <knowledge/>
+      </NN>
+    </NP>
+    <ADJP>
+      <JJ>
+        <necessary/>
+      </JJ>
+    </ADJP>
+  </FRAG>
+</ROOT>

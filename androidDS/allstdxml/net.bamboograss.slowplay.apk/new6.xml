@@ -1,0 +1,27 @@
+<ROOT>
+  <S>
+    <VP>
+      <VB>
+        <Save/>
+      </VB>
+      <NP>
+        <NN>
+          <snapshot/>
+        </NN>
+      </NP>
+      <PP>
+        <IN>
+          <as/>
+        </IN>
+        <NP>
+          <RB>
+            <still/>
+          </RB>
+          <NN>
+            <image/>
+          </NN>
+        </NP>
+      </PP>
+    </VP>
+  </S>
+</ROOT>

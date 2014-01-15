@@ -1,0 +1,20 @@
+<ROOT>
+  <ADJP>
+    <JJ>
+      <Off-line/>
+    </JJ>
+    <PP>
+      <IN>
+        <after/>
+      </IN>
+      <NP>
+        <JJ>
+          <initial/>
+        </JJ>
+        <NN>
+          <download/>
+        </NN>
+      </NP>
+    </PP>
+  </ADJP>
+</ROOT>

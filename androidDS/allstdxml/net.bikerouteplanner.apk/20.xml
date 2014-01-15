@@ -1,0 +1,43 @@
+<ROOT>
+  <S>
+    <NP>
+      <JJ>
+        <Several/>
+      </JJ>
+      <JJ>
+        <new/>
+      </JJ>
+      <NNS>
+        <features/>
+      </NNS>
+    </NP>
+    <VP>
+      <MD>
+        <will/>
+      </MD>
+      <VP>
+        <VB>
+          <be/>
+        </VB>
+        <VP>
+          <VBN>
+            <added/>
+          </VBN>
+          <ADVP>
+            <RB>
+              <shortly/>
+            </RB>
+          </ADVP>
+        </VP>
+      </VP>
+    </VP>
+  </S>
+</ROOT>
+amod(features-3, Several-1)
+amod(features-3, new-2)
+nsubjpass(added-6, features-3)
+aux(added-6, will-4)
+auxpass(added-6, be-5)
+root(ROOT-0, added-6)
+advmod(added-6, shortly-7)
+

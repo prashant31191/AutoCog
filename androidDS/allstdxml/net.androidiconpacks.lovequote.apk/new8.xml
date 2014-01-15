@@ -1,0 +1,26 @@
+<ROOT>
+  <NP>
+    <NP>
+      <NNP>
+        <Mark/>
+      </NNP>
+    </NP>
+    <NP>
+      <NP>
+        <PRP>
+          <them/>
+        </PRP>
+      </NP>
+      <PP>
+        <IN>
+          <as/>
+        </IN>
+        <NP>
+          <NN>
+            <favorite/>
+          </NN>
+        </NP>
+      </PP>
+    </NP>
+  </NP>
+</ROOT>

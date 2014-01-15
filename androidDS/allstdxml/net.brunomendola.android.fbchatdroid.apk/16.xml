@@ -1,0 +1,17 @@
+<ROOT>
+  <NP>
+    <NNP>
+      <android.permission.WRITE/>
+    </NNP>
+    <NNP>
+      <_/>
+    </NNP>
+    <NNP>
+      <EXTERNAL_STORAGE/>
+    </NNP>
+  </NP>
+</ROOT>
+nn(EXTERNAL_STORAGE-3, android.permission.WRITE-1)
+nn(EXTERNAL_STORAGE-3, _-2)
+root(ROOT-0, EXTERNAL_STORAGE-3)
+

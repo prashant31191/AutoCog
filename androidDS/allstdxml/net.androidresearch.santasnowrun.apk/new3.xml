@@ -1,0 +1,29 @@
+<ROOT>
+  <S>
+    <NP>
+      <PRP>
+        <He/>
+      </PRP>
+    </NP>
+    <VP>
+      <VBZ>
+        <faces/>
+      </VBZ>
+      <NP>
+        <NP>
+          <JJ>
+            <many/>
+          </JJ>
+          <NNS>
+            <obstacles/>
+          </NNS>
+        </NP>
+        <NP>
+          <NN>
+            <eg/>
+          </NN>
+        </NP>
+      </NP>
+    </VP>
+  </S>
+</ROOT>

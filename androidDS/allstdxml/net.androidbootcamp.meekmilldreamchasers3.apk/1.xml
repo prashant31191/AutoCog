@@ -1,0 +1,13 @@
+<ROOT>
+  <NP>
+    <NNP>
+      <Meek/>
+    </NNP>
+    <NNP>
+      <Mill/>
+    </NNP>
+  </NP>
+</ROOT>
+nn(Mill-2, Meek-1)
+root(ROOT-0, Mill-2)
+

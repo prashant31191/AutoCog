@@ -1,0 +1,37 @@
+<ROOT>
+  <SBAR>
+    <IN>
+      <If/>
+    </IN>
+    <S>
+      <NP>
+        <DT>
+          <the/>
+        </DT>
+        <NN>
+          <sound/>
+        </NN>
+      </NP>
+      <VP>
+        <VBZ>
+          <does/>
+        </VBZ>
+        <NP>
+          <NNP>
+            <NOT/>
+          </NNP>
+          <NN>
+            <work/>
+          </NN>
+        </NP>
+      </VP>
+    </S>
+  </SBAR>
+</ROOT>
+mark(does-4, If-1)
+det(sound-3, the-2)
+nsubj(does-4, sound-3)
+root(ROOT-0, does-4)
+nn(work-6, NOT-5)
+dobj(does-4, work-6)
+

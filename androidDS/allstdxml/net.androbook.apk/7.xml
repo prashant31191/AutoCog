@@ -1,0 +1,43 @@
+<ROOT>
+  <FRAG>
+    <NP>
+      <NN>
+        <Support/>
+      </NN>
+      <NN>
+        <pinch/>
+      </NN>
+    </NP>
+    <S>
+      <VP>
+        <TO>
+          <to/>
+        </TO>
+        <VP>
+          <VB>
+            <zoom/>
+          </VB>
+          <CC>
+            <and/>
+          </CC>
+          <VB>
+            <flinting/>
+          </VB>
+          <NP>
+            <NN>
+              <gesture/>
+            </NN>
+          </NP>
+        </VP>
+      </VP>
+    </S>
+  </FRAG>
+</ROOT>
+nn(pinch-2, Support-1)
+root(ROOT-0, pinch-2)
+aux(zoom-4, to-3)
+dep(pinch-2, zoom-4)
+dep(pinch-2, flinting-6)
+conj_and(zoom-4, flinting-6)
+dobj(zoom-4, gesture-7)
+

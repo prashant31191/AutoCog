@@ -1,0 +1,32 @@
+<ROOT>
+  <S>
+    <NP>
+      <NNP>
+        <Viber/>
+      </NNP>
+    </NP>
+    <VP>
+      <VBZ>
+        <is/>
+      </VBZ>
+      <ADJP>
+        <JJ>
+          <available/>
+        </JJ>
+        <PP>
+          <IN>
+            <for/>
+          </IN>
+          <NP>
+            <JJ>
+              <many/>
+            </JJ>
+            <NNS>
+              <smartphones/>
+            </NNS>
+          </NP>
+        </PP>
+      </ADJP>
+    </VP>
+  </S>
+</ROOT>

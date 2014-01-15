@@ -1,0 +1,42 @@
+<ROOT>
+  <NP>
+    <NP>
+      <NNP>
+        <+/>
+      </NNP>
+      <NNP>
+        <Multiple/>
+      </NNP>
+    </NP>
+    <NP>
+      <NP>
+        <NN>
+          <camera/>
+        </NN>
+        <NN>
+          <support/>
+        </NN>
+      </NP>
+      <PP>
+        <IN>
+          <in/>
+        </IN>
+        <NP>
+          <JJ>
+            <multiple/>
+          </JJ>
+          <NNS>
+            <locations/>
+          </NNS>
+        </NP>
+      </PP>
+    </NP>
+  </NP>
+</ROOT>
+nn(Multiple-2, +-1)
+root(ROOT-0, Multiple-2)
+nn(support-4, camera-3)
+dep(Multiple-2, support-4)
+amod(locations-7, multiple-6)
+prep_in(support-4, locations-7)
+

@@ -1,0 +1,25 @@
+<ROOT>
+  <S>
+    <VP>
+      <VB>
+        <Unlock/>
+      </VB>
+      <NP>
+        <DT>
+          <the/>
+        </DT>
+        <JJ>
+          <full/>
+        </JJ>
+        <NN>
+          <adventure/>
+        </NN>
+      </NP>
+      <ADVP>
+        <RB>
+          <inside/>
+        </RB>
+      </ADVP>
+    </VP>
+  </S>
+</ROOT>

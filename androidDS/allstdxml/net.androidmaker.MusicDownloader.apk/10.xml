@@ -1,0 +1,9 @@
+<ROOT>
+  <NP>
+    <NNP>
+      <READ_PHONE_STATE/>
+    </NNP>
+  </NP>
+</ROOT>
+root(ROOT-0, READ_PHONE_STATE-1)
+

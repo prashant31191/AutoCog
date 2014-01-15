@@ -1,0 +1,37 @@
+<ROOT>
+  <S>
+    <NP>
+      <PRP>
+        <You/>
+      </PRP>
+    </NP>
+    <VP>
+      <MD>
+        <can/>
+      </MD>
+      <VP>
+        <VB>
+          <select/>
+        </VB>
+        <NP>
+          <DT>
+            <an/>
+          </DT>
+          <NN>
+            <action/>
+          </NN>
+        </NP>
+        <PP>
+          <IN>
+            <from/>
+          </IN>
+          <NP>
+            <RB>
+              <there/>
+            </RB>
+          </NP>
+        </PP>
+      </VP>
+    </VP>
+  </S>
+</ROOT>

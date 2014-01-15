@@ -1,0 +1,19 @@
+<ROOT>
+  <NP>
+    <NP>
+      <NNP>
+        <Number/>
+      </NNP>
+    </NP>
+    <PP>
+      <IN>
+        <of/>
+      </IN>
+      <NP>
+        <NNP>
+          <Levels/>
+        </NNP>
+      </NP>
+    </PP>
+  </NP>
+</ROOT>

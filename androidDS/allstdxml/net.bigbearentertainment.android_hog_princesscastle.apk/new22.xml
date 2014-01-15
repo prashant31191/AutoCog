@@ -1,0 +1,22 @@
+<ROOT>
+  <SINV>
+    <VP>
+      <VBP>
+        <FREE/>
+      </VBP>
+      <NP>
+        <NNP>
+          <TODAY/>
+        </NNP>
+      </NP>
+    </VP>
+    <NP>
+      <NNP>
+        <Princess/>
+      </NNP>
+      <NNP>
+        <Castle/>
+      </NNP>
+    </NP>
+  </SINV>
+</ROOT>

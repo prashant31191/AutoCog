@@ -1,0 +1,28 @@
+<ROOT>
+  <NP>
+    <NP>
+      <NNP>
+        <Next/>
+      </NNP>
+    </NP>
+    <CC>
+      <and/>
+    </CC>
+    <NP>
+      <JJ>
+        <previous/>
+      </JJ>
+      <NN>
+        <screen/>
+      </NN>
+      <NN>
+        <cache/>
+      </NN>
+    </NP>
+  </NP>
+</ROOT>
+root(ROOT-0, Next-1)
+amod(cache-5, previous-3)
+nn(cache-5, screen-4)
+conj_and(Next-1, cache-5)
+

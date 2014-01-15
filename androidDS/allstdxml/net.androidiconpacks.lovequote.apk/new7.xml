@@ -1,0 +1,26 @@
+<ROOT>
+  <S>
+    <VP>
+      <VB>
+        <Swipe/>
+      </VB>
+      <ADJP>
+        <JJ>
+          <leftXXXXXright/>
+        </JJ>
+        <S>
+          <VP>
+            <TO>
+              <to/>
+            </TO>
+            <VP>
+              <VB>
+                <navigate/>
+              </VB>
+            </VP>
+          </VP>
+        </S>
+      </ADJP>
+    </VP>
+  </S>
+</ROOT>

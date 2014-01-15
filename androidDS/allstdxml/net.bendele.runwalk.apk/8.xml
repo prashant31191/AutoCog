@@ -1,0 +1,17 @@
+<ROOT>
+  <S>
+    <VP>
+      <VB>
+        <sound/>
+      </VB>
+      <PRT>
+        <RP>
+          <ON/>
+        </RP>
+      </PRT>
+    </VP>
+  </S>
+</ROOT>
+root(ROOT-0, sound-1)
+prt(sound-1, ON-2)
+

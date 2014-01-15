@@ -1,0 +1,34 @@
+<ROOT>
+  <VP>
+    <VBN>
+      <Defend/>
+    </VBN>
+    <NP>
+      <PRP>
+        <it/>
+      </PRP>
+    </NP>
+    <PP>
+      <IN>
+        <from/>
+      </IN>
+      <NP>
+        <DT>
+          <the/>
+        </DT>
+        <NN>
+          <zombie/>
+        </NN>
+        <NNS>
+          <attacks/>
+        </NNS>
+      </NP>
+    </PP>
+  </VP>
+</ROOT>
+root(ROOT-0, Defend-1)
+dobj(Defend-1, it-2)
+det(attacks-6, the-4)
+nn(attacks-6, zombie-5)
+prep_from(Defend-1, attacks-6)
+

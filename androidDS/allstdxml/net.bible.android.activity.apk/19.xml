@@ -1,0 +1,45 @@
+<ROOT>
+  <NP>
+    <NP>
+      <CD>
+        <One/>
+      </CD>
+    </NP>
+    <PP>
+      <IN>
+        <of/>
+      </IN>
+      <NP>
+        <DT>
+          <the/>
+        </DT>
+        <JJS>
+          <fastest/>
+        </JJS>
+        <NNP>
+          <Bible/>
+        </NNP>
+        <NNS>
+          <apps/>
+        </NNS>
+      </NP>
+    </PP>
+    <PP>
+      <IN>
+        <on/>
+      </IN>
+      <NP>
+        <NNP>
+          <Android/>
+        </NNP>
+      </NP>
+    </PP>
+  </NP>
+</ROOT>
+root(ROOT-0, One-1)
+det(apps-6, the-3)
+amod(apps-6, fastest-4)
+nn(apps-6, Bible-5)
+prep_of(One-1, apps-6)
+prep_on(One-1, Android-8)
+

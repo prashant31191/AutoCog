@@ -1,0 +1,13 @@
+<ROOT>
+  <NP>
+    <NN>
+      <Roof/>
+    </NN>
+    <NN>
+      <pitch/>
+    </NN>
+  </NP>
+</ROOT>
+nn(pitch-2, Roof-1)
+root(ROOT-0, pitch-2)
+

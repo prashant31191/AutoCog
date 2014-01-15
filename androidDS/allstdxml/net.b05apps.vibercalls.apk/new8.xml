@@ -1,0 +1,22 @@
+<ROOT>
+  <S>
+    <VP>
+      <VB>
+        <Text/>
+      </VB>
+      <PP>
+        <IN>
+          <with/>
+        </IN>
+        <NP>
+          <PRP>
+            <your/>
+          </PRP>
+          <NNS>
+            <friends/>
+          </NNS>
+        </NP>
+      </PP>
+    </VP>
+  </S>
+</ROOT>

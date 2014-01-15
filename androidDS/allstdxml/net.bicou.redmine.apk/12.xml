@@ -1,0 +1,17 @@
+<ROOT>
+  <NP>
+    <NP>
+      <NNS>
+        <issues/>
+      </NNS>
+    </NP>
+    <NP>
+      <NN>
+        <list/>
+      </NN>
+    </NP>
+  </NP>
+</ROOT>
+root(ROOT-0, issues-1)
+dep(issues-1, list-2)
+

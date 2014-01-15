@@ -1,0 +1,31 @@
+<ROOT>
+  <S>
+    <VP>
+      <ADVP>
+        <RB>
+          <Remotely/>
+        </RB>
+      </ADVP>
+      <VB>
+        <record/>
+      </VB>
+      <CC>
+        <and/>
+      </CC>
+      <VB>
+        <watch/>
+      </VB>
+      <NP>
+        <DT>
+          <the/>
+        </DT>
+        <JJ>
+          <live/>
+        </JJ>
+        <NN>
+          <action/>
+        </NN>
+      </NP>
+    </VP>
+  </S>
+</ROOT>

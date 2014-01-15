@@ -1,0 +1,43 @@
+<ROOT>
+  <S>
+    <NP>
+      <PRP>
+        <You/>
+      </PRP>
+    </NP>
+    <VP>
+      <MD>
+        <can/>
+      </MD>
+      <VP>
+        <VB>
+          <check/>
+        </VB>
+        <NP>
+          <DT>
+            <the/>
+          </DT>
+          <NN>
+            <compatibility/>
+          </NN>
+          <NN>
+            <table/>
+          </NN>
+        </NP>
+        <ADVP>
+          <RB>
+            <here/>
+          </RB>
+        </ADVP>
+      </VP>
+    </VP>
+  </S>
+</ROOT>
+nsubj(check-3, You-1)
+aux(check-3, can-2)
+root(ROOT-0, check-3)
+det(table-6, the-4)
+nn(table-6, compatibility-5)
+dobj(check-3, table-6)
+advmod(check-3, here-7)
+

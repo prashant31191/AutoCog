@@ -1,0 +1,21 @@
+<ROOT>
+  <SINV>
+    <VP>
+      <VBZ>
+        <android.permission.ACCESS/>
+      </VBZ>
+    </VP>
+    <NP>
+      <NNP>
+        <_/>
+      </NNP>
+      <NNP>
+        <NETWORK_STATE/>
+      </NNP>
+    </NP>
+  </SINV>
+</ROOT>
+root(ROOT-0, android.permission.ACCESS-1)
+nn(NETWORK_STATE-3, _-2)
+nsubj(android.permission.ACCESS-1, NETWORK_STATE-3)
+

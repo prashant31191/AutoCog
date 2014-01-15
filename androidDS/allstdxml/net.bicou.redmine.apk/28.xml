@@ -1,0 +1,46 @@
+<ROOT>
+  <S>
+    <NP>
+      <JJR>
+        <Older/>
+      </JJR>
+      <NN>
+        <version/>
+      </NN>
+    </NP>
+    <VP>
+      <MD>
+        <may/>
+      </MD>
+      <RB>
+        <not/>
+      </RB>
+      <VP>
+        <VB>
+          <work/>
+        </VB>
+        <PP>
+          <IN>
+            <with/>
+          </IN>
+          <NP>
+            <DT>
+              <this/>
+            </DT>
+            <NN>
+              <app/>
+            </NN>
+          </NP>
+        </PP>
+      </VP>
+    </VP>
+  </S>
+</ROOT>
+amod(version-2, Older-1)
+nsubj(work-5, version-2)
+aux(work-5, may-3)
+neg(work-5, not-4)
+root(ROOT-0, work-5)
+det(app-8, this-7)
+prep_with(work-5, app-8)
+

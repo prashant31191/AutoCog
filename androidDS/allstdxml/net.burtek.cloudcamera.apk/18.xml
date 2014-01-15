@@ -1,0 +1,39 @@
+<ROOT>
+  <S>
+    <NP>
+      <NNP>
+        <+/>
+      </NNP>
+      <NNP>
+        <Advanced/>
+      </NNP>
+      <NN>
+        <motion/>
+      </NN>
+      <NN>
+        <detection/>
+      </NN>
+      <NN>
+        <monitoring/>
+      </NN>
+    </NP>
+    <VP>
+      <VBN>
+        <built/>
+      </VBN>
+      <PP>
+        <IN>
+          <in/>
+        </IN>
+      </PP>
+    </VP>
+  </S>
+</ROOT>
+nn(monitoring-5, +-1)
+nn(monitoring-5, Advanced-2)
+nn(monitoring-5, motion-3)
+nn(monitoring-5, detection-4)
+nsubj(built-6, monitoring-5)
+root(ROOT-0, built-6)
+prep(built-6, in-7)
+

@@ -1,0 +1,29 @@
+<ROOT>
+  <S>
+    <VP>
+      <VB>
+        <Search/>
+      </VB>
+      <NP>
+        <NN>
+          <icon/>
+        </NN>
+        <NNS>
+          <bookmark/>
+        </NNS>
+        <NN>
+          <link/>
+        </NN>
+        <CC>
+          <and/>
+        </CC>
+        <NN>
+          <browser/>
+        </NN>
+        <NN>
+          <homepage/>
+        </NN>
+      </NP>
+    </VP>
+  </S>
+</ROOT>

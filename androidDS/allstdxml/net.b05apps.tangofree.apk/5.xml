@@ -1,0 +1,24 @@
+<ROOT>
+  <NP>
+    <NP>
+      <DT>
+        <No/>
+      </DT>
+      <NN>
+        <login/>
+      </NN>
+    </NP>
+    <CC>
+      <and/>
+    </CC>
+    <NP>
+      <NN>
+        <password/>
+      </NN>
+    </NP>
+  </NP>
+</ROOT>
+det(login-2, No-1)
+root(ROOT-0, login-2)
+conj_and(login-2, password-4)
+

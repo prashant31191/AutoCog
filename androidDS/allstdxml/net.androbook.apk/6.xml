@@ -1,0 +1,46 @@
+<ROOT>
+  <NP>
+    <NP>
+      <-LRB->
+        <-LRB-/>
+      </-LRB->
+      <NNP>
+        <Zipped/>
+      </NNP>
+      <-RRB->
+        <-RRB-/>
+      </-RRB->
+    </NP>
+    <NP>
+      <NNP>
+        <JPEG/>
+      </NNP>
+      <,>
+        <,/>
+      </,>
+      <NNP>
+        <PNG/>
+      </NNP>
+      <,>
+        <,/>
+      </,>
+      <NNP>
+        <GIF/>
+      </NNP>
+      <,>
+        <,/>
+      </,>
+    </NP>
+    <NP>
+      <NN>
+        <pdf/>
+      </NN>
+    </NP>
+  </NP>
+</ROOT>
+root(ROOT-0, Zipped-2)
+nn(GIF-8, JPEG-4)
+appos(GIF-8, PNG-6)
+dep(Zipped-2, GIF-8)
+dep(Zipped-2, pdf-10)
+

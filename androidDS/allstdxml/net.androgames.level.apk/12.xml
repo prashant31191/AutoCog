@@ -1,0 +1,19 @@
+<ROOT>
+  <PP>
+    <IN>
+      <Over/>
+    </IN>
+    <NP>
+      <CD>
+        <5,000,000/>
+      </CD>
+      <NN>
+        <download/>
+      </NN>
+    </NP>
+  </PP>
+</ROOT>
+root(ROOT-0, Over-1)
+num(download-3, 5,000,000-2)
+pobj(Over-1, download-3)
+

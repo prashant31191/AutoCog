@@ -1,0 +1,41 @@
+<ROOT>
+  <SINV>
+    <VP>
+      <VBN>
+        <myChatDroid/>
+      </VBN>
+    </VP>
+    <VP>
+      <VBZ>
+        <requires/>
+      </VBZ>
+    </VP>
+    <NP>
+      <DT>
+        <these/>
+      </DT>
+      <NN>
+        <permissions/>
+      </NN>
+      <S>
+        <VP>
+          <TO>
+            <to/>
+          </TO>
+          <VP>
+            <VB>
+              <run/>
+            </VB>
+          </VP>
+        </VP>
+      </S>
+    </NP>
+  </SINV>
+</ROOT>
+root(ROOT-0, myChatDroid-1)
+dep(myChatDroid-1, requires-2)
+det(permissions-4, these-3)
+nsubj(myChatDroid-1, permissions-4)
+aux(run-6, to-5)
+infmod(permissions-4, run-6)
+

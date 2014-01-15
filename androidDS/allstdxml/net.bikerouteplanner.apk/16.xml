@@ -1,0 +1,47 @@
+<ROOT>
+  <S>
+    <NP>
+      <PRP>
+        <It/>
+      </PRP>
+    </NP>
+    <VP>
+      <MD>
+        <may/>
+      </MD>
+      <VP>
+        <VB>
+          <use/>
+        </VB>
+        <NP>
+          <ADJP>
+            <JJ>
+              <metric/>
+            </JJ>
+            <CC>
+              <or/>
+            </CC>
+            <JJ>
+              <imperial/>
+            </JJ>
+          </ADJP>
+          <NN>
+            <distance/>
+          </NN>
+          <NNS>
+            <units/>
+          </NNS>
+        </NP>
+      </VP>
+    </VP>
+  </S>
+</ROOT>
+nsubj(use-3, It-1)
+aux(use-3, may-2)
+root(ROOT-0, use-3)
+amod(units-8, metric-4)
+conj_or(metric-4, imperial-6)
+amod(units-8, imperial-6)
+nn(units-8, distance-7)
+dobj(use-3, units-8)
+

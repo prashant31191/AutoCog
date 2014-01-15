@@ -1,0 +1,32 @@
+<ROOT>
+  <NP>
+    <NP>
+      <NN>
+        <Share/>
+      </NN>
+    </NP>
+    <NP>
+      <NP>
+        <NNS>
+          <links/>
+        </NNS>
+        <CC>
+          <and/>
+        </CC>
+        <NNS>
+          <images/>
+        </NNS>
+      </NP>
+      <PP>
+        <IN>
+          <with/>
+        </IN>
+        <NP>
+          <NNS>
+            <friends/>
+          </NNS>
+        </NP>
+      </PP>
+    </NP>
+  </NP>
+</ROOT>

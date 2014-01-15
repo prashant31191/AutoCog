@@ -1,0 +1,30 @@
+<ROOT>
+  <FRAG>
+    <NP>
+      <NP>
+        <NNP>
+          <Supports/>
+        </NNP>
+        <NNP>
+          <TLS/>
+        </NNP>
+      </NP>
+      <NP>
+        <NNP>
+          <SSL/>
+        </NNP>
+      </NP>
+      <CC>
+        <or/>
+      </CC>
+      <NP>
+        <JJ>
+          <non-encrypted/>
+        </JJ>
+        <NNS>
+          <sessions/>
+        </NNS>
+      </NP>
+    </NP>
+  </FRAG>
+</ROOT>

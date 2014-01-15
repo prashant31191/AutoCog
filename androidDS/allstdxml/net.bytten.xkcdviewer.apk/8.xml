@@ -1,0 +1,33 @@
+<ROOT>
+  <S>
+    <VP>
+      <VB>
+        <Search/>
+      </VB>
+      <PP>
+        <IN>
+          <for/>
+        </IN>
+        <NP>
+          <NNS>
+            <comics/>
+          </NNS>
+        </NP>
+      </PP>
+      <PP>
+        <IN>
+          <by/>
+        </IN>
+        <NP>
+          <NN>
+            <title/>
+          </NN>
+        </NP>
+      </PP>
+    </VP>
+  </S>
+</ROOT>
+root(ROOT-0, Search-1)
+prep_for(Search-1, comics-3)
+prep_by(Search-1, title-5)
+

@@ -1,0 +1,24 @@
+<ROOT>
+  <ADJP>
+    <JJ>
+      <Off-line/>
+    </JJ>
+    <PP>
+      <IN>
+        <after/>
+      </IN>
+      <NP>
+        <JJ>
+          <initial/>
+        </JJ>
+        <NN>
+          <download/>
+        </NN>
+      </NP>
+    </PP>
+  </ADJP>
+</ROOT>
+root(ROOT-0, Off-line-1)
+amod(download-4, initial-3)
+prep_after(Off-line-1, download-4)
+

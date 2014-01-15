@@ -1,0 +1,16 @@
+<ROOT>
+  <NP>
+    <NNS>
+      <Problems/>
+    </NNS>
+    <CC>
+      <or/>
+    </CC>
+    <NNS>
+      <Questions/>
+    </NNS>
+  </NP>
+</ROOT>
+root(ROOT-0, Problems-1)
+conj_or(Problems-1, Questions-3)
+

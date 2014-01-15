@@ -1,0 +1,31 @@
+<ROOT>
+  <S>
+    <NP>
+      <NNP>
+        <Cutting/>
+      </NNP>
+      <NNP>
+        <Tools/>
+      </NNP>
+    </NP>
+    <VP>
+      <VBD>
+        <supported/>
+      </VBD>
+      <SBAR>
+        <S>
+          <VP>
+            <VBP>
+              <are/>
+            </VBP>
+          </VP>
+        </S>
+      </SBAR>
+    </VP>
+  </S>
+</ROOT>
+nn(Tools-2, Cutting-1)
+nsubj(supported-3, Tools-2)
+root(ROOT-0, supported-3)
+ccomp(supported-3, are-4)
+

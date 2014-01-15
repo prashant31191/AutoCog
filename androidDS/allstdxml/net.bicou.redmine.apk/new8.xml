@@ -1,0 +1,35 @@
+<ROOT>
+  <S>
+    <NP>
+      <PRP>
+        <You/>
+      </PRP>
+    </NP>
+    <VP>
+      <MD>
+        <can/>
+      </MD>
+      <VP>
+        <VB>
+          <check/>
+        </VB>
+        <NP>
+          <DT>
+            <the/>
+          </DT>
+          <NN>
+            <compatibility/>
+          </NN>
+          <NN>
+            <table/>
+          </NN>
+        </NP>
+        <ADVP>
+          <RB>
+            <here/>
+          </RB>
+        </ADVP>
+      </VP>
+    </VP>
+  </S>
+</ROOT>

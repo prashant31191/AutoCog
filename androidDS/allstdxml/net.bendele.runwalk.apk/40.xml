@@ -1,0 +1,44 @@
+<ROOT>
+  <S>
+    <VP>
+      <VB>
+        <Set/>
+      </VB>
+      <NP>
+        <DT>
+          <the/>
+        </DT>
+        <NNP>
+          <Notifications/>
+        </NNP>
+        <NN>
+          <audio/>
+        </NN>
+        <NN>
+          <stream/>
+        </NN>
+      </NP>
+      <PP>
+        <TO>
+          <to/>
+        </TO>
+        <NP>
+          <PRP$>
+            <its/>
+          </PRP$>
+          <NN>
+            <maximum/>
+          </NN>
+        </NP>
+      </PP>
+    </VP>
+  </S>
+</ROOT>
+root(ROOT-0, Set-1)
+det(stream-5, the-2)
+nn(stream-5, Notifications-3)
+nn(stream-5, audio-4)
+dobj(Set-1, stream-5)
+poss(maximum-8, its-7)
+prep_to(Set-1, maximum-8)
+

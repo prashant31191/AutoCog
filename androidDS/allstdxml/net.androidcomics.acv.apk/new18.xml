@@ -1,0 +1,34 @@
+<ROOT>
+  <S>
+    <NP>
+      <DT>
+        <A/>
+      </DT>
+      <NNP>
+        <Comic/>
+      </NNP>
+      <NNP>
+        <Viewer/>
+      </NNP>
+    </NP>
+    <VP>
+      <VBZ>
+        <is/>
+      </VBZ>
+      <NP>
+        <DT>
+          <an/>
+        </DT>
+        <JJ>
+          <open/>
+        </JJ>
+        <NN>
+          <source/>
+        </NN>
+        <NN>
+          <project/>
+        </NN>
+      </NP>
+    </VP>
+  </S>
+</ROOT>

@@ -1,0 +1,17 @@
+<ROOT>
+  <S>
+    <VP>
+      <VB>
+        <Tablet/>
+      </VB>
+      <ADJP>
+        <JJ>
+          <ready/>
+        </JJ>
+      </ADJP>
+    </VP>
+  </S>
+</ROOT>
+root(ROOT-0, Tablet-1)
+acomp(Tablet-1, ready-2)
+

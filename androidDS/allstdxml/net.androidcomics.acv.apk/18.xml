@@ -1,0 +1,43 @@
+<ROOT>
+  <S>
+    <NP>
+      <DT>
+        <A/>
+      </DT>
+      <NNP>
+        <Comic/>
+      </NNP>
+      <NNP>
+        <Viewer/>
+      </NNP>
+    </NP>
+    <VP>
+      <VBZ>
+        <is/>
+      </VBZ>
+      <NP>
+        <DT>
+          <an/>
+        </DT>
+        <JJ>
+          <open/>
+        </JJ>
+        <NN>
+          <source/>
+        </NN>
+        <NN>
+          <project/>
+        </NN>
+      </NP>
+    </VP>
+  </S>
+</ROOT>
+det(Viewer-3, A-1)
+nn(Viewer-3, Comic-2)
+nsubj(project-8, Viewer-3)
+cop(project-8, is-4)
+det(project-8, an-5)
+amod(project-8, open-6)
+nn(project-8, source-7)
+root(ROOT-0, project-8)
+

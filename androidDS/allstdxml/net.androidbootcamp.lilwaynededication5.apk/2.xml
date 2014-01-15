@@ -1,0 +1,13 @@
+<ROOT>
+  <NP>
+    <NN>
+      <Dedication/>
+    </NN>
+    <CD>
+      <5/>
+    </CD>
+  </NP>
+</ROOT>
+root(ROOT-0, Dedication-1)
+num(Dedication-1, 5-2)
+

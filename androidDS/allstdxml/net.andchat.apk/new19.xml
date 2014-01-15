@@ -1,0 +1,22 @@
+<ROOT>
+  <NP>
+    <NP>
+      <JJ>
+        <Typing/>
+      </JJ>
+      <NN>
+        <history/>
+      </NN>
+    </NP>
+    <PRN>
+      <NP>
+        <NNP>
+          <DPAD/>
+        </NNP>
+        <NN>
+          <upXXXXXdown/>
+        </NN>
+      </NP>
+    </PRN>
+  </NP>
+</ROOT>

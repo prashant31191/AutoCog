@@ -1,0 +1,18 @@
+<ROOT>
+  <FRAG>
+    <NP>
+      <NN>
+        <support/>
+      </NN>
+      <NN>
+        <image/>
+      </NN>
+      <NN>
+        <file/>
+      </NN>
+      <NN>
+        <format/>
+      </NN>
+    </NP>
+  </FRAG>
+</ROOT>

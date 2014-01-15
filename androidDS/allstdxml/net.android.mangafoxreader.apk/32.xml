@@ -1,0 +1,13 @@
+<ROOT>
+  <NP>
+    <JJ>
+      <Watch/>
+    </JJ>
+    <NN>
+      <list/>
+    </NN>
+  </NP>
+</ROOT>
+amod(list-2, Watch-1)
+root(ROOT-0, list-2)
+

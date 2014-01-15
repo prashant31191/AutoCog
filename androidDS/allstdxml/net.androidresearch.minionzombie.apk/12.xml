@@ -1,0 +1,24 @@
+<ROOT>
+  <VP>
+    <VBN>
+      <released/>
+    </VBN>
+    <PP>
+      <IN>
+        <by/>
+      </IN>
+      <NP>
+        <JJ>
+          <killed/>
+        </JJ>
+        <NNS>
+          <zombies/>
+        </NNS>
+      </NP>
+    </PP>
+  </VP>
+</ROOT>
+root(ROOT-0, released-1)
+amod(zombies-4, killed-3)
+prep_by(released-1, zombies-4)
+

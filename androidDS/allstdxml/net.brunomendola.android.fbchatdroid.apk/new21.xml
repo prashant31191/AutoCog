@@ -1,0 +1,25 @@
+<ROOT>
+  <S>
+    <NP>
+      <JJ>
+        <offline/>
+      </JJ>
+      <NNS>
+        <messages/>
+      </NNS>
+    </NP>
+    <VP>
+      <VBP>
+        <are/>
+      </VBP>
+      <RB>
+        <not/>
+      </RB>
+      <VP>
+        <VBN>
+          <supported/>
+        </VBN>
+      </VP>
+    </VP>
+  </S>
+</ROOT>

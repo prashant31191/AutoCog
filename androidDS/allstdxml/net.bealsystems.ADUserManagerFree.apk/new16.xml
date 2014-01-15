@@ -1,0 +1,36 @@
+<ROOT>
+  <NP>
+    <NP>
+      <NNS>
+        <Supports/>
+      </NNS>
+    </NP>
+    <NP>
+      <NP>
+        <DT>
+          <all/>
+        </DT>
+        <JJ>
+          <current/>
+        </JJ>
+        <NNP>
+          <AD/>
+        </NNP>
+        <NNS>
+          <versions/>
+        </NNS>
+      </NP>
+      <CC>
+        <and/>
+      </CC>
+      <NP>
+        <JJ>
+          <functional/>
+        </JJ>
+        <NNS>
+          <modes/>
+        </NNS>
+      </NP>
+    </NP>
+  </NP>
+</ROOT>

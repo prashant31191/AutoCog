@@ -1,0 +1,28 @@
+<ROOT>
+  <NP>
+    <NP>
+      <DT>
+        <no/>
+      </DT>
+      <NN>
+        <need/>
+      </NN>
+    </NP>
+    <PP>
+      <IN>
+        <for/>
+      </IN>
+      <NP>
+        <DT>
+          <a/>
+        </DT>
+        <NN>
+          <data/>
+        </NN>
+        <NN>
+          <connection/>
+        </NN>
+      </NP>
+    </PP>
+  </NP>
+</ROOT>

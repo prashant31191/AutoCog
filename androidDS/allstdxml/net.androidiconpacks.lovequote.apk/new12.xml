@@ -1,0 +1,35 @@
+<ROOT>
+  <S>
+    <NP>
+      <PRP>
+        <You/>
+      </PRP>
+    </NP>
+    <VP>
+      <MD>
+        <can/>
+      </MD>
+      <VP>
+        <VB>
+          <deleteXXXXXreplace/>
+        </VB>
+        <NP>
+          <DT>
+            <these/>
+          </DT>
+          <NN>
+            <search/>
+          </NN>
+          <NNS>
+            <points/>
+          </NNS>
+        </NP>
+        <ADVP>
+          <RB>
+            <easily/>
+          </RB>
+        </ADVP>
+      </VP>
+    </VP>
+  </S>
+</ROOT>

@@ -1,0 +1,20 @@
+<ROOT>
+  <S>
+    <VP>
+      <VB>
+        <Create/>
+      </VB>
+      <CC>
+        <and/>
+      </CC>
+      <VB>
+        <send/>
+      </VB>
+      <NP>
+        <NNS>
+          <doodles/>
+        </NNS>
+      </NP>
+    </VP>
+  </S>
+</ROOT>

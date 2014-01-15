@@ -1,0 +1,22 @@
+<ROOT>
+  <S>
+    <VP>
+      <VBG>
+        <Looking/>
+      </VBG>
+      <PP>
+        <IN>
+          <for/>
+        </IN>
+        <NP>
+          <NNS>
+            <translators/>
+          </NNS>
+        </NP>
+      </PP>
+    </VP>
+  </S>
+</ROOT>
+root(ROOT-0, Looking-1)
+prep_for(Looking-1, translators-3)
+

@@ -1,0 +1,33 @@
+<ROOT>
+  <NP>
+    <NP>
+      <JJ>
+        <Typing/>
+      </JJ>
+      <NN>
+        <history/>
+      </NN>
+    </NP>
+    <PRN>
+      <-LRB->
+        <-LRB-/>
+      </-LRB->
+      <NP>
+        <NNP>
+          <DPAD/>
+        </NNP>
+        <NN>
+          <up\/down/>
+        </NN>
+      </NP>
+      <-RRB->
+        <-RRB-/>
+      </-RRB->
+    </PRN>
+  </NP>
+</ROOT>
+amod(history-2, Typing-1)
+root(ROOT-0, history-2)
+nn(up\/down-5, DPAD-4)
+appos(history-2, up\/down-5)
+

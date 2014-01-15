@@ -1,0 +1,20 @@
+<ROOT>
+  <S>
+    <NP>
+      <NNP>
+        <ReadXXXXXUseXXXXXWrite/>
+      </NNP>
+      <NNP>
+        <XXXXX/>
+      </NNP>
+      <NNP>
+        <Authenticate/>
+      </NNP>
+    </NP>
+    <VP>
+      <VBZ>
+        <accounts/>
+      </VBZ>
+    </VP>
+  </S>
+</ROOT>

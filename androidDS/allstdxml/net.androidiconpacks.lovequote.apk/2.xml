@@ -1,0 +1,31 @@
+<ROOT>
+  <S>
+    <NP>
+      <NN>
+        <Love/>
+      </NN>
+      <NNS>
+        <quotes/>
+      </NNS>
+    </NP>
+    <VP>
+      <VBZ>
+        <has/>
+      </VBZ>
+      <NP>
+        <JJ>
+          <many/>
+        </JJ>
+        <NNS>
+          <categories/>
+        </NNS>
+      </NP>
+    </VP>
+  </S>
+</ROOT>
+nn(quotes-2, Love-1)
+nsubj(has-3, quotes-2)
+root(ROOT-0, has-3)
+amod(categories-5, many-4)
+dobj(has-3, categories-5)
+

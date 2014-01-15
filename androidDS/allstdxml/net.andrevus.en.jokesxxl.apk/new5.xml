@@ -1,0 +1,22 @@
+<ROOT>
+  <NP>
+    <NP>
+      <NN>
+        <widget/>
+      </NN>
+    </NP>
+    <PP>
+      <IN>
+        <with/>
+      </IN>
+      <NP>
+        <JJ>
+          <random/>
+        </JJ>
+        <NNS>
+          <jokes/>
+        </NNS>
+      </NP>
+    </PP>
+  </NP>
+</ROOT>

@@ -1,0 +1,39 @@
+<ROOT>
+  <SINV>
+    <VP>
+      <VBD>
+        <Download/>
+      </VBD>
+      <NP>
+        <DT>
+          <the/>
+        </DT>
+        <NN>
+          <app/>
+        </NN>
+        <CC>
+          <and/>
+        </CC>
+        <NN>
+          <setup/>
+        </NN>
+      </NP>
+    </VP>
+    <NP>
+      <PRP$>
+        <your/>
+      </PRP$>
+      <NNS>
+        <devices/>
+      </NNS>
+    </NP>
+  </SINV>
+</ROOT>
+root(ROOT-0, Download-1)
+det(app-3, the-2)
+dobj(Download-1, app-3)
+dobj(Download-1, setup-5)
+conj_and(app-3, setup-5)
+poss(devices-7, your-6)
+nsubj(Download-1, devices-7)
+

@@ -1,0 +1,34 @@
+<ROOT>
+  <S>
+    <VP>
+      <VB>
+        <Search/>
+      </VB>
+      <PP>
+        <IN>
+          <by/>
+        </IN>
+        <NP>
+          <NN>
+            <title/>
+          </NN>
+          <CC>
+            <or/>
+          </CC>
+          <VBN>
+            <advanced/>
+          </VBN>
+          <NN>
+            <search/>
+          </NN>
+        </NP>
+      </PP>
+    </VP>
+  </S>
+</ROOT>
+root(ROOT-0, Search-1)
+nn(search-6, title-3)
+conj_or(title-3, advanced-5)
+nn(search-6, advanced-5)
+prep_by(Search-1, search-6)
+

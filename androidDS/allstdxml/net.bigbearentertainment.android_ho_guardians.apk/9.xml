@@ -1,0 +1,25 @@
+<ROOT>
+  <NP>
+    <NNP>
+      <FINDING/>
+    </NNP>
+    <NNP>
+      <OBJECTS/>
+    </NNP>
+    <NNP>
+      <3/>
+    </NNP>
+    <NNP>
+      <DIFFERENT/>
+    </NNP>
+    <NNP>
+      <WAYS/>
+    </NNP>
+  </NP>
+</ROOT>
+nn(WAYS-5, FINDING-1)
+nn(WAYS-5, OBJECTS-2)
+nn(WAYS-5, 3-3)
+nn(WAYS-5, DIFFERENT-4)
+root(ROOT-0, WAYS-5)
+

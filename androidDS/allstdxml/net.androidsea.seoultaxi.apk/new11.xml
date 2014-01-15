@@ -1,0 +1,30 @@
+<ROOT>
+  <S>
+    <NP>
+      <PRP>
+        <You/>
+      </PRP>
+    </NP>
+    <VP>
+      <MD>
+        <can/>
+      </MD>
+      <VP>
+        <VB>
+          <calculte/>
+        </VB>
+        <NP>
+          <DT>
+            <a/>
+          </DT>
+          <NN>
+            <Taxi/>
+          </NN>
+          <NN>
+            <fare/>
+          </NN>
+        </NP>
+      </VP>
+    </VP>
+  </S>
+</ROOT>

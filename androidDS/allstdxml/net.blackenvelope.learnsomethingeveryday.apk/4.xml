@@ -1,0 +1,13 @@
+<ROOT>
+  <NP>
+    <JJ>
+      <funky/>
+    </JJ>
+    <NNS>
+      <colors/>
+    </NNS>
+  </NP>
+</ROOT>
+amod(colors-2, funky-1)
+root(ROOT-0, colors-2)
+

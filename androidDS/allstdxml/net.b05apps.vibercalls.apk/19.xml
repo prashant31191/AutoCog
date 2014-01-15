@@ -1,0 +1,37 @@
+<ROOT>
+  <S>
+    <NP>
+      <NP>
+        <DT>
+          <No/>
+        </DT>
+        <NNS>
+          <ads/>
+        </NNS>
+      </NP>
+      <CC>
+        <and/>
+      </CC>
+      <NP>
+        <CD>
+          <100/>
+        </CD>
+        <NN>
+          <%/>
+        </NN>
+      </NP>
+    </NP>
+    <ADJP>
+      <JJ>
+        <free/>
+      </JJ>
+    </ADJP>
+  </S>
+</ROOT>
+det(ads-2, No-1)
+dep(free-6, ads-2)
+num(%-5, 100-4)
+conj_and(ads-2, %-5)
+dep(free-6, %-5)
+root(ROOT-0, free-6)
+

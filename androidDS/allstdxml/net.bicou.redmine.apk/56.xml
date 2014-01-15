@@ -1,0 +1,17 @@
+<ROOT>
+  <NP>
+    <JJ>
+      <Read\/Write/>
+    </JJ>
+    <NN>
+      <sync/>
+    </NN>
+    <NNS>
+      <settings/>
+    </NNS>
+  </NP>
+</ROOT>
+amod(settings-3, Read\/Write-1)
+nn(settings-3, sync-2)
+root(ROOT-0, settings-3)
+

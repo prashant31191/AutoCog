@@ -1,0 +1,32 @@
+<ROOT>
+  <FRAG>
+    <NP>
+      <NP>
+        <NN>
+          <Snowman/>
+        </NN>
+      </NP>
+      <NP>
+        <NNP>
+          <Giant/>
+        </NNP>
+        <NNP>
+          <Snowballs/>
+        </NNP>
+      </NP>
+      <NP>
+        <NNP>
+          <Grinch/>
+        </NNP>
+      </NP>
+      <CC>
+        <and/>
+      </CC>
+      <NP>
+        <JJR>
+          <more/>
+        </JJR>
+      </NP>
+    </NP>
+  </FRAG>
+</ROOT>

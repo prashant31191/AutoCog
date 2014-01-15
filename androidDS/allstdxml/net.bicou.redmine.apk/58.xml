@@ -1,0 +1,29 @@
+<ROOT>
+  <NP>
+    <NP>
+      <JJ>
+        <new/>
+      </JJ>
+    </NP>
+    <PP>
+      <RB>
+        <as/>
+      </RB>
+      <IN>
+        <of/>
+      </IN>
+      <NP>
+        <CD>
+          <0.8.0/>
+        </CD>
+        <NNS>
+          <+/>
+        </NNS>
+      </NP>
+    </PP>
+  </NP>
+</ROOT>
+root(ROOT-0, new-1)
+num(+-5, 0.8.0-4)
+prep_as_of(new-1, +-5)
+

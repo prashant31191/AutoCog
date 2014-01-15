@@ -1,0 +1,30 @@
+<ROOT>
+  <S>
+    <NP>
+      <NNP>
+      </NNP>
+      <NNP>
+        <Advanced/>
+      </NNP>
+      <NN>
+        <motion/>
+      </NN>
+      <NN>
+        <detection/>
+      </NN>
+      <NN>
+        <monitoring/>
+      </NN>
+    </NP>
+    <VP>
+      <VBN>
+        <built/>
+      </VBN>
+      <PP>
+        <IN>
+          <in/>
+        </IN>
+      </PP>
+    </VP>
+  </S>
+</ROOT>

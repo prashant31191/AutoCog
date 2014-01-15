@@ -1,0 +1,15 @@
+<ROOT>
+  <PP>
+    <IN>
+      <for/>
+    </IN>
+    <ADJP>
+      <JJ>
+        <free/>
+      </JJ>
+    </ADJP>
+  </PP>
+</ROOT>
+root(ROOT-0, for-1)
+pobj(for-1, free-2)
+

@@ -1,0 +1,40 @@
+<ROOT>
+  <S>
+    <VP>
+      <VB>
+        <Edit/>
+      </VB>
+      <NP>
+        <PRP$>
+          <your/>
+        </PRP$>
+        <NNS>
+          <photos/>
+        </NNS>
+        <CC>
+          <and/>
+        </CC>
+        <NN>
+          <share/>
+        </NN>
+      </NP>
+      <PP>
+        <IN>
+          <with/>
+        </IN>
+        <NP>
+          <NNS>
+            <friends/>
+          </NNS>
+        </NP>
+      </PP>
+    </VP>
+  </S>
+</ROOT>
+root(ROOT-0, Edit-1)
+poss(photos-3, your-2)
+dobj(Edit-1, photos-3)
+dobj(Edit-1, share-5)
+conj_and(photos-3, share-5)
+prep_with(Edit-1, friends-7)
+

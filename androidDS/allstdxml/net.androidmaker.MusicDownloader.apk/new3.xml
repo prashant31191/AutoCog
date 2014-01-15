@@ -1,0 +1,29 @@
+<ROOT>
+  <UCP>
+    <VP>
+      <VBN>
+        <Permission/>
+      </VBN>
+      <S>
+        <VP>
+          <TO>
+            <to/>
+          </TO>
+          <VP>
+            <VB>
+              <use/>
+            </VB>
+          </VP>
+        </VP>
+      </S>
+    </VP>
+    <CC>
+      <and/>
+    </CC>
+    <ADJP>
+      <JJ>
+        <why/>
+      </JJ>
+    </ADJP>
+  </UCP>
+</ROOT>

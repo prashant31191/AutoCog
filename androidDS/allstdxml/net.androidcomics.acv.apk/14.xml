@@ -1,0 +1,24 @@
+<ROOT>
+  <NP>
+    <NP>
+      <NNP>
+        <FEATURE/>
+      </NNP>
+      <NNP>
+        <REQUESTS/>
+      </NNP>
+    </NP>
+    <CC>
+      <and/>
+    </CC>
+    <NP>
+      <NNP>
+        <SUPPORT/>
+      </NNP>
+    </NP>
+  </NP>
+</ROOT>
+nn(REQUESTS-2, FEATURE-1)
+root(ROOT-0, REQUESTS-2)
+conj_and(REQUESTS-2, SUPPORT-4)
+

@@ -1,0 +1,37 @@
+<ROOT>
+  <VP>
+    <VBN>
+      <Respond/>
+    </VBN>
+    <ADVP>
+      <RB>
+        <immediately/>
+      </RB>
+    </ADVP>
+    <PP>
+      <TO>
+        <to/>
+      </TO>
+      <NP>
+        <NP>
+          <NNS>
+            <messages/>
+          </NNS>
+        </NP>
+        <VP>
+          <VBG>
+            <using/>
+          </VBG>
+          <NP>
+            <JJ>
+              <quick/>
+            </JJ>
+            <NN>
+              <reply/>
+            </NN>
+          </NP>
+        </VP>
+      </NP>
+    </PP>
+  </VP>
+</ROOT>

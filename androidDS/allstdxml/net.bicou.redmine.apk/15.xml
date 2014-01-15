@@ -1,0 +1,13 @@
+<ROOT>
+  <NP>
+    <JJ>
+      <wiki/>
+    </JJ>
+    <NNS>
+      <pages/>
+    </NNS>
+  </NP>
+</ROOT>
+amod(pages-2, wiki-1)
+root(ROOT-0, pages-2)
+

@@ -1,0 +1,32 @@
+<ROOT>
+  <S>
+    <VP>
+      <VB>
+        <Read/>
+      </VB>
+      <NP>
+        <NNS>
+          <comics/>
+        </NNS>
+      </NP>
+      <PP>
+        <IN>
+          <from/>
+        </IN>
+        <NP>
+          <NNP>
+            <SD/>
+          </NNP>
+          <NN>
+            <card/>
+          </NN>
+        </NP>
+      </PP>
+    </VP>
+  </S>
+</ROOT>
+root(ROOT-0, Read-1)
+dobj(Read-1, comics-2)
+nn(card-5, SD-4)
+prep_from(Read-1, card-5)
+

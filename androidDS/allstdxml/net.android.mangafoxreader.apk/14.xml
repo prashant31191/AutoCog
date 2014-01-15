@@ -1,0 +1,25 @@
+<ROOT>
+  <SBAR>
+    <WHADVP>
+      <WRB>
+        <How/>
+      </WRB>
+    </WHADVP>
+    <S>
+      <VP>
+        <TO>
+          <to/>
+        </TO>
+        <VP>
+          <VB>
+            <use/>
+          </VB>
+        </VP>
+      </VP>
+    </S>
+  </SBAR>
+</ROOT>
+advmod(use-3, How-1)
+aux(use-3, to-2)
+root(ROOT-0, use-3)
+

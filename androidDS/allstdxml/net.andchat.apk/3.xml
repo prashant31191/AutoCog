@@ -1,0 +1,17 @@
+<ROOT>
+  <NP>
+    <NNP>
+      <Official/>
+    </NNP>
+    <NNP>
+      <irc/>
+    </NNP>
+    <NNP>
+      <channel/>
+    </NNP>
+  </NP>
+</ROOT>
+nn(channel-3, Official-1)
+nn(channel-3, irc-2)
+root(ROOT-0, channel-3)
+

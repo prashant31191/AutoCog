@@ -1,0 +1,23 @@
+<ROOT>
+  <NP>
+    <NP>
+      <NNP>
+        <Automatic/>
+      </NNP>
+      <NNP>
+        <scrolling/>
+      </NNP>
+    </NP>
+    <NP>
+      <JJ>
+        <automatic/>
+      </JJ>
+      <NN>
+        <dayXXXXXnight/>
+      </NN>
+      <NN>
+        <mode/>
+      </NN>
+    </NP>
+  </NP>
+</ROOT>

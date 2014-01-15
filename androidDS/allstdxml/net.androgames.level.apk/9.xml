@@ -1,0 +1,13 @@
+<ROOT>
+  <NP>
+    <NNP>
+      <No/>
+    </NNP>
+    <NNS>
+      <ads/>
+    </NNS>
+  </NP>
+</ROOT>
+nn(ads-2, No-1)
+root(ROOT-0, ads-2)
+

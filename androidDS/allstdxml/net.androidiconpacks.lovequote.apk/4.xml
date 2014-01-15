@@ -1,0 +1,37 @@
+<ROOT>
+  <FRAG>
+    <NP>
+      <NN>
+        <Love/>
+      </NN>
+      <NNS>
+        <letters/>
+      </NNS>
+    </NP>
+    <VP>
+      <ADVP>
+        <RB>
+          <also/>
+        </RB>
+      </ADVP>
+      <VBZ>
+        <has/>
+      </VBZ>
+      <NP>
+        <JJ>
+          <many/>
+        </JJ>
+        <NNS>
+          <categories/>
+        </NNS>
+      </NP>
+    </VP>
+  </FRAG>
+</ROOT>
+nn(letters-2, Love-1)
+root(ROOT-0, letters-2)
+advmod(has-4, also-3)
+dep(letters-2, has-4)
+amod(categories-6, many-5)
+dobj(has-4, categories-6)
+

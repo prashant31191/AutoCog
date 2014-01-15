@@ -1,0 +1,42 @@
+<ROOT>
+  <FRAG>
+    <NP>
+      <NP>
+        <NNP>
+          <Supports/>
+        </NNP>
+        <NNP>
+          <TLS/>
+        </NNP>
+      </NP>
+      <,>
+        <,/>
+      </,>
+      <NP>
+        <NNP>
+          <SSL/>
+        </NNP>
+      </NP>
+      <,>
+        <,/>
+      </,>
+      <CC>
+        <or/>
+      </CC>
+      <NP>
+        <JJ>
+          <non-encrypted/>
+        </JJ>
+        <NNS>
+          <sessions/>
+        </NNS>
+      </NP>
+    </NP>
+  </FRAG>
+</ROOT>
+nn(TLS-2, Supports-1)
+root(ROOT-0, TLS-2)
+conj_or(TLS-2, SSL-4)
+amod(sessions-8, non-encrypted-7)
+conj_or(TLS-2, sessions-8)
+

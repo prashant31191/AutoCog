@@ -1,0 +1,34 @@
+<ROOT>
+  <S>
+    <NP>
+      <JJ>
+        <offline/>
+      </JJ>
+      <NNS>
+        <messages/>
+      </NNS>
+    </NP>
+    <VP>
+      <VBP>
+        <are/>
+      </VBP>
+      <RB>
+        <not/>
+      </RB>
+      <VP>
+        <VBN>
+          <supported/>
+        </VBN>
+      </VP>
+    </VP>
+    <:>
+      <;/>
+    </:>
+  </S>
+</ROOT>
+amod(messages-2, offline-1)
+nsubjpass(supported-5, messages-2)
+auxpass(supported-5, are-3)
+neg(supported-5, not-4)
+root(ROOT-0, supported-5)
+

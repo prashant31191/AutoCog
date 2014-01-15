@@ -1,0 +1,28 @@
+<ROOT>
+  <VP>
+    <VBN>
+      <Defend/>
+    </VBN>
+    <NP>
+      <PRP>
+        <it/>
+      </PRP>
+    </NP>
+    <PP>
+      <IN>
+        <from/>
+      </IN>
+      <NP>
+        <DT>
+          <the/>
+        </DT>
+        <NN>
+          <zombie/>
+        </NN>
+        <NNS>
+          <attacks/>
+        </NNS>
+      </NP>
+    </PP>
+  </VP>
+</ROOT>

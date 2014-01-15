@@ -1,0 +1,26 @@
+<ROOT>
+  <ADJP>
+    <RB>
+      <previously/>
+    </RB>
+    <VBN>
+      <known/>
+    </VBN>
+    <PP>
+      <IN>
+        <as/>
+      </IN>
+      <NP>
+        <NNP>
+          <Droid/>
+        </NNP>
+        <NNP>
+          <Comic/>
+        </NNP>
+        <NNP>
+          <Viewer/>
+        </NNP>
+      </NP>
+    </PP>
+  </ADJP>
+</ROOT>

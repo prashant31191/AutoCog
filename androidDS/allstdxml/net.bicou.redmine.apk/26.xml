@@ -1,0 +1,13 @@
+<ROOT>
+  <NP>
+    <NNP>
+      <KNOWN/>
+    </NNP>
+    <NNS>
+      <ISSUES/>
+    </NNS>
+  </NP>
+</ROOT>
+nn(ISSUES-2, KNOWN-1)
+root(ROOT-0, ISSUES-2)
+

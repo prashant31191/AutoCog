@@ -1,0 +1,34 @@
+<ROOT>
+  <X>
+    <ADVP>
+      <RB>
+        <Only/>
+      </RB>
+      <PP>
+        <IN>
+          <on/>
+        </IN>
+        <NP>
+          <VBG>
+            <viewing/>
+          </VBG>
+          <CC>
+            <and/>
+          </CC>
+          <VBG>
+            <uploading/>
+          </VBG>
+          <NNS>
+            <alarms/>
+          </NNS>
+        </NP>
+      </PP>
+    </ADVP>
+  </X>
+</ROOT>
+root(ROOT-0, Only-1)
+nn(alarms-6, viewing-3)
+conj_and(viewing-3, uploading-5)
+nn(alarms-6, uploading-5)
+prep_on(Only-1, alarms-6)
+

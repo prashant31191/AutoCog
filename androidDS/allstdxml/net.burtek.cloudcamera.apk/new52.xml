@@ -1,0 +1,24 @@
+<ROOT>
+  <S>
+    <VP>
+      <VB>
+        <Follow/>
+      </VB>
+      <NP>
+        <PRP>
+          <us/>
+        </PRP>
+      </NP>
+      <PP>
+        <IN>
+          <on/>
+        </IN>
+        <NP>
+          <NNP>
+            <Twitter/>
+          </NNP>
+        </NP>
+      </PP>
+    </VP>
+  </S>
+</ROOT>

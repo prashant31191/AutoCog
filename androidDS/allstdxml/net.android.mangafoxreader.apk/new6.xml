@@ -1,0 +1,17 @@
+<ROOT>
+  <S>
+    <NP>
+      <NNP>
+        <Show/>
+      </NNP>
+      <NNP>
+        <lastest/>
+      </NNP>
+    </NP>
+    <VP>
+      <VBZ>
+        <releases/>
+      </VBZ>
+    </VP>
+  </S>
+</ROOT>

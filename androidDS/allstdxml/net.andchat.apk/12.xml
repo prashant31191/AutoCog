@@ -1,0 +1,41 @@
+<ROOT>
+  <NP>
+    <NP>
+      <NNP>
+        <Quick/>
+      </NNP>
+      <NN>
+        <channel/>
+      </NN>
+      <NN>
+        <switcher/>
+      </NN>
+    </NP>
+    <PRN>
+      <-LRB->
+        <-LRB-/>
+      </-LRB->
+      <NP>
+        <NNP>
+          <Android/>
+        </NNP>
+        <NNP>
+          <3.0/>
+        </NNP>
+        <NNP>
+          <+/>
+        </NNP>
+      </NP>
+      <-RRB->
+        <-RRB-/>
+      </-RRB->
+    </PRN>
+  </NP>
+</ROOT>
+nn(switcher-3, Quick-1)
+nn(switcher-3, channel-2)
+root(ROOT-0, switcher-3)
+nn(+-7, Android-5)
+nn(+-7, 3.0-6)
+appos(switcher-3, +-7)
+

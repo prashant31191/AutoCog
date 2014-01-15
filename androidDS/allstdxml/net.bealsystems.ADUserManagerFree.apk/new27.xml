@@ -1,0 +1,27 @@
+<ROOT>
+  <S>
+    <NP>
+      <JJ>
+        <Full/>
+      </JJ>
+      <NN>
+        <version/>
+      </NN>
+    </NP>
+    <VP>
+      <VBZ>
+        <is/>
+      </VBZ>
+      <ADJP>
+        <JJ>
+          <availiable/>
+        </JJ>
+      </ADJP>
+      <ADVP>
+        <RB>
+          <here/>
+        </RB>
+      </ADVP>
+    </VP>
+  </S>
+</ROOT>

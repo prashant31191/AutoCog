@@ -1,0 +1,39 @@
+<ROOT>
+  <SINV>
+    <VP>
+      <VBP>
+        <EXPLORE/>
+      </VBP>
+      <NP>
+        <DT>
+          <A/>
+        </DT>
+        <NNS>
+          <MYSTERIOUS/>
+        </NNS>
+      </NP>
+    </VP>
+    <NP>
+      <NN>
+        <WORLD/>
+      </NN>
+      <NNP>
+        <BEYOND/>
+      </NNP>
+      <NNP>
+        <YOUR/>
+      </NNP>
+      <NNP>
+        <IMAGINATION/>
+      </NNP>
+    </NP>
+  </SINV>
+</ROOT>
+root(ROOT-0, EXPLORE-1)
+det(MYSTERIOUS-3, A-2)
+dobj(EXPLORE-1, MYSTERIOUS-3)
+nn(IMAGINATION-7, WORLD-4)
+nn(IMAGINATION-7, BEYOND-5)
+nn(IMAGINATION-7, YOUR-6)
+nsubj(EXPLORE-1, IMAGINATION-7)
+

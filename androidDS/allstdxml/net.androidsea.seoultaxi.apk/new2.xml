@@ -1,0 +1,29 @@
+<ROOT>
+  <S>
+    <VP>
+      <VB>
+        <sign/>
+      </VB>
+      <S>
+        <VP>
+          <TO>
+            <to/>
+          </TO>
+          <VP>
+            <VB>
+              <Take/>
+            </VB>
+            <NP>
+              <DT>
+                <a/>
+              </DT>
+              <NN>
+                <Taxi/>
+              </NN>
+            </NP>
+          </VP>
+        </VP>
+      </S>
+    </VP>
+  </S>
+</ROOT>

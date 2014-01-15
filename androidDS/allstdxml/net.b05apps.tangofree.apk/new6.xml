@@ -1,0 +1,29 @@
+<ROOT>
+  <S>
+    <VP>
+      <VB>
+        <create/>
+      </VB>
+      <NP>
+        <NP>
+          <DT>
+            <an/>
+          </DT>
+          <NN>
+            <account/>
+          </NN>
+        </NP>
+        <PP>
+          <IN>
+            <in/>
+          </IN>
+          <NP>
+            <NNS>
+              <seconds/>
+            </NNS>
+          </NP>
+        </PP>
+      </NP>
+    </VP>
+  </S>
+</ROOT>

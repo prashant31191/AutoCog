@@ -1,0 +1,17 @@
+<ROOT>
+  <NP>
+    <NNP>
+      <29/>
+    </NNP>
+    <NNP>
+      <Bible/>
+    </NNP>
+    <NNP>
+      <commentaries/>
+    </NNP>
+  </NP>
+</ROOT>
+nn(commentaries-3, 29-1)
+nn(commentaries-3, Bible-2)
+root(ROOT-0, commentaries-3)
+

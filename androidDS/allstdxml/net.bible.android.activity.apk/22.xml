@@ -1,0 +1,42 @@
+<ROOT>
+  <NP>
+    <NP>
+      <NNS>
+        <Uses/>
+      </NNS>
+    </NP>
+    <NP>
+      <NP>
+        <DT>
+          <the/>
+        </DT>
+        <JJ>
+          <powerful/>
+        </JJ>
+        <NNP>
+          <JSword/>
+        </NNP>
+        <NN>
+          <engine/>
+        </NN>
+      </NP>
+      <PP>
+        <IN>
+          <from/>
+        </IN>
+        <NP>
+          <NNP>
+            <CrossWire/>
+          </NNP>
+        </NP>
+      </PP>
+    </NP>
+  </NP>
+</ROOT>
+root(ROOT-0, Uses-1)
+det(engine-5, the-2)
+amod(engine-5, powerful-3)
+nn(engine-5, JSword-4)
+dep(Uses-1, engine-5)
+prep_from(engine-5, CrossWire-7)
+

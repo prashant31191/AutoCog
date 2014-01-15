@@ -1,0 +1,41 @@
+<ROOT>
+  <NP>
+    <NP>
+      <CD>
+        <20/>
+      </CD>
+    </NP>
+    <NP>
+      <NP>
+        <NNP>
+          <Security/>
+        </NNP>
+        <NNP>
+          <Camera/>
+        </NNP>
+      </NP>
+      <CC>
+        <and/>
+      </CC>
+      <NP>
+        <JJ>
+          <Surveillance/>
+        </JJ>
+        <NN>
+          <app/>
+        </NN>
+        <NN>
+          <today/>
+        </NN>
+      </NP>
+    </NP>
+  </NP>
+</ROOT>
+root(ROOT-0, 20-1)
+nn(Camera-3, Security-2)
+dep(20-1, Camera-3)
+amod(today-7, Surveillance-5)
+nn(today-7, app-6)
+dep(20-1, today-7)
+conj_and(Camera-3, today-7)
+

@@ -1,0 +1,35 @@
+<ROOT>
+  <SINV>
+    <VP>
+      <VBN>
+        <myChatDroid/>
+      </VBN>
+      <PP>
+        <IN>
+          <for/>
+        </IN>
+        <NP>
+          <NNP>
+            <Facebook/>
+          </NNP>
+        </NP>
+      </PP>
+    </VP>
+    <VP>
+      <VBZ>
+        <supports/>
+      </VBZ>
+    </VP>
+    <NP>
+      <DT>
+        <the/>
+      </DT>
+      <JJ>
+        <following/>
+      </JJ>
+      <NNS>
+        <features/>
+      </NNS>
+    </NP>
+  </SINV>
+</ROOT>

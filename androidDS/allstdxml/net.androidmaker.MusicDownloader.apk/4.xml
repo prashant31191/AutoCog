@@ -1,0 +1,9 @@
+<ROOT>
+  <NP>
+    <NNP>
+      <WRITE_EXTERNAL_STORAGE/>
+    </NNP>
+  </NP>
+</ROOT>
+root(ROOT-0, WRITE_EXTERNAL_STORAGE-1)
+

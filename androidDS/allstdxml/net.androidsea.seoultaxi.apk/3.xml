@@ -1,0 +1,28 @@
+<ROOT>
+  <S>
+    <VP>
+      <VB>
+        <Call/>
+      </VB>
+      <NP>
+        <NN>
+          <Taxi/>
+        </NN>
+      </NP>
+      <PP>
+        <IN>
+          <in/>
+        </IN>
+        <NP>
+          <NNP>
+            <Seoul/>
+          </NNP>
+        </NP>
+      </PP>
+    </VP>
+  </S>
+</ROOT>
+root(ROOT-0, Call-1)
+dobj(Call-1, Taxi-2)
+prep_in(Call-1, Seoul-4)
+

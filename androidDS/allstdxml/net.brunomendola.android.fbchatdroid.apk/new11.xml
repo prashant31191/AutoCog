@@ -1,0 +1,34 @@
+<ROOT>
+  <SINV>
+    <VP>
+      <VBN>
+        <myChatDroid/>
+      </VBN>
+    </VP>
+    <VP>
+      <VBZ>
+        <requires/>
+      </VBZ>
+    </VP>
+    <NP>
+      <DT>
+        <these/>
+      </DT>
+      <NN>
+        <permissions/>
+      </NN>
+      <S>
+        <VP>
+          <TO>
+            <to/>
+          </TO>
+          <VP>
+            <VB>
+              <run/>
+            </VB>
+          </VP>
+        </VP>
+      </S>
+    </NP>
+  </SINV>
+</ROOT>

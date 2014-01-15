@@ -1,0 +1,13 @@
+<ROOT>
+  <NP>
+    <NNP>
+      <Orientation/>
+    </NNP>
+    <NNP>
+      <locking/>
+    </NNP>
+  </NP>
+</ROOT>
+nn(locking-2, Orientation-1)
+root(ROOT-0, locking-2)
+

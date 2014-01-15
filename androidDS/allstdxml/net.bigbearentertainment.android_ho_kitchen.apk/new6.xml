@@ -1,0 +1,29 @@
+<ROOT>
+  <X>
+    <CC>
+      <But/>
+    </CC>
+    <S>
+      <VP>
+        <VB>
+          <be/>
+        </VB>
+        <VP>
+          <VBN>
+            <prepared/>
+          </VBN>
+          <PP>
+            <IN>
+              <for/>
+            </IN>
+            <NP>
+              <NNS>
+                <surprises/>
+              </NNS>
+            </NP>
+          </PP>
+        </VP>
+      </VP>
+    </S>
+  </X>
+</ROOT>

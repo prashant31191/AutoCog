@@ -1,0 +1,38 @@
+<ROOT>
+  <NP>
+    <NP>
+      <NN>
+        <Share/>
+      </NN>
+    </NP>
+    <NP>
+      <NP>
+        <NNS>
+          <links/>
+        </NNS>
+        <CC>
+          <and/>
+        </CC>
+        <NNS>
+          <images/>
+        </NNS>
+      </NP>
+      <PP>
+        <IN>
+          <with/>
+        </IN>
+        <NP>
+          <NNS>
+            <friends/>
+          </NNS>
+        </NP>
+      </PP>
+    </NP>
+  </NP>
+</ROOT>
+root(ROOT-0, Share-1)
+dep(Share-1, links-2)
+dep(Share-1, images-4)
+conj_and(links-2, images-4)
+prep_with(links-2, friends-6)
+

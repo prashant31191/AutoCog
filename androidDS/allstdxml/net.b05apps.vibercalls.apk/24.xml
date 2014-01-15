@@ -1,0 +1,36 @@
+<ROOT>
+  <S>
+    <VP>
+      <VB>
+        <Follow/>
+      </VB>
+      <NP>
+        <PRP>
+          <us/>
+        </PRP>
+      </NP>
+      <PP>
+        <IN>
+          <for/>
+        </IN>
+        <NP>
+          <NNS>
+            <updates/>
+          </NNS>
+          <CC>
+            <and/>
+          </CC>
+          <NN>
+            <news/>
+          </NN>
+        </NP>
+      </PP>
+    </VP>
+  </S>
+</ROOT>
+root(ROOT-0, Follow-1)
+dobj(Follow-1, us-2)
+prep_for(Follow-1, updates-4)
+prep_for(Follow-1, news-6)
+conj_and(updates-4, news-6)
+

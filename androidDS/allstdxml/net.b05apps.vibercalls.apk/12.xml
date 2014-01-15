@@ -1,0 +1,32 @@
+<ROOT>
+  <NP>
+    <NP>
+      <NN>
+        <Share/>
+      </NN>
+      <NNS>
+        <photos/>
+      </NNS>
+    </NP>
+    <,>
+      <,/>
+    </,>
+    <NP>
+      <NNS>
+        <videos/>
+      </NNS>
+      <CC>
+        <and/>
+      </CC>
+      <NNS>
+        <locations/>
+      </NNS>
+    </NP>
+  </NP>
+</ROOT>
+nn(photos-2, Share-1)
+root(ROOT-0, photos-2)
+appos(photos-2, videos-4)
+appos(photos-2, locations-6)
+conj_and(videos-4, locations-6)
+

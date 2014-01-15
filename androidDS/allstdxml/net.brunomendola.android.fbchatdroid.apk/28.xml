@@ -1,0 +1,43 @@
+<ROOT>
+  <S>
+    <NP>
+      <NNS>
+        <THIS/>
+      </NNS>
+    </NP>
+    <VP>
+      <VBZ>
+        <IS/>
+      </VBZ>
+      <NP>
+        <DT>
+          <THE/>
+        </DT>
+        <NNP>
+          <APP/>
+        </NNP>
+        <NNP>
+          <FORMERLY/>
+        </NNP>
+        <NNP>
+          <KNOWN/>
+        </NNP>
+        <IN>
+          <AS/>
+        </IN>
+        <NNP>
+          <FBChatDroid/>
+        </NNP>
+      </NP>
+    </VP>
+  </S>
+</ROOT>
+nsubj(FBChatDroid-8, THIS-1)
+cop(FBChatDroid-8, IS-2)
+det(FBChatDroid-8, THE-3)
+nn(FBChatDroid-8, APP-4)
+nn(FBChatDroid-8, FORMERLY-5)
+nn(FBChatDroid-8, KNOWN-6)
+amod(FBChatDroid-8, AS-7)
+root(ROOT-0, FBChatDroid-8)
+

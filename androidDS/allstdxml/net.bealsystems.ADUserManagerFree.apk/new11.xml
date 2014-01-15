@@ -1,0 +1,22 @@
+<ROOT>
+  <NP>
+    <NP>
+      <NNP>
+        <Directory/>
+      </NNP>
+      <NNP>
+        <Search/>
+      </NNP>
+    </NP>
+    <PP>
+      <IN>
+        <for/>
+      </IN>
+      <NP>
+        <NNP>
+          <UserXXXXXGroupXXXXXComputer/>
+        </NNP>
+      </NP>
+    </PP>
+  </NP>
+</ROOT>

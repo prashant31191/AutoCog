@@ -1,0 +1,40 @@
+<ROOT>
+  <S>
+    <VP>
+      <VB>
+        <Search/>
+      </VB>
+      <NP>
+        <NN>
+          <icon/>
+        </NN>
+        <,>
+          <,/>
+        </,>
+        <NNS>
+          <bookmark/>
+        </NNS>
+        <NN>
+          <link/>
+        </NN>
+        <CC>
+          <and/>
+        </CC>
+        <NN>
+          <browser/>
+        </NN>
+        <NN>
+          <homepage/>
+        </NN>
+      </NP>
+    </VP>
+  </S>
+</ROOT>
+root(ROOT-0, Search-1)
+nn(link-5, icon-2)
+dep(link-5, bookmark-4)
+dobj(Search-1, link-5)
+nn(homepage-8, browser-7)
+dobj(Search-1, homepage-8)
+conj_and(link-5, homepage-8)
+

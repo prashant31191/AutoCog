@@ -1,0 +1,43 @@
+<ROOT>
+  <ADJP>
+    <RB>
+      <Destroy/>
+    </RB>
+    <SBAR>
+      <S>
+        <NP>
+          <PRP>
+            <it/>
+          </PRP>
+          <CC>
+            <and/>
+          </CC>
+          <PRP>
+            <you/>
+          </PRP>
+        </NP>
+        <VP>
+          <VBP>
+            <win/>
+          </VBP>
+          <NP>
+            <DT>
+              <the/>
+            </DT>
+            <NN>
+              <Level/>
+            </NN>
+          </NP>
+        </VP>
+      </S>
+    </SBAR>
+  </ADJP>
+</ROOT>
+root(ROOT-0, Destroy-1)
+nsubj(win-5, it-2)
+conj_and(it-2, you-4)
+nsubj(win-5, you-4)
+ccomp(Destroy-1, win-5)
+det(Level-7, the-6)
+dobj(win-5, Level-7)
+

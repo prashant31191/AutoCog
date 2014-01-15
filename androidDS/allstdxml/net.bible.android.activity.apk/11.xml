@@ -1,0 +1,21 @@
+<ROOT>
+  <S>
+    <VP>
+      <VB>
+        <Write/>
+      </VB>
+      <NP>
+        <JJ>
+          <personal/>
+        </JJ>
+        <NNS>
+          <notes/>
+        </NNS>
+      </NP>
+    </VP>
+  </S>
+</ROOT>
+root(ROOT-0, Write-1)
+amod(notes-3, personal-2)
+dobj(Write-1, notes-3)
+

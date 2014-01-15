@@ -1,0 +1,25 @@
+<ROOT>
+  <S>
+    <VP>
+      <VB>
+        <display/>
+      </VB>
+      <NP>
+        <DT>
+          <a/>
+        </DT>
+        <NN>
+          <search/>
+        </NN>
+        <NN>
+          <form/>
+        </NN>
+      </NP>
+    </VP>
+  </S>
+</ROOT>
+root(ROOT-0, display-1)
+det(form-4, a-2)
+nn(form-4, search-3)
+dobj(display-1, form-4)
+

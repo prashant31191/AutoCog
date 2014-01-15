@@ -1,0 +1,23 @@
+<ROOT>
+  <FRAG>
+    <NP>
+      <DT>
+        <This/>
+      </DT>
+      <JJ>
+        <Incredible/>
+      </JJ>
+      <NNP>
+        <Game/>
+      </NNP>
+      <NNP>
+        <Features/>
+      </NNP>
+    </NP>
+  </FRAG>
+</ROOT>
+det(Features-4, This-1)
+amod(Features-4, Incredible-2)
+nn(Features-4, Game-3)
+root(ROOT-0, Features-4)
+

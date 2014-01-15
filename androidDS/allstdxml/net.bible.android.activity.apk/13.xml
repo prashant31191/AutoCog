@@ -1,0 +1,13 @@
+<ROOT>
+  <NP>
+    <JJ>
+      <Flexible/>
+    </JJ>
+    <NN>
+      <search/>
+    </NN>
+  </NP>
+</ROOT>
+amod(search-2, Flexible-1)
+root(ROOT-0, search-2)
+

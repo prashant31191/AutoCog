@@ -1,0 +1,26 @@
+<ROOT>
+  <NP>
+    <NP>
+      <NN>
+        <widget/>
+      </NN>
+    </NP>
+    <PP>
+      <IN>
+        <with/>
+      </IN>
+      <NP>
+        <JJ>
+          <random/>
+        </JJ>
+        <NNS>
+          <jokes/>
+        </NNS>
+      </NP>
+    </PP>
+  </NP>
+</ROOT>
+root(ROOT-0, widget-1)
+amod(jokes-4, random-3)
+prep_with(widget-1, jokes-4)
+

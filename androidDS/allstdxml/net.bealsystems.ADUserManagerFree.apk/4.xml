@@ -1,0 +1,13 @@
+<ROOT>
+  <NP>
+    <NNP>
+      <Main/>
+    </NNP>
+    <NNPS>
+      <Features/>
+    </NNPS>
+  </NP>
+</ROOT>
+nn(Features-2, Main-1)
+root(ROOT-0, Features-2)
+

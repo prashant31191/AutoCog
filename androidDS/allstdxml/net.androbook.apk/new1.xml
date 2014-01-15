@@ -1,0 +1,21 @@
+<ROOT>
+  <NP>
+    <NP>
+      <NNS>
+        <THANKS/>
+      </NNS>
+    </NP>
+    <PP>
+      <IN>
+        <FOR/>
+      </IN>
+      <NP>
+        <CD>
+        </CD>
+        <NNS>
+          <DOWNLOADS/>
+        </NNS>
+      </NP>
+    </PP>
+  </NP>
+</ROOT>

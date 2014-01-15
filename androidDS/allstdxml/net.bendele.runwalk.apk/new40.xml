@@ -1,0 +1,36 @@
+<ROOT>
+  <S>
+    <VP>
+      <VB>
+        <Set/>
+      </VB>
+      <NP>
+        <DT>
+          <the/>
+        </DT>
+        <NNP>
+          <Notifications/>
+        </NNP>
+        <NN>
+          <audio/>
+        </NN>
+        <NN>
+          <stream/>
+        </NN>
+      </NP>
+      <PP>
+        <TO>
+          <to/>
+        </TO>
+        <NP>
+          <PRP>
+            <its/>
+          </PRP>
+          <NN>
+            <maximum/>
+          </NN>
+        </NP>
+      </PP>
+    </VP>
+  </S>
+</ROOT>

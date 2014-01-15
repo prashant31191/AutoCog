@@ -1,0 +1,47 @@
+<ROOT>
+  <S>
+    <NP>
+      <NNP>
+        <Statusbar\/Sound\/Vibration/>
+      </NNP>
+      <NNP>
+        <\//>
+      </NNP>
+    </NP>
+    <VP>
+      <VBP>
+        <LED/>
+      </VBP>
+      <NP>
+        <NP>
+          <NNS>
+            <notifications/>
+          </NNS>
+        </NP>
+        <PP>
+          <IN>
+            <on/>
+          </IN>
+          <NP>
+            <JJ>
+              <new/>
+            </JJ>
+            <NNS>
+              <messages/>
+            </NNS>
+          </NP>
+        </PP>
+      </NP>
+    </VP>
+    <:>
+      <;/>
+    </:>
+  </S>
+</ROOT>
+nn(\/-2, Statusbar\/Sound\/Vibration-1)
+nsubj(LED-3, \/-2)
+root(ROOT-0, LED-3)
+dobj(LED-3, notifications-4)
+amod(messages-7, new-6)
+prep_on(notifications-4, messages-7)
+

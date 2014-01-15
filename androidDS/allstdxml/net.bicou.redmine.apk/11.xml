@@ -1,0 +1,13 @@
+<ROOT>
+  <NP>
+    <NN>
+      <project/>
+    </NN>
+    <NN>
+      <overview/>
+    </NN>
+  </NP>
+</ROOT>
+nn(overview-2, project-1)
+root(ROOT-0, overview-2)
+

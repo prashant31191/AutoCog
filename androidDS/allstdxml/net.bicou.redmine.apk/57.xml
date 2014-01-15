@@ -1,0 +1,46 @@
+<ROOT>
+  <S>
+    <VP>
+      <VB>
+        <adapt/>
+      </VB>
+      <NP>
+        <NP>
+          <DT>
+            <the/>
+          </DT>
+          <NN>
+            <sync/>
+          </NN>
+          <NNS>
+            <settings/>
+          </NNS>
+        </NP>
+        <PP>
+          <IN>
+            <of/>
+          </IN>
+          <NP>
+            <PRP$>
+              <your/>
+            </PRP$>
+            <NNP>
+              <Redmine/>
+            </NNP>
+            <NNS>
+              <servers/>
+            </NNS>
+          </NP>
+        </PP>
+      </NP>
+    </VP>
+  </S>
+</ROOT>
+root(ROOT-0, adapt-1)
+det(settings-4, the-2)
+nn(settings-4, sync-3)
+dobj(adapt-1, settings-4)
+poss(servers-8, your-6)
+nn(servers-8, Redmine-7)
+prep_of(settings-4, servers-8)
+

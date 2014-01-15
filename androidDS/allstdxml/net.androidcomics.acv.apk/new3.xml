@@ -1,0 +1,36 @@
+<ROOT>
+  <SINV>
+    <VBZ>
+      <is/>
+    </VBZ>
+    <NP>
+      <NP>
+        <DT>
+          <a/>
+        </DT>
+        <JJ>
+          <lightweight/>
+        </JJ>
+        <NN>
+          <image/>
+        </NN>
+      </NP>
+      <NP>
+        <ADJP>
+          <JJ>
+            <comic/>
+          </JJ>
+          <CC>
+            <and/>
+          </CC>
+          <JJ>
+            <manga/>
+          </JJ>
+        </ADJP>
+        <NN>
+          <viewer/>
+        </NN>
+      </NP>
+    </NP>
+  </SINV>
+</ROOT>

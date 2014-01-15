@@ -1,0 +1,32 @@
+<ROOT>
+  <S>
+    <NP>
+      <DT>
+        <This/>
+      </DT>
+      <NN>
+        <app/>
+      </NN>
+    </NP>
+    <VP>
+      <VBZ>
+        <is/>
+      </VBZ>
+      <VP>
+        <VBN>
+          <supported/>
+        </VBN>
+        <PP>
+          <IN>
+            <via/>
+          </IN>
+          <NP>
+            <NN>
+              <search/>
+            </NN>
+          </NP>
+        </PP>
+      </VP>
+    </VP>
+  </S>
+</ROOT>

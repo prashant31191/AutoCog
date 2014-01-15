@@ -1,0 +1,23 @@
+<ROOT>
+  <S>
+    <VP>
+      <VB>
+        <Try/>
+      </VB>
+      <NP>
+        <PRP>
+          <it/>
+        </PRP>
+      </NP>
+      <ADVP>
+        <RB>
+          <now/>
+        </RB>
+      </ADVP>
+    </VP>
+  </S>
+</ROOT>
+root(ROOT-0, Try-1)
+dobj(Try-1, it-2)
+advmod(Try-1, now-3)
+

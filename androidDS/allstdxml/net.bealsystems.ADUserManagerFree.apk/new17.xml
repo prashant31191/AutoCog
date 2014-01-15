@@ -1,0 +1,30 @@
+<ROOT>
+  <S>
+    <VP>
+      <VB>
+        <Save/>
+      </VB>
+      <NP>
+        <NN>
+          <connection/>
+        </NN>
+        <NNS>
+          <settings/>
+        </NNS>
+      </NP>
+      <PP>
+        <IN>
+          <for/>
+        </IN>
+        <NP>
+          <JJ>
+            <multiple/>
+          </JJ>
+          <NNS>
+            <directories/>
+          </NNS>
+        </NP>
+      </PP>
+    </VP>
+  </S>
+</ROOT>

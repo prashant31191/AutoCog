@@ -1,0 +1,21 @@
+<ROOT>
+  <SBAR>
+    <WHADVP>
+      <WRB>
+        <How/>
+      </WRB>
+    </WHADVP>
+    <S>
+      <VP>
+        <TO>
+          <to/>
+        </TO>
+        <VP>
+          <VB>
+            <use/>
+          </VB>
+        </VP>
+      </VP>
+    </S>
+  </SBAR>
+</ROOT>

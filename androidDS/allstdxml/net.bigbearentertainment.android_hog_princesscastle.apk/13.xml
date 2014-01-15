@@ -1,0 +1,21 @@
+<ROOT>
+  <NP>
+    <NNP>
+      <3/>
+    </NNP>
+    <NNP>
+      <DIFFERENT/>
+    </NNP>
+    <NNP>
+      <SEARCH/>
+    </NNP>
+    <NNPS>
+      <MODES/>
+    </NNPS>
+  </NP>
+</ROOT>
+nn(MODES-4, 3-1)
+nn(MODES-4, DIFFERENT-2)
+nn(MODES-4, SEARCH-3)
+root(ROOT-0, MODES-4)
+

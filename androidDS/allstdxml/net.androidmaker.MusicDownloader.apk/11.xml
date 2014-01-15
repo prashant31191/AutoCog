@@ -1,0 +1,26 @@
+<ROOT>
+  <NP>
+    <NP>
+      <NNP>
+        <Auto/>
+      </NNP>
+      <NNP>
+        <Pause/>
+      </NNP>
+    </NP>
+    <PP>
+      <IN>
+        <during/>
+      </IN>
+      <NP>
+        <NNP>
+          <inbound/>
+        </NNP>
+      </NP>
+    </PP>
+  </NP>
+</ROOT>
+nn(Pause-2, Auto-1)
+root(ROOT-0, Pause-2)
+prep_during(Pause-2, inbound-4)
+

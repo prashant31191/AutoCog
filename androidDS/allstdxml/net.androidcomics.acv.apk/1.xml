@@ -1,0 +1,17 @@
+<ROOT>
+  <NP>
+    <DT>
+      <A/>
+    </DT>
+    <NNP>
+      <Comic/>
+    </NNP>
+    <NNP>
+      <Viewer/>
+    </NNP>
+  </NP>
+</ROOT>
+det(Viewer-3, A-1)
+nn(Viewer-3, Comic-2)
+root(ROOT-0, Viewer-3)
+

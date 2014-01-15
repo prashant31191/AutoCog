@@ -1,0 +1,28 @@
+<ROOT>
+  <S>
+    <VP>
+      <VB>
+        <Follow/>
+      </VB>
+      <NP>
+        <PRP>
+          <us/>
+        </PRP>
+      </NP>
+      <PP>
+        <IN>
+          <on/>
+        </IN>
+        <NP>
+          <NNP>
+            <Twitter/>
+          </NNP>
+        </NP>
+      </PP>
+    </VP>
+  </S>
+</ROOT>
+root(ROOT-0, Follow-1)
+dobj(Follow-1, us-2)
+prep_on(Follow-1, Twitter-4)
+

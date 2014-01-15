@@ -1,0 +1,27 @@
+<ROOT>
+  <S>
+    <NP>
+      <DT>
+        <The/>
+      </DT>
+      <NN>
+        <application/>
+      </NN>
+    </NP>
+    <VP>
+      <VBZ>
+        <is/>
+      </VBZ>
+      <ADJP>
+        <JJ>
+          <configurable/>
+        </JJ>
+      </ADJP>
+    </VP>
+  </S>
+</ROOT>
+det(application-2, The-1)
+nsubj(configurable-4, application-2)
+cop(configurable-4, is-3)
+root(ROOT-0, configurable-4)
+

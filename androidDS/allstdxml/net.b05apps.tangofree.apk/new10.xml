@@ -1,0 +1,31 @@
+<ROOT>
+  <NP>
+    <NP>
+      <JJ>
+        <Great/>
+      </JJ>
+      <NN>
+        <quality/>
+      </NN>
+    </NP>
+    <PP>
+      <IN>
+        <on/>
+      </IN>
+      <NP>
+        <CD>
+          <G/>
+        </CD>
+        <NNP>
+          <G/>
+        </NNP>
+        <CC>
+          <and/>
+        </CC>
+        <NNP>
+          <Wi-Fi/>
+        </NNP>
+      </NP>
+    </PP>
+  </NP>
+</ROOT>

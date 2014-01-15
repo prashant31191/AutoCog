@@ -1,0 +1,13 @@
+<ROOT>
+  <NP>
+    <NNP>
+      <Lil/>
+    </NNP>
+    <NNP>
+      <Wayne/>
+    </NNP>
+  </NP>
+</ROOT>
+nn(Wayne-2, Lil-1)
+root(ROOT-0, Wayne-2)
+

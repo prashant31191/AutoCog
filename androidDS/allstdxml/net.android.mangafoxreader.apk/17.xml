@@ -1,0 +1,13 @@
+<ROOT>
+  <NP>
+    <JJ>
+      <Latest/>
+    </JJ>
+    <NNS>
+      <releases/>
+    </NNS>
+  </NP>
+</ROOT>
+amod(releases-2, Latest-1)
+root(ROOT-0, releases-2)
+

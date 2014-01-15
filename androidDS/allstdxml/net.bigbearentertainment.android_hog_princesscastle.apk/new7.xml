@@ -1,0 +1,31 @@
+<ROOT>
+  <SINV>
+    <VP>
+      <VBP>
+        <EXPLORE/>
+      </VBP>
+      <NP>
+        <DT>
+          <A/>
+        </DT>
+        <JJ>
+          <ROYAL/>
+        </JJ>
+        <NN>
+          <WORLD/>
+        </NN>
+      </NP>
+    </VP>
+    <NP>
+      <NNP>
+        <INSIDE/>
+      </NNP>
+      <NNP>
+        <ELEGANT/>
+      </NNP>
+      <NNP>
+        <ROOMS/>
+      </NNP>
+    </NP>
+  </SINV>
+</ROOT>

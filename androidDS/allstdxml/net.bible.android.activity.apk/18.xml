@@ -1,0 +1,44 @@
+<ROOT>
+  <S>
+    <VP>
+      <VB>
+        <Compare/>
+      </VB>
+      <NP>
+        <DT>
+          <all/>
+        </DT>
+        <NNP>
+          <Bible/>
+        </NNP>
+        <NNS>
+          <translations/>
+        </NNS>
+      </NP>
+      <PP>
+        <IN>
+          <on/>
+        </IN>
+        <NP>
+          <DT>
+            <a/>
+          </DT>
+          <JJ>
+            <single/>
+          </JJ>
+          <NN>
+            <screen/>
+          </NN>
+        </NP>
+      </PP>
+    </VP>
+  </S>
+</ROOT>
+root(ROOT-0, Compare-1)
+det(translations-4, all-2)
+nn(translations-4, Bible-3)
+dobj(Compare-1, translations-4)
+det(screen-8, a-6)
+amod(screen-8, single-7)
+prep_on(Compare-1, screen-8)
+

@@ -1,0 +1,36 @@
+<ROOT>
+  <S>
+    <VP>
+      <VB>
+        <Compare/>
+      </VB>
+      <NP>
+        <DT>
+          <all/>
+        </DT>
+        <NNP>
+          <Bible/>
+        </NNP>
+        <NNS>
+          <translations/>
+        </NNS>
+      </NP>
+      <PP>
+        <IN>
+          <on/>
+        </IN>
+        <NP>
+          <DT>
+            <a/>
+          </DT>
+          <JJ>
+            <single/>
+          </JJ>
+          <NN>
+            <screen/>
+          </NN>
+        </NP>
+      </PP>
+    </VP>
+  </S>
+</ROOT>

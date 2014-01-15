@@ -1,0 +1,30 @@
+<ROOT>
+  <SBAR>
+    <IN>
+      <If/>
+    </IN>
+    <S>
+      <NP>
+        <DT>
+          <the/>
+        </DT>
+        <NN>
+          <sound/>
+        </NN>
+      </NP>
+      <VP>
+        <VBZ>
+          <does/>
+        </VBZ>
+        <NP>
+          <NNP>
+            <NOT/>
+          </NNP>
+          <NN>
+            <work/>
+          </NN>
+        </NP>
+      </VP>
+    </S>
+  </SBAR>
+</ROOT>

@@ -1,0 +1,32 @@
+<ROOT>
+  <NP>
+    <NP>
+      <JJ>
+        <Extensive/>
+      </JJ>
+      <NN>
+        <dictionary/>
+      </NN>
+    </NP>
+    <CC>
+      <and/>
+    </CC>
+    <NP>
+      <JJ>
+        <Christian/>
+      </JJ>
+      <NN>
+        <book/>
+      </NN>
+      <NN>
+        <collection/>
+      </NN>
+    </NP>
+  </NP>
+</ROOT>
+amod(dictionary-2, Extensive-1)
+root(ROOT-0, dictionary-2)
+amod(collection-6, Christian-4)
+nn(collection-6, book-5)
+conj_and(dictionary-2, collection-6)
+

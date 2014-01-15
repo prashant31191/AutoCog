@@ -1,0 +1,47 @@
+<ROOT>
+  <S>
+    <VP>
+      <VB>
+        <Toggle/>
+      </VB>
+      <NP>
+        <DT>
+          <a/>
+        </DT>
+        <ADJP>
+          <JJ>
+            <warm/>
+          </JJ>
+          <PRT>
+            <RP>
+              <up/>
+            </RP>
+          </PRT>
+        </ADJP>
+        <NN>
+          <interval/>
+        </NN>
+      </NP>
+      <ADVP>
+        <RP>
+          <on/>
+        </RP>
+        <CC>
+          <or/>
+        </CC>
+        <RP>
+          <off/>
+        </RP>
+      </ADVP>
+    </VP>
+  </S>
+</ROOT>
+root(ROOT-0, Toggle-1)
+det(interval-5, a-2)
+amod(interval-5, warm-3)
+dep(warm-3, up-4)
+dobj(Toggle-1, interval-5)
+advmod(Toggle-1, on-6)
+advmod(Toggle-1, off-8)
+conj_or(on-6, off-8)
+

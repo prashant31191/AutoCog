@@ -1,0 +1,30 @@
+<ROOT>
+  <VP>
+    <VBN>
+      <used/>
+    </VBN>
+    <S>
+      <VP>
+        <TO>
+          <to/>
+        </TO>
+        <VP>
+          <VB>
+            <cache/>
+          </VB>
+          <NP>
+            <DT>
+              <the/>
+            </DT>
+            <NNS>
+              <users/>
+            </NNS>
+            <NN>
+              <avatars/>
+            </NN>
+          </NP>
+        </VP>
+      </VP>
+    </S>
+  </VP>
+</ROOT>

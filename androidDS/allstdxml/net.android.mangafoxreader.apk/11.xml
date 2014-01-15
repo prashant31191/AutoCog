@@ -1,0 +1,25 @@
+<ROOT>
+  <S>
+    <VP>
+      <VB>
+        <Keep/>
+      </VB>
+      <NP>
+        <DT>
+          <the/>
+        </DT>
+        <NN>
+          <reading/>
+        </NN>
+        <NN>
+          <progression/>
+        </NN>
+      </NP>
+    </VP>
+  </S>
+</ROOT>
+root(ROOT-0, Keep-1)
+det(progression-4, the-2)
+nn(progression-4, reading-3)
+dobj(Keep-1, progression-4)
+

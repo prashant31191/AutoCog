@@ -1,0 +1,43 @@
+<ROOT>
+  <S>
+    <NP>
+      <PRP>
+        <You/>
+      </PRP>
+    </NP>
+    <VP>
+      <MD>
+        <can/>
+      </MD>
+      <VP>
+        <VB>
+          <delete\/replace/>
+        </VB>
+        <NP>
+          <DT>
+            <these/>
+          </DT>
+          <NN>
+            <search/>
+          </NN>
+          <NNS>
+            <points/>
+          </NNS>
+        </NP>
+        <ADVP>
+          <RB>
+            <easily/>
+          </RB>
+        </ADVP>
+      </VP>
+    </VP>
+  </S>
+</ROOT>
+nsubj(delete\/replace-3, You-1)
+aux(delete\/replace-3, can-2)
+root(ROOT-0, delete\/replace-3)
+det(points-6, these-4)
+nn(points-6, search-5)
+dobj(delete\/replace-3, points-6)
+advmod(delete\/replace-3, easily-7)
+

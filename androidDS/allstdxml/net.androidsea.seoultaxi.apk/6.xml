@@ -1,0 +1,15 @@
+<ROOT>
+  <FRAG>
+    <NP>
+      <DT>
+        <a/>
+      </DT>
+      <NN>
+        <sign/>
+      </NN>
+    </NP>
+  </FRAG>
+</ROOT>
+det(sign-2, a-1)
+root(ROOT-0, sign-2)
+

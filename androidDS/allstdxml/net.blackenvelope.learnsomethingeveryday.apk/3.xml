@@ -1,0 +1,13 @@
+<ROOT>
+  <NP>
+    <JJ>
+      <funny/>
+    </JJ>
+    <NNS>
+      <pictures/>
+    </NNS>
+  </NP>
+</ROOT>
+amod(pictures-2, funny-1)
+root(ROOT-0, pictures-2)
+

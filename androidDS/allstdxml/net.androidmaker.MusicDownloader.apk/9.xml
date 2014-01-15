@@ -1,0 +1,17 @@
+<ROOT>
+  <FRAG>
+    <ADJP>
+      <JJ>
+        <Download/>
+      </JJ>
+    </ADJP>
+    <ADJP>
+      <JJ>
+        <safe/>
+      </JJ>
+    </ADJP>
+  </FRAG>
+</ROOT>
+root(ROOT-0, Download-1)
+dep(Download-1, safe-2)
+

@@ -1,0 +1,36 @@
+<ROOT>
+  <NP>
+    <NP>
+      <NNS>
+        <Groups/>
+      </NNS>
+    </NP>
+    <PP>
+      <IN>
+        <with/>
+      </IN>
+      <NP>
+        <QP>
+          <IN>
+            <up/>
+          </IN>
+          <TO>
+            <to/>
+          </TO>
+          <CD>
+            <40/>
+          </CD>
+        </QP>
+        <NNS>
+          <participants/>
+        </NNS>
+      </NP>
+    </PP>
+  </NP>
+</ROOT>
+root(ROOT-0, Groups-1)
+quantmod(40-5, up-3)
+dep(40-5, to-4)
+num(participants-6, 40-5)
+prep_with(Groups-1, participants-6)
+

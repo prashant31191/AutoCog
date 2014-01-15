@@ -1,0 +1,40 @@
+<ROOT>
+  <S>
+    <VP>
+      <VB>
+        <Make/>
+      </VB>
+      <NP>
+        <JJ>
+          <free/>
+        </JJ>
+        <NNS>
+          <calls/>
+        </NNS>
+      </NP>
+      <PP>
+        <IN>
+          <with/>
+        </IN>
+        <NP>
+          <NNP>
+            <HD/>
+          </NNP>
+          <JJ>
+            <sound/>
+          </JJ>
+          <NN>
+            <quality/>
+          </NN>
+        </NP>
+      </PP>
+    </VP>
+  </S>
+</ROOT>
+root(ROOT-0, Make-1)
+amod(calls-3, free-2)
+dobj(Make-1, calls-3)
+nn(quality-7, HD-5)
+amod(quality-7, sound-6)
+prep_with(Make-1, quality-7)
+

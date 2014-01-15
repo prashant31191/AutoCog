@@ -1,0 +1,17 @@
+<ROOT>
+  <NP>
+    <NNP>
+      <Set/>
+    </NNP>
+    <NNP>
+      <user/>
+    </NNP>
+    <NNPS>
+      <Passwords/>
+    </NNPS>
+  </NP>
+</ROOT>
+nn(Passwords-3, Set-1)
+nn(Passwords-3, user-2)
+root(ROOT-0, Passwords-3)
+

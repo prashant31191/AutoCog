@@ -1,0 +1,31 @@
+<ROOT>
+  <S>
+    <NP>
+      <NN>
+        <Simple/>
+      </NN>
+    </NP>
+    <VP>
+      <VBP>
+        <find/>
+      </VBP>
+      <NP>
+        <JJ>
+          <only/>
+        </JJ>
+        <NNP>
+          <Locked/>
+        </NNP>
+        <NNS>
+          <users/>
+        </NNS>
+      </NP>
+    </VP>
+  </S>
+</ROOT>
+nsubj(find-2, Simple-1)
+root(ROOT-0, find-2)
+amod(users-5, only-3)
+nn(users-5, Locked-4)
+dobj(find-2, users-5)
+

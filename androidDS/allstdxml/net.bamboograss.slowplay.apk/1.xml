@@ -1,0 +1,23 @@
+<ROOT>
+  <FRAG>
+    <NP>
+      <NNP>
+        <High/>
+      </NNP>
+      <NNP>
+        <functional/>
+      </NNP>
+      <NN>
+        <video/>
+      </NN>
+      <NN>
+        <player/>
+      </NN>
+    </NP>
+  </FRAG>
+</ROOT>
+nn(player-4, High-1)
+nn(player-4, functional-2)
+nn(player-4, video-3)
+root(ROOT-0, player-4)
+

@@ -1,0 +1,28 @@
+<ROOT>
+  <NP>
+    <NP>
+      <NNP>
+        <+/>
+      </NNP>
+      <NNP>
+        <Fast/>
+      </NNP>
+    </NP>
+    <CC>
+      <and/>
+    </CC>
+    <NP>
+      <JJ>
+        <simple/>
+      </JJ>
+      <NN>
+        <setup/>
+      </NN>
+    </NP>
+  </NP>
+</ROOT>
+nn(Fast-2, +-1)
+root(ROOT-0, Fast-2)
+amod(setup-5, simple-4)
+conj_and(Fast-2, setup-5)
+

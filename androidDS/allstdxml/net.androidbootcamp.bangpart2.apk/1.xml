@@ -1,0 +1,13 @@
+<ROOT>
+  <NP>
+    <NNP>
+      <Chief/>
+    </NNP>
+    <NNP>
+      <Keef/>
+    </NNP>
+  </NP>
+</ROOT>
+nn(Keef-2, Chief-1)
+root(ROOT-0, Keef-2)
+

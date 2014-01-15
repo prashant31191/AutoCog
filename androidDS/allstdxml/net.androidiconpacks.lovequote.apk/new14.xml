@@ -1,0 +1,27 @@
+<ROOT>
+  <S>
+    <VP>
+      <VB>
+        <Thank/>
+      </VB>
+      <NP>
+        <PRP>
+          <you/>
+        </PRP>
+      </NP>
+      <PP>
+        <IN>
+          <for/>
+        </IN>
+        <NP>
+          <PRP>
+            <your/>
+          </PRP>
+          <NN>
+            <understanding/>
+          </NN>
+        </NP>
+      </PP>
+    </VP>
+  </S>
+</ROOT>

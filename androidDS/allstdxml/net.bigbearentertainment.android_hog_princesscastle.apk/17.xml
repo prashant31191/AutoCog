@@ -1,0 +1,22 @@
+<ROOT>
+  <X>
+    <NP>
+      <VBG>
+        <Challenging/>
+      </VBG>
+      <NN>
+        <Silhouettes/>
+      </NN>
+      <CC>
+        <and/>
+      </CC>
+      <NNS>
+        <Shadows/>
+      </NNS>
+    </NP>
+  </X>
+</ROOT>
+amod(Silhouettes-2, Challenging-1)
+root(ROOT-0, Silhouettes-2)
+conj_and(Silhouettes-2, Shadows-4)
+

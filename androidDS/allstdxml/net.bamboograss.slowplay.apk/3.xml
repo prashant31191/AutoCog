@@ -1,0 +1,13 @@
+<ROOT>
+  <NP>
+    <NNP>
+      <Fast/>
+    </NNP>
+    <NNP>
+      <Forward/>
+    </NNP>
+  </NP>
+</ROOT>
+nn(Forward-2, Fast-1)
+root(ROOT-0, Forward-2)
+

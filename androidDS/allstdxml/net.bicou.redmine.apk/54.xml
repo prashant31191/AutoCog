@@ -1,0 +1,25 @@
+<ROOT>
+  <S>
+    <NP>
+      <NNP>
+        <Read\/Use\/Write/>
+      </NNP>
+      <NNP>
+        <\//>
+      </NNP>
+      <NNP>
+        <Authenticate/>
+      </NNP>
+    </NP>
+    <VP>
+      <VBZ>
+        <accounts/>
+      </VBZ>
+    </VP>
+  </S>
+</ROOT>
+nn(Authenticate-3, Read\/Use\/Write-1)
+nn(Authenticate-3, \/-2)
+nsubj(accounts-4, Authenticate-3)
+root(ROOT-0, accounts-4)
+

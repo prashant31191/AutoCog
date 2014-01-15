@@ -1,0 +1,38 @@
+<ROOT>
+  <NP>
+    <NP>
+      <NNP>
+        <Star/>
+      </NNP>
+    </NP>
+    <NP>
+      <NP>
+        <PRP$>
+          <your/>
+        </PRP$>
+        <NNS>
+          <favorites/>
+        </NNS>
+      </NP>
+      <PP>
+        <IN>
+          <for/>
+        </IN>
+        <NP>
+          <JJ>
+            <later/>
+          </JJ>
+          <NN>
+            <reading/>
+          </NN>
+        </NP>
+      </PP>
+    </NP>
+  </NP>
+</ROOT>
+root(ROOT-0, Star-1)
+poss(favorites-3, your-2)
+dep(Star-1, favorites-3)
+amod(reading-6, later-5)
+prep_for(favorites-3, reading-6)
+

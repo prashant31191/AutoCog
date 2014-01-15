@@ -1,0 +1,25 @@
+<ROOT>
+  <S>
+    <NP>
+      <NN>
+        <Love/>
+      </NN>
+      <NNS>
+        <quotes/>
+      </NNS>
+    </NP>
+    <VP>
+      <VBZ>
+        <has/>
+      </VBZ>
+      <NP>
+        <JJ>
+          <many/>
+        </JJ>
+        <NNS>
+          <categories/>
+        </NNS>
+      </NP>
+    </VP>
+  </S>
+</ROOT>

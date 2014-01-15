@@ -1,0 +1,17 @@
+<ROOT>
+  <NP>
+    <NNP>
+      <HTTP/>
+    </NNP>
+    <NNP>
+      <Basic/>
+    </NNP>
+    <NNP>
+      <Authentication/>
+    </NNP>
+  </NP>
+</ROOT>
+nn(Authentication-3, HTTP-1)
+nn(Authentication-3, Basic-2)
+root(ROOT-0, Authentication-3)
+

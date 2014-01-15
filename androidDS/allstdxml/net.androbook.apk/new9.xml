@@ -1,0 +1,23 @@
+<ROOT>
+  <S>
+    <VP>
+      <VB>
+        <Cache/>
+      </VB>
+      <NP>
+        <JJ>
+          <next/>
+        </JJ>
+        <CC>
+          <and/>
+        </CC>
+        <JJ>
+          <previous/>
+        </JJ>
+        <NN>
+          <page/>
+        </NN>
+      </NP>
+    </VP>
+  </S>
+</ROOT>

@@ -1,0 +1,23 @@
+<ROOT>
+  <FRAG>
+    <NP>
+      <NN>
+        <support/>
+      </NN>
+      <NN>
+        <image/>
+      </NN>
+      <NN>
+        <file/>
+      </NN>
+      <NN>
+        <format/>
+      </NN>
+    </NP>
+  </FRAG>
+</ROOT>
+nn(format-4, support-1)
+nn(format-4, image-2)
+nn(format-4, file-3)
+root(ROOT-0, format-4)
+

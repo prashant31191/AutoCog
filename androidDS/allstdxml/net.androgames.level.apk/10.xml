@@ -1,0 +1,25 @@
+<ROOT>
+  <S>
+    <NP>
+      <DT>
+        <No/>
+      </DT>
+      <NN>
+        <Internet/>
+      </NN>
+      <NN>
+        <access/>
+      </NN>
+    </NP>
+    <VP>
+      <VBN>
+        <required/>
+      </VBN>
+    </VP>
+  </S>
+</ROOT>
+det(access-3, No-1)
+nn(access-3, Internet-2)
+nsubj(required-4, access-3)
+root(ROOT-0, required-4)
+

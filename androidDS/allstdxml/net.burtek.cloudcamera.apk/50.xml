@@ -1,0 +1,13 @@
+<ROOT>
+  <NP>
+    <NNP>
+      <STAY/>
+    </NNP>
+    <NNP>
+      <CONNECTED/>
+    </NNP>
+  </NP>
+</ROOT>
+nn(CONNECTED-2, STAY-1)
+root(ROOT-0, CONNECTED-2)
+

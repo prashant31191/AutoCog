@@ -1,0 +1,38 @@
+<ROOT>
+  <S>
+    <VP>
+      <ADVP>
+        <RB>
+          <Remotely/>
+        </RB>
+      </ADVP>
+      <VB>
+        <record/>
+      </VB>
+      <CC>
+        <and/>
+      </CC>
+      <VB>
+        <watch/>
+      </VB>
+      <NP>
+        <DT>
+          <the/>
+        </DT>
+        <JJ>
+          <live/>
+        </JJ>
+        <NN>
+          <action/>
+        </NN>
+      </NP>
+    </VP>
+  </S>
+</ROOT>
+advmod(record-2, Remotely-1)
+root(ROOT-0, record-2)
+conj_and(record-2, watch-4)
+det(action-7, the-5)
+amod(action-7, live-6)
+dobj(record-2, action-7)
+

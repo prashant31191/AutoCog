@@ -1,0 +1,33 @@
+<ROOT>
+  <VP>
+    <VBN>
+      <required/>
+    </VBN>
+    <S>
+      <VP>
+        <TO>
+          <to/>
+        </TO>
+        <VP>
+          <VB>
+            <access/>
+          </VB>
+          <NP>
+            <PRP$>
+              <your/>
+            </PRP$>
+            <NN>
+              <server/>
+            </NN>
+          </NP>
+        </VP>
+      </VP>
+    </S>
+  </VP>
+</ROOT>
+root(ROOT-0, required-1)
+aux(access-3, to-2)
+xcomp(required-1, access-3)
+poss(server-5, your-4)
+dobj(access-3, server-5)
+

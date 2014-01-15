@@ -1,0 +1,17 @@
+<ROOT>
+  <VP>
+    <VBN>
+      <Localized/>
+    </VBN>
+    <S>
+      <VP>
+        <TO>
+          <to/>
+        </TO>
+      </VP>
+    </S>
+  </VP>
+</ROOT>
+root(ROOT-0, Localized-1)
+xcomp(Localized-1, to-2)
+

@@ -1,0 +1,28 @@
+<ROOT>
+  <S>
+    <NP>
+      <NP>
+        <DT>
+          <No/>
+        </DT>
+        <NNS>
+          <ads/>
+        </NNS>
+      </NP>
+      <CC>
+        <and/>
+      </CC>
+      <NP>
+        <CD>
+        </CD>
+        <NN>
+        </NN>
+      </NP>
+    </NP>
+    <ADJP>
+      <JJ>
+        <free/>
+      </JJ>
+    </ADJP>
+  </S>
+</ROOT>

@@ -1,0 +1,32 @@
+<ROOT>
+  <S>
+    <VP>
+      <VB>
+        <Thank/>
+      </VB>
+      <NP>
+        <PRP>
+          <you/>
+        </PRP>
+      </NP>
+      <PP>
+        <IN>
+          <for/>
+        </IN>
+        <NP>
+          <PRP$>
+            <your/>
+          </PRP$>
+          <NN>
+            <understanding/>
+          </NN>
+        </NP>
+      </PP>
+    </VP>
+  </S>
+</ROOT>
+root(ROOT-0, Thank-1)
+dobj(Thank-1, you-2)
+poss(understanding-5, your-4)
+prep_for(Thank-1, understanding-5)
+

@@ -1,0 +1,17 @@
+<ROOT>
+  <NP>
+    <NNP>
+      <Read\/Write/>
+    </NNP>
+    <NNP>
+      <SD/>
+    </NNP>
+    <NNP>
+      <card/>
+    </NNP>
+  </NP>
+</ROOT>
+nn(card-3, Read\/Write-1)
+nn(card-3, SD-2)
+root(ROOT-0, card-3)
+

@@ -1,0 +1,24 @@
+<ROOT>
+  <S>
+    <VP>
+      <VB>
+        <Create/>
+      </VB>
+      <CC>
+        <and/>
+      </CC>
+      <VB>
+        <send/>
+      </VB>
+      <NP>
+        <NNS>
+          <doodles/>
+        </NNS>
+      </NP>
+    </VP>
+  </S>
+</ROOT>
+root(ROOT-0, Create-1)
+conj_and(Create-1, send-3)
+dobj(Create-1, doodles-4)
+

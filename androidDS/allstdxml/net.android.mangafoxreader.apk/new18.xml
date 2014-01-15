@@ -1,0 +1,37 @@
+<ROOT>
+  <S>
+    <VP>
+      <VB>
+        <show/>
+      </VB>
+      <NP>
+        <NP>
+          <DT>
+            <the/>
+          </DT>
+          <JJS>
+            <latest/>
+          </JJS>
+          <NNS>
+            <chapters/>
+          </NNS>
+        </NP>
+        <VP>
+          <VBN>
+            <added/>
+          </VBN>
+          <PP>
+            <IN>
+              <on/>
+            </IN>
+            <NP>
+              <NN>
+                <mangafox/>
+              </NN>
+            </NP>
+          </PP>
+        </VP>
+      </NP>
+    </VP>
+  </S>
+</ROOT>

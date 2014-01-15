@@ -1,0 +1,31 @@
+<ROOT>
+  <S>
+    <NP>
+      <TO>
+        <to/>
+      </TO>
+    </NP>
+    <VP>
+      <VBP>
+        <connect/>
+      </VBP>
+      <S>
+        <VP>
+          <TO>
+            <to/>
+          </TO>
+          <VP>
+            <VB>
+              <chat/>
+            </VB>
+            <NP>
+              <NN>
+                <server/>
+              </NN>
+            </NP>
+          </VP>
+        </VP>
+      </S>
+    </VP>
+  </S>
+</ROOT>

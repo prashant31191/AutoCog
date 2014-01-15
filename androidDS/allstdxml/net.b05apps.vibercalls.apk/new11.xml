@@ -1,0 +1,33 @@
+<ROOT>
+  <VP>
+    <VBN>
+      <Send/>
+    </VBN>
+    <NP>
+      <NNS>
+        <stickers/>
+      </NNS>
+      <CC>
+        <and/>
+      </CC>
+      <NNS>
+        <emoticons/>
+      </NNS>
+    </NP>
+    <S>
+      <VP>
+        <VBG>
+          <making/>
+        </VBG>
+        <NP>
+          <JJ>
+            <messaging/>
+          </JJ>
+          <NN>
+            <fun/>
+          </NN>
+        </NP>
+      </VP>
+    </S>
+  </VP>
+</ROOT>

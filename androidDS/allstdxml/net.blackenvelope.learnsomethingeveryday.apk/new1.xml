@@ -1,0 +1,27 @@
+<ROOT>
+  <NP>
+    <NP>
+      <NN>
+        <Learn/>
+      </NN>
+      <NN>
+        <something/>
+      </NN>
+    </NP>
+    <NP>
+      <NP>
+        <JJ>
+          <new/>
+        </JJ>
+      </NP>
+      <NP>
+        <DT>
+          <every/>
+        </DT>
+        <NN>
+          <day/>
+        </NN>
+      </NP>
+    </NP>
+  </NP>
+</ROOT>

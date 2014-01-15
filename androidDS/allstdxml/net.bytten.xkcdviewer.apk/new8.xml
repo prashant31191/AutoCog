@@ -1,0 +1,29 @@
+<ROOT>
+  <S>
+    <VP>
+      <VB>
+        <Search/>
+      </VB>
+      <PP>
+        <IN>
+          <for/>
+        </IN>
+        <NP>
+          <NNS>
+            <comics/>
+          </NNS>
+        </NP>
+      </PP>
+      <PP>
+        <IN>
+          <by/>
+        </IN>
+        <NP>
+          <NN>
+            <title/>
+          </NN>
+        </NP>
+      </PP>
+    </VP>
+  </S>
+</ROOT>

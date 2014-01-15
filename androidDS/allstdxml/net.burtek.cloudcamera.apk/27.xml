@@ -1,0 +1,30 @@
+<ROOT>
+  <FRAG>
+    <ADVP>
+      <RB>
+        <+/>
+      </RB>
+    </ADVP>
+    <PP>
+      <IN>
+        <In/>
+      </IN>
+      <NP>
+        <NN>
+          <app/>
+        </NN>
+        <NN>
+          <alarm/>
+        </NN>
+        <NNS>
+          <alerts/>
+        </NNS>
+      </NP>
+    </PP>
+  </FRAG>
+</ROOT>
+root(ROOT-0, +-1)
+nn(alerts-5, app-3)
+nn(alerts-5, alarm-4)
+prep_in(+-1, alerts-5)
+

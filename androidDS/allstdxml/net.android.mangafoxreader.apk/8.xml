@@ -1,0 +1,25 @@
+<ROOT>
+  <S>
+    <VP>
+      <VB>
+        <Browse/>
+      </VB>
+      <NP>
+        <DT>
+          <the/>
+        </DT>
+        <NN>
+          <manga/>
+        </NN>
+        <NN>
+          <directory/>
+        </NN>
+      </NP>
+    </VP>
+  </S>
+</ROOT>
+root(ROOT-0, Browse-1)
+det(directory-4, the-2)
+nn(directory-4, manga-3)
+dobj(Browse-1, directory-4)
+

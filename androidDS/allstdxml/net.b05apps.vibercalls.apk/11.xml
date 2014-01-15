@@ -1,0 +1,44 @@
+<ROOT>
+  <VP>
+    <VBN>
+      <Send/>
+    </VBN>
+    <NP>
+      <NNS>
+        <stickers/>
+      </NNS>
+      <CC>
+        <and/>
+      </CC>
+      <NNS>
+        <emoticons/>
+      </NNS>
+    </NP>
+    <,>
+      <,/>
+    </,>
+    <S>
+      <VP>
+        <VBG>
+          <making/>
+        </VBG>
+        <NP>
+          <JJ>
+            <messaging/>
+          </JJ>
+          <NN>
+            <fun/>
+          </NN>
+        </NP>
+      </VP>
+    </S>
+  </VP>
+</ROOT>
+root(ROOT-0, Send-1)
+dobj(Send-1, stickers-2)
+dobj(Send-1, emoticons-4)
+conj_and(stickers-2, emoticons-4)
+partmod(Send-1, making-6)
+amod(fun-8, messaging-7)
+dobj(making-6, fun-8)
+

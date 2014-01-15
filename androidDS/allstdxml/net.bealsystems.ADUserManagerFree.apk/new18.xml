@@ -1,0 +1,28 @@
+<ROOT>
+  <NP>
+    <NP>
+      <JJ>
+        <Unlimited/>
+      </JJ>
+      <NN>
+        <directory/>
+      </NN>
+      <NN>
+        <size/>
+      </NN>
+    </NP>
+    <PRN>
+      <NP>
+        <NN>
+          <result/>
+        </NN>
+        <NN>
+          <size/>
+        </NN>
+        <NNS>
+          <adjustable/>
+        </NNS>
+      </NP>
+    </PRN>
+  </NP>
+</ROOT>

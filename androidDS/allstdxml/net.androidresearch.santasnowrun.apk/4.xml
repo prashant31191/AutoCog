@@ -1,0 +1,44 @@
+<ROOT>
+  <FRAG>
+    <NP>
+      <NP>
+        <NN>
+          <Snowman/>
+        </NN>
+      </NP>
+      <,>
+        <,/>
+      </,>
+      <NP>
+        <NNP>
+          <Giant/>
+        </NNP>
+        <NNP>
+          <Snowballs/>
+        </NNP>
+      </NP>
+      <,>
+        <,/>
+      </,>
+      <NP>
+        <NNP>
+          <Grinch/>
+        </NNP>
+      </NP>
+      <CC>
+        <and/>
+      </CC>
+      <NP>
+        <JJR>
+          <more/>
+        </JJR>
+      </NP>
+    </NP>
+  </FRAG>
+</ROOT>
+root(ROOT-0, Snowman-1)
+nn(Snowballs-4, Giant-3)
+conj_and(Snowman-1, Snowballs-4)
+conj_and(Snowman-1, Grinch-6)
+conj_and(Snowman-1, more-8)
+

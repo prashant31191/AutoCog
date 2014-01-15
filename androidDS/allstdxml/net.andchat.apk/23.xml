@@ -1,0 +1,13 @@
+<ROOT>
+  <NP>
+    <NNP>
+      <SSL/>
+    </NNP>
+    <NNP>
+      <Support/>
+    </NNP>
+  </NP>
+</ROOT>
+nn(Support-2, SSL-1)
+root(ROOT-0, Support-2)
+

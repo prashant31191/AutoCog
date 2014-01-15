@@ -1,0 +1,41 @@
+<ROOT>
+  <S>
+    <NP>
+      <TO>
+        <to/>
+      </TO>
+    </NP>
+    <VP>
+      <VBP>
+        <connect/>
+      </VBP>
+      <S>
+        <VP>
+          <TO>
+            <to/>
+          </TO>
+          <VP>
+            <VB>
+              <chat/>
+            </VB>
+            <NP>
+              <NN>
+                <server/>
+              </NN>
+            </NP>
+          </VP>
+        </VP>
+      </S>
+    </VP>
+    <:>
+      <;/>
+    </:>
+  </S>
+</ROOT>
+nsubj(connect-2, to-1)
+xsubj(chat-4, to-1)
+root(ROOT-0, connect-2)
+aux(chat-4, to-3)
+xcomp(connect-2, chat-4)
+dobj(chat-4, server-5)
+

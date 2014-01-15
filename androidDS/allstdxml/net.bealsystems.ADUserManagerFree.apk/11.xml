@@ -1,0 +1,26 @@
+<ROOT>
+  <NP>
+    <NP>
+      <NNP>
+        <Directory/>
+      </NNP>
+      <NNP>
+        <Search/>
+      </NNP>
+    </NP>
+    <PP>
+      <IN>
+        <for/>
+      </IN>
+      <NP>
+        <NNP>
+          <User\/Group\/Computer/>
+        </NNP>
+      </NP>
+    </PP>
+  </NP>
+</ROOT>
+nn(Search-2, Directory-1)
+root(ROOT-0, Search-2)
+prep_for(Search-2, User\/Group\/Computer-4)
+

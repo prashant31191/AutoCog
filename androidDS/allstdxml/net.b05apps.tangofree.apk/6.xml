@@ -1,0 +1,34 @@
+<ROOT>
+  <S>
+    <VP>
+      <VB>
+        <create/>
+      </VB>
+      <NP>
+        <NP>
+          <DT>
+            <an/>
+          </DT>
+          <NN>
+            <account/>
+          </NN>
+        </NP>
+        <PP>
+          <IN>
+            <in/>
+          </IN>
+          <NP>
+            <NNS>
+              <seconds/>
+            </NNS>
+          </NP>
+        </PP>
+      </NP>
+    </VP>
+  </S>
+</ROOT>
+root(ROOT-0, create-1)
+det(account-3, an-2)
+dobj(create-1, account-3)
+prep_in(account-3, seconds-5)
+

@@ -1,0 +1,34 @@
+<ROOT>
+  <UCP>
+    <VP>
+      <VBN>
+        <Permission/>
+      </VBN>
+      <S>
+        <VP>
+          <TO>
+            <to/>
+          </TO>
+          <VP>
+            <VB>
+              <use/>
+            </VB>
+          </VP>
+        </VP>
+      </S>
+    </VP>
+    <CC>
+      <and/>
+    </CC>
+    <ADJP>
+      <JJ>
+        <why/>
+      </JJ>
+    </ADJP>
+  </UCP>
+</ROOT>
+root(ROOT-0, Permission-1)
+aux(use-3, to-2)
+xcomp(Permission-1, use-3)
+conj_and(Permission-1, why-5)
+

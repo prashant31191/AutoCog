@@ -1,0 +1,21 @@
+<ROOT>
+  <S>
+    <VP>
+      <VB>
+        <Download/>
+      </VB>
+      <NP>
+        <DT>
+          <the/>
+        </DT>
+        <CD>
+          <20/>
+        </CD>
+      </NP>
+    </VP>
+  </S>
+</ROOT>
+root(ROOT-0, Download-1)
+det(20-3, the-2)
+dobj(Download-1, 20-3)
+

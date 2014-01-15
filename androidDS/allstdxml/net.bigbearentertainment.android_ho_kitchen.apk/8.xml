@@ -1,0 +1,39 @@
+<ROOT>
+  <NP>
+    <NP>
+      <CD>
+        <3/>
+      </CD>
+    </NP>
+    <NP>
+      <NNP>
+        <DIFFERENT/>
+      </NNP>
+      <NNP>
+        <BUT/>
+      </NNP>
+      <NNP>
+        <EQUALLY/>
+      </NNP>
+    </NP>
+    <NP>
+      <NNP>
+        <FUN/>
+      </NNP>
+      <NNP>
+        <GAME/>
+      </NNP>
+      <NNP>
+        <MODES/>
+      </NNP>
+    </NP>
+  </NP>
+</ROOT>
+root(ROOT-0, 3-1)
+nn(EQUALLY-4, DIFFERENT-2)
+nn(EQUALLY-4, BUT-3)
+dep(3-1, EQUALLY-4)
+nn(MODES-7, FUN-5)
+nn(MODES-7, GAME-6)
+dep(3-1, MODES-7)
+

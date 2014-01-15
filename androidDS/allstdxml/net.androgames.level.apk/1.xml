@@ -1,0 +1,17 @@
+<ROOT>
+  <NP>
+    <DT>
+      <A/>
+    </DT>
+    <NN>
+      <spirit/>
+    </NN>
+    <NN>
+      <level/>
+    </NN>
+  </NP>
+</ROOT>
+det(level-3, A-1)
+nn(level-3, spirit-2)
+root(ROOT-0, level-3)
+

@@ -1,0 +1,26 @@
+<ROOT>
+  <S>
+    <NP>
+      <NNP>
+        <Cutting/>
+      </NNP>
+      <NNP>
+        <Tools/>
+      </NNP>
+    </NP>
+    <VP>
+      <VBD>
+        <supported/>
+      </VBD>
+      <SBAR>
+        <S>
+          <VP>
+            <VBP>
+              <are/>
+            </VBP>
+          </VP>
+        </S>
+      </SBAR>
+    </VP>
+  </S>
+</ROOT>

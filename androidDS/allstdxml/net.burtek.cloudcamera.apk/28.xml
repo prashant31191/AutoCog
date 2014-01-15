@@ -1,0 +1,17 @@
+<ROOT>
+  <NP>
+    <NNP>
+      <+/>
+    </NNP>
+    <NNP>
+      <Multiple/>
+    </NNP>
+    <NNP>
+      <recipients/>
+    </NNP>
+  </NP>
+</ROOT>
+nn(recipients-3, +-1)
+nn(recipients-3, Multiple-2)
+root(ROOT-0, recipients-3)
+
