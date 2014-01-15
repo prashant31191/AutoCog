@@ -1,0 +1,1463 @@
+selection
+contain	0.944827586207	145
+
+custom message
+wipe	1.0	5
+reject	1.0	3
+exit	1.0	5
+
+data charge
+contact	1.0	39
+wipe	0.857142857143	14
+
+ringtones
+bring	1.0	7
+spamman	1.0	20
+jazz	1.0	5
+associate	1.0	57
+convert	1.0	4
+ring	1.0	3
+support	1.0	68
+iphone	1.0	4
+say	1.0	8
+rat	1.0	71
+worry	1.0	4
+android	1.0	27
+data	1.0	5
+delete	0.9875	80
+offer	0.97619047619	42
+personalize	0.941176470588	17
+hold	0.911764705882	102
+need	0.888888888889	27
+assign	0.872881355932	118
+look	0.857142857143	7
+re-assign	0.857142857143	7
+include	0.842105263158	95
+create	0.80487804878	41
+
+data connection
+contact	1.0	39
+wipe	0.866666666667	15
+
+photo message
+wipe	1.0	6
+reject	1.0	3
+exit	1.0	5
+delete	0.882978723404	94
+
+personal data
+contact	1.0	39
+wipe	0.866666666667	15
+
+unlimited number
+feel	1.0	20
+enjoy	0.952380952381	21
+
+text message
+wipe	1.0	6
+reject	1.0	3
+exit	1.0	5
+delete	0.882978723404	94
+
+voice message
+wipe	1.0	6
+reject	1.0	3
+exit	1.0	5
+
+critical alert
+support	0.944444444444	36
+
+mobile tracker
+compatible	1.0	3
+
+real-time notification
+rat	1.0	43
+assign	1.0	7
+
+notification ringtones
+associate	1.0	26
+iphone	1.0	4
+convert	1.0	4
+say	1.0	5
+rat	1.0	43
+spamman	1.0	20
+worry	1.0	4
+delete	0.962962962963	81
+hold	0.918032786885	61
+android	0.892857142857	28
+personalize	0.884615384615	26
+assign	0.875	80
+re-assign	0.857142857143	7
+
+great quality
+inclued	1.0	4
+include	0.810810810811	37
+
+real-time data
+contact	1.0	39
+wipe	0.866666666667	15
+
+mobile network
+compatible	1.0	3
+refer	0.904761904762	42
+customizable	0.883720930233	43
+
+real-time alert
+support	0.944444444444	36
+
+handcent message
+wipe	1.0	6
+reject	1.0	3
+rat	1.0	36
+exit	1.0	5
+delete	0.873684210526	95
+
+notification sound
+associate	1.0	3
+jazz	1.0	3
+rat	1.0	87
+wav	1.0	3
+delete	0.962962962963	81
+refer	0.904761904762	42
+personalize	0.882352941176	17
+pick	0.857142857143	7
+customizable	0.844444444444	45
+
+secure message
+wipe	1.0	6
+reject	1.0	3
+exit	1.0	5
+delete	0.882978723404	94
+
+contact page
+unblock	1.0	4
+wipe	1.0	6
+duplicate	1.0	4
+hold	1.0	9
+switch	1.0	6
+merge	1.0	4
+clean	1.0	3
+personalize	1.0	8
+protect	1.0	3
+export	1.0	4
+ringtone	0.981132075472	53
+change	0.857142857143	7
+re-assign	0.857142857143	7
+modify	0.833333333333	6
+transfer	0.833333333333	6
+set	0.830769230769	130
+
+cellular data
+contact	1.0	39
+wipe	0.9	10
+
+unlimited
+feel	1.0	20
+enjoy	0.952380952381	21
+
+message alert
+wipe	1.0	5
+reject	1.0	3
+exit	1.0	5
+support	0.822222222222	45
+
+different ringtones
+bring	1.0	7
+spamman	1.0	20
+jazz	1.0	5
+associate	1.0	57
+convert	1.0	4
+ring	1.0	3
+support	1.0	68
+iphone	1.0	4
+say	1.0	8
+rat	1.0	71
+worry	1.0	4
+android	1.0	27
+data	1.0	5
+delete	0.9875	80
+offer	0.97619047619	42
+personalize	0.941176470588	17
+hold	0.911764705882	102
+need	0.888888888889	27
+assign	0.872881355932	118
+look	0.857142857143	7
+re-assign	0.857142857143	7
+include	0.842105263158	95
+create	0.80487804878	41
+
+contact developer
+unblock	1.0	4
+wipe	1.0	6
+duplicate	1.0	4
+hold	1.0	10
+switch	1.0	6
+merge	1.0	4
+clean	1.0	3
+personalize	1.0	8
+protect	1.0	3
+export	1.0	4
+ringtone	0.981132075472	53
+change	0.857142857143	7
+re-assign	0.857142857143	7
+modify	0.833333333333	6
+transfer	0.833333333333	6
+set	0.817518248175	137
+
+hd quality
+inclued	1.0	4
+include	0.810810810811	37
+
+message text
+wipe	1.0	6
+reject	1.0	3
+exit	1.0	5
+delete	0.882978723404	94
+
+contact detail
+unblock	1.0	4
+wipe	1.0	6
+duplicate	1.0	4
+hold	1.0	10
+switch	1.0	6
+merge	1.0	4
+clean	1.0	3
+personalize	1.0	8
+protect	1.0	3
+export	1.0	4
+ringtone	0.981132075472	53
+change	0.857142857143	7
+re-assign	0.857142857143	7
+modify	0.833333333333	6
+transfer	0.833333333333	6
+set	0.817518248175	137
+
+good quality
+inclued	1.0	4
+include	0.810810810811	37
+
+message mms
+wipe	1.0	6
+reject	1.0	3
+rat	1.0	36
+exit	1.0	5
+delete	0.873684210526	95
+
+original sound
+associate	1.0	3
+personalize	1.0	8
+wav	1.0	3
+rat	1.0	44
+delete	0.987341772152	79
+customizable	0.904761904762	42
+refer	0.904761904762	42
+allow	0.871428571429	70
+let	0.857142857143	7
+pick	0.857142857143	7
+
+private message
+wipe	1.0	6
+reject	1.0	3
+exit	1.0	5
+delete	0.882978723404	94
+
+nature sound
+associate	1.0	3
+personalize	1.0	7
+wav	1.0	3
+customizable	0.904761904762	42
+refer	0.904761904762	42
+let	0.857142857143	7
+pick	0.857142857143	7
+
+contact ringtone
+unblock	1.0	4
+wipe	1.0	6
+duplicate	1.0	4
+iphone	1.0	4
+data	1.0	6
+switch	1.0	5
+say	1.0	5
+clean	1.0	3
+jazz	1.0	3
+protect	1.0	3
+rat	1.0	71
+worry	1.0	6
+android	1.0	27
+spamman	1.0	20
+export	1.0	3
+merge	1.0	4
+associate	0.967741935484	31
+ringtone	0.964912280702	57
+delete	0.958762886598	97
+support	0.958333333333	72
+personalize	0.941176470588	17
+offer	0.933333333333	45
+hold	0.912621359223	103
+re-assign	0.857142857143	14
+block	0.857142857143	7
+assign	0.837837837838	185
+modify	0.833333333333	6
+manage	0.8125	16
+
+free mp
+offer	1.0	4
+
+expensive data
+contact	1.0	39
+wipe	0.875	16
+
+contact photo
+unblock	1.0	4
+wipe	1.0	6
+duplicate	1.0	4
+switch	1.0	6
+merge	1.0	4
+clean	1.0	3
+protect	1.0	3
+export	1.0	4
+ringtone	0.981132075472	53
+change	0.857142857143	7
+re-assign	0.857142857143	7
+modify	0.833333333333	6
+transfer	0.833333333333	6
+
+data rate
+contact	1.0	39
+wipe	0.923076923077	13
+
+internet data
+contact	1.0	39
+wipe	0.857142857143	14
+
+important message
+wipe	1.0	6
+reject	1.0	3
+rat	1.0	36
+exit	1.0	5
+delete	0.873684210526	95
+
+go contact
+unblock	1.0	4
+wipe	1.0	6
+duplicate	1.0	4
+data	1.0	6
+switch	1.0	6
+merge	1.0	4
+rat	1.0	43
+clean	1.0	3
+personalize	1.0	8
+protect	1.0	3
+export	1.0	4
+ringtone	0.981132075472	53
+offer	0.913043478261	46
+hold	0.907407407407	54
+support	0.897435897436	39
+change	0.857142857143	7
+re-assign	0.857142857143	7
+modify	0.833333333333	6
+transfer	0.833333333333	6
+set	0.829268292683	205
+assign	0.801724137931	116
+
+new sound
+associate	1.0	3
+personalize	1.0	8
+wav	1.0	3
+rat	1.0	44
+delete	0.987341772152	79
+customizable	0.904761904762	42
+refer	0.904761904762	42
+allow	0.871428571429	70
+let	0.857142857143	7
+pick	0.857142857143	7
+
+notification area
+jazz	1.0	3
+rat	1.0	86
+assign	1.0	7
+delete	0.975	80
+hold	0.909090909091	11
+
+send message
+wipe	1.0	6
+reject	1.0	3
+exit	1.0	5
+delete	0.882978723404	94
+
+contact list
+unblock	1.0	4
+wipe	1.0	6
+duplicate	1.0	4
+hold	1.0	10
+switch	1.0	6
+merge	1.0	4
+clean	1.0	3
+personalize	1.0	8
+protect	1.0	3
+export	1.0	4
+ringtone	0.981132075472	53
+change	0.857142857143	7
+re-assign	0.857142857143	7
+modify	0.833333333333	6
+transfer	0.833333333333	6
+set	0.817518248175	137
+
+news alert
+support	0.944444444444	36
+
+contact form
+unblock	1.0	4
+wipe	1.0	6
+duplicate	1.0	4
+data	1.0	6
+switch	1.0	6
+merge	1.0	4
+rat	1.0	43
+clean	1.0	3
+personalize	1.0	8
+protect	1.0	3
+export	1.0	4
+ringtone	0.981132075472	53
+offer	0.913043478261	46
+hold	0.907407407407	54
+support	0.897435897436	39
+change	0.857142857143	7
+re-assign	0.857142857143	7
+modify	0.833333333333	6
+transfer	0.833333333333	6
+set	0.829268292683	205
+assign	0.801724137931	116
+
+live data
+contact	1.0	39
+wipe	0.875	16
+
+best mp
+offer	1.0	4
+
+chat message
+wipe	1.0	5
+reject	1.0	3
+exit	1.0	5
+
+ringtones notification
+associate	1.0	26
+iphone	1.0	4
+convert	1.0	4
+say	1.0	5
+rat	1.0	43
+spamman	1.0	20
+worry	1.0	4
+delete	0.962962962963	81
+hold	0.918032786885	61
+android	0.892857142857	28
+personalize	0.884615384615	26
+assign	0.875	80
+re-assign	0.857142857143	7
+
+best quality
+inclued	1.0	4
+include	0.810810810811	37
+
+natural sound
+associate	1.0	3
+personalize	1.0	7
+wav	1.0	3
+customizable	0.904761904762	42
+refer	0.904761904762	42
+let	0.857142857143	7
+pick	0.857142857143	7
+
+high-quality photo
+inclued	1.0	4
+include	0.833333333333	36
+
+mobile game
+compatible	1.0	3
+
+weather data
+contact	1.0	39
+wipe	0.923076923077	13
+
+specific contact
+unblock	1.0	4
+wipe	1.0	6
+duplicate	1.0	4
+hold	1.0	9
+switch	1.0	6
+merge	1.0	4
+clean	1.0	3
+personalize	1.0	8
+protect	1.0	3
+export	1.0	4
+ringtone	0.981132075472	53
+change	0.857142857143	7
+re-assign	0.857142857143	7
+modify	0.833333333333	6
+transfer	0.833333333333	6
+set	0.830769230769	130
+
+new contact
+unblock	1.0	4
+wipe	1.0	6
+duplicate	1.0	4
+data	1.0	6
+switch	1.0	6
+merge	1.0	4
+rat	1.0	43
+clean	1.0	3
+personalize	1.0	8
+protect	1.0	3
+export	1.0	4
+ringtone	0.981132075472	53
+offer	0.913043478261	46
+hold	0.907407407407	54
+support	0.897435897436	39
+change	0.857142857143	7
+re-assign	0.857142857143	7
+modify	0.833333333333	6
+transfer	0.833333333333	6
+set	0.829268292683	205
+assign	0.801724137931	116
+
+particular clip
+apply	1.0	5
+gather	1.0	5
+think	1.0	10
+set	0.851851851852	27
+
+sound effect
+associate	1.0	3
+personalize	1.0	7
+wav	1.0	3
+customizable	0.904761904762	42
+refer	0.904761904762	42
+let	0.857142857143	7
+pick	0.857142857143	7
+
+notification
+jazz	1.0	3
+rat	1.0	86
+assign	1.0	7
+delete	0.975	80
+hold	0.909090909091	11
+
+selection rule
+contain	0.925675675676	148
+
+unlimited access
+feel	1.0	20
+enjoy	0.952380952381	21
+
+music ringtones
+iphone	1.0	4
+associate	1.0	26
+say	1.0	6
+jazz	1.0	4
+tone	1.0	3
+spamman	1.0	20
+inclued	1.0	4
+delete	0.987341772152	79
+rat	0.965517241379	29
+personalize	0.941176470588	17
+hold	0.931034482759	58
+android	0.928571428571	28
+ringtones	0.926829268293	41
+assign	0.86301369863	73
+re-assign	0.857142857143	7
+
+unlimited level
+feel	1.0	20
+enjoy	0.952380952381	21
+
+data backup
+contact	1.0	39
+wipe	0.9	10
+
+ringtone notification
+associate	1.0	26
+iphone	1.0	4
+convert	1.0	4
+say	1.0	5
+rat	1.0	43
+spamman	1.0	20
+worry	1.0	4
+delete	0.962962962963	81
+hold	0.918032786885	61
+android	0.892857142857	28
+personalize	0.884615384615	26
+assign	0.875	80
+re-assign	0.857142857143	7
+
+message ringtone
+wipe	1.0	6
+reject	1.0	3
+exit	1.0	5
+delete	0.882978723404	94
+
+voice recording
+activate	1.0	3
+
+funny sound
+set	1.0	4
+love	0.833333333333	6
+
+unlimited undo
+feel	1.0	20
+enjoy	0.952380952381	21
+
+instant messaging
+wipe	1.0	5
+reject	1.0	3
+exit	1.0	5
+
+message tone
+wipe	1.0	5
+reject	1.0	3
+rat	1.0	36
+exit	1.0	5
+support	0.805555555556	36
+
+emergency contact
+unblock	1.0	4
+wipe	1.0	6
+duplicate	1.0	4
+switch	1.0	6
+merge	1.0	4
+clean	1.0	3
+protect	1.0	3
+export	1.0	4
+ringtone	0.981132075472	53
+change	0.857142857143	7
+re-assign	0.857142857143	7
+modify	0.833333333333	6
+transfer	0.833333333333	6
+set	0.807692307692	104
+
+high quality
+inclued	1.0	4
+include	0.810810810811	37
+
+personal message
+wipe	1.0	6
+reject	1.0	3
+rat	1.0	36
+exit	1.0	5
+delete	0.873684210526	95
+
+popular ringtones
+bring	1.0	7
+spamman	1.0	20
+jazz	1.0	5
+associate	1.0	57
+convert	1.0	4
+ring	1.0	3
+support	1.0	68
+iphone	1.0	4
+say	1.0	8
+rat	1.0	71
+worry	1.0	4
+android	1.0	27
+data	1.0	5
+delete	0.9875	80
+offer	0.97619047619	42
+personalize	0.941176470588	17
+hold	0.911764705882	102
+need	0.888888888889	27
+assign	0.872881355932	118
+include	0.860215053763	93
+look	0.857142857143	7
+re-assign	0.857142857143	7
+create	0.80487804878	41
+
+new message
+wipe	1.0	6
+reject	1.0	3
+rat	1.0	36
+exit	1.0	5
+delete	0.873684210526	95
+
+contact data
+contact	1.0	39
+wipe	0.857142857143	14
+
+read message
+wipe	1.0	6
+reject	1.0	3
+exit	1.0	5
+delete	0.873684210526	95
+
+daily notification
+assign	1.0	7
+rat	1.0	43
+
+single day
+update	1.0	102
+
+vdo clip
+apply	1.0	5
+gather	1.0	5
+think	1.0	10
+set	0.851851851852	27
+
+high-quality image
+inclued	1.0	4
+include	1.0	30
+
+receive notification
+jazz	1.0	3
+rat	1.0	86
+assign	1.0	7
+delete	0.975	80
+hold	0.909090909091	11
+
+unlimited imagination
+feel	1.0	20
+enjoy	0.952380952381	21
+
+private data
+contact	1.0	39
+wipe	0.857142857143	14
+
+mp search
+offer	1.0	4
+
+mobile coupon
+compatible	1.0	3
+
+large selection
+contain	0.944827586207	145
+
+unlimited money
+feel	1.0	20
+enjoy	0.952380952381	21
+
+notification setting
+jazz	1.0	3
+rat	1.0	86
+assign	1.0	7
+delete	0.975	80
+hold	0.909090909091	11
+
+facebook message
+wipe	1.0	6
+reject	1.0	3
+exit	1.0	5
+delete	0.873684210526	95
+
+backup
+download	1.0	3
+
+sound play
+associate	1.0	3
+personalize	1.0	8
+wav	1.0	3
+rat	1.0	44
+delete	0.987341772152	79
+customizable	0.904761904762	42
+refer	0.904761904762	42
+allow	0.871428571429	70
+let	0.857142857143	7
+pick	0.857142857143	7
+
+message call
+wipe	1.0	6
+reject	1.0	3
+rat	1.0	36
+exit	1.0	5
+delete	0.873684210526	95
+
+local single
+update	1.0	102
+
+gps data
+contact	1.0	39
+wipe	0.875	16
+
+push message
+wipe	1.0	6
+reject	1.0	3
+exit	1.0	5
+delete	0.882978723404	94
+
+contact name
+unblock	1.0	4
+wipe	1.0	6
+duplicate	1.0	4
+data	1.0	6
+switch	1.0	6
+merge	1.0	4
+rat	1.0	43
+clean	1.0	3
+personalize	1.0	8
+protect	1.0	3
+export	1.0	4
+ringtone	0.981132075472	53
+offer	0.913043478261	46
+hold	0.907407407407	54
+support	0.897435897436	39
+change	0.857142857143	7
+re-assign	0.857142857143	7
+modify	0.833333333333	6
+transfer	0.833333333333	6
+set	0.829268292683	205
+assign	0.801724137931	116
+
+data plan
+contact	1.0	39
+wipe	0.866666666667	15
+
+unread message
+wipe	1.0	6
+reject	1.0	3
+exit	1.0	5
+delete	0.873684210526	95
+
+attractive single
+update	1.0	102
+
+popular ringtone
+bring	1.0	7
+spamman	1.0	20
+jazz	1.0	5
+associate	1.0	57
+convert	1.0	4
+ring	1.0	3
+support	1.0	68
+iphone	1.0	4
+say	1.0	8
+rat	1.0	71
+worry	1.0	4
+android	1.0	27
+data	1.0	5
+delete	0.9875	80
+offer	0.97619047619	42
+personalize	0.941176470588	17
+hold	0.911764705882	102
+need	0.888888888889	27
+assign	0.872881355932	118
+include	0.860215053763	93
+look	0.857142857143	7
+re-assign	0.857142857143	7
+create	0.80487804878	41
+
+message
+wipe	1.0	6
+reject	1.0	3
+rat	1.0	36
+exit	1.0	5
+delete	0.873684210526	95
+
+data transfer
+contact	1.0	39
+wipe	0.857142857143	14
+
+quality
+inclued	1.0	4
+include	0.810810810811	37
+
+mp song
+offer	1.0	3
+
+select
+contain	0.944827586207	145
+
+mp format
+offer	1.0	4
+
+alarm setting
+put	1.0	3
+rat	1.0	43
+ringtone	1.0	5
+hold	0.960784313725	51
+support	0.944444444444	36
+personalize	0.888888888889	9
+assign	0.869565217391	46
+include	0.857142857143	49
+affect	0.857142857143	7
+
+free message
+wipe	1.0	6
+reject	1.0	3
+exit	1.0	5
+delete	0.873684210526	95
+
+notification advertisement
+jazz	1.0	3
+rat	1.0	86
+assign	1.0	7
+delete	0.975	80
+hold	0.909090909091	11
+
+instant message
+wipe	1.0	5
+reject	1.0	3
+exit	1.0	5
+
+weather alert
+support	0.971428571429	35
+
+mp file
+select	1.0	3
+offer	1.0	3
+
+guitar keyboard
+hip	0.935483870968	31
+
+important data
+contact	1.0	39
+wipe	0.875	16
+
+love message
+wipe	1.0	6
+reject	1.0	3
+exit	1.0	5
+delete	0.882978723404	94
+
+read contact
+unblock	1.0	4
+wipe	1.0	6
+duplicate	1.0	4
+switch	1.0	6
+merge	1.0	4
+clean	1.0	3
+protect	1.0	3
+export	1.0	4
+ringtone	0.981132075472	53
+change	0.857142857143	7
+re-assign	0.857142857143	7
+modify	0.833333333333	6
+transfer	0.833333333333	6
+set	0.807692307692	104
+
+whatsapp message
+wipe	1.0	6
+reject	1.0	3
+rat	1.0	36
+exit	1.0	5
+delete	0.873684210526	95
+
+message board
+wipe	1.0	6
+reject	1.0	3
+exit	1.0	5
+
+iphone rington
+bring	1.0	7
+spamman	1.0	20
+jazz	1.0	5
+associate	1.0	57
+convert	1.0	4
+ring	1.0	3
+support	1.0	68
+iphone	1.0	4
+say	1.0	8
+rat	1.0	71
+worry	1.0	4
+android	1.0	27
+data	1.0	5
+delete	0.9875	80
+offer	0.97619047619	42
+personalize	0.941176470588	17
+hold	0.911764705882	102
+need	0.888888888889	27
+assign	0.872881355932	118
+look	0.857142857143	7
+re-assign	0.857142857143	7
+include	0.842105263158	95
+create	0.80487804878	41
+
+push notification
+rat	1.0	43
+assign	1.0	7
+
+alert notification
+support	0.944444444444	36
+
+quality time
+inclued	1.0	4
+include	0.810810810811	37
+
+limit notification
+rat	1.0	43
+assign	1.0	7
+
+boost mobile
+compatible	1.0	3
+
+advertisement notification
+jazz	1.0	3
+rat	1.0	86
+assign	1.0	7
+delete	0.975	80
+hold	0.909090909091	11
+
+backup data
+contact	1.0	39
+wipe	0.9	10
+
+best selection
+contain	0.944827586207	145
+
+sound
+associate	1.0	3
+personalize	1.0	8
+wav	1.0	3
+rat	1.0	44
+delete	0.987341772152	79
+customizable	0.904761904762	42
+refer	0.904761904762	42
+allow	0.871428571429	70
+let	0.857142857143	7
+pick	0.857142857143	7
+
+call message
+wipe	1.0	6
+reject	1.0	3
+rat	1.0	36
+exit	1.0	5
+delete	0.873684210526	95
+
+data collection
+contact	1.0	39
+wipe	0.866666666667	15
+
+high-quality
+inclued	1.0	4
+include	0.810810810811	37
+
+alarm volume
+hold	1.0	10
+support	0.971428571429	35
+affect	0.857142857143	7
+
+type notification
+rat	1.0	43
+assign	1.0	7
+
+free ringtones
+bring	1.0	7
+spamman	1.0	20
+associate	1.0	57
+convert	1.0	4
+ring	1.0	3
+support	1.0	34
+iphone	1.0	4
+say	1.0	7
+rat	1.0	29
+worry	1.0	4
+android	1.0	26
+delete	0.9875	80
+personalize	0.941176470588	17
+hold	0.931034482759	58
+assign	0.86301369863	73
+look	0.857142857143	7
+re-assign	0.857142857143	7
+include	0.854166666667	48
+need	0.842105263158	19
+create	0.80487804878	41
+
+mp video
+offer	1.0	3
+
+mp
+offer	1.0	4
+
+unlimited amount
+feel	1.0	20
+enjoy	0.952380952381	21
+
+quality service
+inclued	1.0	4
+include	0.833333333333	36
+
+data usage
+contact	1.0	39
+wipe	0.923076923077	13
+
+select area
+contain	0.944827586207	145
+
+clip
+apply	1.0	5
+gather	1.0	5
+think	1.0	10
+set	0.851851851852	27
+
+funny ringtones
+set	1.0	4
+love	0.833333333333	6
+
+new single
+update	1.0	102
+
+single
+update	1.0	102
+
+much data
+contact	1.0	39
+wipe	0.875	16
+
+sensor data
+wipe	1.0	8
+contact	1.0	39
+control	0.857142857143	7
+
+wide selection
+contain	0.944827586207	145
+
+notification bar
+rat	1.0	43
+assign	1.0	7
+
+sound quality
+associate	1.0	3
+personalize	1.0	7
+wav	1.0	3
+customizable	0.904761904762	42
+refer	0.904761904762	42
+let	0.857142857143	7
+pick	0.857142857143	7
+
+notification alert
+support	0.944444444444	36
+
+next alarm
+put	1.0	3
+rat	1.0	43
+ringtone	1.0	5
+hold	0.960784313725	51
+support	0.944444444444	36
+personalize	0.888888888889	9
+assign	0.869565217391	46
+include	0.857142857143	49
+affect	0.857142857143	7
+
+ringtone
+bring	1.0	7
+spamman	1.0	20
+jazz	1.0	5
+associate	1.0	57
+convert	1.0	4
+ring	1.0	3
+support	1.0	68
+iphone	1.0	4
+say	1.0	8
+rat	1.0	71
+worry	1.0	4
+android	1.0	27
+data	1.0	5
+delete	0.9875	80
+offer	0.97619047619	42
+personalize	0.941176470588	17
+hold	0.911764705882	102
+need	0.888888888889	27
+assign	0.872881355932	118
+look	0.857142857143	7
+re-assign	0.857142857143	7
+include	0.842105263158	95
+create	0.80487804878	41
+
+go message
+wipe	1.0	6
+reject	1.0	3
+rat	1.0	36
+exit	1.0	5
+delete	0.873684210526	95
+
+new clip
+apply	1.0	5
+gather	1.0	5
+think	1.0	10
+set	0.851851851852	27
+
+data file
+contact	1.0	39
+wipe	0.909090909091	11
+
+message etc
+wipe	1.0	6
+reject	1.0	3
+rat	1.0	36
+exit	1.0	5
+delete	0.873684210526	95
+
+notification tray
+jazz	1.0	3
+rat	1.0	86
+assign	1.0	7
+delete	0.975	80
+hold	0.909090909091	11
+
+late ringtones
+bring	1.0	7
+spamman	1.0	20
+jazz	1.0	5
+associate	1.0	57
+convert	1.0	4
+ring	1.0	3
+support	1.0	68
+iphone	1.0	4
+say	1.0	8
+rat	1.0	71
+worry	1.0	4
+android	1.0	27
+data	1.0	5
+delete	0.9875	80
+offer	0.97619047619	42
+personalize	0.941176470588	17
+hold	0.911764705882	102
+need	0.888888888889	27
+assign	0.872881355932	118
+include	0.860215053763	93
+look	0.857142857143	7
+re-assign	0.857142857143	7
+create	0.80487804878	41
+
+free ringtone
+bring	1.0	7
+spamman	1.0	20
+associate	1.0	57
+convert	1.0	4
+ring	1.0	3
+support	1.0	34
+iphone	1.0	4
+say	1.0	7
+rat	1.0	29
+worry	1.0	4
+android	1.0	26
+delete	0.9875	80
+personalize	0.941176470588	17
+hold	0.931034482759	58
+assign	0.86301369863	73
+look	0.857142857143	7
+re-assign	0.857142857143	7
+include	0.854166666667	48
+need	0.842105263158	19
+create	0.80487804878	41
+
+great selection
+contain	0.944827586207	145
+
+mobile data
+wipe	1.0	8
+contact	1.0	39
+compatible	1.0	3
+
+mobile screen
+compatible	1.0	3
+
+text messaging
+wipe	1.0	6
+reject	1.0	3
+exit	1.0	5
+delete	0.882978723404	94
+
+message notification
+wipe	1.0	6
+reject	1.0	3
+exit	1.0	5
+delete	0.882978723404	94
+
+mp music
+offer	1.0	4
+
+alert
+support	0.944444444444	36
+
+push alert
+support	0.944444444444	36
+
+sensitive data
+contact	1.0	39
+wipe	0.909090909091	11
+
+data analysis
+contact	1.0	39
+wipe	0.923076923077	13
+
+messaging
+wipe	1.0	6
+reject	1.0	3
+rat	1.0	36
+exit	1.0	5
+delete	0.873684210526	95
+
+data
+contact	1.0	39
+wipe	0.875	16
+
+best ringtones
+bring	1.0	7
+spamman	1.0	20
+jazz	1.0	5
+associate	1.0	57
+convert	1.0	4
+ring	1.0	3
+support	1.0	68
+iphone	1.0	4
+say	1.0	8
+rat	1.0	71
+worry	1.0	4
+android	1.0	27
+data	1.0	5
+delete	0.9875	80
+offer	0.97619047619	42
+personalize	0.941176470588	17
+hold	0.911764705882	102
+need	0.888888888889	27
+assign	0.872881355932	118
+look	0.857142857143	7
+re-assign	0.857142857143	7
+include	0.842105263158	95
+create	0.80487804878	41
+
+contact ringtones
+unblock	1.0	4
+wipe	1.0	6
+duplicate	1.0	4
+iphone	1.0	4
+data	1.0	6
+switch	1.0	5
+say	1.0	5
+clean	1.0	3
+jazz	1.0	3
+protect	1.0	3
+rat	1.0	71
+worry	1.0	6
+android	1.0	27
+spamman	1.0	20
+export	1.0	3
+merge	1.0	4
+associate	0.967741935484	31
+ringtone	0.964912280702	57
+delete	0.958762886598	97
+support	0.958333333333	72
+personalize	0.941176470588	17
+offer	0.933333333333	45
+hold	0.912621359223	103
+re-assign	0.857142857143	14
+block	0.857142857143	7
+assign	0.837837837838	185
+modify	0.833333333333	6
+manage	0.8125	16
+
+voice recorder
+activate	1.0	3
+
+contact number
+unblock	1.0	4
+wipe	1.0	6
+duplicate	1.0	4
+hold	1.0	10
+switch	1.0	6
+merge	1.0	4
+clean	1.0	3
+personalize	1.0	8
+protect	1.0	3
+export	1.0	4
+ringtone	0.981132075472	53
+change	0.857142857143	7
+re-assign	0.857142857143	7
+modify	0.833333333333	6
+transfer	0.833333333333	6
+set	0.817518248175	137
+
+alarm
+put	1.0	3
+rat	1.0	43
+ringtone	1.0	5
+hold	0.960784313725	51
+support	0.944444444444	36
+personalize	0.888888888889	9
+assign	0.869565217391	46
+include	0.857142857143	49
+affect	0.857142857143	7
+
+contact
+unblock	1.0	4
+wipe	1.0	6
+duplicate	1.0	4
+data	1.0	6
+switch	1.0	6
+merge	1.0	4
+rat	1.0	43
+clean	1.0	3
+personalize	1.0	8
+protect	1.0	3
+export	1.0	4
+ringtone	0.981132075472	53
+offer	0.913043478261	46
+hold	0.907407407407	54
+support	0.897435897436	39
+change	0.857142857143	7
+re-assign	0.857142857143	7
+modify	0.833333333333	6
+transfer	0.833333333333	6
+set	0.829268292683	205
+assign	0.801724137931	116
+
+high-quality sounding
+associate	1.0	3
+personalize	1.0	7
+wav	1.0	3
+customizable	0.904761904762	42
+refer	0.904761904762	42
+let	0.857142857143	7
+pick	0.857142857143	7
+
+different sound
+associate	1.0	3
+personalize	1.0	8
+wav	1.0	3
+rat	1.0	44
+delete	0.987341772152	79
+customizable	0.904761904762	42
+refer	0.904761904762	42
+allow	0.871428571429	70
+let	0.857142857143	7
+pick	0.857142857143	7
+
+location data
+contact	1.0	39
+wipe	0.866666666667	15
+
+usage data
+contact	1.0	39
+wipe	0.923076923077	13
+
+problem contact
+unblock	1.0	4
+wipe	1.0	6
+duplicate	1.0	4
+switch	1.0	6
+merge	1.0	4
+clean	1.0	3
+protect	1.0	3
+export	1.0	4
+ringtone	0.981132075472	53
+change	0.857142857143	7
+re-assign	0.857142857143	7
+modify	0.833333333333	6
+transfer	0.833333333333	6
+set	0.807692307692	104
+
+contact information
+unblock	1.0	4
+wipe	1.0	6
+duplicate	1.0	4
+hold	1.0	10
+switch	1.0	6
+merge	1.0	4
+clean	1.0	3
+personalize	1.0	8
+protect	1.0	3
+export	1.0	4
+ringtone	0.981132075472	53
+change	0.857142857143	7
+re-assign	0.857142857143	7
+modify	0.833333333333	6
+transfer	0.833333333333	6
+set	0.817518248175	137
+

@@ -1,0 +1,959 @@
+record deal
+disable	1.0	7
+lodge	1.0	16
+play	1.0	10
+support	1.0	8
+give	0.913043478261	69
+determine	0.9	10
+
+audio player
+combine	1.0	13
+claim	1.0	19
+donot	1.0	19
+
+instructional video
+donot	1.0	19
+claim	0.95	20
+put	0.903225806452	31
+
+hotel detail
+reveal	1.0	43
+prague	1.0	8
+swipe	1.0	43
+refine	1.0	42
+km	1.0	28
+map	0.976744186047	43
+list	0.944444444444	18
+click	0.934782608696	46
+allow	0.877551020408	49
+
+video tip
+donot	1.0	19
+claim	0.95	20
+put	0.903225806452	31
+
+audio video
+donot	1.0	38
+claim	0.974358974359	39
+combine	0.9375	16
+put	0.878787878788	33
+
+news video
+donot	1.0	19
+claim	0.95	20
+collect	0.909547738693	199
+
+new puzzle
+unfold	1.0	6
+awesome	1.0	14
+check	1.0	7
+pass	0.88679245283	53
+place	0.875	16
+
+video song
+donot	1.0	19
+claim	0.95	20
+
+twitter feed
+fetch	0.986577181208	149
+
+best hotel
+reveal	1.0	43
+prague	1.0	8
+swipe	1.0	43
+refine	1.0	42
+km	1.0	28
+map	0.976744186047	43
+list	0.944444444444	18
+click	0.934782608696	46
+allow	0.877551020408	49
+
+luxury hotel
+reveal	1.0	43
+prague	1.0	8
+swipe	1.0	43
+refine	1.0	42
+km	1.0	28
+map	0.976744186047	43
+list	0.944444444444	18
+click	0.934782608696	46
+allow	0.86	50
+
+voice recording
+record	0.909090909091	44
+teach	0.857142857143	7
+compare	0.857142857143	7
+
+feeding
+fetch	0.986577181208	149
+collect	0.942708333333	192
+use	0.923469387755	196
+
+video photo
+donot	1.0	19
+claim	0.95	20
+
+hotel room
+reveal	1.0	43
+prague	1.0	8
+swipe	1.0	43
+refine	1.0	42
+km	1.0	28
+map	0.976744186047	43
+list	0.944444444444	18
+click	0.934782608696	46
+allow	0.877551020408	49
+
+feed video
+donot	1.0	19
+fetch	0.986577181208	149
+claim	0.95	20
+collect	0.905	200
+put	0.903225806452	31
+
+audio file
+claim	1.0	19
+donot	1.0	19
+combine	1.0	13
+
+audio quality
+combine	1.0	14
+claim	1.0	19
+donot	1.0	19
+
+image video
+donot	1.0	19
+claim	0.95	20
+
+local deal
+lodge	1.0	16
+give	0.898550724638	69
+
+correct place
+move	1.0	8
+shift	1.0	12
+
+video file
+donot	1.0	19
+claim	0.95	20
+
+sex video
+donot	1.0	19
+claim	0.95	20
+put	0.903225806452	31
+
+local hotel
+reveal	1.0	43
+prague	1.0	8
+swipe	1.0	43
+refine	1.0	42
+km	1.0	28
+map	0.976744186047	43
+list	0.944444444444	18
+click	0.934782608696	46
+allow	0.877551020408	49
+
+book hotel
+reveal	1.0	43
+prague	1.0	8
+swipe	1.0	43
+refine	1.0	42
+km	1.0	28
+map	0.976744186047	43
+list	0.944444444444	18
+click	0.934782608696	46
+allow	0.877551020408	49
+
+song video
+donot	1.0	19
+claim	0.95	20
+
+puzzle game
+unfold	1.0	6
+awesome	1.0	14
+check	1.0	7
+pass	0.88679245283	53
+place	0.875	16
+
+walkthrough video
+donot	1.0	19
+claim	0.95	20
+put	0.852941176471	34
+
+hotel review
+reveal	1.0	43
+prague	1.0	8
+swipe	1.0	43
+refine	1.0	42
+km	1.0	28
+map	0.976744186047	43
+list	0.944444444444	18
+click	0.934782608696	46
+allow	0.877551020408	49
+
+call recorder
+determine	1.0	9
+support	1.0	8
+play	1.0	10
+disable	1.0	7
+
+hotel offer
+reveal	1.0	43
+prague	1.0	8
+swipe	1.0	43
+refine	1.0	42
+km	1.0	28
+map	0.976744186047	43
+list	0.944444444444	18
+click	0.934782608696	46
+allow	0.877551020408	49
+
+audio track
+combine	1.0	14
+claim	1.0	19
+donot	1.0	19
+
+following video
+donot	1.0	19
+claim	0.95	20
+collect	0.909547738693	199
+
+video format
+donot	1.0	19
+claim	0.95	20
+put	0.852941176471	34
+
+audio alert
+combine	1.0	13
+claim	1.0	19
+donot	1.0	19
+
+next video
+donot	1.0	19
+claim	0.95	20
+collect	0.909547738693	199
+
+correct word
+move	1.0	8
+shift	1.0	12
+
+correct order
+move	1.0	8
+shift	1.0	12
+
+new video
+donot	1.0	19
+claim	0.95	20
+collect	0.909547738693	199
+
+top video
+donot	1.0	19
+claim	0.95	20
+
+fun puzzle
+awesome	1.0	14
+slide	0.911764705882	34
+pass	0.88679245283	53
+contain	0.875	8
+
+slide puzzle
+awesome	1.0	13
+slide	0.9375	32
+pass	0.88679245283	53
+contain	0.875	8
+
+audio pronunciation
+claim	1.0	19
+donot	1.0	19
+practice	0.857142857143	7
+
+listed hotel
+reveal	1.0	43
+prague	1.0	8
+swipe	1.0	43
+refine	1.0	42
+km	1.0	28
+map	0.976744186047	43
+list	0.944444444444	18
+click	0.934782608696	46
+allow	0.877551020408	49
+
+deal
+lodge	1.0	16
+give	0.9	70
+
+audio content
+combine	1.0	14
+claim	1.0	19
+donot	1.0	19
+
+call recording
+determine	1.0	9
+support	1.0	8
+play	1.0	10
+disable	1.0	7
+
+video recording
+donot	1.0	19
+claim	0.95	20
+
+jigsaw puzzle
+unfold	1.0	6
+awesome	1.0	14
+check	1.0	7
+pass	0.88679245283	53
+place	0.875	16
+
+music video
+donot	1.0	19
+claim	0.95	20
+put	0.852941176471	34
+
+video audio
+donot	1.0	38
+claim	0.974358974359	39
+combine	0.9375	16
+put	0.878787878788	33
+
+discount hotel
+reveal	1.0	43
+prague	1.0	8
+swipe	1.0	43
+refine	1.0	42
+km	1.0	28
+map	0.976744186047	43
+list	0.944444444444	18
+click	0.934782608696	46
+allow	0.895833333333	48
+
+exclusive video
+donot	1.0	19
+claim	0.95	20
+collect	0.909547738693	199
+
+audio playback
+combine	1.0	14
+claim	1.0	19
+donot	1.0	19
+
+video support
+donot	1.0	19
+claim	0.95	20
+collect	0.909547738693	199
+
+new music
+chat	1.0	93
+
+watch video
+donot	1.0	19
+claim	0.95	20
+put	0.852941176471	34
+
+budget hotel
+reveal	1.0	43
+prague	1.0	8
+swipe	1.0	43
+refine	1.0	42
+km	1.0	28
+map	0.976744186047	43
+list	0.944444444444	18
+click	0.934782608696	46
+allow	0.895833333333	48
+
+audio recording
+combine	1.0	14
+claim	1.0	19
+donot	1.0	19
+
+best deal
+lodge	1.0	16
+give	0.9	70
+
+youtube video
+donot	1.0	19
+claim	0.95	20
+collect	0.909547738693	199
+
+free music
+chat	1.0	93
+
+video chat
+donot	1.0	19
+claim	0.95	20
+put	0.903225806452	31
+
+sexy video
+donot	1.0	19
+claim	0.95	20
+put	0.903225806452	31
+
+crossword puzzle
+unfold	1.0	6
+awesome	1.0	14
+check	1.0	7
+pass	0.88679245283	53
+contain	0.875	8
+place	0.875	16
+
+puzzle piece
+unfold	1.0	6
+awesome	1.0	14
+check	1.0	7
+pass	0.88679245283	53
+contain	0.875	8
+place	0.875	16
+
+recorder
+determine	1.0	9
+support	1.0	8
+play	1.0	10
+disable	1.0	7
+
+stream video
+donot	1.0	19
+claim	0.95	20
+put	0.903225806452	31
+
+smart activity
+fire	1.0	14
+
+video playback
+donot	1.0	19
+claim	0.95	20
+put	0.903225806452	31
+
+video tutorial
+donot	1.0	19
+claim	0.904761904762	21
+put	0.903225806452	31
+
+video instruction
+donot	1.0	19
+claim	0.95	20
+put	0.903225806452	31
+
+hotel booking
+reveal	1.0	43
+prague	1.0	8
+swipe	1.0	43
+refine	1.0	42
+km	1.0	28
+map	0.976744186047	43
+list	0.944444444444	18
+click	0.934782608696	46
+allow	0.877551020408	49
+
+news feed
+fetch	0.986577181208	149
+collect	0.942708333333	192
+use	0.923469387755	196
+
+placement puzzle
+unfold	1.0	6
+awesome	1.0	14
+check	1.0	7
+pass	0.88679245283	53
+contain	0.875	8
+place	0.875	16
+
+great deal
+lodge	1.0	16
+give	0.9	70
+
+video clip
+donot	1.0	19
+claim	0.95	20
+put	0.903225806452	31
+
+tutorial video
+donot	1.0	19
+claim	0.904761904762	21
+put	0.903225806452	31
+
+entire feed
+fetch	0.986577181208	149
+
+hotel deal
+reveal	1.0	43
+prague	1.0	8
+swipe	1.0	43
+refine	1.0	42
+km	1.0	28
+map	0.976744186047	43
+list	0.944444444444	18
+click	0.934782608696	46
+allow	0.877551020408	49
+
+amazing video
+donot	1.0	19
+claim	0.95	20
+put	0.903225806452	31
+
+audio book
+combine	1.0	14
+claim	1.0	19
+donot	1.0	19
+
+hotel saving
+reveal	1.0	43
+prague	1.0	8
+swipe	1.0	43
+refine	1.0	42
+km	1.0	28
+map	0.976744186047	43
+list	0.944444444444	18
+click	0.934782608696	46
+allow	0.877551020408	49
+
+volume key
+pop	1.0	33
+tap	0.918918918919	37
+
+awesome video
+donot	1.0	19
+claim	0.95	20
+put	0.852941176471	34
+
+voice call
+record	0.909090909091	44
+teach	0.857142857143	7
+
+hotel restaurant
+prague	1.0	8
+swipe	1.0	43
+refine	1.0	42
+km	1.0	28
+reveal	0.955555555556	45
+list	0.944444444444	18
+click	0.936170212766	47
+map	0.933333333333	45
+
+feed
+fetch	0.986577181208	149
+collect	0.942708333333	192
+use	0.923469387755	196
+
+video section
+donot	1.0	19
+claim	0.95	20
+put	0.852941176471	34
+
+streaming video
+donot	1.0	19
+claim	0.95	20
+put	0.903225806452	31
+
+puzzle
+unfold	1.0	6
+awesome	1.0	14
+check	1.0	7
+pass	0.88679245283	53
+place	0.875	16
+
+favorite video
+donot	1.0	19
+claim	0.95	20
+
+correct position
+move	1.0	8
+shift	1.0	12
+
+hotel price
+reveal	1.0	43
+prague	1.0	8
+swipe	1.0	43
+refine	1.0	42
+km	1.0	28
+map	0.976744186047	43
+list	0.944444444444	18
+click	0.934782608696	46
+allow	0.895833333333	48
+
+hot video
+donot	1.0	19
+claim	0.95	20
+put	0.903225806452	31
+
+hotel reservation
+reveal	1.0	43
+prague	1.0	8
+swipe	1.0	43
+refine	1.0	42
+km	1.0	28
+map	0.976744186047	43
+list	0.944444444444	18
+click	0.934782608696	46
+allow	0.877551020408	49
+
+animated video
+donot	1.0	19
+claim	0.95	20
+put	0.852941176471	34
+
+record audio
+combine	1.0	14
+claim	1.0	19
+donot	1.0	19
+
+funny voice
+answer	1.0	15
+repeat	1.0	9
+
+video editor
+donot	1.0	19
+claim	0.95	20
+put	0.903225806452	31
+
+play video
+donot	1.0	19
+claim	0.95	20
+collect	0.909547738693	199
+
+volume level
+pop	1.0	33
+tap	0.918918918919	37
+
+good deal
+lodge	1.0	16
+give	0.9	70
+
+music
+chat	1.0	93
+
+hd video
+donot	1.0	19
+claim	0.95	20
+
+video guide
+donot	1.0	19
+claim	0.95	20
+put	0.852941176471	34
+
+syco record
+determine	1.0	9
+support	1.0	8
+play	1.0	10
+disable	1.0	7
+
+late deal
+lodge	1.0	16
+give	0.9	70
+
+audio clip
+combine	1.0	14
+press	1.0	6
+claim	1.0	19
+donot	1.0	19
+
+valuable feed
+fetch	0.986577181208	149
+
+video streaming
+donot	1.0	19
+claim	0.95	20
+put	0.903225806452	31
+
+hotel
+reveal	1.0	43
+prague	1.0	8
+swipe	1.0	43
+refine	1.0	42
+km	1.0	28
+map	0.976744186047	43
+list	0.944444444444	18
+click	0.934782608696	46
+allow	0.877551020408	49
+
+background music
+chat	1.0	93
+
+funny video
+donot	1.0	19
+claim	0.95	20
+put	0.90625	32
+
+volume
+pop	1.0	33
+tap	0.918918918919	37
+
+classical music
+chat	1.0	93
+
+live feed
+fetch	0.986577181208	149
+collect	0.942708333333	192
+use	0.923469387755	196
+
+video content
+donot	1.0	19
+claim	0.95	20
+put	0.852941176471	34
+
+share video
+donot	1.0	19
+claim	0.95	20
+
+correct operation
+move	1.0	8
+shift	1.0	12
+
+audio recorder
+combine	1.0	14
+claim	1.0	19
+donot	1.0	19
+
+live audio
+combine	1.0	14
+claim	1.0	19
+donot	1.0	19
+
+various site
+fetch	0.98	150
+
+recording
+determine	1.0	9
+support	1.0	8
+play	1.0	10
+disable	1.0	7
+
+record
+determine	1.0	9
+support	1.0	8
+play	1.0	10
+disable	1.0	7
+
+audio text
+combine	1.0	14
+claim	1.0	19
+donot	1.0	19
+
+video
+donot	1.0	19
+claim	0.95	20
+collect	0.909547738693	199
+
+voice
+record	0.909090909091	44
+teach	0.857142857143	7
+
+great music
+chat	1.0	93
+
+late video
+donot	1.0	19
+claim	0.95	20
+collect	0.909547738693	199
+
+exclusive deal
+lodge	1.0	16
+give	0.9	70
+
+video call
+donot	1.0	19
+claim	0.95	20
+collect	0.909547738693	199
+
+correction
+move	1.0	8
+shift	1.0	12
+
+site
+fetch	0.98	150
+
+video cheat
+donot	1.0	19
+claim	0.95	20
+put	0.90625	32
+
+different site
+fetch	0.98	150
+
+sfx volume
+pop	1.0	33
+tap	0.918918918919	37
+
+gameplay video
+donot	1.0	19
+claim	0.95	20
+collect	0.909547738693	199
+
+special deal
+lodge	1.0	16
+give	0.898550724638	69
+
+video image
+donot	1.0	19
+claim	0.95	20
+
+boutique hotel
+reveal	1.0	43
+prague	1.0	8
+swipe	1.0	43
+refine	1.0	42
+km	1.0	28
+map	0.976744186047	43
+list	0.944444444444	18
+click	0.934782608696	46
+allow	0.877551020408	49
+
+video music
+donot	1.0	19
+claim	0.95	20
+put	0.852941176471	34
+
+voice note
+record	0.909090909091	44
+teach	0.857142857143	7
+
+beautiful music
+chat	1.0	93
+
+video stream
+donot	1.0	19
+claim	0.95	20
+put	0.903225806452	31
+
+audio effect
+combine	1.0	14
+claim	1.0	19
+donot	1.0	19
+
+video quality
+donot	1.0	19
+claim	0.95	20
+
+r feed
+fetch	0.986577181208	149
+collect	0.942708333333	192
+use	0.923469387755	196
+
+video-on-demand clip
+donot	1.0	19
+claim	0.95	20
+put	0.903225806452	31
+
+late music
+chat	1.0	93
+
+record time
+determine	1.0	9
+support	1.0	8
+play	1.0	10
+disable	1.0	7
+
+photo video
+donot	1.0	19
+claim	0.95	20
+
+free video
+donot	1.0	19
+claim	0.95	20
+
+best video
+donot	1.0	19
+claim	0.95	20
+collect	0.909547738693	199
+
+audio format
+combine	1.0	14
+claim	1.0	19
+donot	1.0	19
+
+voice recognition
+record	0.909090909091	44
+teach	0.857142857143	7
+compare	0.857142857143	7
+
+best music
+chat	1.0	93
+
+audio play
+combine	1.0	14
+claim	1.0	19
+donot	1.0	19
+
+music collection
+chat	1.0	93
+
+hotel feature
+reveal	1.0	43
+prague	1.0	8
+swipe	1.0	43
+refine	1.0	42
+km	1.0	28
+map	0.976744186047	43
+list	0.944444444444	18
+click	0.934782608696	46
+allow	0.877551020408	49
+
+audio song
+combine	1.0	14
+claim	1.0	19
+donot	1.0	19
+
+easy puzzle
+unfold	1.0	6
+awesome	1.0	14
+check	1.0	7
+pass	0.88679245283	53
+place	0.875	16
+
+unique puzzle
+unfold	1.0	6
+awesome	1.0	14
+check	1.0	7
+pass	0.88679245283	53
+place	0.875	16
+
+audio
+combine	1.0	14
+claim	1.0	19
+donot	1.0	19
+
+voice recorder
+record	0.909090909091	44
+teach	0.857142857143	7
+compare	0.857142857143	7
+
+voice command
+record	0.906976744186	43
+teach	0.857142857143	7
+
+volume control
+pop	1.0	33
+tap	0.918918918919	37
+
+music today
+chat	1.0	93
+
+video highlight
+donot	1.0	19
+claim	0.95	20
+put	0.852941176471	34
+
+live video
+donot	1.0	19
+claim	0.95	20
+collect	0.909547738693	199
+
+smart connect
+fire	1.0	14
+
+news site
+fetch	0.98	150
+
+volume setting
+pop	1.0	33
+tap	0.918918918919	37
+
+world record
+determine	1.0	9
+support	1.0	8
+play	1.0	10
+disable	1.0	7
+
+great video
+donot	1.0	19
+claim	0.95	20
+collect	0.909547738693	199
+

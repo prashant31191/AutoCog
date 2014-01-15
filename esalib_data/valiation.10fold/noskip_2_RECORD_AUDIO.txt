@@ -1,0 +1,4420 @@
+com.stylistbong.myenglishteacher.apk
+false
+
+com.philringvoip.apk
+false
+
+com.laminaapps.recipesforkidsap.apk
+true
+youtube video	collect	feed video	collect
+video	collect	feed video	collect
+late video	collect	feed video	collect
+video support	collect	feed video	collect
+exclusive video	collect	feed video	collect
+live feed	collect	feed video	collect
+video call	collect	feed video	collect
+feed video	collect	feed video	collect
+following video	collect	feed video	collect
+play video	collect	feed video	collect
+feed	collect	feed video	collect
+live video	collect	feed video	collect
+next video	collect	feed video	collect
+r feed	collect	feed video	collect
+new video	collect	feed video	collect
+great video	collect	feed video	collect
+news video	collect	feed video	collect
+news feed	collect	feed video	collect
+best video	collect	feed video	collect
+feeding	collect	feed video	collect
+gameplay video	collect	feed video	collect
+entire feed	fetch	r feed	fetch
+live feed	fetch	r feed	fetch
+feed video	fetch	r feed	fetch
+feed	fetch	r feed	fetch
+r feed	fetch	r feed	fetch
+twitter feed	fetch	r feed	fetch
+valuable feed	fetch	r feed	fetch
+news feed	fetch	r feed	fetch
+feeding	fetch	r feed	fetch
+different site	fetch	different site	fetch
+site	fetch	different site	fetch
+various site	fetch	different site	fetch
+news site	fetch	different site	fetch
+
+com.elavon.virtualmerchantmobile.apk
+false
+
+com.infocrats.ibus.apk
+false
+
+org.astrika.hungrywungry.apk
+false
+
+com.app_westcoastnat.layout.apk
+false
+
+com.goethe.ru.apk
+true
+audio video	combine	audio text	combine
+audio play	combine	audio text	combine
+audio book	combine	audio text	combine
+audio effect	combine	audio text	combine
+audio recording	combine	audio text	combine
+audio song	combine	audio text	combine
+audio player	combine	audio text	combine
+audio format	combine	audio text	combine
+audio text	combine	audio text	combine
+audio	combine	audio text	combine
+audio playback	combine	audio text	combine
+audio alert	combine	audio text	combine
+record audio	combine	audio text	combine
+live audio	combine	audio text	combine
+audio recorder	combine	audio text	combine
+audio quality	combine	audio text	combine
+audio track	combine	audio text	combine
+audio content	combine	audio text	combine
+audio file	combine	audio text	combine
+audio clip	combine	audio text	combine
+video audio	combine	audio text	combine
+
+de.dslrremote.apk
+false
+
+hu.pocketguide.bundle.Moscow_lite.apk
+true
+recording	determine	recording	determine
+syco record	determine	recording	determine
+record time	determine	recording	determine
+call recorder	determine	recording	determine
+record	determine	recording	determine
+recorder	determine	recording	determine
+call recording	determine	recording	determine
+world record	determine	recording	determine
+record deal	determine	recording	determine
+
+com.swa.cakerecipess1j.apk
+false
+
+com.anpi.android.bs.apk
+false
+
+com.tabtale.aliceinwonderlandkidsbook.apk
+true
+crossword puzzle	place	puzzle piece	place
+puzzle piece	place	puzzle piece	place
+placement puzzle	place	puzzle piece	place
+unique puzzle	place	puzzle piece	place
+easy puzzle	place	puzzle piece	place
+puzzle game	place	puzzle piece	place
+jigsaw puzzle	place	puzzle piece	place
+new puzzle	place	puzzle piece	place
+puzzle	place	puzzle piece	place
+voice call	record	voice	record
+voice command	record	voice	record
+voice note	record	voice	record
+voice recording	record	voice	record
+voice recognition	record	voice	record
+voice	record	voice	record
+voice recorder	record	voice	record
+smart connect	fire	smart activity	fire
+smart activity	fire	smart activity	fire
+
+com.moviuscorp.cellcomvvm.com.apk
+false
+
+com.merriamwebster.apk
+false
+
+com.bizagi.smartphone.apk
+false
+
+com.kevin.finance.apk
+false
+
+com.nital.nikonart.apk
+false
+
+com.app_cntrpbpn.layout.apk
+false
+
+com.bluetornadosf.joyride.apk
+false
+
+air.com.FUTWIZANDROIDNEW.apk
+false
+
+bbm.news.free.apk
+false
+
+com.intervigil.micdroid.apk
+false
+
+com.hcg.kidzbop.apk
+true
+classical music	chat	music	chat
+free music	chat	music	chat
+music collection	chat	music	chat
+music	chat	music	chat
+background music	chat	music	chat
+great music	chat	music	chat
+music today	chat	music	chat
+new music	chat	music	chat
+best music	chat	music	chat
+late music	chat	music	chat
+beautiful music	chat	music	chat
+music	chat	music artist	chat
+great music	chat	music artist	chat
+music today	chat	music artist	chat
+new music	chat	music artist	chat
+best music	chat	music artist	chat
+late music	chat	music artist	chat
+
+com.rubio.snorefxfree.apk
+false
+
+mozat.shabikplusgp.apk
+false
+
+com.suonnica.riversounds.apk
+false
+
+com.etoolkit.ibirthdayphoto.apk
+false
+
+com.asphaltmoto2.bikers.racing.game.apk
+false
+
+com.discretio.android.apk
+false
+
+com.Enavi.SpiritistJigsawPuzzle.apk
+true
+crossword puzzle	pass	puzzle	pass
+puzzle piece	pass	puzzle	pass
+placement puzzle	pass	puzzle	pass
+unique puzzle	pass	puzzle	pass
+easy puzzle	pass	puzzle	pass
+puzzle game	pass	puzzle	pass
+fun puzzle	pass	puzzle	pass
+slide puzzle	pass	puzzle	pass
+jigsaw puzzle	pass	puzzle	pass
+new puzzle	pass	puzzle	pass
+puzzle	pass	puzzle	pass
+
+com.banapps.comicartgallery.apk
+true
+youtube video	collect	feed video	collect
+video	collect	feed video	collect
+late video	collect	feed video	collect
+video support	collect	feed video	collect
+exclusive video	collect	feed video	collect
+live feed	collect	feed video	collect
+video call	collect	feed video	collect
+feed video	collect	feed video	collect
+following video	collect	feed video	collect
+play video	collect	feed video	collect
+feed	collect	feed video	collect
+live video	collect	feed video	collect
+next video	collect	feed video	collect
+r feed	collect	feed video	collect
+new video	collect	feed video	collect
+great video	collect	feed video	collect
+news video	collect	feed video	collect
+news feed	collect	feed video	collect
+best video	collect	feed video	collect
+feeding	collect	feed video	collect
+gameplay video	collect	feed video	collect
+
+com.appztastic.snapchatsavepics.apk
+false
+
+com.appsmoment.f94rrajinarimalinntalawt1wz696.apk
+false
+
+com.jacobsmedia.krxo.apk
+false
+
+com.susheelapps.nervoussystem.apk
+true
+youtube video	collect	feed video	collect
+video	collect	feed video	collect
+late video	collect	feed video	collect
+video support	collect	feed video	collect
+exclusive video	collect	feed video	collect
+live feed	collect	feed video	collect
+video call	collect	feed video	collect
+feed video	collect	feed video	collect
+following video	collect	feed video	collect
+play video	collect	feed video	collect
+feed	collect	feed video	collect
+live video	collect	feed video	collect
+next video	collect	feed video	collect
+r feed	collect	feed video	collect
+new video	collect	feed video	collect
+great video	collect	feed video	collect
+news video	collect	feed video	collect
+news feed	collect	feed video	collect
+best video	collect	feed video	collect
+feeding	collect	feed video	collect
+gameplay video	collect	feed video	collect
+
+com.tishapps.airlinetickets.apk
+true
+entire feed	fetch	r feed	fetch
+live feed	fetch	r feed	fetch
+feed video	fetch	r feed	fetch
+feed	fetch	r feed	fetch
+r feed	fetch	r feed	fetch
+twitter feed	fetch	r feed	fetch
+valuable feed	fetch	r feed	fetch
+news feed	fetch	r feed	fetch
+feeding	fetch	r feed	fetch
+different site	fetch	different site	fetch
+site	fetch	different site	fetch
+various site	fetch	different site	fetch
+news site	fetch	different site	fetch
+youtube video	collect	feed video	collect
+video	collect	feed video	collect
+late video	collect	feed video	collect
+video support	collect	feed video	collect
+exclusive video	collect	feed video	collect
+live feed	collect	feed video	collect
+video call	collect	feed video	collect
+feed video	collect	feed video	collect
+following video	collect	feed video	collect
+play video	collect	feed video	collect
+feed	collect	feed video	collect
+live video	collect	feed video	collect
+next video	collect	feed video	collect
+r feed	collect	feed video	collect
+new video	collect	feed video	collect
+great video	collect	feed video	collect
+news video	collect	feed video	collect
+news feed	collect	feed video	collect
+best video	collect	feed video	collect
+feeding	collect	feed video	collect
+gameplay video	collect	feed video	collect
+
+com.deerhunt.winter.deer.hunter.apk
+false
+
+com.kelvin.autumnframes.one.apk
+false
+
+com.billybala.watercolorpainting.apk
+true
+entire feed	fetch	r feed	fetch
+live feed	fetch	r feed	fetch
+feed video	fetch	r feed	fetch
+feed	fetch	r feed	fetch
+r feed	fetch	r feed	fetch
+twitter feed	fetch	r feed	fetch
+valuable feed	fetch	r feed	fetch
+news feed	fetch	r feed	fetch
+feeding	fetch	r feed	fetch
+different site	fetch	different site	fetch
+site	fetch	different site	fetch
+various site	fetch	different site	fetch
+news site	fetch	different site	fetch
+youtube video	collect	feed video	collect
+video	collect	feed video	collect
+late video	collect	feed video	collect
+video support	collect	feed video	collect
+exclusive video	collect	feed video	collect
+live feed	collect	feed video	collect
+video call	collect	feed video	collect
+feed video	collect	feed video	collect
+following video	collect	feed video	collect
+play video	collect	feed video	collect
+feed	collect	feed video	collect
+live video	collect	feed video	collect
+next video	collect	feed video	collect
+r feed	collect	feed video	collect
+new video	collect	feed video	collect
+great video	collect	feed video	collect
+news video	collect	feed video	collect
+news feed	collect	feed video	collect
+best video	collect	feed video	collect
+feeding	collect	feed video	collect
+gameplay video	collect	feed video	collect
+
+com.tana.tanatrial.apk
+false
+
+com.casyncogamez.blockswitcher.apk
+false
+
+org.tonee.baby.apk
+true
+voice call	record	voice	record
+voice command	record	voice	record
+voice note	record	voice	record
+voice recording	record	voice	record
+voice recognition	record	voice	record
+voice	record	voice	record
+voice recorder	record	voice	record
+
+com.appshare4life.houseforrentapp.apk
+true
+youtube video	collect	feed video	collect
+video	collect	feed video	collect
+late video	collect	feed video	collect
+video support	collect	feed video	collect
+exclusive video	collect	feed video	collect
+live feed	collect	feed video	collect
+video call	collect	feed video	collect
+feed video	collect	feed video	collect
+following video	collect	feed video	collect
+play video	collect	feed video	collect
+feed	collect	feed video	collect
+live video	collect	feed video	collect
+next video	collect	feed video	collect
+r feed	collect	feed video	collect
+new video	collect	feed video	collect
+great video	collect	feed video	collect
+news video	collect	feed video	collect
+news feed	collect	feed video	collect
+best video	collect	feed video	collect
+feeding	collect	feed video	collect
+gameplay video	collect	feed video	collect
+
+com.yourdiary.apk
+false
+
+org.astrika.meganet.apk
+false
+
+com.phonean2.app.apk
+false
+
+com.jtxdriggers.android.ventriloid.apk
+false
+
+com.appstar.callrecorder.apk
+false
+
+com.boyahoy.android.apk
+false
+
+com.tnk.ds.apk
+false
+
+com.momgame.marbleblast.apk
+false
+
+com.outfit7.talkingnewsfree.apk
+false
+
+com.funapps.love.wedding.photo.frame.apk
+false
+
+com.tribair.tribapp.apk
+false
+
+com.fanko.junkokaieda.apk
+false
+
+co.happybits.anyvideo.kik.apk
+false
+
+air.VideoChatterbox.apk
+false
+
+phnom.penh.cambodia.siem.reap.booking.hotel.discount.deal.free.apk
+true
+book hotel	reveal	hotel	reveal
+hotel restaurant	reveal	hotel	reveal
+hotel room	reveal	hotel	reveal
+hotel reservation	reveal	hotel	reveal
+hotel deal	reveal	hotel	reveal
+hotel saving	reveal	hotel	reveal
+hotel review	reveal	hotel	reveal
+budget hotel	reveal	hotel	reveal
+discount hotel	reveal	hotel	reveal
+hotel price	reveal	hotel	reveal
+hotel detail	reveal	hotel	reveal
+luxury hotel	reveal	hotel	reveal
+local hotel	reveal	hotel	reveal
+boutique hotel	reveal	hotel	reveal
+hotel offer	reveal	hotel	reveal
+listed hotel	reveal	hotel	reveal
+hotel feature	reveal	hotel	reveal
+hotel booking	reveal	hotel	reveal
+best hotel	reveal	hotel	reveal
+hotel	reveal	hotel	reveal
+book hotel	swipe	hotel	swipe
+hotel restaurant	swipe	hotel	swipe
+hotel room	swipe	hotel	swipe
+hotel reservation	swipe	hotel	swipe
+hotel deal	swipe	hotel	swipe
+hotel saving	swipe	hotel	swipe
+hotel review	swipe	hotel	swipe
+budget hotel	swipe	hotel	swipe
+discount hotel	swipe	hotel	swipe
+hotel price	swipe	hotel	swipe
+hotel detail	swipe	hotel	swipe
+luxury hotel	swipe	hotel	swipe
+local hotel	swipe	hotel	swipe
+boutique hotel	swipe	hotel	swipe
+hotel offer	swipe	hotel	swipe
+listed hotel	swipe	hotel	swipe
+hotel feature	swipe	hotel	swipe
+hotel booking	swipe	hotel	swipe
+best hotel	swipe	hotel	swipe
+hotel	swipe	hotel	swipe
+book hotel	map	hotel	map
+hotel restaurant	map	hotel	map
+hotel room	map	hotel	map
+hotel reservation	map	hotel	map
+hotel deal	map	hotel	map
+hotel saving	map	hotel	map
+hotel review	map	hotel	map
+budget hotel	map	hotel	map
+discount hotel	map	hotel	map
+hotel price	map	hotel	map
+hotel detail	map	hotel	map
+luxury hotel	map	hotel	map
+local hotel	map	hotel	map
+boutique hotel	map	hotel	map
+hotel offer	map	hotel	map
+listed hotel	map	hotel	map
+hotel feature	map	hotel	map
+hotel booking	map	hotel	map
+best hotel	map	hotel	map
+hotel	map	hotel	map
+hotel price	refine	price	refine
+book hotel	refine	hotel feature	refine
+hotel restaurant	refine	hotel feature	refine
+hotel room	refine	hotel feature	refine
+hotel reservation	refine	hotel feature	refine
+hotel deal	refine	hotel feature	refine
+hotel saving	refine	hotel feature	refine
+hotel review	refine	hotel feature	refine
+budget hotel	refine	hotel feature	refine
+discount hotel	refine	hotel feature	refine
+hotel price	refine	hotel feature	refine
+hotel detail	refine	hotel feature	refine
+luxury hotel	refine	hotel feature	refine
+local hotel	refine	hotel feature	refine
+boutique hotel	refine	hotel feature	refine
+hotel offer	refine	hotel feature	refine
+listed hotel	refine	hotel feature	refine
+hotel feature	refine	hotel feature	refine
+hotel booking	refine	hotel feature	refine
+best hotel	refine	hotel feature	refine
+hotel	refine	hotel feature	refine
+book hotel	click	hotel	click
+hotel restaurant	click	hotel	click
+hotel room	click	hotel	click
+hotel reservation	click	hotel	click
+hotel deal	click	hotel	click
+hotel saving	click	hotel	click
+hotel review	click	hotel	click
+budget hotel	click	hotel	click
+discount hotel	click	hotel	click
+hotel price	click	hotel	click
+hotel detail	click	hotel	click
+luxury hotel	click	hotel	click
+local hotel	click	hotel	click
+boutique hotel	click	hotel	click
+hotel offer	click	hotel	click
+listed hotel	click	hotel	click
+hotel feature	click	hotel	click
+hotel booking	click	hotel	click
+best hotel	click	hotel	click
+hotel	click	hotel	click
+
+com.pinger.juke.vox.messenger.free.apk
+true
+voice call	record	voice message	record
+voice note	record	voice message	record
+voice	record	voice message	record
+recording	start	recording	start
+syco record	start	recording	start
+record time	start	recording	start
+call recorder	start	recording	start
+record	start	recording	start
+recorder	start	recording	start
+call recording	start	recording	start
+world record	start	recording	start
+
+com.zoosk.zoosk.asian.free.apk
+false
+
+com.senstore.alice.harvard.apk
+false
+
+com.ipum.app817.apk
+false
+
+fr.xplod.focal.apk
+false
+
+com.smartaplis.teentitans.apk
+false
+
+com.info.traffic.apk
+false
+
+com.liberty.fairs.apk
+false
+
+lwcr19teddybear.lwp.apk
+true
+volume setting	tap	sfx volume	tap
+volume level	tap	sfx volume	tap
+volume control	tap	sfx volume	tap
+sfx volume	tap	sfx volume	tap
+volume	tap	sfx volume	tap
+volume key	tap	sfx volume	tap
+volume setting	pop	sfx volume	pop
+volume level	pop	sfx volume	pop
+volume control	pop	sfx volume	pop
+sfx volume	pop	sfx volume	pop
+volume	pop	sfx volume	pop
+volume key	pop	sfx volume	pop
+
+com.appsmoment.kusssongs.apk
+false
+
+com.app_beachbraces.layout.apk
+false
+
+com.cyphercove.audioglowfs.apk
+false
+
+com.mdeveloper.mremote.apk
+false
+
+com.ipum.app904.apk
+false
+
+com.unlocker.netcom.apk
+false
+
+com.Zerasita.LegoBatmanJigsawPuzzle.apk
+false
+
+com.limpenghoe.hellokittyhellokitty.apk
+true
+youtube video	collect	feed video	collect
+video	collect	feed video	collect
+late video	collect	feed video	collect
+video support	collect	feed video	collect
+exclusive video	collect	feed video	collect
+live feed	collect	feed video	collect
+video call	collect	feed video	collect
+feed video	collect	feed video	collect
+following video	collect	feed video	collect
+play video	collect	feed video	collect
+feed	collect	feed video	collect
+live video	collect	feed video	collect
+next video	collect	feed video	collect
+r feed	collect	feed video	collect
+new video	collect	feed video	collect
+great video	collect	feed video	collect
+news video	collect	feed video	collect
+news feed	collect	feed video	collect
+best video	collect	feed video	collect
+feeding	collect	feed video	collect
+gameplay video	collect	feed video	collect
+entire feed	fetch	r feed	fetch
+live feed	fetch	r feed	fetch
+feed video	fetch	r feed	fetch
+feed	fetch	r feed	fetch
+r feed	fetch	r feed	fetch
+twitter feed	fetch	r feed	fetch
+valuable feed	fetch	r feed	fetch
+news feed	fetch	r feed	fetch
+feeding	fetch	r feed	fetch
+different site	fetch	different site	fetch
+site	fetch	different site	fetch
+various site	fetch	different site	fetch
+news site	fetch	different site	fetch
+
+com.cmdcs.bigwincheats.apk
+false
+
+com.zwunk.snapsave.apk
+false
+
+com.newapps.petlizards.apk
+true
+entire feed	fetch	r feed	fetch
+live feed	fetch	r feed	fetch
+feed video	fetch	r feed	fetch
+feed	fetch	r feed	fetch
+r feed	fetch	r feed	fetch
+twitter feed	fetch	r feed	fetch
+valuable feed	fetch	r feed	fetch
+news feed	fetch	r feed	fetch
+feeding	fetch	r feed	fetch
+different site	fetch	different site	fetch
+site	fetch	different site	fetch
+various site	fetch	different site	fetch
+news site	fetch	different site	fetch
+youtube video	collect	feed video	collect
+video	collect	feed video	collect
+late video	collect	feed video	collect
+video support	collect	feed video	collect
+exclusive video	collect	feed video	collect
+live feed	collect	feed video	collect
+video call	collect	feed video	collect
+feed video	collect	feed video	collect
+following video	collect	feed video	collect
+play video	collect	feed video	collect
+feed	collect	feed video	collect
+live video	collect	feed video	collect
+next video	collect	feed video	collect
+r feed	collect	feed video	collect
+new video	collect	feed video	collect
+great video	collect	feed video	collect
+news video	collect	feed video	collect
+news feed	collect	feed video	collect
+best video	collect	feed video	collect
+feeding	collect	feed video	collect
+gameplay video	collect	feed video	collect
+
+com.Various_Format_Media_Player_1204022.apk
+true
+audio format	save	format	save
+
+com.semaphore.login.apk
+false
+
+com.app_montfordinn.layout.apk
+false
+
+net.idt.pennytalk.android.apk
+false
+
+com.tabtale.jackandthebeanstalkkidsbook.apk
+true
+crossword puzzle	awesome	jigsaw puzzle	awesome
+puzzle piece	awesome	jigsaw puzzle	awesome
+placement puzzle	awesome	jigsaw puzzle	awesome
+unique puzzle	awesome	jigsaw puzzle	awesome
+easy puzzle	awesome	jigsaw puzzle	awesome
+puzzle game	awesome	jigsaw puzzle	awesome
+fun puzzle	awesome	jigsaw puzzle	awesome
+slide puzzle	awesome	jigsaw puzzle	awesome
+jigsaw puzzle	awesome	jigsaw puzzle	awesome
+new puzzle	awesome	jigsaw puzzle	awesome
+puzzle	awesome	jigsaw puzzle	awesome
+smart connect	fire	smart activity	fire
+smart activity	fire	smart activity	fire
+crossword puzzle	place	puzzle piece	place
+puzzle piece	place	puzzle piece	place
+placement puzzle	place	puzzle piece	place
+unique puzzle	place	puzzle piece	place
+easy puzzle	place	puzzle piece	place
+puzzle game	place	puzzle piece	place
+jigsaw puzzle	place	puzzle piece	place
+new puzzle	place	puzzle piece	place
+puzzle	place	puzzle piece	place
+voice call	record	voice	record
+voice command	record	voice	record
+voice note	record	voice	record
+voice recording	record	voice	record
+voice recognition	record	voice	record
+voice	record	voice	record
+voice recorder	record	voice	record
+
+pillarapps.mohdjarbinx.picomoda.apk
+false
+
+com.appypie.appypie878a96a97247.apk
+false
+
+com.onseeker.wgca885fm.apk
+false
+
+costa.rica.hotel.free.deals.booking.best.apk
+true
+late deal	lodge	deal	lodge
+good deal	lodge	deal	lodge
+deal	lodge	deal	lodge
+local deal	lodge	deal	lodge
+special deal	lodge	deal	lodge
+best deal	lodge	deal	lodge
+record deal	lodge	deal	lodge
+exclusive deal	lodge	deal	lodge
+great deal	lodge	deal	lodge
+book hotel	reveal	hotel	reveal
+hotel restaurant	reveal	hotel	reveal
+hotel room	reveal	hotel	reveal
+hotel reservation	reveal	hotel	reveal
+hotel deal	reveal	hotel	reveal
+hotel saving	reveal	hotel	reveal
+hotel review	reveal	hotel	reveal
+budget hotel	reveal	hotel	reveal
+discount hotel	reveal	hotel	reveal
+hotel price	reveal	hotel	reveal
+hotel detail	reveal	hotel	reveal
+luxury hotel	reveal	hotel	reveal
+local hotel	reveal	hotel	reveal
+boutique hotel	reveal	hotel	reveal
+hotel offer	reveal	hotel	reveal
+listed hotel	reveal	hotel	reveal
+hotel feature	reveal	hotel	reveal
+hotel booking	reveal	hotel	reveal
+best hotel	reveal	hotel	reveal
+hotel	reveal	hotel	reveal
+book hotel	swipe	hotel	swipe
+hotel restaurant	swipe	hotel	swipe
+hotel room	swipe	hotel	swipe
+hotel reservation	swipe	hotel	swipe
+hotel deal	swipe	hotel	swipe
+hotel saving	swipe	hotel	swipe
+hotel review	swipe	hotel	swipe
+budget hotel	swipe	hotel	swipe
+discount hotel	swipe	hotel	swipe
+hotel price	swipe	hotel	swipe
+hotel detail	swipe	hotel	swipe
+luxury hotel	swipe	hotel	swipe
+local hotel	swipe	hotel	swipe
+boutique hotel	swipe	hotel	swipe
+hotel offer	swipe	hotel	swipe
+listed hotel	swipe	hotel	swipe
+hotel feature	swipe	hotel	swipe
+hotel booking	swipe	hotel	swipe
+best hotel	swipe	hotel	swipe
+hotel	swipe	hotel	swipe
+book hotel	map	hotel	map
+hotel restaurant	map	hotel	map
+hotel room	map	hotel	map
+hotel reservation	map	hotel	map
+hotel deal	map	hotel	map
+hotel saving	map	hotel	map
+hotel review	map	hotel	map
+budget hotel	map	hotel	map
+discount hotel	map	hotel	map
+hotel price	map	hotel	map
+hotel detail	map	hotel	map
+luxury hotel	map	hotel	map
+local hotel	map	hotel	map
+boutique hotel	map	hotel	map
+hotel offer	map	hotel	map
+listed hotel	map	hotel	map
+hotel feature	map	hotel	map
+hotel booking	map	hotel	map
+best hotel	map	hotel	map
+hotel	map	hotel	map
+book hotel	list	hotel	list
+hotel restaurant	list	hotel	list
+hotel room	list	hotel	list
+hotel reservation	list	hotel	list
+hotel deal	list	hotel	list
+hotel saving	list	hotel	list
+hotel review	list	hotel	list
+budget hotel	list	hotel	list
+discount hotel	list	hotel	list
+hotel price	list	hotel	list
+hotel detail	list	hotel	list
+luxury hotel	list	hotel	list
+local hotel	list	hotel	list
+boutique hotel	list	hotel	list
+hotel offer	list	hotel	list
+listed hotel	list	hotel	list
+hotel feature	list	hotel	list
+hotel booking	list	hotel	list
+best hotel	list	hotel	list
+hotel	list	hotel	list
+late deal	give	deal	give
+good deal	give	deal	give
+deal	give	deal	give
+local deal	give	deal	give
+special deal	give	deal	give
+best deal	give	deal	give
+record deal	give	deal	give
+exclusive deal	give	deal	give
+great deal	give	deal	give
+hotel price	refine	price	refine
+book hotel	refine	hotel feature	refine
+hotel restaurant	refine	hotel feature	refine
+hotel room	refine	hotel feature	refine
+hotel reservation	refine	hotel feature	refine
+hotel deal	refine	hotel feature	refine
+hotel saving	refine	hotel feature	refine
+hotel review	refine	hotel feature	refine
+budget hotel	refine	hotel feature	refine
+discount hotel	refine	hotel feature	refine
+hotel price	refine	hotel feature	refine
+hotel detail	refine	hotel feature	refine
+luxury hotel	refine	hotel feature	refine
+local hotel	refine	hotel feature	refine
+boutique hotel	refine	hotel feature	refine
+hotel offer	refine	hotel feature	refine
+listed hotel	refine	hotel feature	refine
+hotel feature	refine	hotel feature	refine
+hotel booking	refine	hotel feature	refine
+best hotel	refine	hotel feature	refine
+hotel	refine	hotel feature	refine
+book hotel	click	hotel	click
+hotel restaurant	click	hotel	click
+hotel room	click	hotel	click
+hotel reservation	click	hotel	click
+hotel deal	click	hotel	click
+hotel saving	click	hotel	click
+hotel review	click	hotel	click
+budget hotel	click	hotel	click
+discount hotel	click	hotel	click
+hotel price	click	hotel	click
+hotel detail	click	hotel	click
+luxury hotel	click	hotel	click
+local hotel	click	hotel	click
+boutique hotel	click	hotel	click
+hotel offer	click	hotel	click
+listed hotel	click	hotel	click
+hotel feature	click	hotel	click
+hotel booking	click	hotel	click
+best hotel	click	hotel	click
+hotel	click	hotel	click
+
+com.ranapps.nimbuzzshare.apk
+false
+
+com.app_appojai.layout.apk
+false
+
+com.voillo.androiddialer.apk
+false
+
+com.vox.mosippro.apk
+false
+
+com.Free.apk
+false
+
+com.chatapp.sounds.apk
+false
+
+com.app_vinhle.layout.apk
+false
+
+com.skillapps.diseasesymptoms.apk
+false
+
+ca.futurecreativity.collegemid.apk
+false
+
+com.labs.magellanic.apk
+false
+
+com.app_bobsb.layout.apk
+false
+
+siat.ebuddy.photoeffects.apk
+false
+
+com.microsoft.bing.apk
+false
+
+com.barodarestaurant.apk
+false
+
+com.kauf.talking.baum.TalkingJamesSquirrel.apk
+true
+funny moment	answer	funny voice	answer
+funny image	answer	funny voice	answer
+funny voice	answer	funny voice	answer
+funny quote	answer	funny voice	answer
+fun puzzle	slide	puzzle	slide
+slide puzzle	slide	puzzle	slide
+
+com.limpenghoe.breakingnewsupdate.apk
+true
+entire feed	fetch	r feed	fetch
+live feed	fetch	r feed	fetch
+feed video	fetch	r feed	fetch
+feed	fetch	r feed	fetch
+r feed	fetch	r feed	fetch
+twitter feed	fetch	r feed	fetch
+valuable feed	fetch	r feed	fetch
+news feed	fetch	r feed	fetch
+feeding	fetch	r feed	fetch
+different site	fetch	different site	fetch
+site	fetch	different site	fetch
+various site	fetch	different site	fetch
+news site	fetch	different site	fetch
+youtube video	collect	feed video	collect
+video	collect	feed video	collect
+late video	collect	feed video	collect
+video support	collect	feed video	collect
+exclusive video	collect	feed video	collect
+live feed	collect	feed video	collect
+video call	collect	feed video	collect
+feed video	collect	feed video	collect
+following video	collect	feed video	collect
+play video	collect	feed video	collect
+feed	collect	feed video	collect
+live video	collect	feed video	collect
+next video	collect	feed video	collect
+r feed	collect	feed video	collect
+new video	collect	feed video	collect
+great video	collect	feed video	collect
+news video	collect	feed video	collect
+news feed	collect	feed video	collect
+best video	collect	feed video	collect
+feeding	collect	feed video	collect
+gameplay video	collect	feed video	collect
+
+com.sanjsamachar.sanjsamachar.apk
+false
+
+com.nymgo.android.apk
+false
+
+com.etoolkit.kidscollage.apk
+false
+
+com.google.android.ears.apk
+false
+
+com.clinique.phresco.hybrid.apk
+false
+
+net.wepayonline.mobileworker.ui.apk
+false
+
+eu.airaudio.apk
+false
+
+com.deerhunt.deer.hunter.challenge.apk
+false
+
+com.banapps.mobilelocationfinder.apk
+true
+youtube video	collect	feed video	collect
+video	collect	feed video	collect
+late video	collect	feed video	collect
+video support	collect	feed video	collect
+exclusive video	collect	feed video	collect
+live feed	collect	feed video	collect
+video call	collect	feed video	collect
+feed video	collect	feed video	collect
+following video	collect	feed video	collect
+play video	collect	feed video	collect
+feed	collect	feed video	collect
+live video	collect	feed video	collect
+next video	collect	feed video	collect
+r feed	collect	feed video	collect
+new video	collect	feed video	collect
+great video	collect	feed video	collect
+news video	collect	feed video	collect
+news feed	collect	feed video	collect
+best video	collect	feed video	collect
+feeding	collect	feed video	collect
+gameplay video	collect	feed video	collect
+entire feed	fetch	r feed	fetch
+live feed	fetch	r feed	fetch
+feed video	fetch	r feed	fetch
+feed	fetch	r feed	fetch
+r feed	fetch	r feed	fetch
+twitter feed	fetch	r feed	fetch
+valuable feed	fetch	r feed	fetch
+news feed	fetch	r feed	fetch
+feeding	fetch	r feed	fetch
+different site	fetch	different site	fetch
+site	fetch	different site	fetch
+various site	fetch	different site	fetch
+news site	fetch	different site	fetch
+
+com.sabalotelli.recorder.apk
+false
+
+modbus.tesla.scada.apk
+false
+
+com.researchmetrics.IRCount2013.apk
+false
+
+air.com.spacebar.CeeBee.apk
+false
+
+com.app_teamchmura.layout.apk
+false
+
+hr.podlanica.apk
+false
+
+com.Manyea.NorthernArizonaCheerleaders.apk
+false
+
+com.subway.new.orleans.and.actors.apk
+false
+
+com.getfreegadgets.gta5cheats.apk
+false
+
+com.veetle.android.lite.apk
+false
+
+com.blogspot.novalabsandroid.wallpaperdownloader.apk
+false
+
+com.pinger.ppa.apk
+false
+
+com.kidconnect.apk
+false
+
+angry.tiger.run.free.apk
+false
+
+com.lsdroid.cerberus.apk
+false
+
+com.agdealer.app.apk
+false
+
+com.freeonline.ZzTVRussia.apk
+false
+
+com.verifone.way2ride.apk
+false
+
+de.stefanpledl.teres.apk
+false
+
+com.freeonline.ZzTVJapan.apk
+false
+
+lwcr08pitbulldog.lwp.apk
+true
+volume setting	tap	sfx volume	tap
+volume level	tap	sfx volume	tap
+volume control	tap	sfx volume	tap
+sfx volume	tap	sfx volume	tap
+volume	tap	sfx volume	tap
+volume key	tap	sfx volume	tap
+volume setting	pop	sfx volume	pop
+volume level	pop	sfx volume	pop
+volume control	pop	sfx volume	pop
+sfx volume	pop	sfx volume	pop
+volume	pop	sfx volume	pop
+volume key	pop	sfx volume	pop
+
+com.b2tsoftware.panda.apk
+false
+
+hu.pocketguide.bundle.RiodeJaneiro_lite.apk
+true
+recording	determine	recording	determine
+syco record	determine	recording	determine
+record time	determine	recording	determine
+call recorder	determine	recording	determine
+record	determine	recording	determine
+recorder	determine	recording	determine
+call recording	determine	recording	determine
+world record	determine	recording	determine
+record deal	determine	recording	determine
+
+com.syriousgames.spoker.apk
+false
+
+com.kstapp.apptitle.apk
+false
+
+com.mobomo.dvisit.apk
+false
+
+ns.diwalilivewallpaper9.apk
+false
+
+com.ayvas.callrecorder.apk
+false
+
+com.RRjoked.apk
+false
+
+com.most.livewallpaper.radiation.apk
+false
+
+com.arlen.MetalGearRingtonesI.apk
+false
+
+com.newapps.downloadmp3tomusic.apk
+true
+youtube video	collect	feed video	collect
+video	collect	feed video	collect
+late video	collect	feed video	collect
+video support	collect	feed video	collect
+exclusive video	collect	feed video	collect
+live feed	collect	feed video	collect
+video call	collect	feed video	collect
+feed video	collect	feed video	collect
+following video	collect	feed video	collect
+play video	collect	feed video	collect
+feed	collect	feed video	collect
+live video	collect	feed video	collect
+next video	collect	feed video	collect
+r feed	collect	feed video	collect
+new video	collect	feed video	collect
+great video	collect	feed video	collect
+news video	collect	feed video	collect
+news feed	collect	feed video	collect
+best video	collect	feed video	collect
+feeding	collect	feed video	collect
+gameplay video	collect	feed video	collect
+entire feed	fetch	r feed	fetch
+live feed	fetch	r feed	fetch
+feed video	fetch	r feed	fetch
+feed	fetch	r feed	fetch
+r feed	fetch	r feed	fetch
+twitter feed	fetch	r feed	fetch
+valuable feed	fetch	r feed	fetch
+news feed	fetch	r feed	fetch
+feeding	fetch	r feed	fetch
+different site	fetch	different site	fetch
+site	fetch	different site	fetch
+various site	fetch	different site	fetch
+news site	fetch	different site	fetch
+
+com.app_yourjumptraining.layout.apk
+false
+
+sfarra.lorenzo.android.thehappinessdiary.apk
+false
+
+com.appypie.appypie4579935a4ec0.apk
+false
+
+org.causera.causera.apk
+false
+
+com.ipum.app1232.apk
+false
+
+com.e7sports.csl2012.apk
+false
+
+com.vkontakte.android.apk
+false
+
+com.littleinc.MessageMe.apk
+false
+
+com.andrea.musichub.apk
+true
+youtube video	collect	feed video	collect
+video	collect	feed video	collect
+late video	collect	feed video	collect
+video support	collect	feed video	collect
+exclusive video	collect	feed video	collect
+live feed	collect	feed video	collect
+video call	collect	feed video	collect
+feed video	collect	feed video	collect
+following video	collect	feed video	collect
+play video	collect	feed video	collect
+feed	collect	feed video	collect
+live video	collect	feed video	collect
+next video	collect	feed video	collect
+r feed	collect	feed video	collect
+new video	collect	feed video	collect
+great video	collect	feed video	collect
+news video	collect	feed video	collect
+news feed	collect	feed video	collect
+best video	collect	feed video	collect
+feeding	collect	feed video	collect
+gameplay video	collect	feed video	collect
+entire feed	fetch	r feed	fetch
+live feed	fetch	r feed	fetch
+feed video	fetch	r feed	fetch
+feed	fetch	r feed	fetch
+r feed	fetch	r feed	fetch
+twitter feed	fetch	r feed	fetch
+valuable feed	fetch	r feed	fetch
+news feed	fetch	r feed	fetch
+feeding	fetch	r feed	fetch
+different site	fetch	different site	fetch
+site	fetch	different site	fetch
+various site	fetch	different site	fetch
+news site	fetch	different site	fetch
+
+com.app_finditmn.layout.apk
+false
+
+com.long.vision.FlashBlinkingOnCallAndSMS.apk
+false
+
+com.fanapps.losangelesdodgers.apk
+false
+
+com.lorel.hamiltonmall.apk
+false
+
+com.getfreegadgets.jackrussellterrier.apk
+false
+
+com.mikeduggan4mayor.detroit.apk
+false
+
+com.app_rightangle.layout.apk
+false
+
+com.banapps.latestsportsnewsaps.apk
+true
+entire feed	fetch	r feed	fetch
+live feed	fetch	r feed	fetch
+feed video	fetch	r feed	fetch
+feed	fetch	r feed	fetch
+r feed	fetch	r feed	fetch
+twitter feed	fetch	r feed	fetch
+valuable feed	fetch	r feed	fetch
+news feed	fetch	r feed	fetch
+feeding	fetch	r feed	fetch
+different site	fetch	different site	fetch
+site	fetch	different site	fetch
+various site	fetch	different site	fetch
+news site	fetch	different site	fetch
+youtube video	collect	feed video	collect
+video	collect	feed video	collect
+late video	collect	feed video	collect
+video support	collect	feed video	collect
+exclusive video	collect	feed video	collect
+live feed	collect	feed video	collect
+video call	collect	feed video	collect
+feed video	collect	feed video	collect
+following video	collect	feed video	collect
+play video	collect	feed video	collect
+feed	collect	feed video	collect
+live video	collect	feed video	collect
+next video	collect	feed video	collect
+r feed	collect	feed video	collect
+new video	collect	feed video	collect
+great video	collect	feed video	collect
+news video	collect	feed video	collect
+news feed	collect	feed video	collect
+best video	collect	feed video	collect
+feeding	collect	feed video	collect
+gameplay video	collect	feed video	collect
+
+com.getfreegadgets.nflfootballgames.apk
+false
+
+naveen.Transparent.apk
+false
+
+ns.diwalilivewallpaper3.apk
+false
+
+myr.canvas.apk
+false
+
+org.thoughtcrime.redphone.apk
+false
+
+hotel.booking.singapore.special.deals.apk
+true
+book hotel	click	hotel	click
+hotel restaurant	click	hotel	click
+hotel room	click	hotel	click
+hotel reservation	click	hotel	click
+hotel deal	click	hotel	click
+hotel saving	click	hotel	click
+hotel review	click	hotel	click
+budget hotel	click	hotel	click
+discount hotel	click	hotel	click
+hotel price	click	hotel	click
+hotel detail	click	hotel	click
+luxury hotel	click	hotel	click
+local hotel	click	hotel	click
+boutique hotel	click	hotel	click
+hotel offer	click	hotel	click
+listed hotel	click	hotel	click
+hotel feature	click	hotel	click
+hotel booking	click	hotel	click
+best hotel	click	hotel	click
+hotel	click	hotel	click
+book hotel	reveal	hotel	reveal
+hotel restaurant	reveal	hotel	reveal
+hotel room	reveal	hotel	reveal
+hotel reservation	reveal	hotel	reveal
+hotel deal	reveal	hotel	reveal
+hotel saving	reveal	hotel	reveal
+hotel review	reveal	hotel	reveal
+budget hotel	reveal	hotel	reveal
+discount hotel	reveal	hotel	reveal
+hotel price	reveal	hotel	reveal
+hotel detail	reveal	hotel	reveal
+luxury hotel	reveal	hotel	reveal
+local hotel	reveal	hotel	reveal
+boutique hotel	reveal	hotel	reveal
+hotel offer	reveal	hotel	reveal
+listed hotel	reveal	hotel	reveal
+hotel feature	reveal	hotel	reveal
+hotel booking	reveal	hotel	reveal
+best hotel	reveal	hotel	reveal
+hotel	reveal	hotel	reveal
+book hotel	swipe	hotel	swipe
+hotel restaurant	swipe	hotel	swipe
+hotel room	swipe	hotel	swipe
+hotel reservation	swipe	hotel	swipe
+hotel deal	swipe	hotel	swipe
+hotel saving	swipe	hotel	swipe
+hotel review	swipe	hotel	swipe
+budget hotel	swipe	hotel	swipe
+discount hotel	swipe	hotel	swipe
+hotel price	swipe	hotel	swipe
+hotel detail	swipe	hotel	swipe
+luxury hotel	swipe	hotel	swipe
+local hotel	swipe	hotel	swipe
+boutique hotel	swipe	hotel	swipe
+hotel offer	swipe	hotel	swipe
+listed hotel	swipe	hotel	swipe
+hotel feature	swipe	hotel	swipe
+hotel booking	swipe	hotel	swipe
+best hotel	swipe	hotel	swipe
+hotel	swipe	hotel	swipe
+book hotel	map	hotel	map
+hotel restaurant	map	hotel	map
+hotel room	map	hotel	map
+hotel reservation	map	hotel	map
+hotel deal	map	hotel	map
+hotel saving	map	hotel	map
+hotel review	map	hotel	map
+budget hotel	map	hotel	map
+discount hotel	map	hotel	map
+hotel price	map	hotel	map
+hotel detail	map	hotel	map
+luxury hotel	map	hotel	map
+local hotel	map	hotel	map
+boutique hotel	map	hotel	map
+hotel offer	map	hotel	map
+listed hotel	map	hotel	map
+hotel feature	map	hotel	map
+hotel booking	map	hotel	map
+best hotel	map	hotel	map
+hotel	map	hotel	map
+late deal	give	deal	give
+good deal	give	deal	give
+deal	give	deal	give
+local deal	give	deal	give
+special deal	give	deal	give
+best deal	give	deal	give
+record deal	give	deal	give
+exclusive deal	give	deal	give
+great deal	give	deal	give
+hotel price	refine	price	refine
+book hotel	refine	hotel feature	refine
+hotel restaurant	refine	hotel feature	refine
+hotel room	refine	hotel feature	refine
+hotel reservation	refine	hotel feature	refine
+hotel deal	refine	hotel feature	refine
+hotel saving	refine	hotel feature	refine
+hotel review	refine	hotel feature	refine
+budget hotel	refine	hotel feature	refine
+discount hotel	refine	hotel feature	refine
+hotel price	refine	hotel feature	refine
+hotel detail	refine	hotel feature	refine
+luxury hotel	refine	hotel feature	refine
+local hotel	refine	hotel feature	refine
+boutique hotel	refine	hotel feature	refine
+hotel offer	refine	hotel feature	refine
+listed hotel	refine	hotel feature	refine
+hotel feature	refine	hotel feature	refine
+hotel booking	refine	hotel feature	refine
+best hotel	refine	hotel feature	refine
+hotel	refine	hotel feature	refine
+
+com.daon.identityx.nstic.apk
+false
+
+com.cltemplerunning.templerunning.run.apk
+true
+correct position	move	correct place	move
+correct word	move	correct place	move
+correction	move	correct place	move
+correct order	move	correct place	move
+correct place	move	correct place	move
+correct operation	move	correct place	move
+correct position	shift	correct place	shift
+correct word	shift	correct place	shift
+correction	shift	correct place	shift
+correct order	shift	correct place	shift
+correct place	shift	correct place	shift
+correct operation	shift	correct place	shift
+
+com.freeonline.ZzTVUSA.apk
+false
+
+sunell.client.system.apk
+false
+
+com.fbg.drinkboard.apk
+false
+
+com.jadn.ccpro.apk
+false
+
+com.Screen.LockedupFlameLockScreenWallpaper.apk
+false
+
+com.hcg.nickiminaj.apk
+true
+classical music	chat	music	chat
+free music	chat	music	chat
+music collection	chat	music	chat
+music	chat	music	chat
+background music	chat	music	chat
+great music	chat	music	chat
+music today	chat	music	chat
+new music	chat	music	chat
+best music	chat	music	chat
+late music	chat	music	chat
+beautiful music	chat	music	chat
+music	chat	music artist	chat
+great music	chat	music artist	chat
+music today	chat	music artist	chat
+new music	chat	music artist	chat
+best music	chat	music artist	chat
+late music	chat	music artist	chat
+
+com.kickyourapps.app368.apk
+false
+
+com.onesolutionapps.threebbailbondsandroid.apk
+false
+
+com.iPac.ipmg.apk
+false
+
+com.iboomobile.heroembarazointer.apk
+false
+
+com.app_juliemuller.layout.apk
+false
+
+com.app_realswoop14.layout.apk
+false
+
+de.smartchord.droid.apk
+false
+
+com.sendhub.apk
+false
+
+com.app_golfscorecard.layout.apk
+false
+
+com.vox.ogtcall.apk
+false
+
+com.superchargeintl.tradingtips17.apk
+false
+
+im.ecloud.ecalendar.apk
+false
+
+com.Screen.LockedupBrokenScreenThemeLockScreen.apk
+false
+
+com.beard.styles.salon.apk
+false
+
+com.myapps.mypov.apk
+false
+
+com.app_chadb.layout.apk
+false
+
+com.tiscali.indoona.apk
+false
+
+com.djdance.microwavepro.apk
+false
+
+com.gingersoftware.android.keyboard.apk
+false
+
+com.fanapps.lalakers.apk
+false
+
+com.ntrack.studio.apk
+false
+
+com.app_griddle.layout.apk
+false
+
+androidesko.android.carsounds.apk
+false
+
+com.etoolkit.ilovephoto.apk
+false
+
+com.lgltd.weatherchanel.apk
+true
+youtube video	collect	feed video	collect
+video	collect	feed video	collect
+late video	collect	feed video	collect
+video support	collect	feed video	collect
+exclusive video	collect	feed video	collect
+live feed	collect	feed video	collect
+video call	collect	feed video	collect
+feed video	collect	feed video	collect
+following video	collect	feed video	collect
+play video	collect	feed video	collect
+feed	collect	feed video	collect
+live video	collect	feed video	collect
+next video	collect	feed video	collect
+r feed	collect	feed video	collect
+new video	collect	feed video	collect
+great video	collect	feed video	collect
+news video	collect	feed video	collect
+news feed	collect	feed video	collect
+best video	collect	feed video	collect
+feeding	collect	feed video	collect
+gameplay video	collect	feed video	collect
+entire feed	fetch	r feed	fetch
+live feed	fetch	r feed	fetch
+feed video	fetch	r feed	fetch
+feed	fetch	r feed	fetch
+r feed	fetch	r feed	fetch
+twitter feed	fetch	r feed	fetch
+valuable feed	fetch	r feed	fetch
+news feed	fetch	r feed	fetch
+feeding	fetch	r feed	fetch
+different site	fetch	different site	fetch
+site	fetch	different site	fetch
+various site	fetch	different site	fetch
+news site	fetch	different site	fetch
+
+com.hcg.tamarbraxton.apk
+true
+classical music	chat	music	chat
+free music	chat	music	chat
+music collection	chat	music	chat
+music	chat	music	chat
+background music	chat	music	chat
+great music	chat	music	chat
+music today	chat	music	chat
+new music	chat	music	chat
+best music	chat	music	chat
+late music	chat	music	chat
+beautiful music	chat	music	chat
+music	chat	music artist	chat
+great music	chat	music artist	chat
+music today	chat	music artist	chat
+new music	chat	music artist	chat
+best music	chat	music artist	chat
+late music	chat	music artist	chat
+
+com.appmakr.app845077.apk
+false
+
+com.jacobsmedia.wsb.apk
+false
+
+com.bestappsforphone.bestwaytolearnfrenchfasthowtospeakfrench3.apk
+false
+
+com.unlocker.bartsidee.apk
+false
+
+hk.d100.apk
+false
+
+com.chrome.beta.apk
+false
+
+com.app_selene.layout.apk
+false
+
+com.talking.putin2.apk
+false
+
+com.gikoomlp.phone.lenovo.los.apk
+false
+
+com.Luker.Angelo5DWaterfallLiveWallpaper.apk
+false
+
+jp.gr.java_conf.myoshii.android.soundreccfree.apk
+false
+
+com.picture.quotes.wallpapers.love.sayings.apk
+false
+
+com.app_arteagas.layout.apk
+false
+
+com.hcg.selenag.apk
+true
+classical music	chat	music	chat
+free music	chat	music	chat
+music collection	chat	music	chat
+music	chat	music	chat
+background music	chat	music	chat
+great music	chat	music	chat
+music today	chat	music	chat
+new music	chat	music	chat
+best music	chat	music	chat
+late music	chat	music	chat
+beautiful music	chat	music	chat
+music	chat	music artist	chat
+great music	chat	music artist	chat
+music today	chat	music artist	chat
+new music	chat	music artist	chat
+best music	chat	music artist	chat
+late music	chat	music artist	chat
+
+com.ifeelsuper.ifeelsuper.apk
+false
+
+com.tabtale.princessandthepea.google.apk
+true
+smart connect	fire	smart activity	fire
+smart activity	fire	smart activity	fire
+crossword puzzle	awesome	puzzle	awesome
+puzzle piece	awesome	puzzle	awesome
+placement puzzle	awesome	puzzle	awesome
+unique puzzle	awesome	puzzle	awesome
+easy puzzle	awesome	puzzle	awesome
+puzzle game	awesome	puzzle	awesome
+fun puzzle	awesome	puzzle	awesome
+slide puzzle	awesome	puzzle	awesome
+jigsaw puzzle	awesome	puzzle	awesome
+new puzzle	awesome	puzzle	awesome
+puzzle	awesome	puzzle	awesome
+crossword puzzle	place	puzzle piece	place
+puzzle piece	place	puzzle piece	place
+placement puzzle	place	puzzle piece	place
+unique puzzle	place	puzzle piece	place
+easy puzzle	place	puzzle piece	place
+puzzle game	place	puzzle piece	place
+jigsaw puzzle	place	puzzle piece	place
+new puzzle	place	puzzle piece	place
+puzzle	place	puzzle piece	place
+
+com.maelstrom.sherlockpersonalsecurity.apk
+false
+
+com.kickyourapps.app369.apk
+false
+
+com.agents.armor.apk
+false
+
+com.reflap.reflap.apk
+false
+
+com.quacito.pestcontrol.apk
+true
+voice call	record	voice	record
+voice command	record	voice	record
+voice note	record	voice	record
+voice recording	record	voice	record
+voice recognition	record	voice	record
+voice	record	voice	record
+voice recorder	record	voice	record
+
+kr.co.samsung.galaxys3.apk
+false
+
+com.Olilpad.AvenueHDPictures.apk
+false
+
+com.William.SoncoCartoonLiveWallpaperVI.apk
+false
+
+com.breast.breastcare.apk
+false
+
+com.hcg.lilwayne.apk
+true
+classical music	chat	music	chat
+free music	chat	music	chat
+music collection	chat	music	chat
+music	chat	music	chat
+background music	chat	music	chat
+great music	chat	music	chat
+music today	chat	music	chat
+new music	chat	music	chat
+best music	chat	music	chat
+late music	chat	music	chat
+beautiful music	chat	music	chat
+music	chat	music artist	chat
+great music	chat	music artist	chat
+music today	chat	music artist	chat
+new music	chat	music artist	chat
+best music	chat	music artist	chat
+late music	chat	music artist	chat
+
+com.supercoolapps.worldwarquiztriviapuzzlecallofdutystarwarsangrybirdminecraftcod3.apk
+false
+
+com.deer.hunter.target.apk
+false
+
+com.pastel.smartcallvolume.apk
+false
+
+com.microphone.earspy.apk
+false
+
+kr.sira.sound.apk
+false
+
+learn.to.make.sushi.apk
+false
+
+com.zeebox.android.caa.apk
+false
+
+com.hermanjulie.ringpod.apk
+true
+audio play	save	clipped audio	save
+audio book	save	clipped audio	save
+audio effect	save	clipped audio	save
+audio recording	save	clipped audio	save
+audio format	save	clipped audio	save
+audio text	save	clipped audio	save
+audio	save	clipped audio	save
+record audio	save	clipped audio	save
+live audio	save	clipped audio	save
+audio recorder	save	clipped audio	save
+audio quality	save	clipped audio	save
+audio content	save	clipped audio	save
+audio play	save	new audio	save
+audio book	save	new audio	save
+audio effect	save	new audio	save
+audio recording	save	new audio	save
+audio format	save	new audio	save
+audio text	save	new audio	save
+audio	save	new audio	save
+record audio	save	new audio	save
+live audio	save	new audio	save
+audio recorder	save	new audio	save
+audio quality	save	new audio	save
+audio content	save	new audio	save
+audio play	save	new audio file	save
+audio book	save	new audio file	save
+audio effect	save	new audio file	save
+audio recording	save	new audio file	save
+audio format	save	new audio file	save
+audio text	save	new audio file	save
+audio	save	new audio file	save
+record audio	save	new audio file	save
+live audio	save	new audio file	save
+audio recorder	save	new audio file	save
+audio quality	save	new audio file	save
+audio content	save	new audio file	save
+
+com.mobisnow.a2billingsipdialer.apk
+false
+
+air.com.oligarch.vRoulette.apk
+false
+
+com.appsdev.ghostradarplus.apk
+false
+
+com.proelliottwave.ewt.apk
+false
+
+com.baishisoft.photo.japan45girl.apk
+false
+
+com.hcg.vanessahudgens.apk
+true
+classical music	chat	music	chat
+free music	chat	music	chat
+music collection	chat	music	chat
+music	chat	music	chat
+background music	chat	music	chat
+great music	chat	music	chat
+music today	chat	music	chat
+new music	chat	music	chat
+best music	chat	music	chat
+late music	chat	music	chat
+beautiful music	chat	music	chat
+music	chat	music artist	chat
+great music	chat	music artist	chat
+music today	chat	music artist	chat
+new music	chat	music artist	chat
+best music	chat	music artist	chat
+late music	chat	music artist	chat
+
+com.tabtale.threelittlepigs.apk
+true
+crossword puzzle	awesome	puzzle	awesome
+puzzle piece	awesome	puzzle	awesome
+placement puzzle	awesome	puzzle	awesome
+unique puzzle	awesome	puzzle	awesome
+easy puzzle	awesome	puzzle	awesome
+puzzle game	awesome	puzzle	awesome
+fun puzzle	awesome	puzzle	awesome
+slide puzzle	awesome	puzzle	awesome
+jigsaw puzzle	awesome	puzzle	awesome
+new puzzle	awesome	puzzle	awesome
+puzzle	awesome	puzzle	awesome
+smart connect	fire	smart activity	fire
+smart activity	fire	smart activity	fire
+
+com.Abigail.CarlosGlareLiveWallpaper.apk
+false
+
+com.palringo.android.apk
+false
+
+com.bluemind.sounds.apk
+false
+
+com.teletype.smarttruckroute.apk
+false
+
+com.cheng.Partape.apk
+false
+
+com.trinet.hrpmobile.apk
+false
+
+net.sourceforge.subsonic.androidapp.apk
+false
+
+net.excelltech.fakeacallfree2.apk
+true
+voice call	record	voice	record
+voice command	record	voice	record
+voice note	record	voice	record
+voice recording	record	voice	record
+voice recognition	record	voice	record
+voice	record	voice	record
+voice recorder	record	voice	record
+
+com.tinypiece.android.cs.apk
+false
+
+com.appsmoment.ub40.apk
+true
+youtube video	claim	video	claim
+animated video	claim	video	claim
+audio video	claim	video	claim
+video chat	claim	video	claim
+video	claim	video	claim
+late video	claim	video	claim
+video support	claim	video	claim
+exclusive video	claim	video	claim
+video instruction	claim	video	claim
+video song	claim	video	claim
+awesome video	claim	video	claim
+video call	claim	video	claim
+feed video	claim	video	claim
+following video	claim	video	claim
+top video	claim	video	claim
+walkthrough video	claim	video	claim
+favorite video	claim	video	claim
+instructional video	claim	video	claim
+video-on-demand clip	claim	video	claim
+video content	claim	video	claim
+streaming video	claim	video	claim
+photo video	claim	video	claim
+video quality	claim	video	claim
+play video	claim	video	claim
+sex video	claim	video	claim
+video playback	claim	video	claim
+video stream	claim	video	claim
+free video	claim	video	claim
+hd video	claim	video	claim
+live video	claim	video	claim
+video photo	claim	video	claim
+next video	claim	video	claim
+video streaming	claim	video	claim
+video editor	claim	video	claim
+video recording	claim	video	claim
+video tip	claim	video	claim
+video music	claim	video	claim
+video clip	claim	video	claim
+video cheat	claim	video	claim
+video file	claim	video	claim
+new video	claim	video	claim
+great video	claim	video	claim
+watch video	claim	video	claim
+video tutorial	claim	video	claim
+amazing video	claim	video	claim
+news video	claim	video	claim
+funny video	claim	video	claim
+share video	claim	video	claim
+video format	claim	video	claim
+sexy video	claim	video	claim
+song video	claim	video	claim
+stream video	claim	video	claim
+best video	claim	video	claim
+video highlight	claim	video	claim
+video section	claim	video	claim
+tutorial video	claim	video	claim
+video guide	claim	video	claim
+video image	claim	video	claim
+image video	claim	video	claim
+music video	claim	video	claim
+gameplay video	claim	video	claim
+video audio	claim	video	claim
+hot video	claim	video	claim
+youtube video	donot	video	donot
+animated video	donot	video	donot
+audio video	donot	video	donot
+video chat	donot	video	donot
+video	donot	video	donot
+late video	donot	video	donot
+video support	donot	video	donot
+exclusive video	donot	video	donot
+video instruction	donot	video	donot
+video song	donot	video	donot
+awesome video	donot	video	donot
+video call	donot	video	donot
+feed video	donot	video	donot
+following video	donot	video	donot
+top video	donot	video	donot
+walkthrough video	donot	video	donot
+favorite video	donot	video	donot
+instructional video	donot	video	donot
+video-on-demand clip	donot	video	donot
+video content	donot	video	donot
+streaming video	donot	video	donot
+photo video	donot	video	donot
+video quality	donot	video	donot
+play video	donot	video	donot
+sex video	donot	video	donot
+video playback	donot	video	donot
+video stream	donot	video	donot
+free video	donot	video	donot
+hd video	donot	video	donot
+live video	donot	video	donot
+video photo	donot	video	donot
+next video	donot	video	donot
+video streaming	donot	video	donot
+video editor	donot	video	donot
+video recording	donot	video	donot
+video tip	donot	video	donot
+video music	donot	video	donot
+video clip	donot	video	donot
+video cheat	donot	video	donot
+video file	donot	video	donot
+new video	donot	video	donot
+great video	donot	video	donot
+watch video	donot	video	donot
+video tutorial	donot	video	donot
+amazing video	donot	video	donot
+news video	donot	video	donot
+funny video	donot	video	donot
+share video	donot	video	donot
+video format	donot	video	donot
+sexy video	donot	video	donot
+song video	donot	video	donot
+stream video	donot	video	donot
+best video	donot	video	donot
+video highlight	donot	video	donot
+video section	donot	video	donot
+tutorial video	donot	video	donot
+video guide	donot	video	donot
+video image	donot	video	donot
+image video	donot	video	donot
+music video	donot	video	donot
+gameplay video	donot	video	donot
+video audio	donot	video	donot
+hot video	donot	video	donot
+audio video	claim	audio	claim
+audio play	claim	audio	claim
+audio book	claim	audio	claim
+audio effect	claim	audio	claim
+audio recording	claim	audio	claim
+audio song	claim	audio	claim
+audio player	claim	audio	claim
+audio format	claim	audio	claim
+audio text	claim	audio	claim
+audio	claim	audio	claim
+audio playback	claim	audio	claim
+audio pronunciation	claim	audio	claim
+audio alert	claim	audio	claim
+record audio	claim	audio	claim
+live audio	claim	audio	claim
+audio recorder	claim	audio	claim
+audio quality	claim	audio	claim
+audio track	claim	audio	claim
+audio content	claim	audio	claim
+audio file	claim	audio	claim
+audio clip	claim	audio	claim
+video audio	claim	audio	claim
+audio video	donot	audio	donot
+audio play	donot	audio	donot
+audio book	donot	audio	donot
+audio effect	donot	audio	donot
+audio recording	donot	audio	donot
+audio song	donot	audio	donot
+audio player	donot	audio	donot
+audio format	donot	audio	donot
+audio text	donot	audio	donot
+audio	donot	audio	donot
+audio playback	donot	audio	donot
+audio pronunciation	donot	audio	donot
+audio alert	donot	audio	donot
+record audio	donot	audio	donot
+live audio	donot	audio	donot
+audio recorder	donot	audio	donot
+audio quality	donot	audio	donot
+audio track	donot	audio	donot
+audio content	donot	audio	donot
+audio file	donot	audio	donot
+audio clip	donot	audio	donot
+video audio	donot	audio	donot
+
+com.att.android.uverse.easyremote.apk
+false
+
+hu.pocketguide.bundle.Madrid_lite.apk
+true
+recording	determine	recording	determine
+syco record	determine	recording	determine
+record time	determine	recording	determine
+call recorder	determine	recording	determine
+record	determine	recording	determine
+recorder	determine	recording	determine
+call recording	determine	recording	determine
+world record	determine	recording	determine
+record deal	determine	recording	determine
+
+com.amiapps.asbestoslungcancer.apk
+true
+youtube video	collect	feed video	collect
+video	collect	feed video	collect
+late video	collect	feed video	collect
+video support	collect	feed video	collect
+exclusive video	collect	feed video	collect
+live feed	collect	feed video	collect
+video call	collect	feed video	collect
+feed video	collect	feed video	collect
+following video	collect	feed video	collect
+play video	collect	feed video	collect
+feed	collect	feed video	collect
+live video	collect	feed video	collect
+next video	collect	feed video	collect
+r feed	collect	feed video	collect
+new video	collect	feed video	collect
+great video	collect	feed video	collect
+news video	collect	feed video	collect
+news feed	collect	feed video	collect
+best video	collect	feed video	collect
+feeding	collect	feed video	collect
+gameplay video	collect	feed video	collect
+
+com.s2Dialer.apk
+false
+
+com.airkast.KURBFM.apk
+false
+
+unibilling.sipfone.apk
+false
+
+com.horoscope.plus.android.daily.free.apk
+false
+
+com.key.guerraParisByNightLiveWallpaper.apk
+false
+
+com.summitpeaktechnologies.Chronograph.apk
+false
+
+com.Hekifuinni.RagingThunder2.apk
+false
+
+org.mozilla.firefox_beta.apk
+false
+
+com.Brorim.ChevroletBlazerWallpapers.apk
+false
+
+com.skythorapps.pyramidcheats.apk
+false
+
+com.max.maxtsunamisurvivalx.apk
+false
+
+cc.icars.client.android.apk
+false
+
+com.softeye.baby2.apk
+false
+
+com.funkClip.apk
+false
+
+com.unlocker.tmobile.apk
+false
+
+com.app_powermobile.layout.apk
+false
+
+com.cph.carryalongbible.apk
+true
+voice call	record	voice	record
+voice command	record	voice	record
+voice note	record	voice	record
+voice recording	record	voice	record
+voice recognition	record	voice	record
+voice	record	voice	record
+voice recorder	record	voice	record
+
+com.app_fearlessfri.layout.apk
+false
+
+com.whatsapp.line.wechat.jamaica.hotels.apk
+true
+book hotel	reveal	hotel	reveal
+hotel restaurant	reveal	hotel	reveal
+hotel room	reveal	hotel	reveal
+hotel reservation	reveal	hotel	reveal
+hotel deal	reveal	hotel	reveal
+hotel saving	reveal	hotel	reveal
+hotel review	reveal	hotel	reveal
+budget hotel	reveal	hotel	reveal
+discount hotel	reveal	hotel	reveal
+hotel price	reveal	hotel	reveal
+hotel detail	reveal	hotel	reveal
+luxury hotel	reveal	hotel	reveal
+local hotel	reveal	hotel	reveal
+boutique hotel	reveal	hotel	reveal
+hotel offer	reveal	hotel	reveal
+listed hotel	reveal	hotel	reveal
+hotel feature	reveal	hotel	reveal
+hotel booking	reveal	hotel	reveal
+best hotel	reveal	hotel	reveal
+hotel	reveal	hotel	reveal
+book hotel	swipe	hotel	swipe
+hotel restaurant	swipe	hotel	swipe
+hotel room	swipe	hotel	swipe
+hotel reservation	swipe	hotel	swipe
+hotel deal	swipe	hotel	swipe
+hotel saving	swipe	hotel	swipe
+hotel review	swipe	hotel	swipe
+budget hotel	swipe	hotel	swipe
+discount hotel	swipe	hotel	swipe
+hotel price	swipe	hotel	swipe
+hotel detail	swipe	hotel	swipe
+luxury hotel	swipe	hotel	swipe
+local hotel	swipe	hotel	swipe
+boutique hotel	swipe	hotel	swipe
+hotel offer	swipe	hotel	swipe
+listed hotel	swipe	hotel	swipe
+hotel feature	swipe	hotel	swipe
+hotel booking	swipe	hotel	swipe
+best hotel	swipe	hotel	swipe
+hotel	swipe	hotel	swipe
+book hotel	map	hotel	map
+hotel restaurant	map	hotel	map
+hotel room	map	hotel	map
+hotel reservation	map	hotel	map
+hotel deal	map	hotel	map
+hotel saving	map	hotel	map
+hotel review	map	hotel	map
+budget hotel	map	hotel	map
+discount hotel	map	hotel	map
+hotel price	map	hotel	map
+hotel detail	map	hotel	map
+luxury hotel	map	hotel	map
+local hotel	map	hotel	map
+boutique hotel	map	hotel	map
+hotel offer	map	hotel	map
+listed hotel	map	hotel	map
+hotel feature	map	hotel	map
+hotel booking	map	hotel	map
+best hotel	map	hotel	map
+hotel	map	hotel	map
+hotel price	refine	price	refine
+book hotel	refine	hotel feature	refine
+hotel restaurant	refine	hotel feature	refine
+hotel room	refine	hotel feature	refine
+hotel reservation	refine	hotel feature	refine
+hotel deal	refine	hotel feature	refine
+hotel saving	refine	hotel feature	refine
+hotel review	refine	hotel feature	refine
+budget hotel	refine	hotel feature	refine
+discount hotel	refine	hotel feature	refine
+hotel price	refine	hotel feature	refine
+hotel detail	refine	hotel feature	refine
+luxury hotel	refine	hotel feature	refine
+local hotel	refine	hotel feature	refine
+boutique hotel	refine	hotel feature	refine
+hotel offer	refine	hotel feature	refine
+listed hotel	refine	hotel feature	refine
+hotel feature	refine	hotel feature	refine
+hotel booking	refine	hotel feature	refine
+best hotel	refine	hotel feature	refine
+hotel	refine	hotel feature	refine
+book hotel	click	hotel	click
+hotel restaurant	click	hotel	click
+hotel room	click	hotel	click
+hotel reservation	click	hotel	click
+hotel deal	click	hotel	click
+hotel saving	click	hotel	click
+hotel review	click	hotel	click
+budget hotel	click	hotel	click
+discount hotel	click	hotel	click
+hotel price	click	hotel	click
+hotel detail	click	hotel	click
+luxury hotel	click	hotel	click
+local hotel	click	hotel	click
+boutique hotel	click	hotel	click
+hotel offer	click	hotel	click
+listed hotel	click	hotel	click
+hotel feature	click	hotel	click
+hotel booking	click	hotel	click
+best hotel	click	hotel	click
+hotel	click	hotel	click
+late deal	give	deal	give
+good deal	give	deal	give
+deal	give	deal	give
+local deal	give	deal	give
+special deal	give	deal	give
+best deal	give	deal	give
+record deal	give	deal	give
+exclusive deal	give	deal	give
+great deal	give	deal	give
+
+com.jp.disneylandlosangeles.apk
+true
+late deal	give	deal	give
+good deal	give	deal	give
+deal	give	deal	give
+local deal	give	deal	give
+special deal	give	deal	give
+best deal	give	deal	give
+record deal	give	deal	give
+exclusive deal	give	deal	give
+great deal	give	deal	give
+
+com.gagan.bodybuildingmotivation.apk
+true
+youtube video	collect	feed video	collect
+video	collect	feed video	collect
+late video	collect	feed video	collect
+video support	collect	feed video	collect
+exclusive video	collect	feed video	collect
+live feed	collect	feed video	collect
+video call	collect	feed video	collect
+feed video	collect	feed video	collect
+following video	collect	feed video	collect
+play video	collect	feed video	collect
+feed	collect	feed video	collect
+live video	collect	feed video	collect
+next video	collect	feed video	collect
+r feed	collect	feed video	collect
+new video	collect	feed video	collect
+great video	collect	feed video	collect
+news video	collect	feed video	collect
+news feed	collect	feed video	collect
+best video	collect	feed video	collect
+feeding	collect	feed video	collect
+gameplay video	collect	feed video	collect
+entire feed	fetch	r feed	fetch
+live feed	fetch	r feed	fetch
+feed video	fetch	r feed	fetch
+feed	fetch	r feed	fetch
+r feed	fetch	r feed	fetch
+twitter feed	fetch	r feed	fetch
+valuable feed	fetch	r feed	fetch
+news feed	fetch	r feed	fetch
+feeding	fetch	r feed	fetch
+different site	fetch	different site	fetch
+site	fetch	different site	fetch
+various site	fetch	different site	fetch
+news site	fetch	different site	fetch
+
+com.travel.seoul.apk
+false
+
+com.kauf.talking.talkingbabysquirrel.apk
+true
+funny moment	answer	funny voice	answer
+funny image	answer	funny voice	answer
+funny voice	answer	funny voice	answer
+funny quote	answer	funny voice	answer
+fun puzzle	slide	puzzle	slide
+slide puzzle	slide	puzzle	slide
+
+com.seneweb.apk
+false
+
+com.tabtale.aladdin.apk
+true
+crossword puzzle	place	puzzle piece	place
+puzzle piece	place	puzzle piece	place
+placement puzzle	place	puzzle piece	place
+unique puzzle	place	puzzle piece	place
+easy puzzle	place	puzzle piece	place
+puzzle game	place	puzzle piece	place
+jigsaw puzzle	place	puzzle piece	place
+new puzzle	place	puzzle piece	place
+puzzle	place	puzzle piece	place
+crossword puzzle	awesome	puzzle	awesome
+puzzle piece	awesome	puzzle	awesome
+placement puzzle	awesome	puzzle	awesome
+unique puzzle	awesome	puzzle	awesome
+easy puzzle	awesome	puzzle	awesome
+puzzle game	awesome	puzzle	awesome
+fun puzzle	awesome	puzzle	awesome
+slide puzzle	awesome	puzzle	awesome
+jigsaw puzzle	awesome	puzzle	awesome
+new puzzle	awesome	puzzle	awesome
+puzzle	awesome	puzzle	awesome
+smart connect	fire	smart activity	fire
+smart activity	fire	smart activity	fire
+
+simonton.speedgun.free.apk
+false
+
+com.sonalight.apk
+false
+
+siat.thefox.photoeffects.apk
+false
+
+com.imoblife.senorbox_plug_in.apk
+false
+
+com.appmania.livemapsaps.apk
+true
+youtube video	collect	feed video	collect
+video	collect	feed video	collect
+late video	collect	feed video	collect
+video support	collect	feed video	collect
+exclusive video	collect	feed video	collect
+live feed	collect	feed video	collect
+video call	collect	feed video	collect
+feed video	collect	feed video	collect
+following video	collect	feed video	collect
+play video	collect	feed video	collect
+feed	collect	feed video	collect
+live video	collect	feed video	collect
+next video	collect	feed video	collect
+r feed	collect	feed video	collect
+new video	collect	feed video	collect
+great video	collect	feed video	collect
+news video	collect	feed video	collect
+news feed	collect	feed video	collect
+best video	collect	feed video	collect
+feeding	collect	feed video	collect
+gameplay video	collect	feed video	collect
+entire feed	fetch	r feed	fetch
+live feed	fetch	r feed	fetch
+feed video	fetch	r feed	fetch
+feed	fetch	r feed	fetch
+r feed	fetch	r feed	fetch
+twitter feed	fetch	r feed	fetch
+valuable feed	fetch	r feed	fetch
+news feed	fetch	r feed	fetch
+feeding	fetch	r feed	fetch
+different site	fetch	different site	fetch
+site	fetch	different site	fetch
+various site	fetch	different site	fetch
+news site	fetch	different site	fetch
+
+com.stark.yhnews.apk
+false
+
+com.bowl.apk
+false
+
+com.naticis.dpocket.apk
+true
+voice call	record	voice	record
+voice command	record	voice	record
+voice note	record	voice	record
+voice recording	record	voice	record
+voice recognition	record	voice	record
+voice	record	voice	record
+voice recorder	record	voice	record
+
+com.appsmoment.mrpresident.apk
+true
+youtube video	claim	video	claim
+animated video	claim	video	claim
+audio video	claim	video	claim
+video chat	claim	video	claim
+video	claim	video	claim
+late video	claim	video	claim
+video support	claim	video	claim
+exclusive video	claim	video	claim
+video instruction	claim	video	claim
+video song	claim	video	claim
+awesome video	claim	video	claim
+video call	claim	video	claim
+feed video	claim	video	claim
+following video	claim	video	claim
+top video	claim	video	claim
+walkthrough video	claim	video	claim
+favorite video	claim	video	claim
+instructional video	claim	video	claim
+video-on-demand clip	claim	video	claim
+video content	claim	video	claim
+streaming video	claim	video	claim
+photo video	claim	video	claim
+video quality	claim	video	claim
+play video	claim	video	claim
+sex video	claim	video	claim
+video playback	claim	video	claim
+video stream	claim	video	claim
+free video	claim	video	claim
+hd video	claim	video	claim
+live video	claim	video	claim
+video photo	claim	video	claim
+next video	claim	video	claim
+video streaming	claim	video	claim
+video editor	claim	video	claim
+video recording	claim	video	claim
+video tip	claim	video	claim
+video music	claim	video	claim
+video clip	claim	video	claim
+video cheat	claim	video	claim
+video file	claim	video	claim
+new video	claim	video	claim
+great video	claim	video	claim
+watch video	claim	video	claim
+video tutorial	claim	video	claim
+amazing video	claim	video	claim
+news video	claim	video	claim
+funny video	claim	video	claim
+share video	claim	video	claim
+video format	claim	video	claim
+sexy video	claim	video	claim
+song video	claim	video	claim
+stream video	claim	video	claim
+best video	claim	video	claim
+video highlight	claim	video	claim
+video section	claim	video	claim
+tutorial video	claim	video	claim
+video guide	claim	video	claim
+video image	claim	video	claim
+image video	claim	video	claim
+music video	claim	video	claim
+gameplay video	claim	video	claim
+video audio	claim	video	claim
+hot video	claim	video	claim
+youtube video	donot	video	donot
+animated video	donot	video	donot
+audio video	donot	video	donot
+video chat	donot	video	donot
+video	donot	video	donot
+late video	donot	video	donot
+video support	donot	video	donot
+exclusive video	donot	video	donot
+video instruction	donot	video	donot
+video song	donot	video	donot
+awesome video	donot	video	donot
+video call	donot	video	donot
+feed video	donot	video	donot
+following video	donot	video	donot
+top video	donot	video	donot
+walkthrough video	donot	video	donot
+favorite video	donot	video	donot
+instructional video	donot	video	donot
+video-on-demand clip	donot	video	donot
+video content	donot	video	donot
+streaming video	donot	video	donot
+photo video	donot	video	donot
+video quality	donot	video	donot
+play video	donot	video	donot
+sex video	donot	video	donot
+video playback	donot	video	donot
+video stream	donot	video	donot
+free video	donot	video	donot
+hd video	donot	video	donot
+live video	donot	video	donot
+video photo	donot	video	donot
+next video	donot	video	donot
+video streaming	donot	video	donot
+video editor	donot	video	donot
+video recording	donot	video	donot
+video tip	donot	video	donot
+video music	donot	video	donot
+video clip	donot	video	donot
+video cheat	donot	video	donot
+video file	donot	video	donot
+new video	donot	video	donot
+great video	donot	video	donot
+watch video	donot	video	donot
+video tutorial	donot	video	donot
+amazing video	donot	video	donot
+news video	donot	video	donot
+funny video	donot	video	donot
+share video	donot	video	donot
+video format	donot	video	donot
+sexy video	donot	video	donot
+song video	donot	video	donot
+stream video	donot	video	donot
+best video	donot	video	donot
+video highlight	donot	video	donot
+video section	donot	video	donot
+tutorial video	donot	video	donot
+video guide	donot	video	donot
+video image	donot	video	donot
+image video	donot	video	donot
+music video	donot	video	donot
+gameplay video	donot	video	donot
+video audio	donot	video	donot
+hot video	donot	video	donot
+audio video	claim	audio	claim
+audio play	claim	audio	claim
+audio book	claim	audio	claim
+audio effect	claim	audio	claim
+audio recording	claim	audio	claim
+audio song	claim	audio	claim
+audio player	claim	audio	claim
+audio format	claim	audio	claim
+audio text	claim	audio	claim
+audio	claim	audio	claim
+audio playback	claim	audio	claim
+audio pronunciation	claim	audio	claim
+audio alert	claim	audio	claim
+record audio	claim	audio	claim
+live audio	claim	audio	claim
+audio recorder	claim	audio	claim
+audio quality	claim	audio	claim
+audio track	claim	audio	claim
+audio content	claim	audio	claim
+audio file	claim	audio	claim
+audio clip	claim	audio	claim
+video audio	claim	audio	claim
+audio video	donot	audio	donot
+audio play	donot	audio	donot
+audio book	donot	audio	donot
+audio effect	donot	audio	donot
+audio recording	donot	audio	donot
+audio song	donot	audio	donot
+audio player	donot	audio	donot
+audio format	donot	audio	donot
+audio text	donot	audio	donot
+audio	donot	audio	donot
+audio playback	donot	audio	donot
+audio pronunciation	donot	audio	donot
+audio alert	donot	audio	donot
+record audio	donot	audio	donot
+live audio	donot	audio	donot
+audio recorder	donot	audio	donot
+audio quality	donot	audio	donot
+audio track	donot	audio	donot
+audio content	donot	audio	donot
+audio file	donot	audio	donot
+audio clip	donot	audio	donot
+video audio	donot	audio	donot
+
+com.osmino.diary.apk
+false
+
+com.goethe.fr.apk
+true
+audio video	combine	audio text	combine
+audio play	combine	audio text	combine
+audio book	combine	audio text	combine
+audio effect	combine	audio text	combine
+audio recording	combine	audio text	combine
+audio song	combine	audio text	combine
+audio player	combine	audio text	combine
+audio format	combine	audio text	combine
+audio text	combine	audio text	combine
+audio	combine	audio text	combine
+audio playback	combine	audio text	combine
+audio alert	combine	audio text	combine
+record audio	combine	audio text	combine
+live audio	combine	audio text	combine
+audio recorder	combine	audio text	combine
+audio quality	combine	audio text	combine
+audio track	combine	audio text	combine
+audio content	combine	audio text	combine
+audio file	combine	audio text	combine
+audio clip	combine	audio text	combine
+video audio	combine	audio text	combine
+
+com.denmarkhotelbooking.denmarkhotel.denmark.hotel.apk
+true
+book hotel	reveal	hotel	reveal
+hotel restaurant	reveal	hotel	reveal
+hotel room	reveal	hotel	reveal
+hotel reservation	reveal	hotel	reveal
+hotel deal	reveal	hotel	reveal
+hotel saving	reveal	hotel	reveal
+hotel review	reveal	hotel	reveal
+budget hotel	reveal	hotel	reveal
+discount hotel	reveal	hotel	reveal
+hotel price	reveal	hotel	reveal
+hotel detail	reveal	hotel	reveal
+luxury hotel	reveal	hotel	reveal
+local hotel	reveal	hotel	reveal
+boutique hotel	reveal	hotel	reveal
+hotel offer	reveal	hotel	reveal
+listed hotel	reveal	hotel	reveal
+hotel feature	reveal	hotel	reveal
+hotel booking	reveal	hotel	reveal
+best hotel	reveal	hotel	reveal
+hotel	reveal	hotel	reveal
+book hotel	swipe	hotel	swipe
+hotel restaurant	swipe	hotel	swipe
+hotel room	swipe	hotel	swipe
+hotel reservation	swipe	hotel	swipe
+hotel deal	swipe	hotel	swipe
+hotel saving	swipe	hotel	swipe
+hotel review	swipe	hotel	swipe
+budget hotel	swipe	hotel	swipe
+discount hotel	swipe	hotel	swipe
+hotel price	swipe	hotel	swipe
+hotel detail	swipe	hotel	swipe
+luxury hotel	swipe	hotel	swipe
+local hotel	swipe	hotel	swipe
+boutique hotel	swipe	hotel	swipe
+hotel offer	swipe	hotel	swipe
+listed hotel	swipe	hotel	swipe
+hotel feature	swipe	hotel	swipe
+hotel booking	swipe	hotel	swipe
+best hotel	swipe	hotel	swipe
+hotel	swipe	hotel	swipe
+book hotel	map	hotel	map
+hotel restaurant	map	hotel	map
+hotel room	map	hotel	map
+hotel reservation	map	hotel	map
+hotel deal	map	hotel	map
+hotel saving	map	hotel	map
+hotel review	map	hotel	map
+budget hotel	map	hotel	map
+discount hotel	map	hotel	map
+hotel price	map	hotel	map
+hotel detail	map	hotel	map
+luxury hotel	map	hotel	map
+local hotel	map	hotel	map
+boutique hotel	map	hotel	map
+hotel offer	map	hotel	map
+listed hotel	map	hotel	map
+hotel feature	map	hotel	map
+hotel booking	map	hotel	map
+best hotel	map	hotel	map
+hotel	map	hotel	map
+
+com.phonegap.eugene.apk
+false
+
+com.ams.cell_phone_tracking_app.apk
+false
+
+com.fastrecharge.radiodawah.apk
+false
+
+com.loudtalks.apk
+false
+
+com.cgrbyrktr.secretvideofree.apk
+false
+
+mobi.fourtwentydigital.rollareefer.free.apk
+false
+
+com.fanapps.helenflanagan4617.apk
+false
+
+air.com.akashalearning.formula.apk
+false
+
+com.kab.kabartsandcraftsidean12.apk
+false
+
+com.health.sexpositions.apk
+false
+
+air.com.videochatcommunity.chat.apk
+false
+
+com.sorenson.mvrs.android.apk
+false
+
+com.coffeebeanventures.easyvoicerecorder.apk
+false
+
+com.abcsmitch.candycrushsagawt.apk
+false
+
+com.jazzuplife.sundayschoollessons.apk
+true
+youtube video	collect	feed video	collect
+video	collect	feed video	collect
+late video	collect	feed video	collect
+video support	collect	feed video	collect
+exclusive video	collect	feed video	collect
+live feed	collect	feed video	collect
+video call	collect	feed video	collect
+feed video	collect	feed video	collect
+following video	collect	feed video	collect
+play video	collect	feed video	collect
+feed	collect	feed video	collect
+live video	collect	feed video	collect
+next video	collect	feed video	collect
+r feed	collect	feed video	collect
+new video	collect	feed video	collect
+great video	collect	feed video	collect
+news video	collect	feed video	collect
+news feed	collect	feed video	collect
+best video	collect	feed video	collect
+feeding	collect	feed video	collect
+gameplay video	collect	feed video	collect
+entire feed	fetch	r feed	fetch
+live feed	fetch	r feed	fetch
+feed video	fetch	r feed	fetch
+feed	fetch	r feed	fetch
+r feed	fetch	r feed	fetch
+twitter feed	fetch	r feed	fetch
+valuable feed	fetch	r feed	fetch
+news feed	fetch	r feed	fetch
+feeding	fetch	r feed	fetch
+different site	fetch	different site	fetch
+site	fetch	different site	fetch
+various site	fetch	different site	fetch
+news site	fetch	different site	fetch
+
+com.Xonystend.HummerH2TestDrive.apk
+false
+
+com.cinemagram.main.apk
+false
+
+com.app_yumyumthai01.layout.apk
+false
+
+com.app_oakland.layout.apk
+false
+
+com.app_bassfieldhighschool.layout.apk
+false
+
+com.darbyse.asiangirl.puzzle.apk
+false
+
+com.vox.spice.apk
+false
+
+fja.geodiversion.streetbones.apk
+false
+
+com.ams.android_mobile_phone_call_recorder_free.apk
+true
+voice call	record	voice	record
+voice command	record	voice	record
+voice note	record	voice	record
+voice recording	record	voice	record
+voice recognition	record	voice	record
+voice	record	voice	record
+voice recorder	record	voice	record
+audio format	save	format	save
+recording	start	recording	start
+syco record	start	recording	start
+record time	start	recording	start
+call recorder	start	recording	start
+record	start	recording	start
+recorder	start	recording	start
+call recording	start	recording	start
+world record	start	recording	start
+
+com.nimaxy.hiphopradiostations.apk
+false
+
+net.manageapps.MeSoHungry.apk
+false
+
+kr.y2b.voi.apk
+false
+
+com.galaxyClip.apk
+false
+
+com.teli.sandesh.apk
+false
+
+com.limpenghoe.weatherforecast.apk
+true
+youtube video	collect	feed video	collect
+video	collect	feed video	collect
+late video	collect	feed video	collect
+video support	collect	feed video	collect
+exclusive video	collect	feed video	collect
+live feed	collect	feed video	collect
+video call	collect	feed video	collect
+feed video	collect	feed video	collect
+following video	collect	feed video	collect
+play video	collect	feed video	collect
+feed	collect	feed video	collect
+live video	collect	feed video	collect
+next video	collect	feed video	collect
+r feed	collect	feed video	collect
+new video	collect	feed video	collect
+great video	collect	feed video	collect
+news video	collect	feed video	collect
+news feed	collect	feed video	collect
+best video	collect	feed video	collect
+feeding	collect	feed video	collect
+gameplay video	collect	feed video	collect
+entire feed	fetch	r feed	fetch
+live feed	fetch	r feed	fetch
+feed video	fetch	r feed	fetch
+feed	fetch	r feed	fetch
+r feed	fetch	r feed	fetch
+twitter feed	fetch	r feed	fetch
+valuable feed	fetch	r feed	fetch
+news feed	fetch	r feed	fetch
+feeding	fetch	r feed	fetch
+different site	fetch	different site	fetch
+site	fetch	different site	fetch
+various site	fetch	different site	fetch
+news site	fetch	different site	fetch
+
+me.cosmodro.app.rhombus.apk
+false
+
+lwcr58smokingskull.lwp.apk
+true
+volume setting	tap	sfx volume	tap
+volume level	tap	sfx volume	tap
+volume control	tap	sfx volume	tap
+sfx volume	tap	sfx volume	tap
+volume	tap	sfx volume	tap
+volume key	tap	sfx volume	tap
+volume setting	pop	sfx volume	pop
+volume level	pop	sfx volume	pop
+volume control	pop	sfx volume	pop
+sfx volume	pop	sfx volume	pop
+volume	pop	sfx volume	pop
+volume key	pop	sfx volume	pop
+
+com.imgring.sexposition1.apk
+false
+
+com.app_brianart.layout.apk
+false
+
+com.Jechot.HomerSimpsonWallpapers.apk
+false
+
+com.instachat.android.apk
+false
+
+net.nakvic.dromoris.apk
+false
+
+com.appsmoment.enriqueiglesias.apk
+true
+youtube video	claim	video	claim
+animated video	claim	video	claim
+audio video	claim	video	claim
+video chat	claim	video	claim
+video	claim	video	claim
+late video	claim	video	claim
+video support	claim	video	claim
+exclusive video	claim	video	claim
+video instruction	claim	video	claim
+video song	claim	video	claim
+awesome video	claim	video	claim
+video call	claim	video	claim
+feed video	claim	video	claim
+following video	claim	video	claim
+top video	claim	video	claim
+walkthrough video	claim	video	claim
+favorite video	claim	video	claim
+instructional video	claim	video	claim
+video-on-demand clip	claim	video	claim
+video content	claim	video	claim
+streaming video	claim	video	claim
+photo video	claim	video	claim
+video quality	claim	video	claim
+play video	claim	video	claim
+sex video	claim	video	claim
+video playback	claim	video	claim
+video stream	claim	video	claim
+free video	claim	video	claim
+hd video	claim	video	claim
+live video	claim	video	claim
+video photo	claim	video	claim
+next video	claim	video	claim
+video streaming	claim	video	claim
+video editor	claim	video	claim
+video recording	claim	video	claim
+video tip	claim	video	claim
+video music	claim	video	claim
+video clip	claim	video	claim
+video cheat	claim	video	claim
+video file	claim	video	claim
+new video	claim	video	claim
+great video	claim	video	claim
+watch video	claim	video	claim
+video tutorial	claim	video	claim
+amazing video	claim	video	claim
+news video	claim	video	claim
+funny video	claim	video	claim
+share video	claim	video	claim
+video format	claim	video	claim
+sexy video	claim	video	claim
+song video	claim	video	claim
+stream video	claim	video	claim
+best video	claim	video	claim
+video highlight	claim	video	claim
+video section	claim	video	claim
+tutorial video	claim	video	claim
+video guide	claim	video	claim
+video image	claim	video	claim
+image video	claim	video	claim
+music video	claim	video	claim
+gameplay video	claim	video	claim
+video audio	claim	video	claim
+hot video	claim	video	claim
+youtube video	donot	video	donot
+animated video	donot	video	donot
+audio video	donot	video	donot
+video chat	donot	video	donot
+video	donot	video	donot
+late video	donot	video	donot
+video support	donot	video	donot
+exclusive video	donot	video	donot
+video instruction	donot	video	donot
+video song	donot	video	donot
+awesome video	donot	video	donot
+video call	donot	video	donot
+feed video	donot	video	donot
+following video	donot	video	donot
+top video	donot	video	donot
+walkthrough video	donot	video	donot
+favorite video	donot	video	donot
+instructional video	donot	video	donot
+video-on-demand clip	donot	video	donot
+video content	donot	video	donot
+streaming video	donot	video	donot
+photo video	donot	video	donot
+video quality	donot	video	donot
+play video	donot	video	donot
+sex video	donot	video	donot
+video playback	donot	video	donot
+video stream	donot	video	donot
+free video	donot	video	donot
+hd video	donot	video	donot
+live video	donot	video	donot
+video photo	donot	video	donot
+next video	donot	video	donot
+video streaming	donot	video	donot
+video editor	donot	video	donot
+video recording	donot	video	donot
+video tip	donot	video	donot
+video music	donot	video	donot
+video clip	donot	video	donot
+video cheat	donot	video	donot
+video file	donot	video	donot
+new video	donot	video	donot
+great video	donot	video	donot
+watch video	donot	video	donot
+video tutorial	donot	video	donot
+amazing video	donot	video	donot
+news video	donot	video	donot
+funny video	donot	video	donot
+share video	donot	video	donot
+video format	donot	video	donot
+sexy video	donot	video	donot
+song video	donot	video	donot
+stream video	donot	video	donot
+best video	donot	video	donot
+video highlight	donot	video	donot
+video section	donot	video	donot
+tutorial video	donot	video	donot
+video guide	donot	video	donot
+video image	donot	video	donot
+image video	donot	video	donot
+music video	donot	video	donot
+gameplay video	donot	video	donot
+video audio	donot	video	donot
+hot video	donot	video	donot
+audio video	claim	audio	claim
+audio play	claim	audio	claim
+audio book	claim	audio	claim
+audio effect	claim	audio	claim
+audio recording	claim	audio	claim
+audio song	claim	audio	claim
+audio player	claim	audio	claim
+audio format	claim	audio	claim
+audio text	claim	audio	claim
+audio	claim	audio	claim
+audio playback	claim	audio	claim
+audio pronunciation	claim	audio	claim
+audio alert	claim	audio	claim
+record audio	claim	audio	claim
+live audio	claim	audio	claim
+audio recorder	claim	audio	claim
+audio quality	claim	audio	claim
+audio track	claim	audio	claim
+audio content	claim	audio	claim
+audio file	claim	audio	claim
+audio clip	claim	audio	claim
+video audio	claim	audio	claim
+audio video	donot	audio	donot
+audio play	donot	audio	donot
+audio book	donot	audio	donot
+audio effect	donot	audio	donot
+audio recording	donot	audio	donot
+audio song	donot	audio	donot
+audio player	donot	audio	donot
+audio format	donot	audio	donot
+audio text	donot	audio	donot
+audio	donot	audio	donot
+audio playback	donot	audio	donot
+audio pronunciation	donot	audio	donot
+audio alert	donot	audio	donot
+record audio	donot	audio	donot
+live audio	donot	audio	donot
+audio recorder	donot	audio	donot
+audio quality	donot	audio	donot
+audio track	donot	audio	donot
+audio content	donot	audio	donot
+audio file	donot	audio	donot
+audio clip	donot	audio	donot
+video audio	donot	audio	donot
+
+com.xzPopular.apk
+false
+
+com.springpad.apk
+true
+voice call	record	voice memo	record
+voice note	record	voice memo	record
+voice	record	voice memo	record
+
+com.app_ironcountytaxi.layout.apk
+false
+
+com.app_inmaricopa.layout.apk
+false
+
+com.newapps.comicsofdarkhorseap.apk
+true
+entire feed	fetch	r feed	fetch
+live feed	fetch	r feed	fetch
+feed video	fetch	r feed	fetch
+feed	fetch	r feed	fetch
+r feed	fetch	r feed	fetch
+twitter feed	fetch	r feed	fetch
+valuable feed	fetch	r feed	fetch
+news feed	fetch	r feed	fetch
+feeding	fetch	r feed	fetch
+different site	fetch	different site	fetch
+site	fetch	different site	fetch
+various site	fetch	different site	fetch
+news site	fetch	different site	fetch
+youtube video	collect	feed video	collect
+video	collect	feed video	collect
+late video	collect	feed video	collect
+video support	collect	feed video	collect
+exclusive video	collect	feed video	collect
+live feed	collect	feed video	collect
+video call	collect	feed video	collect
+feed video	collect	feed video	collect
+following video	collect	feed video	collect
+play video	collect	feed video	collect
+feed	collect	feed video	collect
+live video	collect	feed video	collect
+next video	collect	feed video	collect
+r feed	collect	feed video	collect
+new video	collect	feed video	collect
+great video	collect	feed video	collect
+news video	collect	feed video	collect
+news feed	collect	feed video	collect
+best video	collect	feed video	collect
+feeding	collect	feed video	collect
+gameplay video	collect	feed video	collect
+
+com.nhn.android.naverdic.apk
+false
+
+com.app_mct125.layout.apk
+false
+
+com.William.SoncoCartoonLiveWallpaperIX.apk
+false
+
+com.letin.howtoknit.apk
+false
+
+com.androminigsm.fscifree.apk
+false
+
+com.westpub.workoutwomen.apk
+false
+
+au.com.bizarmobile.msa.apk
+false
+
+com.kfactormedia.prayr.apk
+false
+
+com.etb.android.bs.apk
+false
+
+com.saakshin.bachao.apk
+false
+
+com.app_jailexchange.layout.apk
+false
+
+com.pokosmoko.gta5ps.apk
+false
+
+com.zorac.marquee.apk
+true
+audio play	save	audio recording	save
+audio book	save	audio recording	save
+audio effect	save	audio recording	save
+audio recording	save	audio recording	save
+audio format	save	audio recording	save
+audio text	save	audio recording	save
+audio	save	audio recording	save
+record audio	save	audio recording	save
+live audio	save	audio recording	save
+audio recorder	save	audio recording	save
+audio quality	save	audio recording	save
+audio content	save	audio recording	save
+
+com.airplaneapp.deer.apk
+false
+
+com.hcg.codysimpson.apk
+true
+classical music	chat	music	chat
+free music	chat	music	chat
+music collection	chat	music	chat
+music	chat	music	chat
+background music	chat	music	chat
+great music	chat	music	chat
+music today	chat	music	chat
+new music	chat	music	chat
+best music	chat	music	chat
+late music	chat	music	chat
+beautiful music	chat	music	chat
+music	chat	music artist	chat
+great music	chat	music artist	chat
+music today	chat	music artist	chat
+new music	chat	music artist	chat
+best music	chat	music artist	chat
+late music	chat	music artist	chat
+
+com.tommmi.topcamerastores.apk
+true
+entire feed	fetch	r feed	fetch
+live feed	fetch	r feed	fetch
+feed video	fetch	r feed	fetch
+feed	fetch	r feed	fetch
+r feed	fetch	r feed	fetch
+twitter feed	fetch	r feed	fetch
+valuable feed	fetch	r feed	fetch
+news feed	fetch	r feed	fetch
+feeding	fetch	r feed	fetch
+different site	fetch	different site	fetch
+site	fetch	different site	fetch
+various site	fetch	different site	fetch
+news site	fetch	different site	fetch
+youtube video	collect	feed video	collect
+video	collect	feed video	collect
+late video	collect	feed video	collect
+video support	collect	feed video	collect
+exclusive video	collect	feed video	collect
+live feed	collect	feed video	collect
+video call	collect	feed video	collect
+feed video	collect	feed video	collect
+following video	collect	feed video	collect
+play video	collect	feed video	collect
+feed	collect	feed video	collect
+live video	collect	feed video	collect
+next video	collect	feed video	collect
+r feed	collect	feed video	collect
+new video	collect	feed video	collect
+great video	collect	feed video	collect
+news video	collect	feed video	collect
+news feed	collect	feed video	collect
+best video	collect	feed video	collect
+feeding	collect	feed video	collect
+gameplay video	collect	feed video	collect
+
+com.revesoft.mobiledialer.inaani.apk
+false
+
+com.baishisoft.photo.japan176girl.apk
+false
+
+com.eightwest.myrhinoplasty.apk
+false
+
+com.xtreme.pikgalaxyyl.apk
+false
+
+com.loloworks.llglx.apk
+false
+
+com.app_cafeteria1.layout.apk
+false
+
+com.mobjax.CallRecorderSpy.apk
+false
+
+com.mediafriends.chime.apk
+true
+voice call	record	voice	record
+voice command	record	voice	record
+voice note	record	voice	record
+voice recording	record	voice	record
+voice recognition	record	voice	record
+voice	record	voice	record
+voice recorder	record	voice	record
+
+com.Zesthaner.PuddingMonstersHDPuzzle.apk
+true
+crossword puzzle	pass	puzzle	pass
+puzzle piece	pass	puzzle	pass
+placement puzzle	pass	puzzle	pass
+unique puzzle	pass	puzzle	pass
+easy puzzle	pass	puzzle	pass
+puzzle game	pass	puzzle	pass
+fun puzzle	pass	puzzle	pass
+slide puzzle	pass	puzzle	pass
+jigsaw puzzle	pass	puzzle	pass
+new puzzle	pass	puzzle	pass
+puzzle	pass	puzzle	pass
+
+ban.card.payanywhere.apk
+false
+
+com.darbyse.asian.cutegirl.apk
+false
+
+com.qihoo360.launcher.apk
+false
+
+com.geoscope.GeoEye.apk
+false
+
+com.app_celebratingu.layout.apk
+false
+
+hu.pocketguide.bundle.HongKong_lite.apk
+true
+recording	determine	recording	determine
+syco record	determine	recording	determine
+record time	determine	recording	determine
+call recorder	determine	recording	determine
+record	determine	recording	determine
+recorder	determine	recording	determine
+call recording	determine	recording	determine
+world record	determine	recording	determine
+record deal	determine	recording	determine
+
+com.momgame.friuts.apk
+false
+
+com.jacobsmedia.y107.apk
+false
+
+it.messagenet.mtalk.apk
+false
+
+com.jawbone.up.apk
+false
+
+com.Haraphi.AsterixPuzzle.apk
+true
+crossword puzzle	pass	puzzle	pass
+puzzle piece	pass	puzzle	pass
+placement puzzle	pass	puzzle	pass
+unique puzzle	pass	puzzle	pass
+easy puzzle	pass	puzzle	pass
+puzzle game	pass	puzzle	pass
+fun puzzle	pass	puzzle	pass
+slide puzzle	pass	puzzle	pass
+jigsaw puzzle	pass	puzzle	pass
+new puzzle	pass	puzzle	pass
+puzzle	pass	puzzle	pass
+
+by.istin.android.vkmusic.apk
+false
+
+com.radio.station.KUPL.FM.apk
+false
+
+com.nicercallanyphone.apk
+false
+
+com.jadn.cc.apk
+false
+
+com.zmodo.zsight.activity.mobiview.apk
+false
+
+com.xyz.my.apk
+false
+
+com.jacobsmedia.whqt.apk
+false
+
+com.airport.parking.pro.apk
+false
+
+com.ezbz.usr.apk
+false
+
+com.rcreations.ipcamviewerBasic.apk
+false
+
+com.gaganjeetbhullar.workfromhomejobs.apk
+true
+youtube video	collect	feed video	collect
+video	collect	feed video	collect
+late video	collect	feed video	collect
+video support	collect	feed video	collect
+exclusive video	collect	feed video	collect
+live feed	collect	feed video	collect
+video call	collect	feed video	collect
+feed video	collect	feed video	collect
+following video	collect	feed video	collect
+play video	collect	feed video	collect
+feed	collect	feed video	collect
+live video	collect	feed video	collect
+next video	collect	feed video	collect
+r feed	collect	feed video	collect
+new video	collect	feed video	collect
+great video	collect	feed video	collect
+news video	collect	feed video	collect
+news feed	collect	feed video	collect
+best video	collect	feed video	collect
+feeding	collect	feed video	collect
+gameplay video	collect	feed video	collect
+entire feed	fetch	r feed	fetch
+live feed	fetch	r feed	fetch
+feed video	fetch	r feed	fetch
+feed	fetch	r feed	fetch
+r feed	fetch	r feed	fetch
+twitter feed	fetch	r feed	fetch
+valuable feed	fetch	r feed	fetch
+news feed	fetch	r feed	fetch
+feeding	fetch	r feed	fetch
+different site	fetch	different site	fetch
+site	fetch	different site	fetch
+various site	fetch	different site	fetch
+news site	fetch	different site	fetch
+
+com.app_wilbournsisters.layout.apk
+false
+
+com.fanko.natsukiikeda.apk
+false
+
+com.globalapptools.freegpsbookmarker.apk
+true
+voice call	record	voice memo	record
+voice note	record	voice memo	record
+voice	record	voice memo	record
+
+com.zijamobile.lifeunlimited.apk
+false
+
+com.spn.apk
+false
+
+com.Haraphi.AladdinPuzzle.apk
+true
+crossword puzzle	pass	puzzle	pass
+puzzle piece	pass	puzzle	pass
+placement puzzle	pass	puzzle	pass
+unique puzzle	pass	puzzle	pass
+easy puzzle	pass	puzzle	pass
+puzzle game	pass	puzzle	pass
+fun puzzle	pass	puzzle	pass
+slide puzzle	pass	puzzle	pass
+jigsaw puzzle	pass	puzzle	pass
+new puzzle	pass	puzzle	pass
+puzzle	pass	puzzle	pass
+
+com.mfa_inc.android.agronomyguide.apk
+false
+
+com.superchargeintl.makemoneyonline65.apk
+false
+
+xdebugx.partyLightA.apk
+false
+
+com.yahoo.mobile.client.android.imvideo.apk
+false
+
+com.app_stgnews.layout.apk
+false
+
+com.etoolkit.inaturephoto.apk
+false
+
+com.Fragmob.ViDroid.apk
+false
+
+com.whatsapp.line.wechat.aruba.hotels.apk
+true
+book hotel	reveal	hotel	reveal
+hotel restaurant	reveal	hotel	reveal
+hotel room	reveal	hotel	reveal
+hotel reservation	reveal	hotel	reveal
+hotel deal	reveal	hotel	reveal
+hotel saving	reveal	hotel	reveal
+hotel review	reveal	hotel	reveal
+budget hotel	reveal	hotel	reveal
+discount hotel	reveal	hotel	reveal
+hotel price	reveal	hotel	reveal
+hotel detail	reveal	hotel	reveal
+luxury hotel	reveal	hotel	reveal
+local hotel	reveal	hotel	reveal
+boutique hotel	reveal	hotel	reveal
+hotel offer	reveal	hotel	reveal
+listed hotel	reveal	hotel	reveal
+hotel feature	reveal	hotel	reveal
+hotel booking	reveal	hotel	reveal
+best hotel	reveal	hotel	reveal
+hotel	reveal	hotel	reveal
+book hotel	swipe	hotel	swipe
+hotel restaurant	swipe	hotel	swipe
+hotel room	swipe	hotel	swipe
+hotel reservation	swipe	hotel	swipe
+hotel deal	swipe	hotel	swipe
+hotel saving	swipe	hotel	swipe
+hotel review	swipe	hotel	swipe
+budget hotel	swipe	hotel	swipe
+discount hotel	swipe	hotel	swipe
+hotel price	swipe	hotel	swipe
+hotel detail	swipe	hotel	swipe
+luxury hotel	swipe	hotel	swipe
+local hotel	swipe	hotel	swipe
+boutique hotel	swipe	hotel	swipe
+hotel offer	swipe	hotel	swipe
+listed hotel	swipe	hotel	swipe
+hotel feature	swipe	hotel	swipe
+hotel booking	swipe	hotel	swipe
+best hotel	swipe	hotel	swipe
+hotel	swipe	hotel	swipe
+book hotel	map	hotel	map
+hotel restaurant	map	hotel	map
+hotel room	map	hotel	map
+hotel reservation	map	hotel	map
+hotel deal	map	hotel	map
+hotel saving	map	hotel	map
+hotel review	map	hotel	map
+budget hotel	map	hotel	map
+discount hotel	map	hotel	map
+hotel price	map	hotel	map
+hotel detail	map	hotel	map
+luxury hotel	map	hotel	map
+local hotel	map	hotel	map
+boutique hotel	map	hotel	map
+hotel offer	map	hotel	map
+listed hotel	map	hotel	map
+hotel feature	map	hotel	map
+hotel booking	map	hotel	map
+best hotel	map	hotel	map
+hotel	map	hotel	map
+hotel price	refine	price	refine
+book hotel	refine	hotel feature	refine
+hotel restaurant	refine	hotel feature	refine
+hotel room	refine	hotel feature	refine
+hotel reservation	refine	hotel feature	refine
+hotel deal	refine	hotel feature	refine
+hotel saving	refine	hotel feature	refine
+hotel review	refine	hotel feature	refine
+budget hotel	refine	hotel feature	refine
+discount hotel	refine	hotel feature	refine
+hotel price	refine	hotel feature	refine
+hotel detail	refine	hotel feature	refine
+luxury hotel	refine	hotel feature	refine
+local hotel	refine	hotel feature	refine
+boutique hotel	refine	hotel feature	refine
+hotel offer	refine	hotel feature	refine
+listed hotel	refine	hotel feature	refine
+hotel feature	refine	hotel feature	refine
+hotel booking	refine	hotel feature	refine
+best hotel	refine	hotel feature	refine
+hotel	refine	hotel feature	refine
+late deal	give	deal	give
+good deal	give	deal	give
+deal	give	deal	give
+local deal	give	deal	give
+special deal	give	deal	give
+best deal	give	deal	give
+record deal	give	deal	give
+exclusive deal	give	deal	give
+great deal	give	deal	give
+book hotel	click	hotel	click
+hotel restaurant	click	hotel	click
+hotel room	click	hotel	click
+hotel reservation	click	hotel	click
+hotel deal	click	hotel	click
+hotel saving	click	hotel	click
+hotel review	click	hotel	click
+budget hotel	click	hotel	click
+discount hotel	click	hotel	click
+hotel price	click	hotel	click
+hotel detail	click	hotel	click
+luxury hotel	click	hotel	click
+local hotel	click	hotel	click
+boutique hotel	click	hotel	click
+hotel offer	click	hotel	click
+listed hotel	click	hotel	click
+hotel feature	click	hotel	click
+hotel booking	click	hotel	click
+best hotel	click	hotel	click
+hotel	click	hotel	click
+
+com.evilduck.musiciankit.apk
+false
+
+com.verizon.messaging.vzmsgs.apk
+false
+
+com.swa.swataichiguides1sj.apk
+false
+
+com.enuke.callrecorder.apk
+false
+
+com.truecontext.prontoforms.apk
+false
+
+com.browan.freeppmobile.android.apk
+false
+
+com.flufflydelusions.app.enotesclassiclite.apk
+false
+
+com.v1.rightviewpro.apk
+false
+
+annoying.app.apk
+true
+voice call	record	voice message	record
+voice note	record	voice message	record
+voice	record	voice message	record
+
+com.groupon.redemption.apk
+false
+
+org.apache.OneOption.apk
+false
+
+com.egert.ocarina.apk
+false
+
+com.tishapps.navigationsystems.apk
+true
+entire feed	fetch	r feed	fetch
+live feed	fetch	r feed	fetch
+feed video	fetch	r feed	fetch
+feed	fetch	r feed	fetch
+r feed	fetch	r feed	fetch
+twitter feed	fetch	r feed	fetch
+valuable feed	fetch	r feed	fetch
+news feed	fetch	r feed	fetch
+feeding	fetch	r feed	fetch
+different site	fetch	different site	fetch
+site	fetch	different site	fetch
+various site	fetch	different site	fetch
+news site	fetch	different site	fetch
+youtube video	collect	feed video	collect
+video	collect	feed video	collect
+late video	collect	feed video	collect
+video support	collect	feed video	collect
+exclusive video	collect	feed video	collect
+live feed	collect	feed video	collect
+video call	collect	feed video	collect
+feed video	collect	feed video	collect
+following video	collect	feed video	collect
+play video	collect	feed video	collect
+feed	collect	feed video	collect
+live video	collect	feed video	collect
+next video	collect	feed video	collect
+r feed	collect	feed video	collect
+new video	collect	feed video	collect
+great video	collect	feed video	collect
+news video	collect	feed video	collect
+news feed	collect	feed video	collect
+best video	collect	feed video	collect
+feeding	collect	feed video	collect
+gameplay video	collect	feed video	collect
+
+com.goethe.sr.apk
+true
+audio video	combine	audio text	combine
+audio play	combine	audio text	combine
+audio book	combine	audio text	combine
+audio effect	combine	audio text	combine
+audio recording	combine	audio text	combine
+audio song	combine	audio text	combine
+audio player	combine	audio text	combine
+audio format	combine	audio text	combine
+audio text	combine	audio text	combine
+audio	combine	audio text	combine
+audio playback	combine	audio text	combine
+audio alert	combine	audio text	combine
+record audio	combine	audio text	combine
+live audio	combine	audio text	combine
+audio recorder	combine	audio text	combine
+audio quality	combine	audio text	combine
+audio track	combine	audio text	combine
+audio content	combine	audio text	combine
+audio file	combine	audio text	combine
+audio clip	combine	audio text	combine
+video audio	combine	audio text	combine
+
+com.appexperts.tuneinpunjabi.apk
+false
+
+com.evernote.hello.apk
+false
+
+com.jmmobile.android.englishtraining.apk
+false
+
+com.etoolkit.naturephoto.apk
+false
+
+com.beatronik.pocketdjlite.apk
+false
+
+com.susheelapps.bibleforteens.apk
+true
+youtube video	collect	feed video	collect
+video	collect	feed video	collect
+late video	collect	feed video	collect
+video support	collect	feed video	collect
+exclusive video	collect	feed video	collect
+live feed	collect	feed video	collect
+video call	collect	feed video	collect
+feed video	collect	feed video	collect
+following video	collect	feed video	collect
+play video	collect	feed video	collect
+feed	collect	feed video	collect
+live video	collect	feed video	collect
+next video	collect	feed video	collect
+r feed	collect	feed video	collect
+new video	collect	feed video	collect
+great video	collect	feed video	collect
+news video	collect	feed video	collect
+news feed	collect	feed video	collect
+best video	collect	feed video	collect
+feeding	collect	feed video	collect
+gameplay video	collect	feed video	collect
+
+in.blackbutterfly.bb.apk
+false
+
+com.jacobsmedia.kglk.apk
+false
+
+com.homeremedies.allinone.apk
+false
+
+ca.one615.game.sexyasianbeachbubblesgold.apk
+false
+
+com.elisoft.esscan.apk
+false
+
+com.sri.stdcodes.apk
+false
+
+net.ramglobal.myradiosingapore.apk
+false
+
+com.ford.dtest.apk
+false
+
+com.velosmobile.tribble.apk
+false
+
+com.infinity.friendship.apk
+false
+
+net.xbound.alafasicollen.apk
+false
+
+com.bestringtonesapps.bestringtonesfree.apk
+false
+
+com.mark.doublephoto.apk
+false
+
+com.triactivemedia.internationaloceansystems.apk
+false
+
+com.bvr.onediretion.apk
+false
+
+alice.smith.rainbow.apk
+false
+
+com.enter.shuiqiangushiNew.apk
+false
+
+com.bestcoolapps.mickeyvirussongs.apk
+false
+
+com.masseeffect.vt.apk
+false
+
+com.AppBBriz.romantica.apk
+false
+
+com.channeleyes.spectralogic.apk
+false
+
+com.kibartiq.xxxlesbianporn.apk
+false
+
+com.css.flashlight.apk
+false
+
+com.cricbuzz.android.apk
+false
+
+com.smartapp.shakingboobs.apk
+false
+
+br.com.cadsoft.apk
+false
+
+com.camerocks.pharmacypro.apk
+false
+
+com.wafb.android.weather.apk
+false
+
+com.runtastic.android.sixpack.lite.apk
+false
+
+wagood020507.wilria9028cup.apk
+false
+
+com.wFreeOnlineDating.apk
+false
+
+com.footballalarm.ynwafree.apk
+false
+
+com.thorapps.aishwaryarai.apk
+false
+
+sex.compatibility.apk
+false
+
+com.kpop.app.apk
+false
+
+com.learn.frame.apk
+false
+
+com.ridecharge.android.taximagic.apk
+false
+
+com.buuuk.st.apk
+false
+
+com.wisdomquotes.lwp.wisdomlivewallpaper.apk
+false
+
+com.weebygames.bubblepangbeta3.apk
+false
+
+com.a182305308517478677b4725a.a45507022a.apk
+false
+
+com.glorialivewallpaper.bvb.apk
+false
+
+com.photoshoptutorialsfree.book.AOUMMCXWEYRKZFXET.apk
+false
+
+hu.distinction.cflow.apk
+false
+
+com.profitplus.mbymetrophoto.apk
+false
+
+com.jj.ringtone18.apk
+false
+
+com.clusor.ice.apk
+false
+
+azam.android.SakalPDF.apk
+false
+
+com.dumainfotech.ganeshalivewallpaper.apk
+false
+
+com.guidebook.apps.PASSEvents.android.apk
+false
+
+com.motoz.four.moto.apk
+false
+
+com.rocky.cutezodiacclockwidget.apk
+false
+
+com.risho.BicycleWithMe.apk
+false
+
+appinventor.ai_pubblicitasicura.PeppaPigColorDemo.apk
+false
+
+com.anglelabs.stopwatch.free.apk
+false
+
+ru.mamba.client.apk
+false
+
+alice.smith.shiv.apk
+false
+
+com.jkt.photopack.AOUMFDWOBUZPPEBQ.apk
+false
+
+com.lite.up.wifitether.free.apk
+false
+
+com.serhat.hdlakerswallpaper.apk
+false
+
+com.andromo.dev233508.app248167.apk
+false
+
+edu.asu.mobile.android.test.apk
+false
+
+nivax.videoplayer.km.apk
+false
+
+lifebox.app1053.apk
+false
+
+com.freidapintogalleryiaos.wallpaper.apk
+false
+
+jp.gr.java_conf.houkinet.otenki.apk
+false
+
+com.uzrufyz001.apk
+false
+
+com.compevolve.movietriviamatchup.apk
+false
+
+com.smscmbhd.apk
+false
+
+com.goba.engage.cruut.apk
+false
+
+com.vostu.candy.apk
+false
+
+air.com.fupa.alternationfree.apk
+false
+
+com.ztwilite.mgsbeta.apk
+false
+
+com.zodinplex.forest.sounds.relax.and.sleep.apk
+false
+
+com.a1794129477524788694d02b5a.a50551544a.apk
+false
+
+blacknWhite.CallBlocker.Gold.apk
+false
+
+com.superphunlabs.speedgauge.apk
+false
+
+com.gtp.nextlauncher.theme.faiscachrome.apk
+false
+
+com.crosscountrytrains.apk
+false
+
+com.bulkypix.pinwar.apk
+false
+
+com.westchesterbank.mobile.apk
+false
+
+com.risho.SepiaNow.apk
+false
+
+it.mrqzzz.comedysounds.xmas.apk
+false
+
+com.ptashek.bplog.apk
+false
+
+com.tamilradios.android.apk
+false
+
+com.wilcorp.CallToothFairyEn.apk
+false
+
+com.oeri.activities.apk
+false
+
+imoblife.brainwavestus.apk
+false
+
+com.a892617434525b2bb6097942a.a55500616a.apk
+false
+
+com.vadlabs.vkmusicsync.apk
+false
+
+louder.sounds.tvchannels.apk
+false
+
+net.dcrowd.hindidictionary.apk
+false
+
+com.liteup.calibratebattery.free.apk
+false
+
+com.drcinfotech.autoemailsender.apk
+false
+
+uk.co.androidapps4u.ProExpMgrDemo.apk
+false
+
+com.daingo.news.italy.apk
+false
+
+com.Wright.GeorMostBeautifulWallpaper.apk
+false
+
+com.miragelab.boomlandfull.apk
+false
+
+com.whats.up.apk
+false
+
+com.star_cheats.jpjcheats.apk
+false
+
+binaryearth.handygpsfree.apk
+false
+
+com.milkbeach.steinmakeover.apk
+false
+
+com.crowdtorch.artsbeatseats.apk
+false
+
+com.lht.privateerpress.apk
+false
+
+com.cisco.tklviewer.araloc.apk
+false
+
+com.appwaffles.free.wallpaper.hd.app.id98004.apk
+false
+
+kz.mixdesign.likes.apk
+false
+
+com.pn.apps.minionfootball.apk
+false
+
+com.nelso.prague.apk
+false
+
+com.zentertain.woc.apk
+false
+
+com.marothiatechs.gulel.apk
+false
+
+com.viacom18.colors24THEGAME.apk
+false
+
+com.tripomatic.indianapolis.apk
+false
+
+com.harvestapp.apk
+false
+
+awesome.sms.box.apk
+false
+
+com.wapit.carbuzz.apk
+false
+
+compactideas.MyReceptionistLite.apk
+false
+
+apps.hyper.news.macedonia.apk
+false
+
+com.unips.livewallpaper.snake3d.apk
+false
+
+com.imagewizard.c21mdc.apk
+false
+
+com.lgcq.centogates.apk
+false
+
+com.intermaps.feratelpanoramatv.apk
+false
+
+com.henryxucn.ringtone.apk
+false
+
+com.appwall.hast.apk
+false
+
+com.CreativeDK.LeagueofLegendsChampions.apk
+false
+
+com.andromo.dev158145.app239736.apk
+false
+
+com.bswhaney.SaintLouisMiniGuide.apk
+false
+
+com.wilcorp.IdealBodyStats.apk
+false
+
+com.adn37.omegleclientlite.apk
+false
+
+com.TkBilisim.camera.apk
+false
+
+com.free.bonbon.apk
+false
+
+com.sterling.autoheart.apk
+false
+
+com.mobilesitios.frenchmanicure.apk
+false
+
+com.gau.go.touchhelperex.theme.halloween.apk
+false
+
+br.com.pcode.angelina.apk
+false
+
+com.appsinthe.apps.vinetube.apk
+false
+
+com.gameclassic.hungryshark1.apk
+false
+
+com.jujama.ams.apk
+false
+
+com.brosix.enbible.apk
+false
+
+com.zetty.zettygmp.apk
+false
+
+li.nibble.apps.sevenminutesworkout.apk
+false
+
+com.q2e.firstcitizensbank333702.mobile.production.apk
+false
+
+com.airkast.disney.apk
+false
+
+com.anchorapp.drugdictionary.apk
+false
+
+edu.upenn.pennparents.gd.fallmovein2013.apk
+false
+
+com.mobgen.shellir.apk
+false
+
+com.mobile.mobilityday.apk
+false
+
+com.sproutsocial.android.apk
+false
+
+com.wdphotos.apk
+false
+
+net.Dorian100000.batmansoundboard.apk
+false
+
+com.surfaceimpression.popart.apk
+false
+
+com.andromo.dev147473.app250114.apk
+false
+
+com.cheeky.apk
+false
+
+com.gtp.nextlauncher.widget.note.apk
+false
+
+com.daingo.news.peru.apk
+false
+
+com.galaxyserieslwp.galaxy.s5.space.live.wallpaper.apk
+false
+
+net.thomasmanthey.speedwarner.apk
+false
+
+com.cyebiz.sumtoday.apk
+false
+
+com.redtrianglegames.scarespree.apk
+false
+
+com.droidappworld.dumbbellexerciseforforearms.apk
+false
+
+com.coulombtech.apk
+false
+
+couchDev.tools.DocxParser.apk
+false
+
+com.anamik.gothemes.totoro.apk
+false
+
+com.appBilly.bademdinhmenh.apk
+false
+
+org.bobarctor.smsbackup.apk
+false
+
+com.leonidshkatulo.fruitpuzzle.apk
+false
+
+com.hipmenu.android.prod.apk
+false
+
+com.andromo.dev171890.app248809.apk
+false
+
+com.irafa.hotgirlshd.apk
+false
+
+com.arlean.maps.apk
+false
+
+com.thorapps.house07niceg.apk
+false
+
+hilo.card.game.apk
+false
+
+com.a173414560350f43141eee799a.a34357401a.apk
+false
+
+com.google.android.apps.cloudprint.apk
+false
+
+com.magzter.sustainuancemagazine.apk
+false
+
+com.andromo.dev33101.app248470.apk
+false
+
+com.VSystems.minigolfspace3D.apk
+false
+
+com.a699363498521383b333e154a.a55713980a.apk
+false
+
+com.gtp.nextlauncher.theme.momentous.apk
+false
+
+com.sinyee.babybus.magichouse.apk
+false
+
+com.futuremark.dmandroid.application.apk
+false
+
+com.delitestudio.localcloudfree.apk
+false
+
+disasterAlert.PDC.apk
+false
+
+de.fruecht.MeinDienstplan.apk
+false
+
+ru.allwritestudio.dswcoupons.apk
+false
+
+com.mshift.uccu.apk
+false
+
+com.gannett.local.library.news.kusa.apk
+false
+
+net.gioconomicon.android.essen.apk
+true
+puzzle game	check	game	check
+
+com.snfandroid.turbo.apk
+false
+
+com.hexahis.android.eustx.apk
+false
+
+com.jefftharris.passwdsafe.apk
+false
+
+com.midori.priya.rai.apk
+false
+
+com.gamblekings.grandcarslotsm3.apk
+false
+
+com.andromo.dev249143.app236831.apk
+false
+
+an.RomanianTranslate.apk
+false
+
+com.momote.mmw.apk
+false
+
+com.rightchoice.whichrightchoice.apk
+false
+
+jp.co.valsior.resizer.apk
+true
+audio format	save	format	save
+
+org.transdroid.lite.apk
+false
+
+com.a1750371537520cecf65c0593a.a15983795a.apk
+false
+
+com.andromo.dev251538.app236167.apk
+false
+
+org.androidideas.videotoolbox.trial.apk
+false
+
+com.tap4fun.galaxyempire2_android.apk
+false
+
+extremeSports.Sudoku.PremierLeague.apk
+false
+
+air.org.acponline.mksap16.tablet.apk
+false
+
+com.benefitaccessmobile.apk
+false
+
+com.amazon.myhabit.apk
+false
+
+com.kindred.android.apk
+false
+
+com.natrobit.tweegram.apk
+false
+
+com.andromo.dev251718.app250495.apk
+false
+
+com.kongregate.mobile.tyrant.google.apk
+false
+
+com.viper.prlhelperfree.apk
+false
+
+com.moob.dragonballz.apk
+false
+
+com.pjp.qvprep.lite.grade8.apk
+false
+
+com.xing.android.apk
+false
+
+com.gau.go.launcherex.gowidget.taskmanagerex.apk
+false
+
+com.paintwall.discobeam.apk
+false
+
+com.android.stock.apk
+false
+
+com.dan_ru.ProfReminder.apk
+false
+
+com.susmit.pretty.girls.apk
+false
+
+com.snovabits.mobile.andorid.widget.news.pro.apk
+false
+
+com.dv.adm.apk
+false
+
+net.sba.pvstop.apk
+false
+
+com.phonelight.howtodraw.paoku.apk
+false
+
+org.equestriadaily.eqdailyapp.apk
+false
+
+fr.aetys.kid.animals.fr.apk
+false
+
+com.cherry.krrish.apk
+false
+
+dev03.app155.apk
+false
+
+com.beerlivewallpaper.apk
+false
+
+com.zenmobi.android.app.nba.heatnews.apk
+false
+
+com.gladtohaveyou.dlv.apk
+false
+
+dk.MindGear.JohnnyHeroV1.apk
+false
+
+com.littleiapps.ndcmcalendar.apk
+false
+
+com.a13947822795199376d6aa703a.a00900758a.apk
+false
+
+com.plussystems.PlusSystems.apk
+false
+
+com.goldenchecklists.finalfantasy13.treasurehunter.apk
+false
+
+com.free.game.joy.jigsaw.puzzle.fantasy.apk
+true
+fun puzzle	slide	puzzle piece	slide
+slide puzzle	slide	puzzle piece	slide
+
+com.eonsoft.DefecationDiaryV

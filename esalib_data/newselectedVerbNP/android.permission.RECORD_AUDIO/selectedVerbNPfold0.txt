@@ -1,0 +1,3291 @@
+record deal
+control	1.0	5
+disable	1.0	7
+activate	1.0	2
+open	1.0	3
+resume	1.0	2
+organize	1.0	2
+note	1.0	5
+lodge	1.0	17
+speak	1.0	2
+trigger	1.0	3
+snap	1.0	2
+press	1.0	3
+play	1.0	12
+avoid	1.0	2
+transfer	1.0	2
+support	1.0	6
+give	0.913043478261	69
+determine	0.909090909091	11
+listen	0.857142857143	7
+try	0.833333333333	6
+stop	0.8125	16
+record	0.8	5
+call	0.785714285714	28
+require	0.75	4
+continue	0.75	4
+start	0.720930232558	43
+use	0.714285714286	7
+
+webcam chat
+save	1.0	2
+decide	1.0	2
+email	1.0	4
+keep	1.0	2
+account	1.0	5
+delete	1.0	2
+talk	1.0	2
+create	0.714285714286	7
+
+audio player
+redirect	1.0	2
+combine	1.0	16
+insert	1.0	2
+unhide	1.0	2
+apply	1.0	2
+claim	1.0	21
+give	1.0	2
+donot	1.0	21
+enter	1.0	2
+capture	0.833333333333	6
+send	0.8	10
+use	0.769230769231	13
+
+video stream
+appear	1.0	2
+tell	1.0	3
+beautiful	1.0	6
+sneak	1.0	2
+attach	1.0	4
+mic	1.0	2
+mix	1.0	2
+donot	1.0	21
+report	1.0	2
+sport	1.0	4
+snap	1.0	3
+step	1.0	2
+paste	1.0	2
+remote	1.0	2
+overlay	1.0	2
+claim	0.954545454545	22
+monitor	0.833333333333	6
+put	0.828571428571	35
+send	0.789473684211	57
+record	0.782608695652	69
+combine	0.75	4
+come	0.722222222222	18
+
+group chat
+save	1.0	2
+decide	1.0	2
+email	1.0	4
+keep	1.0	2
+translate	1.0	2
+account	1.0	5
+delete	1.0	2
+scan	0.789473684211	19
+
+instructional video
+beautiful	1.0	6
+tell	1.0	3
+sneak	1.0	2
+broadcast	1.0	2
+mix	1.0	2
+donot	1.0	21
+report	1.0	2
+sport	1.0	4
+snap	1.0	3
+overlay	1.0	2
+paste	1.0	2
+claim	0.954545454545	22
+monitor	0.833333333333	6
+put	0.828571428571	35
+attach	0.8	5
+combine	0.8	5
+send	0.789473684211	57
+record	0.771428571429	70
+stop	0.75	4
+
+hotel detail
+divide	1.0	2
+send	1.0	2
+reveal	1.0	45
+prague	1.0	8
+swipe	1.0	45
+rearch	1.0	4
+refine	1.0	44
+horomerice	1.0	2
+km	1.0	27
+map	0.977777777778	45
+list	0.947368421053	19
+click	0.9375	48
+allow	0.882352941176	51
+search	0.848214285714	112
+place	0.8	5
+need	0.774193548387	31
+compare	0.742857142857	35
+
+business listing
+operate	1.0	2
+monitor	0.75	4
+customize	0.75	4
+
+video tip
+beautiful	1.0	6
+sneak	1.0	2
+attach	1.0	4
+broadcast	1.0	2
+mix	1.0	2
+donot	1.0	21
+report	1.0	2
+sport	1.0	4
+snap	1.0	3
+step	1.0	2
+paste	1.0	2
+overlay	1.0	2
+claim	0.954545454545	22
+monitor	0.833333333333	6
+put	0.828571428571	35
+trade	0.8	5
+record	0.782608695652	69
+send	0.762711864407	59
+come	0.722222222222	18
+
+audio video
+unhide	1.0	3
+paste	1.0	2
+tell	1.0	3
+write	1.0	2
+sneak	1.0	2
+monitor	1.0	3
+disable	1.0	2
+mix	1.0	2
+donot	1.0	42
+redirect	1.0	2
+express	1.0	2
+report	1.0	2
+sport	1.0	4
+snap	1.0	3
+insert	1.0	3
+overlay	1.0	2
+step	1.0	2
+claim	0.976744186047	43
+combine	0.95	20
+attach	0.833333333333	6
+put	0.810810810811	37
+send	0.8	70
+record	0.704918032787	122
+
+news video
+tell	1.0	3
+beautiful	1.0	6
+sneak	1.0	2
+fart	1.0	2
+mix	1.0	2
+donot	1.0	21
+sport	1.0	4
+practice	1.0	2
+chat	1.0	2
+overlay	1.0	2
+step	1.0	2
+paste	1.0	2
+claim	0.954545454545	22
+monitor	0.833333333333	6
+record	0.782051282051	78
+combine	0.777777777778	9
+put	0.756097560976	41
+stop	0.75	4
+snap	0.75	4
+send	0.732394366197	71
+
+new puzzle
+unfold	1.0	6
+awesome	1.0	16
+check	1.0	8
+place	0.888888888889	18
+pass	0.883333333333	60
+slide	0.729166666667	48
+
+video song
+step	1.0	2
+tell	1.0	3
+reproduce	1.0	2
+sneak	1.0	2
+broadcast	1.0	2
+close	1.0	2
+donot	1.0	21
+do	1.0	2
+sport	1.0	4
+like	1.0	2
+overlay	1.0	2
+paste	1.0	2
+stumble	1.0	2
+claim	0.954545454545	22
+beautiful	0.857142857143	7
+monitor	0.833333333333	6
+bollywood	0.75	4
+snap	0.75	4
+send	0.716417910448	67
+come	0.703703703704	27
+
+facebook messenger
+provide	1.0	5
+send	0.787878787879	33
+
+best hotel
+divide	1.0	2
+send	1.0	2
+reveal	1.0	45
+prague	1.0	8
+swipe	1.0	45
+rearch	1.0	4
+refine	1.0	44
+horomerice	1.0	2
+km	1.0	27
+map	0.977777777778	45
+list	0.947368421053	19
+click	0.9375	48
+allow	0.882352941176	51
+search	0.848214285714	112
+place	0.8	5
+need	0.774193548387	31
+compare	0.742857142857	35
+
+luxury hotel
+divide	1.0	2
+send	1.0	2
+reveal	1.0	45
+prague	1.0	8
+swipe	1.0	45
+rearch	1.0	4
+refine	1.0	44
+horomerice	1.0	2
+km	1.0	27
+map	0.977777777778	45
+list	0.947368421053	19
+click	0.9375	48
+allow	0.865384615385	52
+search	0.842592592593	108
+place	0.8	5
+book	0.704225352113	71
+
+voice recording
+snap	1.0	2
+app	1.0	5
+prohibit	1.0	3
+protect	1.0	2
+hide	1.0	2
+reply	1.0	4
+generate	1.0	2
+restrict	1.0	4
+transform	1.0	4
+sound	1.0	5
+communicate	1.0	2
+voice	1.0	2
+control	1.0	3
+skirt	1.0	3
+play	1.0	2
+repeat	1.0	2
+update	1.0	2
+react	1.0	2
+flutter	1.0	3
+drive	1.0	3
+record	0.901960784314	51
+compare	0.875	8
+teach	0.857142857143	7
+change	0.8125	16
+hear	0.809523809524	21
+save	0.8	5
+include	0.777777777778	9
+help	0.75	4
+text	0.75	4
+combine	0.75	4
+design	0.75	4
+need	0.75	8
+speak	0.714285714286	14
+
+video photo
+tell	1.0	3
+beautiful	1.0	6
+sneak	1.0	2
+broadcast	1.0	2
+mix	1.0	2
+donot	1.0	21
+sport	1.0	4
+chat	1.0	2
+overlay	1.0	2
+step	1.0	2
+paste	1.0	2
+claim	0.954545454545	22
+monitor	0.833333333333	6
+record	0.763888888889	72
+stop	0.75	4
+put	0.75	40
+snap	0.75	4
+combine	0.714285714286	7
+send	0.712121212121	66
+
+star review
+note	1.0	2
+learn	1.0	3
+present	0.75	4
+
+hotel room
+divide	1.0	2
+send	1.0	2
+reveal	1.0	45
+prague	1.0	8
+swipe	1.0	45
+rearch	1.0	4
+refine	1.0	44
+horomerice	1.0	2
+km	1.0	27
+map	0.977777777778	45
+list	0.947368421053	19
+click	0.9375	48
+allow	0.882352941176	51
+search	0.842592592593	108
+place	0.8	5
+need	0.774193548387	31
+
+audio file
+unhide	1.0	2
+claim	1.0	21
+donot	1.0	21
+face	1.0	2
+redirect	1.0	2
+combine	1.0	16
+capture	0.833333333333	6
+insert	0.75	4
+
+audio quality
+redirect	1.0	2
+combine	1.0	17
+insert	1.0	2
+unhide	1.0	2
+apply	1.0	2
+claim	1.0	21
+give	1.0	2
+donot	1.0	21
+enter	1.0	2
+capture	0.833333333333	6
+save	0.777777777778	9
+send	0.733333333333	15
+
+image video
+tell	1.0	3
+beautiful	1.0	6
+sneak	1.0	2
+broadcast	1.0	2
+mix	1.0	2
+donot	1.0	21
+sport	1.0	4
+chat	1.0	2
+overlay	1.0	2
+step	1.0	2
+paste	1.0	2
+claim	0.954545454545	22
+monitor	0.833333333333	6
+record	0.763888888889	72
+stop	0.75	4
+put	0.75	40
+snap	0.75	4
+combine	0.714285714286	7
+send	0.712121212121	66
+
+review guide
+note	1.0	2
+learn	1.0	3
+present	0.75	4
+
+messenger
+provide	1.0	5
+send	0.787878787879	33
+
+local deal
+bring	1.0	2
+lodge	1.0	17
+give	0.9	70
+
+correct place
+move	1.0	8
+drag	1.0	2
+shift	1.0	12
+
+video file
+tell	1.0	3
+sneak	1.0	2
+mix	1.0	2
+donot	1.0	21
+report	1.0	2
+sport	1.0	4
+snap	1.0	3
+overlay	1.0	2
+step	1.0	2
+claim	0.954545454545	22
+record	0.763157894737	76
+
+funny image
+forget	1.0	2
+respond	1.0	3
+sport	1.0	2
+answer	1.0	16
+repeat	1.0	11
+talk	1.0	5
+apply	0.833333333333	6
+
+csv format
+cut	1.0	2
+amr	1.0	2
+gpp	1.0	2
+minimize	1.0	2
+view	0.75	4
+search	0.75	4
+
+sex video
+sneak	1.0	2
+broadcast	1.0	2
+mix	1.0	2
+donot	1.0	21
+report	1.0	2
+sport	1.0	4
+sound	1.0	2
+snap	1.0	3
+overlay	1.0	2
+step	1.0	2
+paste	1.0	2
+claim	0.954545454545	22
+monitor	0.833333333333	6
+put	0.828571428571	35
+attach	0.8	5
+record	0.782608695652	69
+send	0.762711864407	59
+stop	0.75	4
+combine	0.75	4
+
+local hotel
+divide	1.0	2
+send	1.0	2
+reveal	1.0	45
+prague	1.0	8
+swipe	1.0	45
+rearch	1.0	4
+refine	1.0	44
+horomerice	1.0	2
+km	1.0	27
+map	0.977777777778	45
+list	0.947368421053	19
+click	0.9375	48
+allow	0.882352941176	51
+search	0.848214285714	112
+place	0.8	5
+need	0.774193548387	31
+compare	0.742857142857	35
+
+book hotel
+divide	1.0	2
+send	1.0	2
+reveal	1.0	45
+prague	1.0	8
+swipe	1.0	45
+rearch	1.0	4
+refine	1.0	44
+horomerice	1.0	2
+km	1.0	27
+map	0.977777777778	45
+list	0.947368421053	19
+click	0.9375	48
+allow	0.882352941176	51
+search	0.848214285714	112
+place	0.8	5
+need	0.774193548387	31
+compare	0.742857142857	35
+
+song video
+step	1.0	2
+tell	1.0	3
+reproduce	1.0	2
+sneak	1.0	2
+broadcast	1.0	2
+close	1.0	2
+donot	1.0	21
+do	1.0	2
+sport	1.0	4
+like	1.0	2
+overlay	1.0	2
+paste	1.0	2
+stumble	1.0	2
+claim	0.954545454545	22
+beautiful	0.857142857143	7
+monitor	0.833333333333	6
+bollywood	0.75	4
+snap	0.75	4
+send	0.716417910448	67
+come	0.703703703704	27
+
+puzzle game
+unfold	1.0	6
+awesome	1.0	16
+check	1.0	8
+place	0.888888888889	18
+pass	0.883333333333	60
+slide	0.729166666667	48
+
+walkthrough video
+tell	1.0	3
+beautiful	1.0	6
+sneak	1.0	2
+broadcast	1.0	2
+mix	1.0	2
+donot	1.0	21
+sport	1.0	4
+chat	1.0	2
+overlay	1.0	2
+step	1.0	2
+paste	1.0	2
+claim	0.954545454545	22
+monitor	0.833333333333	6
+put	0.769230769231	39
+record	0.763888888889	72
+stop	0.75	4
+snap	0.75	4
+combine	0.714285714286	7
+send	0.712121212121	66
+
+hotel review
+divide	1.0	2
+send	1.0	2
+reveal	1.0	45
+prague	1.0	8
+swipe	1.0	45
+rearch	1.0	4
+refine	1.0	44
+horomerice	1.0	2
+km	1.0	27
+map	0.977777777778	45
+list	0.947368421053	19
+click	0.9375	48
+allow	0.882352941176	51
+search	0.848214285714	112
+place	0.8	5
+need	0.774193548387	31
+compare	0.742857142857	35
+
+call recorder
+note	1.0	5
+activate	1.0	2
+snap	1.0	2
+press	1.0	3
+require	1.0	3
+avoid	1.0	2
+resume	1.0	2
+organize	1.0	2
+determine	1.0	10
+open	1.0	3
+speak	1.0	2
+transfer	1.0	2
+support	1.0	6
+trigger	1.0	3
+control	1.0	5
+play	1.0	12
+disable	1.0	7
+listen	0.857142857143	7
+try	0.833333333333	6
+use	0.833333333333	6
+share	0.833333333333	12
+call	0.814814814815	27
+stop	0.8	15
+record	0.8	5
+need	0.8	5
+start	0.775	40
+send	0.75	8
+continue	0.75	4
+
+audio effect
+redirect	1.0	2
+combine	1.0	17
+insert	1.0	2
+unhide	1.0	2
+apply	1.0	2
+claim	1.0	21
+give	1.0	2
+donot	1.0	21
+enter	1.0	2
+capture	0.833333333333	6
+save	0.777777777778	9
+send	0.733333333333	15
+
+hotel offer
+divide	1.0	2
+send	1.0	2
+reveal	1.0	45
+prague	1.0	8
+swipe	1.0	45
+rearch	1.0	4
+refine	1.0	44
+horomerice	1.0	2
+km	1.0	27
+map	0.977777777778	45
+list	0.947368421053	19
+click	0.9375	48
+allow	0.882352941176	51
+search	0.848214285714	112
+place	0.8	5
+need	0.774193548387	31
+compare	0.742857142857	35
+
+audio track
+redirect	1.0	2
+combine	1.0	17
+insert	1.0	2
+unhide	1.0	2
+apply	1.0	2
+claim	1.0	21
+give	1.0	2
+donot	1.0	21
+enter	1.0	2
+capture	0.833333333333	6
+send	0.8	10
+work	0.75	4
+
+following video
+tell	1.0	3
+beautiful	1.0	6
+sneak	1.0	2
+fart	1.0	2
+mix	1.0	2
+donot	1.0	21
+sport	1.0	4
+practice	1.0	2
+chat	1.0	2
+overlay	1.0	2
+step	1.0	2
+paste	1.0	2
+claim	0.954545454545	22
+monitor	0.833333333333	6
+record	0.782051282051	78
+combine	0.777777777778	9
+put	0.756097560976	41
+stop	0.75	4
+snap	0.75	4
+send	0.732394366197	71
+
+video format
+tell	1.0	3
+beautiful	1.0	6
+sneak	1.0	2
+broadcast	1.0	2
+mix	1.0	2
+donot	1.0	21
+sport	1.0	4
+step	1.0	2
+paste	1.0	2
+chat	1.0	2
+overlay	1.0	2
+claim	0.954545454545	22
+monitor	0.833333333333	6
+combine	0.833333333333	6
+put	0.769230769231	39
+record	0.763888888889	72
+stop	0.75	4
+snap	0.75	4
+send	0.712121212121	66
+
+audio alert
+redirect	1.0	2
+combine	1.0	16
+insert	1.0	2
+unhide	1.0	2
+apply	1.0	2
+claim	1.0	21
+give	1.0	2
+donot	1.0	21
+enter	1.0	2
+capture	0.833333333333	6
+send	0.8	10
+support	0.8	5
+work	0.75	4
+use	0.727272727273	11
+
+next video
+tell	1.0	3
+beautiful	1.0	6
+sneak	1.0	2
+fart	1.0	2
+mix	1.0	2
+donot	1.0	21
+sport	1.0	4
+practice	1.0	2
+chat	1.0	2
+overlay	1.0	2
+step	1.0	2
+paste	1.0	2
+claim	0.954545454545	22
+monitor	0.833333333333	6
+record	0.782051282051	78
+combine	0.777777777778	9
+put	0.756097560976	41
+stop	0.75	4
+snap	0.75	4
+send	0.732394366197	71
+
+facebook chat
+save	1.0	2
+decide	1.0	2
+email	1.0	4
+keep	1.0	2
+translate	1.0	2
+account	1.0	5
+delete	1.0	2
+scan	0.789473684211	19
+
+correct word
+move	1.0	8
+drag	1.0	2
+shift	1.0	12
+
+room number
+go	0.714285714286	28
+
+correct order
+move	1.0	8
+drag	1.0	2
+shift	1.0	12
+
+chat room
+save	1.0	2
+decide	1.0	2
+email	1.0	4
+keep	1.0	2
+account	1.0	5
+delete	1.0	2
+
+extra feature
+upgrade	1.0	2
+support	1.0	2
+talk	1.0	2
+
+new video
+tell	1.0	3
+beautiful	1.0	6
+sneak	1.0	2
+fart	1.0	2
+mix	1.0	2
+donot	1.0	21
+sport	1.0	4
+practice	1.0	2
+chat	1.0	2
+overlay	1.0	2
+step	1.0	2
+paste	1.0	2
+claim	0.954545454545	22
+monitor	0.833333333333	6
+record	0.782051282051	78
+combine	0.777777777778	9
+put	0.756097560976	41
+stop	0.75	4
+snap	0.75	4
+send	0.732394366197	71
+
+top video
+tell	1.0	3
+beautiful	1.0	6
+sneak	1.0	2
+broadcast	1.0	2
+mix	1.0	2
+donot	1.0	21
+sport	1.0	4
+chat	1.0	2
+overlay	1.0	2
+step	1.0	2
+paste	1.0	2
+claim	0.954545454545	22
+monitor	0.833333333333	6
+record	0.763888888889	72
+stop	0.75	4
+put	0.75	40
+snap	0.75	4
+combine	0.714285714286	7
+send	0.712121212121	66
+
+fun puzzle
+awesome	1.0	16
+slide	0.921052631579	38
+contain	0.888888888889	9
+pass	0.883333333333	60
+
+monthly fee
+hold	1.0	2
+
+interactive experience
+enjoy	1.0	2
+compare	1.0	2
+study	1.0	3
+turn	1.0	2
+
+format
+cut	1.0	2
+amr	1.0	2
+gpp	1.0	2
+minimize	1.0	2
+view	0.75	4
+search	0.75	4
+
+slide puzzle
+awesome	1.0	15
+slide	0.944444444444	36
+contain	0.888888888889	9
+pass	0.883333333333	60
+
+audio pronunciation
+evaluate	1.0	2
+insert	1.0	2
+unhide	1.0	2
+redirect	1.0	2
+claim	1.0	21
+tap	1.0	2
+speech	1.0	2
+donot	1.0	21
+enter	1.0	2
+check	0.888888888889	9
+compare	0.857142857143	7
+capture	0.833333333333	6
+practice	0.8	5
+send	0.75	8
+give	0.75	4
+
+listed hotel
+divide	1.0	2
+send	1.0	2
+reveal	1.0	45
+prague	1.0	8
+swipe	1.0	45
+rearch	1.0	4
+refine	1.0	44
+horomerice	1.0	2
+km	1.0	27
+map	0.977777777778	45
+list	0.947368421053	19
+click	0.9375	48
+allow	0.882352941176	51
+search	0.848214285714	112
+place	0.8	5
+need	0.774193548387	31
+compare	0.742857142857	35
+
+deal
+bring	1.0	2
+lodge	1.0	17
+give	0.901408450704	71
+
+audio content
+redirect	1.0	2
+combine	1.0	17
+insert	1.0	2
+unhide	1.0	2
+apply	1.0	2
+claim	1.0	21
+give	1.0	2
+donot	1.0	21
+enter	1.0	2
+capture	0.833333333333	6
+save	0.777777777778	9
+send	0.733333333333	15
+
+call recording
+note	1.0	5
+activate	1.0	2
+snap	1.0	2
+press	1.0	3
+require	1.0	3
+avoid	1.0	2
+resume	1.0	2
+organize	1.0	2
+determine	1.0	10
+open	1.0	3
+speak	1.0	2
+transfer	1.0	2
+support	1.0	6
+trigger	1.0	3
+control	1.0	5
+play	1.0	12
+disable	1.0	7
+listen	0.857142857143	7
+try	0.833333333333	6
+use	0.833333333333	6
+share	0.833333333333	12
+call	0.814814814815	27
+stop	0.8	15
+record	0.8	5
+need	0.8	5
+start	0.775	40
+send	0.75	8
+continue	0.75	4
+
+casually chat
+save	1.0	2
+decide	1.0	2
+email	1.0	4
+keep	1.0	2
+account	1.0	5
+delete	1.0	2
+talk	1.0	2
+scan	0.789473684211	19
+create	0.714285714286	7
+
+interactive way
+compare	1.0	2
+study	1.0	3
+turn	1.0	2
+
+video recording
+tell	1.0	3
+beautiful	1.0	6
+sneak	1.0	2
+broadcast	1.0	2
+mix	1.0	2
+donot	1.0	21
+sport	1.0	4
+chat	1.0	2
+overlay	1.0	2
+step	1.0	2
+paste	1.0	2
+claim	0.954545454545	22
+monitor	0.833333333333	6
+record	0.763888888889	72
+stop	0.75	4
+put	0.75	40
+snap	0.75	4
+combine	0.714285714286	7
+send	0.712121212121	66
+
+jigsaw puzzle
+unfold	1.0	6
+awesome	1.0	16
+check	1.0	8
+place	0.888888888889	18
+pass	0.883333333333	60
+slide	0.729166666667	48
+
+music video
+tell	1.0	3
+beautiful	1.0	6
+sneak	1.0	2
+broadcast	1.0	2
+mix	1.0	2
+donot	1.0	21
+sport	1.0	4
+chat	1.0	2
+step	1.0	2
+paste	1.0	2
+overlay	1.0	2
+claim	0.954545454545	22
+monitor	0.833333333333	6
+put	0.769230769231	39
+record	0.763888888889	72
+stop	0.75	4
+snap	0.75	4
+combine	0.714285714286	7
+send	0.712121212121	66
+come	0.708333333333	24
+
+video audio
+unhide	1.0	3
+paste	1.0	2
+tell	1.0	3
+write	1.0	2
+sneak	1.0	2
+monitor	1.0	3
+disable	1.0	2
+mix	1.0	2
+donot	1.0	42
+redirect	1.0	2
+express	1.0	2
+report	1.0	2
+sport	1.0	4
+snap	1.0	3
+insert	1.0	3
+overlay	1.0	2
+step	1.0	2
+claim	0.976744186047	43
+combine	0.95	20
+attach	0.833333333333	6
+put	0.810810810811	37
+send	0.8	70
+record	0.704918032787	122
+
+discount hotel
+divide	1.0	2
+send	1.0	2
+reveal	1.0	45
+prague	1.0	8
+swipe	1.0	45
+rearch	1.0	4
+refine	1.0	44
+horomerice	1.0	2
+km	1.0	27
+map	0.977777777778	45
+list	0.947368421053	19
+click	0.9375	48
+allow	0.9	50
+search	0.842592592593	108
+place	0.8	5
+book	0.704225352113	71
+
+exclusive video
+tell	1.0	3
+beautiful	1.0	6
+sneak	1.0	2
+fart	1.0	2
+mix	1.0	2
+donot	1.0	21
+sport	1.0	4
+practice	1.0	2
+chat	1.0	2
+overlay	1.0	2
+step	1.0	2
+paste	1.0	2
+claim	0.954545454545	22
+monitor	0.833333333333	6
+record	0.782051282051	78
+combine	0.777777777778	9
+put	0.756097560976	41
+stop	0.75	4
+snap	0.75	4
+send	0.732394366197	71
+
+audio playback
+redirect	1.0	2
+combine	1.0	17
+insert	1.0	2
+unhide	1.0	2
+apply	1.0	2
+claim	1.0	21
+give	1.0	2
+mix	1.0	2
+donot	1.0	21
+enter	1.0	2
+capture	0.833333333333	6
+send	0.8	10
+work	0.75	4
+
+video support
+tell	1.0	3
+beautiful	1.0	6
+sneak	1.0	2
+broadcast	1.0	2
+mix	1.0	2
+donot	1.0	21
+sport	1.0	4
+practice	1.0	2
+chat	1.0	2
+overlay	1.0	2
+step	1.0	2
+paste	1.0	2
+claim	0.954545454545	22
+monitor	0.833333333333	6
+record	0.767123287671	73
+stop	0.75	4
+put	0.75	40
+snap	0.75	4
+send	0.728571428571	70
+combine	0.714285714286	7
+
+new music
+lack	1.0	2
+mix	1.0	3
+accord	1.0	2
+transpose	1.0	2
+chat	1.0	94
+press	1.0	4
+chop	1.0	2
+button	0.8	5
+
+watch video
+tell	1.0	3
+beautiful	1.0	6
+sneak	1.0	2
+broadcast	1.0	2
+mix	1.0	2
+donot	1.0	21
+sport	1.0	4
+chat	1.0	2
+step	1.0	2
+paste	1.0	2
+overlay	1.0	2
+claim	0.954545454545	22
+monitor	0.833333333333	6
+put	0.769230769231	39
+record	0.763888888889	72
+stop	0.75	4
+snap	0.75	4
+combine	0.714285714286	7
+send	0.712121212121	66
+come	0.708333333333	24
+
+naughty chat
+save	1.0	2
+decide	1.0	2
+email	1.0	4
+keep	1.0	2
+account	1.0	5
+delete	1.0	2
+talk	1.0	2
+create	0.714285714286	7
+
+audio recording
+redirect	1.0	2
+combine	1.0	17
+insert	1.0	2
+unhide	1.0	2
+apply	1.0	2
+claim	1.0	21
+give	1.0	2
+donot	1.0	21
+enter	1.0	2
+capture	0.833333333333	6
+save	0.777777777778	9
+send	0.733333333333	15
+
+best deal
+bring	1.0	2
+lodge	1.0	17
+give	0.901408450704	71
+
+video playback
+beautiful	1.0	6
+tell	1.0	3
+sneak	1.0	2
+hear	1.0	2
+attach	1.0	4
+broadcast	1.0	2
+mix	1.0	4
+donot	1.0	21
+report	1.0	2
+sport	1.0	4
+snap	1.0	3
+overlay	1.0	2
+step	1.0	2
+paste	1.0	2
+claim	0.954545454545	22
+monitor	0.833333333333	6
+put	0.828571428571	35
+send	0.789473684211	57
+record	0.771428571429	70
+come	0.764705882353	17
+combine	0.75	4
+
+youtube video
+tell	1.0	3
+beautiful	1.0	6
+sneak	1.0	2
+fart	1.0	2
+mix	1.0	2
+donot	1.0	21
+sport	1.0	4
+practice	1.0	2
+chat	1.0	2
+overlay	1.0	2
+step	1.0	2
+paste	1.0	2
+claim	0.954545454545	22
+monitor	0.833333333333	6
+record	0.782051282051	78
+combine	0.777777777778	9
+put	0.756097560976	41
+stop	0.75	4
+snap	0.75	4
+send	0.732394366197	71
+
+free music
+lack	1.0	2
+mix	1.0	3
+accord	1.0	2
+transpose	1.0	2
+chat	1.0	94
+press	1.0	4
+chop	1.0	2
+button	0.8	5
+
+video tutorial
+step	1.0	2
+tell	1.0	3
+beautiful	1.0	6
+sneak	1.0	2
+attach	1.0	4
+broadcast	1.0	2
+mix	1.0	2
+donot	1.0	21
+report	1.0	2
+sport	1.0	4
+practice	1.0	2
+snap	1.0	3
+overlay	1.0	2
+paste	1.0	2
+claim	0.913043478261	23
+monitor	0.833333333333	6
+put	0.828571428571	35
+send	0.796610169492	59
+record	0.782608695652	69
+come	0.764705882353	17
+stop	0.75	4
+
+anonymous chat
+save	1.0	2
+decide	1.0	2
+email	1.0	4
+keep	1.0	2
+account	1.0	5
+delete	1.0	2
+talk	1.0	2
+create	0.714285714286	7
+
+sexy video
+beautiful	1.0	6
+tell	1.0	3
+sneak	1.0	2
+attach	1.0	4
+broadcast	1.0	2
+mix	1.0	2
+donot	1.0	21
+report	1.0	2
+sport	1.0	4
+snap	1.0	3
+overlay	1.0	2
+step	1.0	2
+paste	1.0	2
+claim	0.954545454545	22
+monitor	0.833333333333	6
+put	0.828571428571	35
+send	0.789473684211	57
+record	0.771428571429	70
+come	0.764705882353	17
+stop	0.75	4
+combine	0.75	4
+
+different chat
+save	1.0	2
+decide	1.0	2
+email	1.0	4
+keep	1.0	2
+translate	1.0	2
+account	1.0	5
+delete	1.0	2
+scan	0.789473684211	19
+
+various format
+cut	1.0	2
+amr	1.0	2
+gpp	1.0	2
+minimize	1.0	2
+view	0.75	4
+search	0.75	4
+
+crossword puzzle
+unfold	1.0	6
+awesome	1.0	16
+check	1.0	8
+contain	0.888888888889	9
+place	0.888888888889	18
+pass	0.883333333333	60
+slide	0.729166666667	48
+
+puzzle piece
+unfold	1.0	6
+awesome	1.0	16
+check	1.0	8
+contain	0.888888888889	9
+place	0.888888888889	18
+pass	0.883333333333	60
+slide	0.729166666667	48
+
+recorder
+note	1.0	5
+activate	1.0	2
+snap	1.0	2
+press	1.0	3
+require	1.0	3
+avoid	1.0	2
+resume	1.0	2
+organize	1.0	2
+determine	1.0	10
+open	1.0	3
+speak	1.0	2
+transfer	1.0	2
+support	1.0	6
+trigger	1.0	3
+control	1.0	5
+play	1.0	12
+disable	1.0	7
+listen	0.857142857143	7
+try	0.833333333333	6
+use	0.833333333333	6
+share	0.833333333333	12
+call	0.814814814815	27
+stop	0.8	15
+record	0.8	5
+need	0.8	5
+start	0.775	40
+send	0.75	8
+continue	0.75	4
+
+stream video
+appear	1.0	2
+tell	1.0	3
+beautiful	1.0	6
+sneak	1.0	2
+attach	1.0	4
+mic	1.0	2
+mix	1.0	2
+donot	1.0	21
+report	1.0	2
+sport	1.0	4
+snap	1.0	3
+step	1.0	2
+paste	1.0	2
+remote	1.0	2
+overlay	1.0	2
+claim	0.954545454545	22
+monitor	0.833333333333	6
+put	0.828571428571	35
+send	0.789473684211	57
+record	0.782608695652	69
+combine	0.75	4
+come	0.722222222222	18
+
+instant messenger
+include	1.0	2
+provide	1.0	5
+
+smart activity
+fire	1.0	16
+
+living room
+go	0.714285714286	28
+
+business
+operate	1.0	2
+monitor	0.75	4
+customize	0.75	4
+
+video chat
+video	1.0	2
+step	1.0	2
+account	1.0	5
+sneak	1.0	2
+talk	1.0	2
+monitor	1.0	2
+attach	1.0	4
+mix	1.0	2
+donot	1.0	21
+report	1.0	2
+sport	1.0	4
+sound	1.0	2
+snap	1.0	4
+begin	1.0	2
+overlay	1.0	2
+claim	0.954545454545	22
+put	0.828571428571	35
+record	0.794117647059	68
+tell	0.75	4
+
+video instruction
+beautiful	1.0	6
+tell	1.0	3
+sneak	1.0	2
+broadcast	1.0	2
+mix	1.0	2
+donot	1.0	21
+report	1.0	2
+sport	1.0	4
+snap	1.0	3
+overlay	1.0	2
+paste	1.0	2
+claim	0.954545454545	22
+monitor	0.833333333333	6
+put	0.828571428571	35
+attach	0.8	5
+combine	0.8	5
+send	0.789473684211	57
+record	0.771428571429	70
+stop	0.75	4
+
+hotel booking
+divide	1.0	2
+send	1.0	2
+reveal	1.0	45
+prague	1.0	8
+swipe	1.0	45
+rearch	1.0	4
+refine	1.0	44
+horomerice	1.0	2
+km	1.0	27
+map	0.977777777778	45
+list	0.947368421053	19
+click	0.9375	48
+allow	0.882352941176	51
+search	0.848214285714	112
+place	0.8	5
+need	0.774193548387	31
+compare	0.742857142857	35
+
+placement puzzle
+unfold	1.0	6
+awesome	1.0	16
+check	1.0	8
+contain	0.888888888889	9
+place	0.888888888889	18
+pass	0.883333333333	60
+slide	0.729166666667	48
+
+great deal
+bring	1.0	2
+lodge	1.0	17
+give	0.901408450704	71
+
+formation
+cut	1.0	2
+amr	1.0	2
+gpp	1.0	2
+minimize	1.0	2
+view	0.75	4
+search	0.75	4
+
+one-time fee
+hold	1.0	2
+
+video clip
+beautiful	1.0	6
+tell	1.0	3
+sneak	1.0	2
+attach	1.0	4
+broadcast	1.0	2
+mix	1.0	2
+donot	1.0	21
+report	1.0	2
+sport	1.0	4
+snap	1.0	3
+overlay	1.0	2
+step	1.0	2
+paste	1.0	2
+rely	1.0	2
+claim	0.954545454545	22
+monitor	0.833333333333	6
+put	0.833333333333	36
+send	0.796610169492	59
+record	0.785714285714	70
+come	0.764705882353	17
+stop	0.75	4
+combine	0.75	4
+apply	0.727272727273	11
+gather	0.714285714286	7
+
+tutorial video
+step	1.0	2
+tell	1.0	3
+beautiful	1.0	6
+sneak	1.0	2
+attach	1.0	4
+broadcast	1.0	2
+mix	1.0	2
+donot	1.0	21
+report	1.0	2
+sport	1.0	4
+practice	1.0	2
+snap	1.0	3
+overlay	1.0	2
+paste	1.0	2
+claim	0.913043478261	23
+monitor	0.833333333333	6
+put	0.828571428571	35
+send	0.796610169492	59
+record	0.782608695652	69
+come	0.764705882353	17
+stop	0.75	4
+
+funny moment
+forget	1.0	2
+respond	1.0	3
+sport	1.0	2
+answer	1.0	16
+repeat	1.0	11
+talk	1.0	5
+
+live chat
+save	1.0	2
+decide	1.0	2
+email	1.0	4
+keep	1.0	2
+translate	1.0	2
+account	1.0	5
+delete	1.0	2
+scan	0.789473684211	19
+
+interaction
+compare	1.0	2
+study	1.0	3
+turn	1.0	2
+
+hotel deal
+divide	1.0	2
+send	1.0	2
+reveal	1.0	45
+prague	1.0	8
+swipe	1.0	45
+rearch	1.0	4
+refine	1.0	44
+horomerice	1.0	2
+km	1.0	27
+map	0.977777777778	45
+list	0.947368421053	19
+click	0.9375	48
+allow	0.882352941176	51
+search	0.848214285714	112
+place	0.8	5
+need	0.774193548387	31
+compare	0.742857142857	35
+
+amazing video
+tell	1.0	3
+sneak	1.0	2
+attach	1.0	4
+broadcast	1.0	2
+mix	1.0	2
+donot	1.0	21
+report	1.0	2
+sport	1.0	4
+snap	1.0	3
+overlay	1.0	2
+step	1.0	2
+paste	1.0	2
+claim	0.954545454545	22
+monitor	0.833333333333	6
+put	0.828571428571	35
+combine	0.8	5
+send	0.789473684211	57
+record	0.782608695652	69
+come	0.764705882353	17
+stop	0.75	4
+
+audio book
+redirect	1.0	2
+combine	1.0	17
+insert	1.0	2
+unhide	1.0	2
+apply	1.0	2
+claim	1.0	21
+give	1.0	2
+donot	1.0	21
+enter	1.0	2
+capture	0.833333333333	6
+save	0.777777777778	9
+send	0.733333333333	15
+
+hotel saving
+divide	1.0	2
+send	1.0	2
+reveal	1.0	45
+prague	1.0	8
+swipe	1.0	45
+rearch	1.0	4
+refine	1.0	44
+horomerice	1.0	2
+km	1.0	27
+map	0.977777777778	45
+list	0.947368421053	19
+click	0.9375	48
+allow	0.882352941176	51
+search	0.848214285714	112
+place	0.8	5
+need	0.774193548387	31
+compare	0.742857142857	35
+
+extra content
+sell	1.0	2
+support	1.0	2
+purchase	0.8	5
+
+volume key
+stop	1.0	2
+pop	1.0	37
+start	1.0	2
+tap	0.926829268293	41
+
+awesome video
+tell	1.0	3
+beautiful	1.0	6
+sneak	1.0	2
+broadcast	1.0	2
+mix	1.0	2
+donot	1.0	21
+sport	1.0	4
+step	1.0	2
+paste	1.0	2
+chat	1.0	2
+overlay	1.0	2
+claim	0.954545454545	22
+monitor	0.833333333333	6
+combine	0.833333333333	6
+put	0.769230769231	39
+record	0.763888888889	72
+stop	0.75	4
+snap	0.75	4
+send	0.712121212121	66
+come	0.708333333333	24
+
+interactive
+compare	1.0	2
+study	1.0	3
+turn	1.0	2
+
+voice call
+snap	1.0	2
+app	1.0	5
+prohibit	1.0	3
+protect	1.0	2
+hide	1.0	2
+reply	1.0	4
+free	1.0	2
+generate	1.0	2
+love	1.0	2
+restrict	1.0	4
+transform	1.0	4
+sound	1.0	5
+communicate	1.0	2
+voice	1.0	2
+control	1.0	3
+skirt	1.0	3
+repeat	1.0	2
+update	1.0	2
+react	1.0	3
+flutter	1.0	3
+drive	1.0	3
+record	0.901960784314	51
+teach	0.857142857143	7
+save	0.833333333333	6
+compare	0.818181818182	11
+change	0.8125	16
+hear	0.809523809524	21
+need	0.777777777778	9
+help	0.75	4
+text	0.75	4
+combine	0.75	4
+design	0.75	4
+speak	0.714285714286	14
+give	0.714285714286	21
+allow	0.714285714286	14
+
+interact
+compare	1.0	2
+study	1.0	3
+turn	1.0	2
+
+hotel restaurant
+horomerice	1.0	2
+divide	1.0	2
+refine	1.0	44
+swipe	1.0	45
+km	1.0	27
+prague	1.0	8
+rearch	1.0	4
+reveal	0.957446808511	47
+list	0.947368421053	19
+map	0.936170212766	47
+click	0.92	50
+allow	0.741935483871	62
+
+new room
+go	0.714285714286	28
+
+video section
+tell	1.0	3
+beautiful	1.0	6
+sneak	1.0	2
+broadcast	1.0	2
+mix	1.0	2
+donot	1.0	21
+sport	1.0	4
+chat	1.0	2
+step	1.0	2
+paste	1.0	2
+overlay	1.0	2
+claim	0.954545454545	22
+monitor	0.833333333333	6
+put	0.769230769231	39
+record	0.763888888889	72
+stop	0.75	4
+snap	0.75	4
+combine	0.714285714286	7
+send	0.712121212121	66
+come	0.708333333333	24
+
+streaming video
+appear	1.0	2
+tell	1.0	3
+beautiful	1.0	6
+sneak	1.0	2
+attach	1.0	4
+mic	1.0	2
+mix	1.0	2
+donot	1.0	21
+report	1.0	2
+sport	1.0	4
+snap	1.0	3
+step	1.0	2
+paste	1.0	2
+remote	1.0	2
+overlay	1.0	2
+claim	0.954545454545	22
+monitor	0.833333333333	6
+put	0.828571428571	35
+send	0.789473684211	57
+record	0.782608695652	69
+combine	0.75	4
+come	0.722222222222	18
+
+extra
+upgrade	1.0	2
+support	1.0	2
+talk	1.0	2
+
+puzzle
+unfold	1.0	6
+awesome	1.0	16
+check	1.0	8
+place	0.888888888889	18
+pass	0.883333333333	60
+slide	0.729166666667	48
+
+favorite video
+tell	1.0	3
+beautiful	1.0	6
+sneak	1.0	2
+broadcast	1.0	2
+mix	1.0	2
+donot	1.0	21
+sport	1.0	4
+step	1.0	2
+paste	1.0	2
+chat	1.0	2
+overlay	1.0	2
+claim	0.954545454545	22
+monitor	0.833333333333	6
+combine	0.833333333333	6
+record	0.763888888889	72
+stop	0.75	4
+snap	0.75	4
+put	0.74358974359	39
+come	0.739130434783	23
+send	0.712121212121	66
+
+hotel price
+divide	1.0	2
+send	1.0	2
+reveal	1.0	45
+prague	1.0	8
+swipe	1.0	45
+rearch	1.0	4
+refine	1.0	44
+horomerice	1.0	2
+km	1.0	27
+map	0.977777777778	45
+list	0.947368421053	19
+click	0.9375	48
+allow	0.9	50
+search	0.842592592593	108
+place	0.8	5
+compare	0.742857142857	35
+book	0.704225352113	71
+
+hot video
+beautiful	1.0	6
+tell	1.0	3
+sneak	1.0	2
+attach	1.0	4
+broadcast	1.0	2
+mix	1.0	2
+donot	1.0	21
+report	1.0	2
+sport	1.0	4
+snap	1.0	3
+overlay	1.0	2
+step	1.0	2
+paste	1.0	2
+claim	0.954545454545	22
+monitor	0.833333333333	6
+put	0.828571428571	35
+send	0.775862068966	58
+record	0.771428571429	70
+stop	0.75	4
+combine	0.75	4
+
+hotel reservation
+divide	1.0	2
+send	1.0	2
+reveal	1.0	45
+prague	1.0	8
+swipe	1.0	45
+rearch	1.0	4
+refine	1.0	44
+horomerice	1.0	2
+km	1.0	27
+map	0.977777777778	45
+list	0.947368421053	19
+click	0.9375	48
+allow	0.882352941176	51
+search	0.842592592593	108
+place	0.8	5
+need	0.774193548387	31
+
+animated video
+tell	1.0	3
+beautiful	1.0	6
+sneak	1.0	2
+broadcast	1.0	2
+mix	1.0	2
+donot	1.0	21
+sport	1.0	4
+chat	1.0	2
+step	1.0	2
+paste	1.0	2
+overlay	1.0	2
+claim	0.954545454545	22
+monitor	0.833333333333	6
+put	0.769230769231	39
+record	0.763888888889	72
+stop	0.75	4
+snap	0.75	4
+combine	0.714285714286	7
+send	0.712121212121	66
+come	0.708333333333	24
+
+funny voice
+respond	1.0	3
+forget	1.0	2
+sport	1.0	2
+answer	1.0	16
+repeat	1.0	11
+talk	1.0	5
+
+record audio
+redirect	1.0	2
+combine	1.0	17
+insert	1.0	2
+unhide	1.0	2
+apply	1.0	2
+claim	1.0	21
+give	1.0	2
+donot	1.0	21
+enter	1.0	2
+capture	0.833333333333	6
+save	0.777777777778	9
+send	0.733333333333	15
+
+fully interactive
+enjoy	1.0	2
+compare	1.0	2
+study	1.0	3
+turn	1.0	2
+
+fee
+hold	1.0	2
+
+video editor
+tell	1.0	3
+sneak	1.0	2
+monitor	1.0	2
+attach	1.0	4
+mix	1.0	2
+donot	1.0	21
+report	1.0	2
+snap	1.0	3
+overlay	1.0	2
+step	1.0	2
+paste	1.0	2
+claim	0.954545454545	22
+put	0.828571428571	35
+sport	0.8	5
+record	0.794117647059	68
+send	0.775862068966	58
+come	0.764705882353	17
+stop	0.75	4
+try	0.75	4
+
+chat history
+save	1.0	2
+decide	1.0	2
+email	1.0	4
+keep	1.0	2
+translate	1.0	2
+account	1.0	5
+delete	1.0	2
+scan	0.789473684211	19
+
+play video
+tell	1.0	3
+beautiful	1.0	6
+sneak	1.0	2
+fart	1.0	2
+mix	1.0	2
+donot	1.0	21
+sport	1.0	4
+practice	1.0	2
+chat	1.0	2
+overlay	1.0	2
+step	1.0	2
+paste	1.0	2
+claim	0.954545454545	22
+monitor	0.833333333333	6
+record	0.782051282051	78
+combine	0.777777777778	9
+put	0.756097560976	41
+stop	0.75	4
+snap	0.75	4
+send	0.732394366197	71
+
+volume level
+stop	1.0	2
+pop	1.0	37
+start	1.0	2
+tap	0.926829268293	41
+
+paint
+color	0.727272727273	22
+
+good deal
+bring	1.0	2
+lodge	1.0	17
+give	0.901408450704	71
+
+music
+lack	1.0	2
+mix	1.0	3
+accord	1.0	2
+transpose	1.0	2
+chat	1.0	94
+press	1.0	4
+chop	1.0	2
+button	0.8	5
+
+hd video
+tell	1.0	3
+beautiful	1.0	6
+sneak	1.0	2
+broadcast	1.0	2
+mix	1.0	2
+donot	1.0	21
+sport	1.0	4
+chat	1.0	2
+overlay	1.0	2
+step	1.0	2
+paste	1.0	2
+claim	0.954545454545	22
+monitor	0.833333333333	6
+record	0.763888888889	72
+stop	0.75	4
+put	0.75	40
+snap	0.75	4
+combine	0.714285714286	7
+send	0.712121212121	66
+
+video guide
+tell	1.0	3
+beautiful	1.0	6
+sneak	1.0	2
+broadcast	1.0	2
+mix	1.0	2
+donot	1.0	21
+sport	1.0	4
+chat	1.0	2
+overlay	1.0	2
+step	1.0	2
+paste	1.0	2
+claim	0.954545454545	22
+monitor	0.833333333333	6
+put	0.769230769231	39
+record	0.763888888889	72
+stop	0.75	4
+snap	0.75	4
+combine	0.714285714286	7
+send	0.712121212121	66
+
+syco record
+note	1.0	5
+activate	1.0	2
+snap	1.0	2
+press	1.0	3
+require	1.0	3
+avoid	1.0	2
+resume	1.0	2
+organize	1.0	2
+determine	1.0	10
+open	1.0	3
+speak	1.0	2
+transfer	1.0	2
+support	1.0	6
+trigger	1.0	3
+control	1.0	5
+play	1.0	12
+disable	1.0	7
+listen	0.857142857143	7
+try	0.833333333333	6
+use	0.833333333333	6
+share	0.833333333333	12
+call	0.814814814815	27
+stop	0.8	15
+record	0.8	5
+need	0.8	5
+start	0.775	40
+send	0.75	8
+continue	0.75	4
+
+late deal
+bring	1.0	2
+lodge	1.0	17
+give	0.901408450704	71
+
+audio clip
+redirect	1.0	2
+combine	1.0	17
+press	1.0	6
+unhide	1.0	2
+apply	1.0	2
+claim	1.0	21
+donot	1.0	21
+enter	1.0	2
+send	0.846153846154	13
+capture	0.833333333333	6
+work	0.75	4
+use	0.727272727273	11
+
+go chat
+save	1.0	2
+decide	1.0	2
+email	1.0	4
+keep	1.0	2
+translate	1.0	2
+account	1.0	5
+delete	1.0	2
+scan	0.789473684211	19
+
+chatting
+save	1.0	2
+decide	1.0	2
+email	1.0	4
+keep	1.0	2
+translate	1.0	2
+account	1.0	5
+delete	1.0	2
+scan	0.789473684211	19
+
+correct position
+move	1.0	8
+drag	1.0	2
+shift	1.0	12
+
+small fee
+hold	1.0	2
+
+video streaming
+appear	1.0	2
+tell	1.0	3
+beautiful	1.0	6
+sneak	1.0	2
+attach	1.0	4
+mic	1.0	2
+mix	1.0	2
+donot	1.0	21
+report	1.0	2
+sport	1.0	4
+snap	1.0	3
+step	1.0	2
+paste	1.0	2
+remote	1.0	2
+overlay	1.0	2
+claim	0.954545454545	22
+monitor	0.833333333333	6
+put	0.828571428571	35
+send	0.789473684211	57
+record	0.782608695652	69
+combine	0.75	4
+come	0.722222222222	18
+
+hotel
+divide	1.0	2
+send	1.0	2
+reveal	1.0	45
+prague	1.0	8
+swipe	1.0	45
+rearch	1.0	4
+refine	1.0	44
+horomerice	1.0	2
+km	1.0	27
+map	0.977777777778	45
+list	0.947368421053	19
+click	0.9375	48
+allow	0.882352941176	51
+search	0.848214285714	112
+place	0.8	5
+need	0.774193548387	31
+compare	0.742857142857	35
+
+background music
+lack	1.0	2
+mix	1.0	3
+accord	1.0	2
+transpose	1.0	2
+chat	1.0	94
+press	1.0	4
+chop	1.0	2
+button	0.8	5
+
+funny video
+tell	1.0	3
+sneak	1.0	2
+fart	1.0	2
+attach	1.0	4
+broadcast	1.0	2
+mix	1.0	2
+donot	1.0	21
+report	1.0	2
+sport	1.0	4
+snap	1.0	3
+overlay	1.0	2
+step	1.0	2
+paste	1.0	2
+repeat	1.0	2
+claim	0.954545454545	22
+monitor	0.833333333333	6
+put	0.833333333333	36
+record	0.791666666667	72
+send	0.775862068966	58
+stop	0.75	4
+combine	0.75	4
+come	0.722222222222	18
+
+extra information
+upgrade	1.0	2
+support	1.0	2
+talk	1.0	2
+
+volume
+stop	1.0	2
+pop	1.0	37
+start	1.0	2
+tap	0.926829268293	41
+
+classical music
+lack	1.0	2
+mix	1.0	3
+accord	1.0	2
+transpose	1.0	2
+chat	1.0	94
+press	1.0	4
+chop	1.0	2
+button	0.8	5
+
+video content
+tell	1.0	3
+beautiful	1.0	6
+sneak	1.0	2
+broadcast	1.0	2
+mix	1.0	2
+donot	1.0	21
+sport	1.0	4
+chat	1.0	2
+step	1.0	2
+paste	1.0	2
+overlay	1.0	2
+claim	0.954545454545	22
+monitor	0.833333333333	6
+put	0.769230769231	39
+record	0.763888888889	72
+stop	0.75	4
+snap	0.75	4
+combine	0.714285714286	7
+send	0.712121212121	66
+
+business day
+operate	1.0	2
+monitor	0.75	4
+customize	0.75	4
+
+share video
+tell	1.0	3
+beautiful	1.0	6
+sneak	1.0	2
+broadcast	1.0	2
+mix	1.0	2
+donot	1.0	21
+sport	1.0	4
+chat	1.0	2
+overlay	1.0	2
+step	1.0	2
+paste	1.0	2
+claim	0.954545454545	22
+monitor	0.833333333333	6
+record	0.763888888889	72
+stop	0.75	4
+put	0.75	40
+snap	0.75	4
+combine	0.714285714286	7
+send	0.712121212121	66
+
+chat application
+save	1.0	2
+decide	1.0	2
+email	1.0	4
+account	1.0	5
+delete	1.0	2
+talk	1.0	2
+create	0.714285714286	7
+
+correct operation
+move	1.0	8
+drag	1.0	2
+shift	1.0	12
+
+free chat
+save	1.0	2
+decide	1.0	2
+email	1.0	4
+keep	1.0	2
+translate	1.0	2
+account	1.0	5
+delete	1.0	2
+scan	0.789473684211	19
+
+audio recorder
+redirect	1.0	2
+combine	1.0	17
+insert	1.0	2
+unhide	1.0	2
+apply	1.0	2
+claim	1.0	21
+give	1.0	2
+donot	1.0	21
+enter	1.0	2
+capture	0.833333333333	6
+save	0.777777777778	9
+send	0.733333333333	15
+
+date format
+cut	1.0	2
+amr	1.0	2
+gpp	1.0	2
+minimize	1.0	2
+view	0.75	4
+search	0.75	4
+
+live audio
+redirect	1.0	2
+combine	1.0	17
+insert	1.0	2
+unhide	1.0	2
+apply	1.0	2
+claim	1.0	21
+give	1.0	2
+donot	1.0	21
+enter	1.0	2
+capture	0.833333333333	6
+save	0.777777777778	9
+send	0.733333333333	15
+
+product review
+note	1.0	2
+learn	1.0	3
+present	0.75	4
+
+recording
+note	1.0	5
+activate	1.0	2
+snap	1.0	2
+press	1.0	3
+require	1.0	3
+avoid	1.0	2
+resume	1.0	2
+organize	1.0	2
+determine	1.0	10
+open	1.0	3
+speak	1.0	2
+transfer	1.0	2
+support	1.0	6
+trigger	1.0	3
+control	1.0	5
+play	1.0	12
+disable	1.0	7
+listen	0.857142857143	7
+try	0.833333333333	6
+use	0.833333333333	6
+share	0.833333333333	12
+call	0.814814814815	27
+stop	0.8	15
+record	0.8	5
+need	0.8	5
+start	0.775	40
+send	0.75	8
+continue	0.75	4
+
+record
+note	1.0	5
+activate	1.0	2
+snap	1.0	2
+press	1.0	3
+require	1.0	3
+avoid	1.0	2
+resume	1.0	2
+organize	1.0	2
+determine	1.0	10
+open	1.0	3
+speak	1.0	2
+transfer	1.0	2
+support	1.0	6
+trigger	1.0	3
+control	1.0	5
+play	1.0	12
+disable	1.0	7
+listen	0.857142857143	7
+try	0.833333333333	6
+use	0.833333333333	6
+share	0.833333333333	12
+call	0.814814814815	27
+stop	0.8	15
+record	0.8	5
+need	0.8	5
+start	0.775	40
+send	0.75	8
+continue	0.75	4
+
+different format
+cut	1.0	2
+amr	1.0	2
+gpp	1.0	2
+minimize	1.0	2
+view	0.75	4
+search	0.75	4
+
+audio text
+redirect	1.0	2
+combine	1.0	17
+insert	1.0	2
+unhide	1.0	2
+apply	1.0	2
+claim	1.0	21
+give	1.0	2
+donot	1.0	21
+enter	1.0	2
+capture	0.833333333333	6
+save	0.777777777778	9
+send	0.733333333333	15
+
+good review
+note	1.0	2
+learn	1.0	3
+present	0.75	4
+
+extra point
+upgrade	1.0	2
+support	1.0	2
+talk	1.0	2
+
+video
+tell	1.0	3
+beautiful	1.0	6
+sneak	1.0	2
+fart	1.0	2
+mix	1.0	2
+donot	1.0	21
+sport	1.0	4
+practice	1.0	2
+chat	1.0	2
+overlay	1.0	2
+step	1.0	2
+paste	1.0	2
+claim	0.954545454545	22
+monitor	0.833333333333	6
+record	0.782051282051	78
+combine	0.777777777778	9
+put	0.756097560976	41
+stop	0.75	4
+snap	0.75	4
+send	0.732394366197	71
+
+voice
+snap	1.0	2
+app	1.0	5
+prohibit	1.0	3
+protect	1.0	2
+hide	1.0	2
+reply	1.0	4
+free	1.0	2
+generate	1.0	2
+love	1.0	2
+restrict	1.0	4
+transform	1.0	4
+sound	1.0	5
+communicate	1.0	2
+voice	1.0	2
+control	1.0	3
+skirt	1.0	3
+repeat	1.0	2
+update	1.0	2
+react	1.0	3
+flutter	1.0	3
+drive	1.0	3
+record	0.901960784314	51
+teach	0.857142857143	7
+save	0.833333333333	6
+compare	0.818181818182	11
+change	0.8125	16
+hear	0.809523809524	21
+need	0.777777777778	9
+help	0.75	4
+text	0.75	4
+combine	0.75	4
+design	0.75	4
+speak	0.714285714286	14
+give	0.714285714286	21
+allow	0.714285714286	14
+
+extra bonus
+upgrade	1.0	2
+support	1.0	2
+talk	1.0	2
+
+great music
+lack	1.0	2
+mix	1.0	3
+accord	1.0	2
+transpose	1.0	2
+chat	1.0	94
+press	1.0	4
+chop	1.0	2
+button	0.8	5
+
+late video
+tell	1.0	3
+beautiful	1.0	6
+sneak	1.0	2
+broadcast	1.0	2
+mix	1.0	2
+donot	1.0	21
+sport	1.0	4
+practice	1.0	2
+chat	1.0	2
+overlay	1.0	2
+step	1.0	2
+paste	1.0	2
+claim	0.954545454545	22
+monitor	0.833333333333	6
+record	0.767123287671	73
+stop	0.75	4
+put	0.75	40
+snap	0.75	4
+send	0.728571428571	70
+combine	0.714285714286	7
+
+exclusive deal
+bring	1.0	2
+lodge	1.0	17
+give	0.901408450704	71
+
+video call
+tell	1.0	3
+beautiful	1.0	6
+sneak	1.0	2
+fart	1.0	2
+mix	1.0	2
+donot	1.0	21
+sport	1.0	4
+practice	1.0	2
+chat	1.0	2
+overlay	1.0	2
+step	1.0	2
+paste	1.0	2
+claim	0.954545454545	22
+monitor	0.833333333333	6
+record	0.782051282051	78
+combine	0.777777777778	9
+put	0.756097560976	41
+stop	0.75	4
+snap	0.75	4
+send	0.732394366197	71
+
+private chat
+save	1.0	2
+decide	1.0	2
+email	1.0	4
+keep	1.0	2
+translate	1.0	2
+account	1.0	5
+delete	1.0	2
+scan	0.789473684211	19
+
+correction
+move	1.0	8
+drag	1.0	2
+shift	1.0	12
+
+list format
+cut	1.0	2
+amr	1.0	2
+gpp	1.0	2
+minimize	1.0	2
+view	0.75	4
+search	0.75	4
+
+hour format
+cut	1.0	2
+amr	1.0	2
+gpp	1.0	2
+minimize	1.0	2
+view	0.75	4
+search	0.75	4
+
+video cheat
+tell	1.0	3
+sneak	1.0	2
+attach	1.0	4
+broadcast	1.0	2
+donot	1.0	21
+report	1.0	2
+sport	1.0	4
+review	1.0	2
+snap	1.0	3
+overlay	1.0	2
+step	1.0	2
+paste	1.0	2
+claim	0.954545454545	22
+monitor	0.833333333333	6
+put	0.833333333333	36
+send	0.789473684211	57
+record	0.782608695652	69
+come	0.764705882353	17
+stop	0.75	4
+combine	0.75	4
+
+chat
+save	1.0	2
+decide	1.0	2
+email	1.0	4
+keep	1.0	2
+translate	1.0	2
+account	1.0	5
+delete	1.0	2
+scan	0.789473684211	19
+
+sfx volume
+stop	1.0	2
+pop	1.0	37
+start	1.0	2
+tap	0.926829268293	41
+
+gameplay video
+tell	1.0	3
+beautiful	1.0	6
+sneak	1.0	2
+fart	1.0	2
+mix	1.0	2
+donot	1.0	21
+sport	1.0	4
+practice	1.0	2
+chat	1.0	2
+overlay	1.0	2
+step	1.0	2
+paste	1.0	2
+claim	0.954545454545	22
+monitor	0.833333333333	6
+record	0.782051282051	78
+combine	0.777777777778	9
+put	0.756097560976	41
+stop	0.75	4
+snap	0.75	4
+send	0.732394366197	71
+
+special deal
+bring	1.0	2
+lodge	1.0	17
+give	0.9	70
+
+video image
+tell	1.0	3
+beautiful	1.0	6
+sneak	1.0	2
+broadcast	1.0	2
+mix	1.0	2
+donot	1.0	21
+sport	1.0	4
+chat	1.0	2
+overlay	1.0	2
+step	1.0	2
+paste	1.0	2
+claim	0.954545454545	22
+monitor	0.833333333333	6
+record	0.763888888889	72
+stop	0.75	4
+put	0.75	40
+snap	0.75	4
+combine	0.714285714286	7
+send	0.712121212121	66
+
+boutique hotel
+divide	1.0	2
+send	1.0	2
+reveal	1.0	45
+prague	1.0	8
+swipe	1.0	45
+rearch	1.0	4
+refine	1.0	44
+horomerice	1.0	2
+km	1.0	27
+map	0.977777777778	45
+list	0.947368421053	19
+click	0.9375	48
+allow	0.882352941176	51
+search	0.842592592593	108
+place	0.8	5
+need	0.774193548387	31
+
+kik messenger
+provide	1.0	5
+send	0.787878787879	33
+
+video music
+tell	1.0	3
+beautiful	1.0	6
+sneak	1.0	2
+broadcast	1.0	2
+mix	1.0	2
+donot	1.0	21
+sport	1.0	4
+chat	1.0	2
+step	1.0	2
+paste	1.0	2
+overlay	1.0	2
+claim	0.954545454545	22
+monitor	0.833333333333	6
+put	0.769230769231	39
+record	0.763888888889	72
+stop	0.75	4
+snap	0.75	4
+combine	0.714285714286	7
+send	0.712121212121	66
+come	0.708333333333	24
+
+interactive feature
+compare	1.0	2
+study	1.0	3
+turn	1.0	2
+
+beautiful music
+lack	1.0	2
+accord	1.0	2
+transpose	1.0	2
+chat	1.0	94
+press	1.0	4
+chop	1.0	2
+button	0.8	5
+
+local business
+operate	1.0	2
+monitor	0.75	4
+customize	0.75	4
+
+puzzle mode
+axis	1.0	3
+unfold	1.0	6
+stealth	1.0	3
+check	1.0	8
+awesome	0.941176470588	17
+pass	0.883333333333	60
+work	0.8	5
+
+budget hotel
+divide	1.0	2
+send	1.0	2
+reveal	1.0	45
+prague	1.0	8
+swipe	1.0	45
+rearch	1.0	4
+refine	1.0	44
+horomerice	1.0	2
+km	1.0	27
+map	0.977777777778	45
+list	0.947368421053	19
+click	0.9375	48
+allow	0.9	50
+search	0.848214285714	112
+place	0.8	5
+book	0.704225352113	71
+
+video quality
+tell	1.0	3
+beautiful	1.0	6
+sneak	1.0	2
+broadcast	1.0	2
+mix	1.0	2
+donot	1.0	21
+sport	1.0	4
+chat	1.0	2
+overlay	1.0	2
+step	1.0	2
+paste	1.0	2
+claim	0.954545454545	22
+monitor	0.833333333333	6
+record	0.763888888889	72
+stop	0.75	4
+put	0.75	40
+snap	0.75	4
+combine	0.714285714286	7
+send	0.712121212121	66
+
+whatsapp messenger
+provide	1.0	5
+send	0.787878787879	33
+
+photo video
+tell	1.0	3
+beautiful	1.0	6
+sneak	1.0	2
+broadcast	1.0	2
+mix	1.0	2
+donot	1.0	21
+sport	1.0	4
+chat	1.0	2
+overlay	1.0	2
+step	1.0	2
+paste	1.0	2
+claim	0.954545454545	22
+monitor	0.833333333333	6
+record	0.763888888889	72
+stop	0.75	4
+put	0.75	40
+snap	0.75	4
+combine	0.714285714286	7
+send	0.712121212121	66
+
+video-on-demand clip
+tell	1.0	3
+sneak	1.0	2
+monitor	1.0	2
+attach	1.0	4
+mix	1.0	2
+donot	1.0	21
+report	1.0	2
+sport	1.0	4
+snap	1.0	3
+overlay	1.0	2
+step	1.0	2
+paste	1.0	2
+rely	1.0	2
+claim	0.954545454545	22
+put	0.833333333333	36
+record	0.797101449275	69
+send	0.796610169492	59
+come	0.764705882353	17
+stop	0.75	4
+apply	0.727272727273	11
+gather	0.714285714286	7
+
+late music
+lack	1.0	2
+mix	1.0	3
+accord	1.0	2
+transpose	1.0	2
+chat	1.0	94
+press	1.0	4
+chop	1.0	2
+button	0.8	5
+
+funny quote
+forget	1.0	2
+respond	1.0	3
+sport	1.0	2
+answer	1.0	16
+repeat	1.0	11
+talk	1.0	5
+apply	0.833333333333	6
+
+record time
+note	1.0	5
+activate	1.0	2
+snap	1.0	2
+press	1.0	3
+require	1.0	3
+avoid	1.0	2
+resume	1.0	2
+organize	1.0	2
+determine	1.0	10
+open	1.0	3
+speak	1.0	2
+transfer	1.0	2
+support	1.0	6
+trigger	1.0	3
+control	1.0	5
+play	1.0	12
+disable	1.0	7
+listen	0.857142857143	7
+try	0.833333333333	6
+use	0.833333333333	6
+share	0.833333333333	12
+call	0.814814814815	27
+stop	0.8	15
+record	0.8	5
+need	0.8	5
+start	0.775	40
+send	0.75	8
+continue	0.75	4
+
+random chat
+save	1.0	2
+decide	1.0	2
+email	1.0	4
+keep	1.0	2
+delete	1.0	2
+account	1.0	5
+talk	1.0	2
+create	0.714285714286	7
+
+business news
+operate	1.0	2
+monitor	0.75	4
+customize	0.75	4
+
+free video
+tell	1.0	3
+beautiful	1.0	6
+sneak	1.0	2
+broadcast	1.0	2
+mix	1.0	2
+donot	1.0	21
+sport	1.0	4
+chat	1.0	2
+overlay	1.0	2
+step	1.0	2
+paste	1.0	2
+claim	0.954545454545	22
+monitor	0.833333333333	6
+record	0.763888888889	72
+stop	0.75	4
+put	0.75	40
+snap	0.75	4
+combine	0.714285714286	7
+send	0.712121212121	66
+
+best video
+tell	1.0	3
+beautiful	1.0	6
+sneak	1.0	2
+fart	1.0	2
+mix	1.0	2
+donot	1.0	21
+sport	1.0	4
+practice	1.0	2
+chat	1.0	2
+overlay	1.0	2
+step	1.0	2
+paste	1.0	2
+claim	0.954545454545	22
+monitor	0.833333333333	6
+record	0.782051282051	78
+combine	0.777777777778	9
+put	0.756097560976	41
+stop	0.75	4
+snap	0.75	4
+send	0.732394366197	71
+
+audio format
+redirect	1.0	2
+combine	1.0	17
+insert	1.0	2
+unhide	1.0	2
+apply	1.0	2
+claim	1.0	21
+give	1.0	2
+donot	1.0	21
+enter	1.0	2
+capture	0.833333333333	6
+save	0.777777777778	9
+use	0.714285714286	14
+
+interactive exercise
+compare	1.0	2
+study	1.0	3
+turn	1.0	2
+
+voice recognition
+snap	1.0	2
+app	1.0	5
+prohibit	1.0	3
+protect	1.0	2
+hide	1.0	2
+reply	1.0	4
+generate	1.0	2
+restrict	1.0	4
+transform	1.0	4
+sound	1.0	5
+communicate	1.0	2
+voice	1.0	2
+control	1.0	3
+skirt	1.0	3
+play	1.0	2
+repeat	1.0	2
+update	1.0	2
+react	1.0	2
+flutter	1.0	3
+drive	1.0	3
+record	0.901960784314	51
+compare	0.875	8
+teach	0.857142857143	7
+change	0.8125	16
+hear	0.809523809524	21
+save	0.8	5
+include	0.777777777778	9
+help	0.75	4
+text	0.75	4
+combine	0.75	4
+design	0.75	4
+need	0.75	8
+speak	0.714285714286	14
+
+best music
+lack	1.0	2
+mix	1.0	3
+accord	1.0	2
+transpose	1.0	2
+chat	1.0	94
+press	1.0	4
+chop	1.0	2
+button	0.8	5
+
+voice note
+snap	1.0	2
+app	1.0	5
+prohibit	1.0	3
+protect	1.0	2
+hide	1.0	2
+reply	1.0	4
+free	1.0	2
+generate	1.0	2
+love	1.0	2
+restrict	1.0	4
+transform	1.0	4
+sound	1.0	5
+communicate	1.0	2
+voice	1.0	2
+control	1.0	3
+skirt	1.0	3
+repeat	1.0	2
+update	1.0	2
+react	1.0	3
+flutter	1.0	3
+drive	1.0	3
+record	0.901960784314	51
+teach	0.857142857143	7
+save	0.833333333333	6
+compare	0.818181818182	11
+change	0.8125	16
+hear	0.809523809524	21
+need	0.777777777778	9
+help	0.75	4
+text	0.75	4
+combine	0.75	4
+design	0.75	4
+speak	0.714285714286	14
+give	0.714285714286	21
+allow	0.714285714286	14
+
+audio play
+redirect	1.0	2
+combine	1.0	17
+insert	1.0	2
+unhide	1.0	2
+apply	1.0	2
+claim	1.0	21
+give	1.0	2
+donot	1.0	21
+enter	1.0	2
+capture	0.833333333333	6
+save	0.777777777778	9
+send	0.733333333333	15
+
+music collection
+lack	1.0	2
+mix	1.0	3
+accord	1.0	2
+transpose	1.0	2
+chat	1.0	94
+press	1.0	4
+chop	1.0	2
+button	0.8	5
+
+hotel feature
+divide	1.0	2
+send	1.0	2
+reveal	1.0	45
+prague	1.0	8
+swipe	1.0	45
+rearch	1.0	4
+refine	1.0	44
+horomerice	1.0	2
+km	1.0	27
+map	0.977777777778	45
+list	0.947368421053	19
+click	0.9375	48
+allow	0.882352941176	51
+search	0.848214285714	112
+place	0.8	5
+need	0.774193548387	31
+compare	0.742857142857	35
+
+audio song
+redirect	1.0	2
+combine	1.0	17
+insert	1.0	2
+unhide	1.0	2
+apply	1.0	2
+claim	1.0	21
+give	1.0	2
+donot	1.0	21
+enter	1.0	2
+capture	0.833333333333	6
+send	0.8	10
+work	0.75	4
+
+easy puzzle
+unfold	1.0	6
+awesome	1.0	16
+check	1.0	8
+place	0.888888888889	18
+pass	0.883333333333	60
+slide	0.729166666667	48
+
+unique puzzle
+unfold	1.0	6
+awesome	1.0	16
+check	1.0	8
+place	0.888888888889	18
+pass	0.883333333333	60
+slide	0.729166666667	48
+
+audio
+redirect	1.0	2
+combine	1.0	17
+insert	1.0	2
+unhide	1.0	2
+apply	1.0	2
+claim	1.0	21
+give	1.0	2
+donot	1.0	21
+enter	1.0	2
+capture	0.833333333333	6
+save	0.777777777778	9
+send	0.733333333333	15
+
+voice recorder
+snap	1.0	2
+app	1.0	5
+prohibit	1.0	3
+protect	1.0	2
+hide	1.0	2
+reply	1.0	4
+generate	1.0	2
+restrict	1.0	4
+transform	1.0	4
+sound	1.0	5
+communicate	1.0	2
+voice	1.0	2
+control	1.0	3
+skirt	1.0	3
+play	1.0	2
+repeat	1.0	2
+update	1.0	2
+react	1.0	2
+flutter	1.0	3
+drive	1.0	3
+record	0.901960784314	51
+compare	0.875	8
+teach	0.857142857143	7
+change	0.8125	16
+hear	0.809523809524	21
+save	0.8	5
+include	0.777777777778	9
+help	0.75	4
+text	0.75	4
+combine	0.75	4
+design	0.75	4
+need	0.75	8
+speak	0.714285714286	14
+
+room
+go	0.714285714286	28
+
+voice command
+flash	1.0	2
+snap	1.0	2
+app	1.0	5
+prohibit	1.0	3
+protect	1.0	2
+access	1.0	2
+reply	1.0	4
+communicate	1.0	2
+generate	1.0	2
+voice	1.0	2
+restrict	1.0	4
+transform	1.0	4
+define	1.0	2
+control	1.0	2
+skirt	1.0	3
+play	1.0	3
+update	1.0	2
+react	1.0	2
+flutter	1.0	3
+remote	1.0	2
+drive	1.0	4
+record	0.918367346939	49
+teach	0.857142857143	7
+change	0.8125	16
+hear	0.809523809524	21
+save	0.8	5
+compare	0.8	5
+text	0.75	4
+include	0.75	4
+speak	0.714285714286	14
+sound	0.714285714286	7
+give	0.714285714286	21
+
+volume control
+stop	1.0	2
+pop	1.0	37
+start	1.0	2
+tap	0.926829268293	41
+
+music today
+lack	1.0	2
+mix	1.0	3
+accord	1.0	2
+transpose	1.0	2
+chat	1.0	94
+press	1.0	4
+chop	1.0	2
+button	0.8	5
+
+video highlight
+tell	1.0	3
+beautiful	1.0	6
+sneak	1.0	2
+broadcast	1.0	2
+mix	1.0	2
+donot	1.0	21
+sport	1.0	4
+step	1.0	2
+paste	1.0	2
+chat	1.0	2
+overlay	1.0	2
+claim	0.954545454545	22
+monitor	0.833333333333	6
+combine	0.833333333333	6
+put	0.769230769231	39
+record	0.763888888889	72
+stop	0.75	4
+snap	0.75	4
+send	0.712121212121	66
+come	0.708333333333	24
+
+live video
+tell	1.0	3
+beautiful	1.0	6
+sneak	1.0	2
+fart	1.0	2
+broadcast	1.0	2
+mix	1.0	2
+donot	1.0	21
+sport	1.0	4
+practice	1.0	2
+chat	1.0	2
+overlay	1.0	2
+step	1.0	2
+paste	1.0	2
+claim	0.954545454545	22
+monitor	0.833333333333	6
+record	0.776315789474	76
+put	0.756097560976	41
+stop	0.75	4
+combine	0.75	8
+snap	0.75	4
+send	0.728571428571	70
+
+smart connect
+fire	1.0	16
+
+small business
+operate	1.0	2
+monitor	0.75	4
+customize	0.75	4
+
+volume setting
+stop	1.0	2
+pop	1.0	37
+start	1.0	2
+tap	0.926829268293	41
+
+world record
+note	1.0	5
+activate	1.0	2
+snap	1.0	2
+press	1.0	3
+require	1.0	3
+avoid	1.0	2
+resume	1.0	2
+organize	1.0	2
+determine	1.0	10
+open	1.0	3
+speak	1.0	2
+transfer	1.0	2
+support	1.0	6
+trigger	1.0	3
+control	1.0	5
+play	1.0	12
+disable	1.0	7
+listen	0.857142857143	7
+try	0.833333333333	6
+use	0.833333333333	6
+share	0.833333333333	12
+call	0.814814814815	27
+stop	0.8	15
+record	0.8	5
+need	0.8	5
+start	0.775	40
+send	0.75	8
+continue	0.75	4
+
+painting
+color	0.727272727273	22
+
+great video
+tell	1.0	3
+beautiful	1.0	6
+sneak	1.0	2
+broadcast	1.0	2
+mix	1.0	2
+donot	1.0	21
+sport	1.0	4
+practice	1.0	2
+chat	1.0	2
+overlay	1.0	2
+step	1.0	2
+paste	1.0	2
+claim	0.954545454545	22
+monitor	0.833333333333	6
+record	0.767123287671	73
+stop	0.75	4
+put	0.75	40
+snap	0.75	4
+send	0.728571428571	70
+combine	0.714285714286	7
+
+extra life
+upgrade	1.0	2
+support	1.0	2
+talk	1.0	2
+

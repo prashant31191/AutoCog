@@ -1,0 +1,2043 @@
+ringtones
+bring	1.0	7
+touch	1.0	11
+spamman	1.0	20
+add	1.0	8
+hit	1.0	28
+jazz	1.0	5
+press	1.0	17
+clink	1.0	8
+contain	1.0	5
+click	1.0	4
+associate	1.0	57
+change	1.0	24
+convert	1.0	4
+turn	1.0	9
+assign	1.0	117
+ring	1.0	3
+support	1.0	68
+iphone	1.0	4
+offer	1.0	42
+search	1.0	3
+hold	1.0	102
+look	1.0	7
+say	1.0	8
+delete	1.0	80
+tap	1.0	13
+rat	1.0	71
+worry	1.0	4
+feature	1.0	33
+data	1.0	5
+re-assign	1.0	7
+uninstall	1.0	9
+allow	0.965517241379	87
+choose	0.962962962963	27
+android	0.962962962963	27
+need	0.961538461538	26
+set	0.955516014235	562
+create	0.952380952381	42
+personalize	0.941176470588	17
+make	0.941176470588	34
+include	0.936842105263	95
+use	0.92	25
+listen	0.9	30
+record	0.888888888889	9
+love	0.875	16
+hear	0.875	16
+ringtones	0.857142857143	7
+sound	0.857142857143	35
+find	0.846153846154	39
+play	0.846153846154	26
+download	0.833333333333	24
+save	0.821917808219	73
+
+bright
+switch	1.0	3
+screen	1.0	3
+permissions	1.0	8
+turn	0.857142857143	14
+
+photo message
+sound	1.0	3
+install	0.818181818182	11
+delete	0.80412371134	97
+
+volume button
+toggle	0.9	10
+record	0.857142857143	7
+hold	0.805555555556	72
+
+text message
+sound	1.0	3
+install	0.818181818182	11
+delete	0.80412371134	97
+
+weather alert
+support	0.971428571429	35
+
+critical alert
+support	0.972222222222	36
+
+facebook message
+sound	1.0	3
+install	0.818181818182	11
+
+clock application
+dismiss	1.0	3
+snooze	1.0	3
+
+notification ringtones
+ringtones	1.0	7
+override	1.0	9
+hit	1.0	28
+convert	1.0	4
+clink	1.0	8
+associate	1.0	26
+search	1.0	3
+iphone	1.0	4
+say	1.0	5
+rat	1.0	43
+spamman	1.0	20
+worry	1.0	4
+re-assign	1.0	7
+assign	1.0	79
+uninstall	1.0	9
+hold	0.983606557377	61
+delete	0.975308641975	81
+android	0.964285714286	28
+feature	0.947368421053	38
+press	0.944444444444	18
+personalize	0.923076923077	26
+touch	0.916666666667	12
+set	0.901172529313	597
+listen	0.896551724138	29
+record	0.888888888889	9
+tap	0.875	16
+hear	0.875	16
+love	0.866666666667	15
+change	0.857142857143	28
+create	0.85	60
+sound	0.825	40
+save	0.804597701149	87
+
+battery booster
+forget	1.0	3
+smart	1.0	3
+adjust	1.0	7
+calibrate	1.0	3
+remain	1.0	3
+note	1.0	3
+switch	1.0	4
+pay	1.0	3
+wow	1.0	5
+extend	0.886363636364	44
+design	0.875	16
+tell	0.857142857143	7
+
+great quality
+inclued	1.0	4
+ad	1.0	4
+reduce	0.833333333333	12
+include	0.810810810811	37
+
+uniqueness
+choose	1.0	3
+
+free song
+slumber	1.0	3
+put	1.0	3
+bedtime	1.0	3
+app	0.866666666667	15
+set	0.851851851852	27
+
+real-time alert
+support	0.972222222222	36
+
+handcent message
+rat	1.0	36
+install	0.818181818182	11
+
+notification bar
+lock	1.0	3
+rat	1.0	43
+assign	1.0	7
+switch	1.0	3
+personalize	0.888888888889	9
+wish	0.818181818182	11
+
+alarm volume
+recommend	1.0	3
+affect	1.0	7
+hold	1.0	10
+support	0.971428571429	35
+dismiss	0.875	8
+delete	0.875	8
+create	0.869565217391	23
+
+secure message
+sound	1.0	3
+install	0.818181818182	11
+delete	0.80412371134	97
+
+contact page
+hold	1.0	9
+re-assign	1.0	7
+personalize	1.0	8
+ringtone	0.981132075472	53
+set	0.869230769231	130
+assign	0.814285714286	70
+
+music ringtones
+iphone	1.0	4
+hold	1.0	58
+clink	1.0	8
+assign	1.0	72
+re-assign	1.0	7
+uninstall	1.0	9
+associate	1.0	26
+say	1.0	6
+jazz	1.0	4
+tone	1.0	3
+arabic	1.0	4
+worry	1.0	5
+spamman	1.0	20
+inclued	1.0	4
+delete	1.0	79
+ringtones	0.975609756098	41
+rat	0.965517241379	29
+personalize	0.941176470588	17
+set	0.928730512249	449
+touch	0.916666666667	12
+android	0.892857142857	28
+change	0.888888888889	27
+call	0.875	8
+hit	0.875	32
+record	0.862068965517	29
+sound	0.857142857143	35
+playback	0.833333333333	6
+feature	0.813953488372	43
+tap	0.8125	16
+support	0.808510638298	47
+
+music collection
+call	1.0	3
+ringtones	1.0	34
+tone	1.0	3
+arabic	1.0	4
+inclued	1.0	4
+record	0.85	20
+playback	0.833333333333	6
+
+theme song
+slumber	1.0	3
+put	1.0	3
+bedtime	1.0	3
+set	0.913043478261	23
+app	0.866666666667	15
+
+different ringtones
+bring	1.0	7
+touch	1.0	11
+spamman	1.0	20
+add	1.0	8
+hit	1.0	28
+jazz	1.0	5
+press	1.0	17
+clink	1.0	8
+contain	1.0	5
+click	1.0	4
+associate	1.0	57
+change	1.0	24
+convert	1.0	4
+turn	1.0	9
+assign	1.0	117
+ring	1.0	3
+support	1.0	68
+iphone	1.0	4
+offer	1.0	42
+search	1.0	3
+hold	1.0	102
+look	1.0	7
+say	1.0	8
+delete	1.0	80
+tap	1.0	13
+rat	1.0	71
+worry	1.0	4
+feature	1.0	33
+data	1.0	5
+re-assign	1.0	7
+uninstall	1.0	9
+allow	0.965517241379	87
+choose	0.962962962963	27
+android	0.962962962963	27
+need	0.961538461538	26
+set	0.955516014235	562
+create	0.952380952381	42
+personalize	0.941176470588	17
+make	0.941176470588	34
+include	0.936842105263	95
+use	0.92	25
+listen	0.9	30
+record	0.888888888889	9
+love	0.875	16
+hear	0.875	16
+ringtones	0.857142857143	7
+sound	0.857142857143	35
+find	0.846153846154	39
+play	0.846153846154	26
+download	0.833333333333	24
+save	0.821917808219	73
+
+hd quality
+inclued	1.0	4
+ad	1.0	4
+reduce	0.833333333333	12
+include	0.810810810811	37
+
+message text
+sound	1.0	3
+install	0.818181818182	11
+delete	0.80412371134	97
+
+contact detail
+re-assign	1.0	7
+personalize	1.0	8
+ringtone	0.981132075472	53
+hold	0.9	10
+set	0.832116788321	137
+assign	0.814285714286	70
+
+contact ringtone
+iphone	1.0	4
+hold	1.0	103
+clink	1.0	8
+data	1.0	6
+re-assign	1.0	14
+uninstall	1.0	9
+say	1.0	5
+ringtones	1.0	7
+hit	1.0	28
+jazz	1.0	3
+rat	1.0	71
+touch	1.0	11
+spamman	1.0	20
+avoid	1.0	3
+ringtone	0.964912280702	57
+android	0.962962962963	27
+assign	0.945355191257	183
+support	0.944444444444	72
+personalize	0.941176470588	17
+set	0.936666666667	600
+change	0.935483870968	31
+offer	0.933333333333	45
+delete	0.907216494845	97
+turn	0.9	10
+sound	0.882352941176	34
+listen	0.875	32
+associate	0.870967741935	31
+worry	0.833333333333	6
+include	0.803418803419	117
+
+unique
+choose	1.0	3
+
+ringtone file
+pick	1.0	3
+visit	1.0	3
+preview	1.0	8
+
+unique feature
+choose	1.0	3
+
+funny image
+set	1.0	4
+love	1.0	6
+
+type notification
+override	1.0	9
+rat	1.0	43
+assign	1.0	7
+personalize	0.888888888889	9
+wish	0.818181818182	11
+
+holiday uniquely
+choose	1.0	3
+
+message mms
+rat	1.0	36
+install	0.818181818182	11
+
+battery drain
+smart	1.0	3
+adjust	1.0	7
+calibrate	1.0	3
+forget	1.0	3
+remain	1.0	3
+note	1.0	3
+switch	1.0	5
+pay	1.0	3
+wow	1.0	5
+extend	0.891304347826	46
+design	0.875	16
+tell	0.857142857143	7
+find	0.833333333333	6
+
+original sound
+customizable	1.0	41
+refer	1.0	41
+personalize	1.0	8
+miss	1.0	3
+moan	1.0	6
+wav	1.0	3
+scream	1.0	3
+delete	1.0	79
+rat	1.0	44
+allow	0.914285714286	70
+set	0.900584795322	171
+hold	0.894736842105	19
+use	0.879310344828	58
+affect	0.857142857143	7
+let	0.857142857143	7
+pick	0.857142857143	7
+
+brightness
+switch	1.0	3
+screen	1.0	3
+permissions	1.0	8
+turn	0.857142857143	14
+
+nature sound
+customizable	1.0	41
+refer	1.0	41
+personalize	1.0	7
+miss	1.0	3
+moan	1.0	6
+wav	1.0	3
+scream	1.0	3
+use	0.879310344828	58
+affect	0.857142857143	7
+let	0.857142857143	7
+pick	0.857142857143	7
+set	0.820512820513	78
+hold	0.818181818182	11
+
+battery saver
+smart	1.0	3
+adjust	1.0	7
+calibrate	1.0	3
+forget	1.0	3
+remain	1.0	3
+note	1.0	3
+switch	1.0	5
+pay	1.0	3
+wow	1.0	5
+extend	0.891304347826	46
+design	0.875	16
+tell	0.857142857143	7
+find	0.833333333333	6
+
+free mp
+cut	1.0	3
+
+unique way
+choose	1.0	3
+
+animal sound
+customizable	1.0	41
+miss	1.0	3
+moan	1.0	6
+integrate	1.0	5
+personalize	1.0	7
+wav	1.0	3
+refer	0.97619047619	42
+pick	0.857142857143	7
+let	0.833333333333	6
+use	0.822580645161	62
+hold	0.818181818182	11
+set	0.807692307692	78
+
+fun puzzle
+pass	0.883333333333	60
+
+go contact
+data	1.0	6
+re-assign	1.0	7
+rat	1.0	43
+personalize	1.0	8
+hold	0.981481481481	54
+ringtone	0.981132075472	53
+offer	0.891304347826	46
+set	0.887804878049	205
+assign	0.886956521739	115
+support	0.871794871795	39
+
+volume control
+reduce	0.875	8
+
+notification alert
+support	0.972222222222	36
+
+new sound
+customizable	1.0	41
+refer	1.0	41
+personalize	1.0	8
+miss	1.0	3
+moan	1.0	6
+wav	1.0	3
+scream	1.0	3
+delete	1.0	79
+rat	1.0	44
+allow	0.914285714286	70
+set	0.900584795322	171
+hold	0.894736842105	19
+use	0.879310344828	58
+affect	0.857142857143	7
+let	0.857142857143	7
+pick	0.857142857143	7
+
+notification area
+override	1.0	9
+jazz	1.0	3
+rat	1.0	86
+assign	1.0	7
+delete	0.975	80
+hold	0.909090909091	11
+personalize	0.9	10
+set	0.845238095238	252
+
+send message
+sound	1.0	3
+install	0.818181818182	11
+delete	0.80412371134	97
+
+contact list
+re-assign	1.0	7
+personalize	1.0	8
+ringtone	0.981132075472	53
+hold	0.9	10
+set	0.832116788321	137
+assign	0.814285714286	70
+
+news alert
+support	0.972222222222	36
+
+contact form
+data	1.0	6
+re-assign	1.0	7
+rat	1.0	43
+personalize	1.0	8
+hold	0.981481481481	54
+ringtone	0.981132075472	53
+offer	0.891304347826	46
+set	0.887804878049	205
+assign	0.886956521739	115
+support	0.871794871795	39
+
+ringtones notification
+ringtones	1.0	7
+override	1.0	9
+hit	1.0	28
+convert	1.0	4
+clink	1.0	8
+associate	1.0	26
+search	1.0	3
+iphone	1.0	4
+say	1.0	5
+rat	1.0	43
+spamman	1.0	20
+worry	1.0	4
+re-assign	1.0	7
+assign	1.0	79
+uninstall	1.0	9
+hold	0.983606557377	61
+delete	0.975308641975	81
+android	0.964285714286	28
+feature	0.947368421053	38
+press	0.944444444444	18
+personalize	0.923076923077	26
+touch	0.916666666667	12
+set	0.901172529313	597
+listen	0.896551724138	29
+record	0.888888888889	9
+tap	0.875	16
+hear	0.875	16
+love	0.866666666667	15
+change	0.857142857143	28
+create	0.85	60
+sound	0.825	40
+save	0.804597701149	87
+
+best quality
+inclued	1.0	4
+ad	1.0	4
+reduce	0.833333333333	12
+include	0.810810810811	37
+
+natural sound
+customizable	1.0	41
+refer	1.0	41
+personalize	1.0	7
+miss	1.0	3
+moan	1.0	6
+wav	1.0	3
+scream	1.0	3
+use	0.879310344828	58
+affect	0.857142857143	7
+let	0.857142857143	7
+pick	0.857142857143	7
+set	0.820512820513	78
+hold	0.818181818182	11
+
+mp video
+cut	1.0	3
+
+high-quality photo
+inclued	1.0	4
+ad	1.0	4
+include	0.833333333333	36
+reduce	0.833333333333	12
+
+great music
+call	1.0	3
+ringtones	1.0	34
+tone	1.0	3
+arabic	1.0	4
+inclued	1.0	4
+playback	0.833333333333	6
+record	0.809523809524	21
+
+new music
+call	1.0	3
+tone	1.0	3
+arabic	1.0	4
+inclued	1.0	4
+ringtones	0.971428571429	35
+playback	0.833333333333	6
+record	0.809523809524	21
+
+funny quote
+set	1.0	4
+love	1.0	6
+
+read contact
+re-assign	1.0	7
+ringtone	0.981132075472	53
+set	0.865384615385	104
+assign	0.823529411765	68
+
+funny time
+set	1.0	4
+love	0.857142857143	7
+
+popular song
+slumber	1.0	3
+put	1.0	3
+bedtime	1.0	3
+app	0.866666666667	15
+set	0.851851851852	27
+
+particular clip
+set	1.0	26
+start	1.0	16
+end	1.0	16
+think	0.9	10
+
+analog clock
+dismiss	1.0	3
+snooze	1.0	3
+
+clock
+slide	1.0	3
+dismiss	1.0	3
+snooze	1.0	3
+
+sound effect
+customizable	1.0	41
+refer	1.0	41
+personalize	1.0	7
+miss	1.0	3
+moan	1.0	6
+wav	1.0	3
+scream	1.0	3
+use	0.879310344828	58
+affect	0.857142857143	7
+let	0.857142857143	7
+pick	0.857142857143	7
+set	0.820512820513	78
+hold	0.818181818182	11
+
+notification
+override	1.0	9
+jazz	1.0	3
+rat	1.0	86
+assign	1.0	7
+delete	0.975	80
+hold	0.909090909091	11
+personalize	0.9	10
+set	0.83203125	256
+
+alarm clock
+dismiss	1.0	3
+snooze	1.0	3
+
+unlimited access
+feel	1.0	20
+enjoy	0.909090909091	22
+
+bangla song
+slumber	1.0	3
+put	1.0	3
+bedtime	1.0	3
+app	0.928571428571	14
+set	0.909090909091	22
+
+popular ringtones
+bring	1.0	7
+touch	1.0	11
+spamman	1.0	20
+add	1.0	8
+hit	1.0	28
+jazz	1.0	5
+press	1.0	15
+clink	1.0	8
+contain	1.0	5
+click	1.0	4
+associate	1.0	57
+change	1.0	24
+convert	1.0	4
+turn	1.0	9
+assign	1.0	117
+ring	1.0	3
+support	1.0	68
+iphone	1.0	4
+offer	1.0	42
+search	1.0	3
+hold	1.0	102
+look	1.0	7
+say	1.0	8
+delete	1.0	80
+tap	1.0	13
+rat	1.0	71
+worry	1.0	4
+feature	1.0	33
+data	1.0	5
+re-assign	1.0	7
+uninstall	1.0	9
+allow	0.96511627907	86
+choose	0.962962962963	27
+android	0.962962962963	27
+need	0.961538461538	26
+include	0.956989247312	93
+set	0.952475247525	505
+create	0.952380952381	42
+personalize	0.941176470588	17
+make	0.941176470588	34
+use	0.92	25
+listen	0.9	30
+record	0.888888888889	9
+sound	0.882352941176	34
+love	0.875	16
+hear	0.875	16
+ringtones	0.857142857143	7
+find	0.846153846154	39
+play	0.846153846154	26
+download	0.833333333333	24
+save	0.824561403509	57
+
+unlimited level
+feel	1.0	20
+enjoy	0.909090909091	22
+
+ringtone notification
+ringtones	1.0	7
+override	1.0	9
+hit	1.0	28
+convert	1.0	4
+clink	1.0	8
+associate	1.0	26
+search	1.0	3
+iphone	1.0	4
+say	1.0	5
+rat	1.0	43
+spamman	1.0	20
+worry	1.0	4
+re-assign	1.0	7
+assign	1.0	79
+uninstall	1.0	9
+hold	0.983606557377	61
+delete	0.975308641975	81
+android	0.964285714286	28
+feature	0.947368421053	38
+press	0.944444444444	18
+personalize	0.923076923077	26
+touch	0.916666666667	12
+set	0.901172529313	597
+listen	0.896551724138	29
+record	0.888888888889	9
+tap	0.875	16
+hear	0.875	16
+love	0.866666666667	15
+change	0.857142857143	28
+create	0.85	60
+sound	0.825	40
+save	0.804597701149	87
+
+love song
+slumber	1.0	3
+put	1.0	3
+bedtime	1.0	3
+set	0.884615384615	26
+app	0.866666666667	15
+
+message ringtone
+sound	1.0	3
+install	0.818181818182	11
+delete	0.80412371134	97
+
+voice recording
+activate	1.0	3
+require	1.0	4
+
+funny sound
+set	1.0	4
+love	1.0	6
+
+unlimited undo
+feel	1.0	20
+enjoy	0.909090909091	22
+
+world clock
+slide	1.0	3
+dismiss	1.0	3
+snooze	1.0	3
+
+message tone
+lock	1.0	3
+rat	1.0	36
+
+best song
+slumber	1.0	3
+put	1.0	3
+bedtime	1.0	3
+app	0.866666666667	15
+set	0.851851851852	27
+
+emergency contact
+re-assign	1.0	7
+ringtone	0.981132075472	53
+set	0.865384615385	104
+assign	0.823529411765	68
+
+high quality
+inclued	1.0	4
+ad	1.0	4
+reduce	0.833333333333	12
+include	0.810810810811	37
+
+personal message
+rat	1.0	36
+install	0.818181818182	11
+
+new message
+rat	1.0	36
+install	0.818181818182	11
+
+read message
+sound	1.0	3
+install	0.818181818182	11
+
+daily notification
+assign	1.0	7
+rat	1.0	43
+personalize	0.888888888889	9
+wish	0.818181818182	11
+
+favorite song
+slumber	1.0	3
+bedtime	1.0	3
+app	0.866666666667	15
+
+funny moment
+set	1.0	4
+love	1.0	6
+
+unique style
+choose	1.0	3
+
+single day
+update	1.0	102
+
+vdo clip
+set	1.0	26
+start	1.0	16
+end	1.0	16
+think	0.9	10
+
+unlimited amount
+feel	1.0	20
+enjoy	0.909090909091	22
+
+high-quality image
+feature	1.0	3
+inclued	1.0	4
+include	1.0	30
+
+important message
+rat	1.0	36
+install	0.818181818182	11
+
+mp search
+cut	1.0	3
+
+music volume
+reduce	0.875	8
+
+quality service
+inclued	1.0	4
+ad	1.0	4
+include	0.833333333333	36
+reduce	0.833333333333	12
+
+notification setting
+override	1.0	9
+jazz	1.0	3
+rat	1.0	86
+assign	1.0	7
+delete	0.975	80
+hold	0.909090909091	11
+personalize	0.9	10
+set	0.845238095238	252
+
+messaging
+rat	1.0	36
+install	0.818181818182	11
+
+voice call
+activate	1.0	4
+
+sound play
+customizable	1.0	41
+refer	1.0	41
+personalize	1.0	8
+miss	1.0	3
+moan	1.0	6
+wav	1.0	3
+scream	1.0	3
+delete	1.0	79
+rat	1.0	44
+allow	0.914285714286	70
+set	0.900584795322	171
+hold	0.894736842105	19
+use	0.879310344828	58
+affect	0.857142857143	7
+let	0.857142857143	7
+pick	0.857142857143	7
+
+message call
+rat	1.0	36
+install	0.818181818182	11
+
+funny photo
+set	1.0	4
+love	1.0	6
+
+push message
+sound	1.0	3
+install	0.818181818182	11
+delete	0.80412371134	97
+
+contact name
+data	1.0	6
+re-assign	1.0	7
+rat	1.0	43
+personalize	1.0	8
+hold	0.981481481481	54
+ringtone	0.981132075472	53
+offer	0.891304347826	46
+set	0.887804878049	205
+assign	0.886956521739	115
+support	0.871794871795	39
+
+unique set
+choose	1.0	3
+
+good quality
+inclued	1.0	4
+ad	1.0	4
+reduce	0.833333333333	12
+include	0.810810810811	37
+
+unread message
+sound	1.0	3
+install	0.818181818182	11
+
+attractive single
+update	1.0	102
+
+popular ringtone
+bring	1.0	7
+touch	1.0	11
+spamman	1.0	20
+add	1.0	8
+hit	1.0	28
+jazz	1.0	5
+press	1.0	15
+clink	1.0	8
+contain	1.0	5
+click	1.0	4
+associate	1.0	57
+change	1.0	24
+convert	1.0	4
+turn	1.0	9
+assign	1.0	117
+ring	1.0	3
+support	1.0	68
+iphone	1.0	4
+offer	1.0	42
+search	1.0	3
+hold	1.0	102
+look	1.0	7
+say	1.0	8
+delete	1.0	80
+tap	1.0	13
+rat	1.0	71
+worry	1.0	4
+feature	1.0	33
+data	1.0	5
+re-assign	1.0	7
+uninstall	1.0	9
+allow	0.96511627907	86
+choose	0.962962962963	27
+android	0.962962962963	27
+need	0.961538461538	26
+include	0.956989247312	93
+set	0.952475247525	505
+create	0.952380952381	42
+personalize	0.941176470588	17
+make	0.941176470588	34
+use	0.92	25
+listen	0.9	30
+record	0.888888888889	9
+sound	0.882352941176	34
+love	0.875	16
+hear	0.875	16
+ringtones	0.857142857143	7
+find	0.846153846154	39
+play	0.846153846154	26
+download	0.833333333333	24
+save	0.824561403509	57
+
+song lyric
+slumber	1.0	3
+put	1.0	3
+bedtime	1.0	3
+set	0.913043478261	23
+app	0.866666666667	15
+
+button logo
+toggle	0.9	10
+record	0.857142857143	7
+hold	0.805555555556	72
+
+quality
+inclued	1.0	4
+ad	1.0	4
+reduce	0.833333333333	12
+include	0.810810810811	37
+
+mp song
+cut	1.0	3
+
+mp format
+cut	1.0	3
+
+alarm setting
+find	1.0	3
+affect	1.0	7
+contain	1.0	3
+personalize	1.0	9
+assign	1.0	46
+support	1.0	36
+start	1.0	6
+call	1.0	4
+hold	1.0	51
+install	1.0	9
+rat	1.0	43
+ringtone	1.0	5
+create	0.909090909091	22
+include	0.897959183673	49
+delete	0.875	8
+dismiss	0.875	8
+feature	0.833333333333	6
+
+song title
+slumber	1.0	3
+put	1.0	3
+bedtime	1.0	3
+app	0.866666666667	15
+set	0.851851851852	27
+
+free message
+sound	1.0	3
+install	0.818181818182	11
+
+notification advertisement
+override	1.0	9
+jazz	1.0	3
+rat	1.0	86
+assign	1.0	7
+delete	0.975	80
+hold	0.909090909091	11
+personalize	0.9	10
+set	0.83203125	256
+
+local single
+update	1.0	102
+
+mp file
+select	1.0	3
+
+guitar keyboard
+hip	1.0	31
+
+volume level
+reduce	0.875	8
+
+love message
+sound	1.0	3
+install	0.818181818182	11
+delete	0.80412371134	97
+
+whatsapp message
+rat	1.0	36
+install	0.818181818182	11
+
+music
+call	1.0	3
+tone	1.0	3
+arabic	1.0	4
+inclued	1.0	4
+ringtones	0.971428571429	35
+playback	0.833333333333	6
+record	0.809523809524	21
+
+previous song
+slumber	1.0	3
+put	1.0	3
+bedtime	1.0	3
+app	0.866666666667	15
+set	0.851851851852	27
+
+unique look
+choose	1.0	3
+
+boost button
+toggle	0.9	10
+configure	0.888888888889	9
+record	0.857142857143	7
+hold	0.805555555556	72
+
+iphone rington
+bring	1.0	7
+touch	1.0	11
+spamman	1.0	20
+add	1.0	8
+hit	1.0	28
+jazz	1.0	5
+press	1.0	17
+clink	1.0	8
+contain	1.0	5
+click	1.0	4
+associate	1.0	57
+change	1.0	24
+convert	1.0	4
+turn	1.0	9
+assign	1.0	117
+ring	1.0	3
+support	1.0	68
+iphone	1.0	4
+offer	1.0	42
+search	1.0	3
+hold	1.0	102
+look	1.0	7
+say	1.0	8
+delete	1.0	80
+tap	1.0	13
+rat	1.0	71
+worry	1.0	4
+feature	1.0	33
+data	1.0	5
+re-assign	1.0	7
+uninstall	1.0	9
+allow	0.965517241379	87
+choose	0.962962962963	27
+android	0.962962962963	27
+need	0.961538461538	26
+set	0.955516014235	562
+create	0.952380952381	42
+personalize	0.941176470588	17
+make	0.941176470588	34
+include	0.936842105263	95
+use	0.92	25
+listen	0.9	30
+record	0.888888888889	9
+love	0.875	16
+hear	0.875	16
+ringtones	0.857142857143	7
+sound	0.857142857143	35
+find	0.846153846154	39
+play	0.846153846154	26
+download	0.833333333333	24
+save	0.821917808219	73
+
+push notification
+override	1.0	9
+rat	1.0	43
+assign	1.0	7
+personalize	0.888888888889	9
+
+alert notification
+support	0.972222222222	36
+
+quality time
+inclued	1.0	4
+ad	1.0	4
+reduce	0.833333333333	12
+include	0.810810810811	37
+
+limit notification
+override	1.0	9
+rat	1.0	43
+assign	1.0	7
+personalize	0.888888888889	9
+wish	0.818181818182	11
+
+clock image
+slide	1.0	3
+dismiss	1.0	3
+snooze	1.0	3
+
+background music
+call	1.0	3
+ringtones	1.0	34
+tone	1.0	3
+arabic	1.0	4
+inclued	1.0	4
+playback	0.833333333333	6
+record	0.809523809524	21
+
+advertisement notification
+override	1.0	9
+jazz	1.0	3
+rat	1.0	86
+assign	1.0	7
+delete	0.975	80
+hold	0.909090909091	11
+personalize	0.9	10
+set	0.83203125	256
+
+classical music
+call	1.0	3
+ringtones	1.0	34
+tone	1.0	3
+arabic	1.0	4
+inclued	1.0	4
+record	0.85	20
+playback	0.833333333333	6
+
+specific contact
+hold	1.0	9
+re-assign	1.0	7
+personalize	1.0	8
+ringtone	0.981132075472	53
+set	0.869230769231	130
+assign	0.814285714286	70
+
+free music
+call	1.0	3
+ringtones	1.0	34
+tone	1.0	3
+arabic	1.0	4
+inclued	1.0	4
+record	0.85	20
+playback	0.833333333333	6
+
+song list
+slumber	1.0	3
+put	1.0	3
+bedtime	1.0	3
+app	0.866666666667	15
+set	0.851851851852	27
+
+message
+rat	1.0	36
+install	0.818181818182	11
+
+sound
+customizable	1.0	41
+refer	1.0	41
+personalize	1.0	8
+miss	1.0	3
+moan	1.0	6
+wav	1.0	3
+scream	1.0	3
+delete	1.0	79
+rat	1.0	44
+allow	0.914285714286	70
+set	0.900584795322	171
+hold	0.894736842105	19
+use	0.879310344828	58
+affect	0.857142857143	7
+let	0.857142857143	7
+pick	0.857142857143	7
+
+call message
+rat	1.0	36
+install	0.818181818182	11
+
+mp download
+ringtones	1.0	12
+
+contact developer
+re-assign	1.0	7
+personalize	1.0	8
+ringtone	0.981132075472	53
+hold	0.9	10
+set	0.832116788321	137
+assign	0.814285714286	70
+
+high-quality
+inclued	1.0	4
+ad	1.0	4
+reduce	0.833333333333	12
+include	0.810810810811	37
+
+private message
+sound	1.0	3
+install	0.818181818182	11
+delete	0.80412371134	97
+
+receive notification
+override	1.0	9
+jazz	1.0	3
+rat	1.0	86
+assign	1.0	7
+delete	0.975	80
+hold	0.909090909091	11
+personalize	0.9	10
+set	0.845238095238	252
+
+free ringtones
+ringtones	1.0	6
+bring	1.0	7
+touch	1.0	11
+spamman	1.0	20
+add	1.0	8
+hit	1.0	28
+press	1.0	14
+clink	1.0	8
+contain	1.0	5
+click	1.0	4
+associate	1.0	57
+change	1.0	24
+convert	1.0	4
+turn	1.0	9
+assign	1.0	72
+ring	1.0	3
+support	1.0	34
+iphone	1.0	4
+search	1.0	3
+hold	1.0	58
+look	1.0	7
+say	1.0	7
+delete	1.0	80
+tap	1.0	13
+rat	1.0	29
+worry	1.0	4
+feature	1.0	33
+android	1.0	26
+re-assign	1.0	7
+uninstall	1.0	9
+allow	0.964705882353	85
+choose	0.961538461538	26
+create	0.952380952381	42
+set	0.945080091533	437
+need	0.944444444444	18
+personalize	0.941176470588	17
+make	0.941176470588	34
+include	0.9375	48
+use	0.916666666667	24
+listen	0.9	30
+record	0.888888888889	9
+sound	0.878787878788	33
+love	0.875	16
+hear	0.875	16
+find	0.846153846154	39
+play	0.846153846154	26
+download	0.833333333333	24
+save	0.821428571429	56
+
+late song
+slumber	1.0	3
+put	1.0	3
+bedtime	1.0	3
+app	0.866666666667	15
+set	0.851851851852	27
+
+sound file
+pick	1.0	3
+visit	1.0	3
+preview	1.0	8
+
+mp
+cut	1.0	3
+
+new song
+slumber	1.0	3
+put	1.0	3
+bedtime	1.0	3
+app	0.866666666667	15
+set	0.851851851852	27
+
+voice
+activate	1.0	4
+
+unlimited imagination
+feel	1.0	20
+enjoy	0.909090909091	22
+
+shutter button
+toggle	0.9	10
+record	0.857142857143	7
+
+clip
+set	1.0	26
+start	1.0	16
+end	1.0	16
+think	0.9	10
+
+lock
+provide	1.0	3
+
+funny ringtones
+set	1.0	4
+love	1.0	6
+
+alarm
+find	1.0	3
+affect	1.0	7
+contain	1.0	3
+personalize	1.0	9
+assign	1.0	46
+support	1.0	36
+start	1.0	6
+call	1.0	4
+hold	1.0	51
+install	1.0	9
+rat	1.0	43
+ringtone	1.0	5
+create	0.909090909091	22
+include	0.897959183673	49
+delete	0.875	8
+dismiss	0.875	8
+feature	0.833333333333	6
+
+unique combination
+choose	1.0	3
+
+file
+visit	1.0	3
+end	1.0	8
+preview	0.888888888889	9
+start	0.818181818182	11
+
+sfx volume
+reduce	0.875	8
+
+apk file
+visit	1.0	3
+end	1.0	8
+preview	0.888888888889	9
+start	0.818181818182	11
+
+funny
+set	1.0	4
+love	0.857142857143	7
+
+old song
+slumber	1.0	3
+put	1.0	3
+bedtime	1.0	3
+app	0.866666666667	15
+set	0.851851851852	27
+
+voice note
+activate	1.0	4
+
+notification sound
+miss	1.0	3
+moan	1.0	6
+override	1.0	9
+jazz	1.0	3
+rat	1.0	87
+refer	1.0	41
+wav	1.0	3
+trim	1.0	3
+delete	0.975308641975	81
+customizable	0.953488372093	43
+personalize	0.941176470588	17
+assign	0.916666666667	12
+hold	0.863636363636	22
+pick	0.857142857143	7
+wish	0.818181818182	11
+set	0.811808118081	271
+
+beautiful music
+call	1.0	3
+ringtones	1.0	34
+tone	1.0	3
+arabic	1.0	4
+inclued	1.0	4
+record	0.85	20
+playback	0.833333333333	6
+
+refresh button
+toggle	0.9	10
+configure	0.888888888889	9
+record	0.857142857143	7
+hold	0.805555555556	72
+
+next alarm
+find	1.0	3
+affect	1.0	7
+contain	1.0	3
+personalize	1.0	9
+assign	1.0	46
+support	1.0	36
+start	1.0	6
+call	1.0	4
+hold	1.0	51
+install	1.0	9
+rat	1.0	43
+ringtone	1.0	5
+create	0.909090909091	22
+include	0.897959183673	49
+delete	0.875	8
+dismiss	0.875	8
+feature	0.833333333333	6
+
+battery widget
+forget	1.0	3
+smart	1.0	3
+adjust	1.0	7
+calibrate	1.0	3
+remain	1.0	3
+note	1.0	3
+switch	1.0	4
+pay	1.0	3
+wow	1.0	5
+extend	0.886363636364	44
+tell	0.857142857143	7
+design	0.823529411765	17
+
+download mp
+ringtones	1.0	12
+
+ringtone
+bring	1.0	7
+touch	1.0	11
+spamman	1.0	20
+add	1.0	8
+hit	1.0	28
+jazz	1.0	5
+press	1.0	17
+clink	1.0	8
+contain	1.0	5
+click	1.0	4
+associate	1.0	57
+change	1.0	24
+convert	1.0	4
+turn	1.0	9
+assign	1.0	117
+ring	1.0	3
+support	1.0	68
+iphone	1.0	4
+offer	1.0	42
+search	1.0	3
+hold	1.0	102
+look	1.0	7
+say	1.0	8
+delete	1.0	80
+tap	1.0	13
+rat	1.0	71
+worry	1.0	4
+feature	1.0	33
+data	1.0	5
+re-assign	1.0	7
+uninstall	1.0	9
+allow	0.965517241379	87
+choose	0.962962962963	27
+android	0.962962962963	27
+need	0.961538461538	26
+set	0.955516014235	562
+create	0.952380952381	42
+personalize	0.941176470588	17
+make	0.941176470588	34
+include	0.936842105263	95
+use	0.92	25
+listen	0.9	30
+record	0.888888888889	9
+love	0.875	16
+hear	0.875	16
+ringtones	0.857142857143	7
+sound	0.857142857143	35
+find	0.846153846154	39
+play	0.846153846154	26
+download	0.833333333333	24
+save	0.821917808219	73
+
+new contact
+data	1.0	6
+re-assign	1.0	7
+rat	1.0	43
+personalize	1.0	8
+hold	0.981481481481	54
+ringtone	0.981132075472	53
+offer	0.891304347826	46
+set	0.887804878049	205
+assign	0.886956521739	115
+support	0.871794871795	39
+
+real-time notification
+override	1.0	9
+rat	1.0	43
+assign	1.0	7
+personalize	0.888888888889	9
+wish	0.818181818182	11
+
+favorite sound
+customizable	1.0	41
+moan	1.0	6
+refer	1.0	41
+wav	1.0	3
+use	0.877192982456	57
+personalize	0.875	8
+
+message etc
+rat	1.0	36
+install	0.818181818182	11
+
+notification tray
+override	1.0	9
+jazz	1.0	3
+rat	1.0	86
+assign	1.0	7
+delete	0.975	80
+hold	0.909090909091	11
+personalize	0.9	10
+set	0.83203125	256
+
+next song
+slumber	1.0	3
+put	1.0	3
+bedtime	1.0	3
+app	0.866666666667	15
+set	0.851851851852	27
+
+funny way
+set	1.0	4
+love	0.857142857143	7
+
+late ringtones
+bring	1.0	7
+touch	1.0	11
+spamman	1.0	20
+add	1.0	8
+hit	1.0	28
+jazz	1.0	5
+press	1.0	15
+clink	1.0	8
+contain	1.0	5
+click	1.0	4
+associate	1.0	57
+change	1.0	24
+convert	1.0	4
+turn	1.0	9
+assign	1.0	117
+ring	1.0	3
+support	1.0	68
+iphone	1.0	4
+offer	1.0	42
+search	1.0	3
+hold	1.0	102
+look	1.0	7
+say	1.0	8
+delete	1.0	80
+tap	1.0	13
+rat	1.0	71
+worry	1.0	4
+feature	1.0	33
+data	1.0	5
+re-assign	1.0	7
+uninstall	1.0	9
+allow	0.96511627907	86
+choose	0.962962962963	27
+android	0.962962962963	27
+need	0.961538461538	26
+include	0.956989247312	93
+set	0.952475247525	505
+create	0.952380952381	42
+personalize	0.941176470588	17
+make	0.941176470588	34
+use	0.92	25
+listen	0.9	30
+record	0.888888888889	9
+sound	0.882352941176	34
+love	0.875	16
+hear	0.875	16
+ringtones	0.857142857143	7
+find	0.846153846154	39
+play	0.846153846154	26
+download	0.833333333333	24
+save	0.824561403509	57
+
+free ringtone
+ringtones	1.0	6
+bring	1.0	7
+touch	1.0	11
+spamman	1.0	20
+add	1.0	8
+hit	1.0	28
+press	1.0	14
+clink	1.0	8
+contain	1.0	5
+click	1.0	4
+associate	1.0	57
+change	1.0	24
+convert	1.0	4
+turn	1.0	9
+assign	1.0	72
+ring	1.0	3
+support	1.0	34
+iphone	1.0	4
+search	1.0	3
+hold	1.0	58
+look	1.0	7
+say	1.0	7
+delete	1.0	80
+tap	1.0	13
+rat	1.0	29
+worry	1.0	4
+feature	1.0	33
+android	1.0	26
+re-assign	1.0	7
+uninstall	1.0	9
+allow	0.964705882353	85
+choose	0.961538461538	26
+create	0.952380952381	42
+set	0.945080091533	437
+need	0.944444444444	18
+personalize	0.941176470588	17
+make	0.941176470588	34
+include	0.9375	48
+use	0.916666666667	24
+listen	0.9	30
+record	0.888888888889	9
+sound	0.878787878788	33
+love	0.875	16
+hear	0.875	16
+find	0.846153846154	39
+play	0.846153846154	26
+download	0.833333333333	24
+save	0.821428571429	56
+
+late music
+call	1.0	3
+ringtones	1.0	34
+tone	1.0	3
+arabic	1.0	4
+inclued	1.0	4
+playback	0.833333333333	6
+record	0.809523809524	21
+
+best mp
+cut	1.0	3
+
+text messaging
+sound	1.0	3
+install	0.818181818182	11
+delete	0.80412371134	97
+
+message notification
+sound	1.0	3
+install	0.818181818182	11
+delete	0.80412371134	97
+
+unique part
+choose	1.0	3
+
+mp music
+cut	1.0	3
+
+alert
+support	0.972222222222	36
+
+push alert
+support	0.972222222222	36
+
+contact photo
+re-assign	1.0	7
+ringtone	0.981132075472	53
+assign	0.823529411765	68
+set	0.81981981982	111
+
+voice recognition
+activate	1.0	3
+require	1.0	4
+
+best music
+call	1.0	3
+tone	1.0	3
+arabic	1.0	4
+inclued	1.0	4
+ringtones	0.971428571429	35
+playback	0.833333333333	6
+record	0.809523809524	21
+
+song
+slumber	1.0	3
+put	1.0	3
+bedtime	1.0	3
+app	0.866666666667	15
+set	0.851851851852	27
+
+new single
+update	1.0	102
+
+best ringtones
+bring	1.0	7
+touch	1.0	11
+spamman	1.0	20
+add	1.0	8
+hit	1.0	28
+jazz	1.0	5
+press	1.0	17
+clink	1.0	8
+contain	1.0	5
+click	1.0	4
+associate	1.0	57
+change	1.0	24
+convert	1.0	4
+turn	1.0	9
+assign	1.0	117
+ring	1.0	3
+support	1.0	68
+iphone	1.0	4
+offer	1.0	42
+search	1.0	3
+hold	1.0	102
+look	1.0	7
+say	1.0	8
+delete	1.0	80
+tap	1.0	13
+rat	1.0	71
+worry	1.0	4
+feature	1.0	33
+data	1.0	5
+re-assign	1.0	7
+uninstall	1.0	9
+allow	0.965517241379	87
+choose	0.962962962963	27
+android	0.962962962963	27
+need	0.961538461538	26
+set	0.955516014235	562
+create	0.952380952381	42
+personalize	0.941176470588	17
+make	0.941176470588	34
+include	0.936842105263	95
+use	0.92	25
+listen	0.9	30
+record	0.888888888889	9
+love	0.875	16
+hear	0.875	16
+ringtones	0.857142857143	7
+sound	0.857142857143	35
+find	0.846153846154	39
+play	0.846153846154	26
+download	0.833333333333	24
+save	0.821917808219	73
+
+single
+update	1.0	102
+
+mp downloader
+ringtones	1.0	12
+
+sound quality
+customizable	1.0	41
+refer	1.0	41
+personalize	1.0	7
+miss	1.0	3
+moan	1.0	6
+wav	1.0	3
+scream	1.0	3
+use	0.879310344828	58
+affect	0.857142857143	7
+let	0.857142857143	7
+pick	0.857142857143	7
+set	0.820512820513	78
+hold	0.818181818182	11
+
+large file
+visit	1.0	3
+end	1.0	8
+preview	0.888888888889	9
+start	0.818181818182	11
+
+contact ringtones
+iphone	1.0	4
+hold	1.0	103
+clink	1.0	8
+data	1.0	6
+re-assign	1.0	14
+uninstall	1.0	9
+say	1.0	5
+ringtones	1.0	7
+hit	1.0	28
+jazz	1.0	3
+rat	1.0	71
+touch	1.0	11
+spamman	1.0	20
+avoid	1.0	3
+ringtone	0.964912280702	57
+android	0.962962962963	27
+assign	0.945355191257	183
+support	0.944444444444	72
+personalize	0.941176470588	17
+set	0.936666666667	600
+change	0.935483870968	31
+offer	0.933333333333	45
+delete	0.907216494845	97
+turn	0.9	10
+sound	0.882352941176	34
+listen	0.875	32
+associate	0.870967741935	31
+worry	0.833333333333	6
+include	0.803418803419	117
+
+voice recorder
+activate	1.0	3
+require	1.0	4
+
+go message
+rat	1.0	36
+install	0.818181818182	11
+
+voice command
+activate	1.0	4
+require	1.0	4
+
+contact number
+re-assign	1.0	7
+personalize	1.0	8
+ringtone	0.981132075472	53
+hold	0.9	10
+set	0.832116788321	137
+assign	0.814285714286	70
+
+file name
+visit	1.0	3
+end	1.0	8
+preview	0.888888888889	9
+start	0.818181818182	11
+
+wifi
+create	1.0	3
+
+music today
+call	1.0	3
+tone	1.0	3
+arabic	1.0	4
+inclued	1.0	4
+ringtones	0.971428571429	35
+playback	0.833333333333	6
+record	0.809523809524	21
+
+top song
+slumber	1.0	3
+put	1.0	3
+bedtime	1.0	3
+app	0.866666666667	15
+set	0.851851851852	27
+
+contact
+data	1.0	6
+re-assign	1.0	7
+rat	1.0	43
+personalize	1.0	8
+hold	0.981481481481	54
+ringtone	0.981132075472	53
+offer	0.891304347826	46
+set	0.887804878049	205
+assign	0.886956521739	115
+support	0.871794871795	39
+
+boost mobile
+compatible	1.0	3
+
+high-quality sounding
+customizable	1.0	41
+refer	1.0	41
+personalize	1.0	7
+miss	1.0	3
+moan	1.0	6
+wav	1.0	3
+scream	1.0	3
+use	0.879310344828	58
+affect	0.857142857143	7
+let	0.857142857143	7
+pick	0.857142857143	7
+set	0.820512820513	78
+hold	0.818181818182	11
+
+new clip
+set	1.0	26
+start	1.0	16
+end	1.0	16
+think	0.9	10
+
+different sound
+customizable	1.0	41
+refer	1.0	41
+personalize	1.0	8
+miss	1.0	3
+moan	1.0	6
+wav	1.0	3
+scream	1.0	3
+delete	1.0	79
+rat	1.0	44
+allow	0.914285714286	70
+set	0.900584795322	171
+hold	0.894736842105	19
+use	0.879310344828	58
+affect	0.857142857143	7
+let	0.857142857143	7
+pick	0.857142857143	7
+
+volume setting
+reduce	0.875	8
+
+problem contact
+re-assign	1.0	7
+ringtone	0.981132075472	53
+set	0.865384615385	104
+assign	0.823529411765	68
+
+contact information
+re-assign	1.0	7
+personalize	1.0	8
+ringtone	0.981132075472	53
+hold	0.9	10
+set	0.832116788321	137
+assign	0.814285714286	70
+
