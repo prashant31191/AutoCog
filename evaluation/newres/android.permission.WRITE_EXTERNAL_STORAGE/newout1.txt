@@ -1,0 +1,7333 @@
+com.iphone5.slider.apk
+false
+
+com.secore.privacyshield.apk
+true
+sound volume	record	sound	record
+
+com.blackbeltstudio.soundeffects.apk
+true
+cartoon	watch	cartoon	watch
+
+com.hearst.android.wgal.apk
+true
+daily basis	watch	daily videocasts	watch
+daily life	watch	daily videocasts	watch
+daily deal	watch	daily videocasts	watch
+
+com.appfab.embarrassing.apk
+false
+
+com.jazzuplife.sundayschoollessons.apk
+true
+r feed	collect	feed video	collect
+twitter feed	collect	feed video	collect
+feed video	collect	feed video	collect
+feed	collect	feed video	collect
+
+com.apw.ui.apk
+false
+
+np.com.focusone.ipay.apk
+false
+
+com.rhythmnewmedia.android.e.apk
+true
+photo sharing	access	photo	access
+best photo	access	photo	access
+photo effect	access	photo	access
+photo collection	access	photo	access
+multiple photo	access	photo	access
+view photo	access	photo	access
+photo editing	access	photo	access
+share photo	access	photo	access
+original photo	access	photo	access
+photo	access	photo	access
+new photo	access	photo	access
+
+tomahawk.software.ncaafb.twothousandeleven.free.apk
+false
+
+coffe.android.app.comicpic.hoangph.apk
+false
+
+biz.app4mobile.app_cf3a74b7401242079414a660eac78905.app.apk
+true
+social medium	check	social medium	check
+medium	check	social medium	check
+
+com.ocatalog.hatland.apk
+false
+
+air.com.vgtrk.autovesti.apk
+false
+
+com.howset.howtomakepaperairplanes.apk
+false
+
+com.lylynx.smsscheduler.apk
+false
+
+com.cinemagram.main.apk
+true
+video format	share	beautiful short video	share
+music video	share	beautiful short video	share
+
+com.mint.apk
+false
+
+mssuit.myexcel.apk
+false
+
+com.mingde.imusic.apk
+true
+mp file	search	mp music	search
+mp	search	mp music	search
+mp music	search	mp music	search
+
+com.custom.lwp.ltdSweetKitty.apk
+false
+
+com.jrummy.liberty.toolbox.apk
+true
+manager	file	manager	file
+management	file	manager	file
+
+com.nowcom.dcmobile.apk
+false
+
+com.cs.iphone.ilock.locker.samsung.galaxy.s2.apk
+true
+favorite photo	download	favorite	download
+favorite artist	download	favorite	download
+favorite music	download	favorite	download
+
+com.faithcomesbyhearing.android.bibleis.apk
+true
+audio	download	text audio	download
+
+ginlemon.flowerfree.apk
+false
+
+com.mambodialer.apk
+false
+
+kr.co.saramin.vertical.game.apk
+false
+
+com.loveurdusmsquotes.lwp.loveurdusmslivewallpaper.apk
+true
+memory	ensure	memory	ensure
+
+com.nbcuni.nbcots.nbcconnecticut.android.apk
+true
+video player	share	article video	share
+video chat	share	article video	share
+video clip	share	article video	share
+video tutorial	share	article video	share
+feed video	share	article video	share
+video format	share	article video	share
+music video	share	article video	share
+
+com.onemanwithcamera.instacartoon.apk
+true
+camera effect	create	android camera	create
+front camera	create	android camera	create
+camera	create	android camera	create
+
+com.technoshaaf.iPhoneSMSTheme.apk
+false
+
+com.dai.giftcard.viewer.us.apk
+true
+sd card	send	card provider	send
+gift card	send	card provider	send
+credit card	send	card provider	send
+flash card	send	card provider	send
+sim card	send	card provider	send
+memory card	send	card provider	send
+card	send	card provider	send
+
+indi.sj.thelittlematchgirl.apk
+false
+
+com.potente.installer.apk
+true
+mp file	delete	file	delete
+audio file	delete	file	delete
+
+com.doapps.android.mln.wthr.apk
+false
+
+com.ik.flightherofree.apk
+false
+
+com.smoopa.ad.android.apk
+false
+
+com.accurateweather.accurateweather.apk
+false
+
+falling.in.reverse.ringtones.falling.in.reverse.ringtone.apk
+false
+
+com.mediatuners.tuner2.apk
+false
+
+com.blackboard.android.central.liberty.apk
+true
+ncaa score	check	score	check
+
+com.tapatalk.thepigsitecomforums.apk
+false
+
+com.Jaaru.StrangeLaws.apk
+false
+
+jp.mizmon21.android.pipcamera.apk
+false
+
+lifebox.app5033.apk
+true
+beautiful design	find	beautiful	find
+beautiful	find	beautiful	find
+beauty	find	beautiful	find
+beautiful photo	find	beautiful	find
+
+com.chat.girl.apk
+false
+
+wp.wpbeta.apk
+false
+
+com.chapslife.martadroid.apk
+false
+
+com.tasc.TessMobileLite.apk
+false
+
+com.jangomobile.android.apk
+true
+music today	create	similar music	create
+favorite music	create	similar music	create
+music	create	similar music	create
+
+arabbox.app18.apk
+true
+favorite song	select	best song	select
+song	select	best song	select
+
+bat.PoliceLight.apk
+false
+
+photo.massage.india.apk
+false
+
+com.studyblue.apk
+true
+music library	give	enormous library	give
+
+easis.sms.recovery.demo.apk
+false
+
+com.jain.jainSamachar.apk
+false
+
+com.wsaz.android.weather.apk
+true
+language	reflect	overall language	reflect
+supported language	reflect	overall language	reflect
+english language	reflect	overall language	reflect
+overall language	reflect	overall language	reflect
+many language	reflect	overall language	reflect
+different language	reflect	overall language	reflect
+
+jp.co.fusioncom.smartalk.android.apk
+false
+
+com.app_bassfieldhighschool.layout.apk
+false
+
+com.flexbyte.groovemixer.apk
+true
+music today	create	music beat	create
+music	create	music beat	create
+
+com.pete.peppa.apk
+false
+
+appinventor.ai_LindaStalker1955.ReviewsStrandCapToeOxford.apk
+false
+
+name.markus.droesser.tapeatalk.apk
+true
+internal storage	write	external storage	write
+external storage	write	external storage	write
+storage	write	external storage	write
+
+com.eastbk.hotplayboy.apk
+true
+photo sharing	download	photo	download
+photo effect	download	photo	download
+multiple photo	download	photo	download
+view photo	download	photo	download
+photo editing	download	photo	download
+share photo	download	photo	download
+
+lifebox.app5004.apk
+false
+
+com.saty.vd.apk
+false
+
+ua.in.android_wallpapers.minecraft.apk
+false
+
+com.cartoonvideo.doratheexplorer.apk
+true
+cartoon	watch	dora explorer cartoon	watch
+
+com.tabtale.princessandthepea.google.apk
+true
+share story	relate	story	relate
+
+com.piviandco.mixbooth.apk
+true
+best photo	add	photo	add
+photo effect	add	photo	add
+photo collection	add	photo	add
+multiple photo	add	photo	add
+view photo	add	photo	add
+photo editing	add	photo	add
+original photo	add	photo	add
+photo	add	photo	add
+new photo	add	photo	add
+
+com.romavita.basilicafree.apk
+false
+
+com.globalpersonalsmedia.meetlocals.apk
+false
+
+com.tndev.heartframes.apk
+false
+
+com.mobileroadie.app_38521.apk
+false
+
+com.admoviebox.apk
+true
+video file	press	video	press
+
+com.tio.epe.apk
+false
+
+br.com.rodrigokolb.realpiano.apk
+false
+
+com.photo.frame.halloween.apk
+true
+background color	add	color effect	add
+different color	add	color effect	add
+text color	add	color effect	add
+color effect	add	color effect	add
+color	add	color effect	add
+
+com.pluralsight.apk
+true
+favorite photo	make	favorite	make
+favorite	make	favorite	make
+favorite show	make	favorite	make
+favorite list	make	favorite	make
+favorite place	make	favorite	make
+favorite song	make	favorite	make
+favorite news	make	favorite	make
+favorite team	make	favorite	make
+favorite location	make	favorite	make
+
+com.bestappsforphone.howtostopworryingstopcomplaining3.apk
+false
+
+droidconsulting.livewallpaper10free.apk
+true
+gallery	add	gallery	add
+photo gallery	add	gallery	add
+gallery view	add	gallery	add
+
+kr.co.shiftworks.vguardweb.apk
+false
+
+org.busbrothers.anystop.actransit.apk
+true
+favorite photo	find	favorite	find
+favorite artist	find	favorite	find
+favorite show	find	favorite	find
+favorite music	find	favorite	find
+favorite list	find	favorite	find
+favorite location	find	favorite	find
+
+com.jens.automation.apk
+false
+
+com.apps4fun.tits.apk
+false
+
+com.eheuristic.android.ledflashlightandlamplw.apk
+false
+
+com.rtv.humpday.apk
+true
+sound volume	set	sound	set
+
+com.Wifi_Hotspot_Finder_207231.apk
+false
+
+com.bpstudio.songdek.apk
+false
+
+com.motionone.photoshake.apk
+true
+collage	create	collage photo	create
+
+org.funnylab.manfun.apk
+false
+
+com.vision.cameras.nyc.apk
+false
+
+com.samsung.dct.retailagent.note2.apk
+false
+
+com.weebly.android.apk
+true
+best photo	add	text photo	add
+original photo	add	text photo	add
+photo	add	text photo	add
+new photo	add	text photo	add
+
+com.live.lwp.windows8.ripple.windows8waterripple.apk
+true
+favorite photo	download	favorite	download
+favorite artist	download	favorite	download
+favorite music	download	favorite	download
+
+com.yejit.ytnradio.apk
+false
+
+com.cool.funny.jokes.apk
+true
+funny moment	find	funny joke	find
+funny ringtones	find	funny joke	find
+funny photo	find	funny joke	find
+funny	find	funny joke	find
+
+com.citrix.Receiver.apk
+true
+mp file	access	enterprise file	access
+file	access	enterprise file	access
+video file	access	enterprise file	access
+pdf file	access	enterprise file	access
+file format	access	enterprise file	access
+file folder	access	enterprise file	access
+audio file	access	enterprise file	access
+file manager	access	enterprise file	access
+
+com.mobileapp.ape.mp3download.apk
+false
+
+com.multicam.apk
+false
+
+re.hkm2.apk
+false
+
+com.coolestwallpapersever.luke_bryan.apk
+false
+
+com.custom.lwp.LSexyhotgirl.apk
+false
+
+com.mobincube.android.sc_MIINS.apk
+false
+
+com.sears.shopyourway.apk
+false
+
+net.mylol.apk
+false
+
+com.federatedinteractive.federated.fanindiana.apk
+false
+
+com.talkray.client.apk
+true
+video player	live	video	live
+video chat	live	video	live
+video clip	live	video	live
+video file	live	video	live
+video tutorial	live	video	live
+feed video	live	video	live
+video format	live	video	live
+music video	live	video	live
+
+qe51fdab8e5c5f8.popsa_the_king_of_fighters_photos.apk
+false
+
+com.outfit7.talkingtom2free.apk
+true
+video player	record	video	record
+video chat	record	video	record
+video clip	record	video	record
+video file	record	video	record
+video tutorial	record	video	record
+feed video	record	video	record
+video format	record	video	record
+music video	record	video	record
+
+fja.geodiversion.streetbones.apk
+false
+
+com.enfamil.eb.apk
+false
+
+com.dbblr.discover.apk
+false
+
+com.twistfuture.fireworkslivewallpaper.apk
+false
+
+com.aism.bbm.apk
+false
+
+com.alsoftspb_nfl.chicago.apk
+true
+conference	group	conference division	group
+conference standing	group	conference division	group
+
+com.keerby.videotomp3.apk
+true
+ringtones	set	ringtone	set
+ringtone	set	ringtone	set
+
+com.mmgct.INOClinKit.apk
+false
+
+com.appspot.swisscodemonkeys.livechat.apk
+true
+photo sharing	create	photo	create
+best photo	create	photo	create
+photo effect	create	photo	create
+photo collection	create	photo	create
+multiple photo	create	photo	create
+view photo	create	photo	create
+photo editing	create	photo	create
+share photo	create	photo	create
+original photo	create	photo	create
+photo	create	photo	create
+new photo	create	photo	create
+
+ru.ookamikb.speakasapen.apk
+false
+
+com.dotnetideas.packinglist.apk
+true
+sd card	save	sd card	save
+gift card	save	sd card	save
+credit card	save	sd card	save
+flash card	save	sd card	save
+sim card	save	sd card	save
+memory card	save	sd card	save
+card	save	sd card	save
+
+com.safersystem.safermobileresponse.apk
+false
+
+lifebox.app5005.apk
+true
+funny moment	find	funny image	find
+funny ringtones	find	funny image	find
+funny photo	find	funny image	find
+funny	find	funny image	find
+
+com.twoo.apk
+false
+
+com.aceast.speedco.apk
+false
+
+com.heawo.me2twincamera.free.apk
+false
+
+air.xmote.free.apk
+false
+
+com.appind.camera.timer.free.apk
+true
+photo sharing	write	photo	write
+best photo	write	photo	write
+photo effect	write	photo	write
+photo collection	write	photo	write
+multiple photo	write	photo	write
+view photo	write	photo	write
+photo editing	write	photo	write
+share photo	write	photo	write
+original photo	write	photo	write
+photo	write	photo	write
+new photo	write	photo	write
+
+org.lds.ldssa.apk
+false
+
+net.manageapps.MeSoHungry.apk
+false
+
+com.mapexample.apk
+false
+
+com.onedirection.onedirectiontweets.apk
+false
+
+com.romanticquotes.lwp.romanticlivewallpaper.apk
+true
+memory	ensure	memory	ensure
+
+appinventor.ai_ruthlsaffioti.oneaday.apk
+false
+
+com.smilingdragon.quotes.motivational.apk
+true
+space	save	space	save
+enough space	save	space	save
+
+com.morrison.applocklite.apk
+false
+
+com.a1224132963520d4c60cf9f94a.a39081033a.apk
+false
+
+com.conduit.app_aa591a8106d34b62a1a91e4fddb5c96b.app.apk
+false
+
+com.townsquare.apk
+true
+favorite photo	bookmark	favorite	bookmark
+favorite	bookmark	favorite	bookmark
+favorite artist	bookmark	favorite	bookmark
+favorite show	bookmark	favorite	bookmark
+favorite music	bookmark	favorite	bookmark
+favorite list	bookmark	favorite	bookmark
+favorite place	bookmark	favorite	bookmark
+favorite song	bookmark	favorite	bookmark
+favorite news	bookmark	favorite	bookmark
+favorite team	bookmark	favorite	bookmark
+favorite location	bookmark	favorite	bookmark
+
+com.blizzard.wow.apk
+false
+
+com.Aksenovborsh.BlackBerryQ10Images.apk
+true
+hourly view	change	hour	change
+
+com.free.hd.galaxy.stars.hd.live.wallpaper.apk
+false
+
+com.antennainternational.traum.apk
+false
+
+com.ibelievemagazine.pulsefm.apk
+false
+
+jp.co.a_tm.android.plus_navy_blue_girl.apk
+true
+favorite photo	find	favorite theme	find
+favorite show	find	favorite theme	find
+favorite list	find	favorite theme	find
+favorite location	find	favorite theme	find
+
+com.comerica.mobilebanking.apk
+false
+
+com.Aksenovborsh.MotorolaAtrixTheme.apk
+true
+hourly view	change	hour	change
+
+com.southwestairlines.mobile.apk
+false
+
+beautstripper.cdl.com.apk
+true
+private data	transmit	user data	transmit
+data plan	transmit	user data	transmit
+data	transmit	user data	transmit
+data connection	transmit	user data	transmit
+personal data	transmit	user data	transmit
+
+fire3dLive.liveWPcube.apk
+true
+text size	adjust	size	adjust
+text size	adjustable	size	adjust
+
+com.kevinlmoore.floridavs.apk
+false
+
+com.dmeautomotive.driverconnect.firkinsautomotive.apk
+false
+
+fifth.harmony.ringtones.fifth.harmony.ringtone.apk
+false
+
+com.limpenghoe.weatherforecast.apk
+true
+video player	provide	youtube video	provide
+video chat	provide	youtube video	provide
+video clip	provide	youtube video	provide
+video file	provide	youtube video	provide
+video tutorial	provide	youtube video	provide
+video format	provide	youtube video	provide
+music video	provide	youtube video	provide
+
+com.shoeboxed.android.phonegapapp.apk
+false
+
+com.gobank.apk
+false
+
+com.cx3tech.dash.apk
+false
+
+org.busbrothers.anystop.dart.apk
+true
+favorite photo	find	favorite	find
+favorite artist	find	favorite	find
+favorite show	find	favorite	find
+favorite music	find	favorite	find
+favorite list	find	favorite	find
+favorite location	find	favorite	find
+
+com.vemmabode.apk
+false
+
+com.hertz.hod.apk
+false
+
+com.galaxy.instatext.photoeditorcistudio.apk
+true
+photo sharing	make	photo	make
+best photo	make	photo	make
+photo effect	make	photo	make
+photo collection	make	photo	make
+multiple photo	make	photo	make
+view photo	make	photo	make
+photo editing	make	photo	make
+share photo	make	photo	make
+original photo	make	photo	make
+photo	make	photo	make
+new photo	make	photo	make
+
+com.kenlovemeand.tupian4.apk
+false
+
+com.quoord.tapatalkouthub.activity.apk
+false
+
+com.fitkit.abworkoutfree.apk
+false
+
+egyptbox.app46.apk
+false
+
+net.xdevelop.rm.apk
+true
+pdf file	create	text file	create
+file folder	create	text file	create
+audio file	create	text file	create
+
+riverminds.lacapp.apk
+false
+
+org.jraf.android.nolock.apk
+false
+
+sexybootydancehd.cmon.com.apk
+true
+private data	transmit	user data	transmit
+data plan	transmit	user data	transmit
+data	transmit	user data	transmit
+data connection	transmit	user data	transmit
+personal data	transmit	user data	transmit
+
+com.telventdtn.agweather.apk
+false
+
+ronaldo.football.star.best.hd.live.wallpaper.apk
+true
+video player	hold	first player	hold
+
+com.babynames.android.apk
+true
+baby bus	design	baby fun	design
+baby	design	baby fun	design
+
+com.free.syria.mobile.app.apk
+false
+
+jp.tabinomado.nenpi2.apk
+false
+
+com.jeffcooper.apk
+false
+
+com.tsf.shell.widget.music.apk
+false
+
+com.inagurasi.fcbarcelonaindonesia.apk
+false
+
+com.teramatrics.photoframe.apk
+true
+gallery	save	gallery	save
+photo gallery	save	gallery	save
+gallery view	save	gallery	save
+
+migos.ringtones.migos.ringtone.apk
+false
+
+com.froyends.BestOfVines.apk
+true
+favorite	manage	favorite video	manage
+favorite show	manage	favorite video	manage
+favorite list	manage	favorite video	manage
+video format	manage	favorite video	manage
+favorite place	manage	favorite video	manage
+favorite news	manage	favorite video	manage
+music video	manage	favorite video	manage
+
+com.mobilerush.northtexasfootballrush.apk
+true
+team	connect	team	connect
+favorite team	connect	team	connect
+
+com.tripomatic.venice.apk
+false
+
+com.yinzcam.nfl.sf.apk
+true
+team	catch	team	catch
+favorite team	catch	team	catch
+
+com.the7art.happywitchwallpaper.apk
+false
+
+com.surmin.photofancie.lite.apk
+true
+collage	make	collage	make
+
+com.sidekickApp.apk
+false
+
+com.anthonyrichardsmobile.disneyfanartlivewallpaper.apk
+false
+
+com.es.twsn.apk
+true
+video chat	send	chat	send
+
+com.transport.mbtaloc.apk
+true
+favorite photo	bookmark	favorite	bookmarking
+favorite	bookmark	favorite	bookmarking
+favorite artist	bookmark	favorite	bookmarking
+favorite show	bookmark	favorite	bookmarking
+favorite music	bookmark	favorite	bookmarking
+favorite list	bookmark	favorite	bookmarking
+favorite place	bookmark	favorite	bookmarking
+favorite song	bookmark	favorite	bookmarking
+favorite news	bookmark	favorite	bookmarking
+favorite team	bookmark	favorite	bookmarking
+favorite location	bookmark	favorite	bookmarking
+
+me.doubledutch.dataplus.apk
+false
+
+com.laminaapps.diabeticrecipesap.apk
+true
+video player	provide	youtube video	provide
+video chat	provide	youtube video	provide
+video clip	provide	youtube video	provide
+video file	provide	youtube video	provide
+video tutorial	provide	youtube video	provide
+video format	provide	youtube video	provide
+music video	provide	youtube video	provide
+
+com.dub.app.southernillinoisuniv.apk
+false
+
+com.firstnational.southwest.apk
+false
+
+com.zappotvxbox.apk
+true
+favorite music	find	music	find
+
+phimsex.truyensex.phimnguoilon.truyennguoilon.phimlamtinh.audio.apk
+false
+
+com.monotype.android.font.root.font100.apk
+true
+font color	restore	font	restore
+
+org.ksolution.huntpro.apk
+false
+
+com.imgring.sexposition1.apk
+false
+
+com.smartwallinc.spiderman.wallpaper.apk
+false
+
+com.dangerous.kane.wwe.wwekane.lwp.apk
+false
+
+com.lodgenet.apk
+false
+
+com.whitepages.search.apk
+false
+
+com.srta.PeachPass.apk
+false
+
+com.sigterm.apk
+true
+data usage	ensure	usage	ensure
+
+loyalblocks.userapp.apk
+false
+
+com.theappco.theblaze.apk
+false
+
+com.calliopedigital.rta.apk
+false
+
+bb.amthal.apk
+false
+
+com.argandev.instacollageeditor.apk
+true
+collage	create	favorite collage	create
+
+com.dm2photo5.apk
+false
+
+com.drandxq.albummv13.apk
+false
+
+com.magazine.menshealth.apk
+false
+
+com.steptoapps.card.fbcomments.apk
+true
+twitter facebook	comment	facebook	comment
+facebook twitter	comment	facebook	comment
+
+com.sinyee.babybus.householdgoods.apk
+true
+baby bus	combine	year-old baby	combine
+baby	combine	year-old baby	combine
+
+com.broakenmedia.kikmoticons2.apk
+false
+
+com.jiwire.android.finder.apk
+true
+wifi connection	call	wifi location	call
+wifi performance	call	wifi location	call
+wifi	call	wifi location	call
+
+com.mrko.android.electricalcalculator.apk
+false
+
+com.librotecstar.cuentosedpoe.AOUGWFRXGNTBPVFAAE.apk
+true
+text size	adjust	text size	adjustable
+text size	adjustable	text size	adjustable
+text	adjustable	text size	adjustable
+
+com.tribair.onecallingcard.apk
+false
+
+com.instachat.android.apk
+false
+
+com.ms.screencastfree.apk
+true
+video format	capture	high quality mpeg video	capture
+music video	capture	high quality mpeg video	capture
+
+com.workpail.inkpad.notepad.notes.apk
+true
+photo sharing	bring	share	bring
+share photo	bring	share	bring
+
+airborne.nhlwp.apk
+false
+
+com.anthony.mobile.apk
+false
+
+com.petwisewebsites.mobile.apk
+true
+photo sharing	enable	photo	enable
+photo collection	enable	photo	enable
+view photo	enable	photo	enable
+share photo	enable	photo	enable
+
+com.gau.go.launcherex.theme.GalaxySTheme.apk
+false
+
+com.runningdoctorapp.apk
+false
+
+kr.android.joyapp.wisewords_02.apk
+false
+
+com.wol.android.apk
+false
+
+com.jaison.church.Qurbana.apk
+false
+
+com.instalitecollage.apk
+true
+collage	make	instant collage	make
+
+com.cb.sfl.apk
+false
+
+org.hola.apk
+false
+
+net.nakvic.dromoris.apk
+false
+
+com.adhdstudios.cuteplanet.apk
+false
+
+com.free.abc.theme.kitty.apk
+false
+
+zombiemedia.cm.apk
+false
+
+com.sbox.awk.apk
+false
+
+pl.mobileexperts.securephone.apk
+false
+
+net.parentlink.d300.apk
+false
+
+com.neusoft.quickprint.apk
+false
+
+com.leocardz.webbox.free.apk
+false
+
+com.makn.moviestube.apk
+false
+
+mobi.jackd.android.apk
+false
+
+com.orsai.apk
+false
+
+lcdi.edu.lookcewin.apk
+true
+sd card	save	sd card	save
+gift card	save	sd card	save
+credit card	save	sd card	save
+flash card	save	sd card	save
+sim card	save	sd card	save
+memory card	save	sd card	save
+card	save	sd card	save
+
+com.artelplus.howtodraw.apk
+true
+kid	give	kid	give
+young kid	give	kid	give
+
+com.nalthin.tabataWorkout.apk
+false
+
+com.andromo.dev86290.app236760.apk
+false
+
+com.july.freetransparentscreen.apk
+true
+photo sharing	hide	photo	hide
+best photo	hide	photo	hide
+photo effect	hide	photo	hide
+photo collection	hide	photo	hide
+multiple photo	hide	photo	hide
+photo editing	hide	photo	hide
+share photo	hide	photo	hide
+original photo	hide	photo	hide
+photo	hide	photo	hide
+new photo	hide	photo	hide
+
+com.qpon.apk
+false
+
+com.gau.go.weatherex.appbilling.dynamicsbg.windday.apk
+false
+
+com.lx.launcher8.apk
+true
+best photo	add	time flashlight photo	add
+photo	add	time flashlight photo	add
+new photo	add	time flashlight photo	add
+
+com.andromo.dev216254.app230825.apk
+true
+favorite song	make	song	make
+
+com.kemsoft.myconsultant.apk
+false
+
+com.app_kissit.layout.apk
+false
+
+com.teaminfoapp.custom.ralphchandlerms.apk
+false
+
+com.likehack.apk
+false
+
+com.itmp.icardio.app.apk
+false
+
+edu.brevardcc.titanmobile.apk
+false
+
+com.prolificmethods.pitchgauge.apk
+true
+text size	find	size	find
+
+com.pjp.qvprep.lite.grade7.apk
+true
+format	present	workbook worksheet format	present
+
+com.evernote.apk
+false
+
+kenneth.rtalk.apk
+false
+
+friends.f.kik.apk
+false
+
+com.smartroam.chattime.apk
+false
+
+somali.musicvideos.apk
+false
+
+it.tolelab.fvd.apk
+true
+video player	download	video	download
+video chat	download	video	download
+video clip	download	video	download
+video tutorial	download	video	download
+feed video	download	video	download
+music video	download	video	download
+
+com.card.rakhi.brother_and_sister.freedownload.apk
+true
+sd card	send	lovely e-cards	send
+gift card	send	lovely e-cards	send
+credit card	send	lovely e-cards	send
+flash card	send	lovely e-cards	send
+sim card	send	lovely e-cards	send
+memory card	send	lovely e-cards	send
+card	send	lovely e-cards	send
+
+com.learn.funnyphoto.apk
+true
+cool sticker	add	cool	add
+
+com.trans_code.android.droidscanlite.apk
+false
+
+com.famigo.sandbox.apk
+false
+
+www.theapp.co.hours.free.html.apk
+true
+sd card	read	time card	read
+gift card	read	time card	read
+credit card	read	time card	read
+flash card	read	time card	read
+sim card	read	time card	read
+memory card	read	time card	read
+card	read	time card	read
+
+com.creativeappszone.FemaleSexSecrets.apk
+false
+
+mobi.omegacentauri.Earpiece.apk
+false
+
+com.simplemp3downloadapp1.apk
+true
+mp file	search	mp	search
+mp	search	mp	search
+mp music	search	mp	search
+
+com.yuvalluzon.yourmirror.apk
+true
+internal storage	write	external storage	write
+external storage	write	external storage	write
+storage	write	external storage	write
+
+at.nk.tools.iTranslate.apk
+false
+
+com.bolorior.ReachingYouWallpapers.apk
+false
+
+com.xzPopular.apk
+true
+ringtones	set	ringtone	set
+ringtone	set	ringtone	set
+
+com.springpad.apk
+true
+video clip	show	photo video	show
+
+com.buak.Link2SD.apk
+true
+file	move	lib file	move
+file format	move	lib file	move
+file manager	move	lib file	move
+
+com.ookbee.majalahpc.apk
+true
+video tutorial	feature	informative tutorial	feature
+
+com.theappmonkey.mirrorsedge2newscheatswallpaper1080p.apk
+false
+
+com.primera.android.apk
+true
+video player	send	video	send
+video chat	send	video	send
+video clip	send	video	send
+video file	send	video	send
+video tutorial	send	video	send
+feed video	send	video	send
+video format	send	video	send
+music video	send	video	send
+
+com.cbs.sportsapp.android.msu.apk
+false
+
+com.tamilantechnology.hotindian.bbw.aunty.sex.wal.apk
+false
+
+com.conduit.app_b0d61822adcb4af1acdd32106554ed5b.app.apk
+false
+
+com.app_ironcountytaxi.layout.apk
+false
+
+com.teeneinst.quiz.us.viii.functions.apk
+true
+kid	learn	kid	learn
+young kid	learn	kid	learn
+
+edu.umsl.mobileapp.apk
+false
+
+org.thinking.blocks.puzzle.anime.comic.apk
+true
+best photo	finish	photo	finish
+photo effect	finish	photo	finish
+view photo	finish	photo	finish
+original photo	finish	photo	finish
+photo	finish	photo	finish
+new photo	finish	photo	finish
+
+com.megahub.cnin.mtrader.activity.apk
+false
+
+com.handcent.fontpack.pack4.apk
+false
+
+com.usaf.wingmanship.apk
+false
+
+com.greenalp.RealtimeTracker.apk
+false
+
+org.busbrothers.anystop.cdta.apk
+true
+favorite photo	find	favorite	find
+favorite artist	find	favorite	find
+favorite show	find	favorite	find
+favorite music	find	favorite	find
+favorite list	find	favorite	find
+favorite location	find	favorite	find
+
+com.televisa.deportes.android.apk
+false
+
+com.naeilbook.apk
+false
+
+com.alsoftspb_nfl.minnesota.apk
+true
+conference	group	conference division	group
+conference standing	group	conference division	group
+
+bestlwp.makkah.madina.hd.live.wallpaper.apk
+false
+
+com.nbaquiz.fac.apk
+false
+
+net.fineseed.colorful.apk
+true
+photo sharing	edit	photo	edit
+best photo	edit	photo	edit
+photo effect	edit	photo	edit
+photo collection	edit	photo	edit
+multiple photo	edit	photo	edit
+view photo	edit	photo	edit
+photo editing	edit	photo	edit
+share photo	edit	photo	edit
+original photo	edit	photo	edit
+photo	edit	photo	edit
+new photo	edit	photo	edit
+
+com.jiubang.goscreenlock.theme.LovelyCATGOLockerTheme.apk
+true
+locker	instal	go locker	instal
+go locker	instal	go locker	instal
+
+biz.app4mobile.app_531a78c3056f497c8a832a405237bcc0.app.apk
+false
+
+com.lsn.localnews1003.apk
+false
+
+com.slacker.radio.apk
+true
+favorite music	create	favorite	create
+
+ch.miapp.ried.apk
+false
+
+net.klier.blutdruck.apk
+false
+
+com.way2apps.ganeshachaturthi.apk
+false
+
+com.kttc.android.weather.apk
+true
+language	reflect	overall language	reflect
+supported language	reflect	overall language	reflect
+english language	reflect	overall language	reflect
+overall language	reflect	overall language	reflect
+many language	reflect	overall language	reflect
+different language	reflect	overall language	reflect
+
+com.myskyspark.music.apk
+true
+song	select	song folder	select
+
+com.newapps.comicsofdarkhorseap.apk
+true
+private data	fetch	data	fetch
+data plan	fetch	data	fetch
+data	fetch	data	fetch
+data usage	fetch	data	fetch
+data connection	fetch	data	fetch
+personal data	fetch	data	fetch
+
+com.rantechnology.fbdownloader.apk
+true
+video player	download	facebook video	download
+video chat	download	facebook video	download
+video clip	download	facebook video	download
+video tutorial	download	facebook video	download
+feed video	download	facebook video	download
+music video	download	facebook video	download
+
+ru.yandex.metro.apk
+false
+
+com.gw.pocoyo.apk
+false
+
+com.wiziapp.app104473.apk
+false
+
+com.comedy.kapilsharma.videos.apk
+false
+
+com.skyhealth.glucosebuddyfree.apk
+false
+
+org.freedictionary.apk
+false
+
+com.abMobile.recipebyingredient.apk
+true
+booking	save	book	save
+book	save	book	save
+
+appinventor.ai_nitiphatnianjit.playstation3accessories.apk
+false
+
+com.hcg.lukebryan.apk
+true
+music library	chat	music	chat
+music today	chat	music	chat
+favorite music	chat	music	chat
+music	chat	music	chat
+music video	chat	music	chat
+
+com.yyy.HatsuneMiku.apk
+false
+
+org.bananatech.film.apk
+false
+
+br.jmoreira.megamanX.apk
+true
+ringtones	set	ringtone	set
+ringtone	set	ringtone	set
+
+autorad.topspeed.apk
+false
+
+com.gb65.apps4all.apk
+false
+
+com.subsplash.thechurchapp.meck.apk
+false
+
+com.optimus.cupid.media.apk
+true
+video chat	access	chat	access
+
+us.gssnet.android.alertfm.apk
+false
+
+com.ninjahattoriamaravideos.mat.apk
+false
+
+com.kitapps.android.builder.aiagqualitysummit.apk
+false
+
+com.brandphonesringtones.apk
+true
+ringtones	find	original built-in ringtones	find
+ringtone	find	original built-in ringtones	find
+
+com.mobilebeez.stockmarket.news.live.apk
+false
+
+com.aumenta.cartasdemagie.apk
+false
+
+com.katyBuffaloBills.apk
+false
+
+com.theglutenfreescan.apk
+false
+
+slide.colorSplashFX.apk
+true
+photo sharing	create	photo	create
+best photo	create	photo	create
+photo effect	create	photo	create
+photo collection	create	photo	create
+multiple photo	create	photo	create
+view photo	create	photo	create
+photo editing	create	photo	create
+share photo	create	photo	create
+original photo	create	photo	create
+photo	create	photo	create
+new photo	create	photo	create
+
+com.mog.android.apk
+true
+favorite photo	find	favorite	find
+favorite artist	find	favorite	find
+favorite show	find	favorite	find
+favorite music	find	favorite	find
+favorite list	find	favorite	find
+favorite location	find	favorite	find
+
+com.appypie.appypie1d38ca2f64f6.apk
+false
+
+com.wwe.news.apk
+false
+
+appinventor.ai_ghadeer_olwan1.downloadphotos.apk
+false
+
+com.betachannelagency.people.apk
+false
+
+com.alban.deubeda.MinecraftSoundBoard.apk
+false
+
+com.ireadercity.sxyj.apk
+false
+
+com.dong.HatsuneMiku.apk
+false
+
+com.laminaapps.freemp4downloads.apk
+true
+private data	fetch	data	fetch
+data plan	fetch	data	fetch
+data	fetch	data	fetch
+data usage	fetch	data	fetch
+data connection	fetch	data	fetch
+personal data	fetch	data	fetch
+
+com.usatleee.atp.apk
+false
+
+appinventor.ai_timersdev.Hookup.apk
+false
+
+com.pickntell.aa.apk
+true
+gallery	save	gallery	save
+photo gallery	save	gallery	save
+gallery view	save	gallery	save
+
+com.seb.shutterfx.free.apk
+true
+photo sharing	edit	photo	edit
+best photo	edit	photo	edit
+photo effect	edit	photo	edit
+photo collection	edit	photo	edit
+multiple photo	edit	photo	edit
+view photo	edit	photo	edit
+photo editing	edit	photo	edit
+share photo	edit	photo	edit
+original photo	edit	photo	edit
+photo	edit	photo	edit
+new photo	edit	photo	edit
+
+bestapp.Tips.Fishing.apk
+false
+
+com.bluetigerlabs.pricespotting.apk
+false
+
+com.mobilityflow.animatedweather.free.apk
+false
+
+com.knu.mee.apk
+true
+sd card	save	sd card	save
+gift card	save	sd card	save
+credit card	save	sd card	save
+flash card	save	sd card	save
+sim card	save	sd card	save
+memory card	save	sd card	save
+card	save	sd card	save
+
+com.mobisystems.msdict.embedded.wireless.elsevier.jablonski.apk
+false
+
+com.appquestllc.forbes.apk
+false
+
+com.desire2learn.northeastern.illinois.university.m.campuslife.directory.apk
+false
+
+com.aa.ws2.as.apk
+false
+
+com.spotuaud.android.foudre.apk
+false
+
+com.laws.usweirdlaws.apk
+false
+
+com.androminigsm.fscifree.apk
+true
+photo sharing	pick	photo	pick
+best photo	pick	photo	pick
+photo effect	pick	photo	pick
+photo collection	pick	photo	pick
+multiple photo	pick	photo	pick
+view photo	pick	photo	pick
+photo editing	pick	photo	pick
+share photo	pick	photo	pick
+original photo	pick	photo	pick
+photo	pick	photo	pick
+new photo	pick	photo	pick
+
+com.doodlebull.xingli8.apk
+true
+best photo	collect	high-quality photo	collect
+original photo	collect	high-quality photo	collect
+photo	collect	high-quality photo	collect
+new photo	collect	high-quality photo	collect
+
+com.app_raysbbq.layout.apk
+false
+
+mivo.tv.apk
+false
+
+com.dreamcortex.alphabetCarLite.apk
+true
+sound volume	listen	sound	listen
+
+com.moblynx.cameraics.apk
+false
+
+apps.callplanets.rakhabhandan.apk
+false
+
+com.nakednews.NakedNews.apk
+false
+
+com.pledlstefan.siphorsepowerdynofree.apk
+false
+
+com.cercaapp.apk
+false
+
+com.appspot.swisscodemonkeys.old.apk
+true
+gallery	save	gallery	save
+photo gallery	save	gallery	save
+gallery view	save	gallery	save
+
+com.kmart.android.apk
+false
+
+com.appdroid.mysmartbaby.apk
+false
+
+app.droidhopnews.apk
+false
+
+com.appsgratuit.ibrahimfeqqi.apk
+false
+
+com.jiubang.goscreenlock.theme.backless.getjar.apk
+false
+
+com.aetn.aetv.watch.apk
+false
+
+com.soziallib.karachi.apk
+true
+favorite	manage	favorite place	manage
+favorite show	manage	favorite place	manage
+favorite music	manage	favorite place	manage
+favorite list	manage	favorite place	manage
+favorite place	manage	favorite place	manage
+favorite news	manage	favorite place	manage
+favorite team	manage	favorite place	manage
+favorite location	manage	favorite place	manage
+
+com.appsorg.best.funnyringtones.apk
+false
+
+hj520c6dead6552.popsa_luke_bryan_hd_photos.apk
+false
+
+com.nova.herbal.cure.apk
+false
+
+com.bestweatherfor.bibleoffline_pt_ra.apk
+false
+
+com.cazaayan.bse.mobile.apk
+false
+
+creative.park.pro.file.manager.apk
+true
+video file	feature	file manager	feature
+
+com.themodularmind.torrentmovies.apk
+false
+
+com.opera.mini.android.apk
+true
+favorite team	show	favorite website	show
+
+com.triologysoftware.myfitness.apk
+false
+
+com.SuperAmerica.finder.apk
+false
+
+com.geekyouup.android.newton.apk
+false
+
+com.etah.flashlight.apk
+false
+
+com.sancronringtones.funnyremixsb.apk
+true
+ringtones	set	ringtone	set
+ringtone	set	ringtone	set
+
+com.mobiledata.faceswap.apk
+true
+photo sharing	create	photo	create
+best photo	create	photo	create
+photo effect	create	photo	create
+photo collection	create	photo	create
+multiple photo	create	photo	create
+view photo	create	photo	create
+photo editing	create	photo	create
+share photo	create	photo	create
+original photo	create	photo	create
+photo	create	photo	create
+new photo	create	photo	create
+
+com.tabtale.frogprince.google.apk
+true
+kid	discover	young kid	discover
+young kid	discover	young kid	discover
+
+com.scanner911app.scanner911free.apk
+false
+
+com.nbdapps.instamessage.apk
+true
+gallery	save	gallery	save
+photo gallery	save	gallery	save
+gallery view	save	gallery	save
+
+org.tellmej.filemanager.apk
+true
+file folder	create	file folder	create
+
+com.aveya.howtodrawmanga.apk
+true
+r feed	collect	feed video	collect
+twitter feed	collect	feed video	collect
+feed video	collect	feed video	collect
+feed	collect	feed video	collect
+
+com.teetimes.apk
+true
+favorite photo	make	favorite	make
+favorite	make	favorite	make
+favorite show	make	favorite	make
+favorite list	make	favorite	make
+favorite place	make	favorite	make
+favorite song	make	favorite	make
+favorite news	make	favorite	make
+favorite team	make	favorite	make
+favorite location	make	favorite	make
+
+com.gau.go.launcherex.theme.fd.starry.fourinone.apk
+true
+file folder	design	folder	design
+
+gogolook.callgogolook2.apk
+false
+
+com.battery.status.widget.saver.x.apk
+false
+
+com.mangadroid.apk
+false
+
+com.yinzcam.nfl.falcons.apk
+true
+team	catch	breaking team	catch
+
+com.facebook.orca.apk
+false
+
+com.jiubang.goscreenlock.theme.ferriswheel.getjar.apk
+false
+
+com.simple.newv.fast.go.apk
+false
+
+com.iconnect.app.pts.apk
+false
+
+com.itsoftgroup.medicine.apk
+false
+
+com.NDriveOnOff.apk
+true
+sound volume	set	volume	set
+
+com.iphone.lock.images.free.apk
+true
+camera effect	set	camera	set
+front camera	set	camera	set
+camera	set	camera	set
+
+com.fubar.mobile.apk
+false
+
+com.tranzmate.apk
+false
+
+net.feathertech.pregnancystages.apk
+false
+
+com.lemi.callsautoresponder.apk
+false
+
+com.komu.android.weather.apk
+false
+
+com.jb.gokeyboard.theme.pink.apk
+false
+
+com.collegesportsnews.fsufootballnews.apk
+true
+video chat	feature	video	feature
+video clip	feature	video	feature
+video file	feature	video	feature
+video tutorial	feature	video	feature
+video format	feature	video	feature
+
+com.proosto.apartido.android.apk
+false
+
+com.stk.killzone.apk
+false
+
+com.xcGame.Info.DespicableMeDraw.apk
+false
+
+in.plackal.lovecyclesfree.apk
+false
+
+com.androidfuture.love.framesfree.apk
+true
+best photo	app	multiple photo	app
+multiple photo	app	multiple photo	app
+photo	app	multiple photo	app
+new photo	app	multiple photo	app
+
+com.quest.spotlightexpress.apk
+false
+
+com.kodak.view.apk
+true
+video file	send	text file	send
+file folder	send	text file	send
+audio file	send	text file	send
+
+com.hotheart.VisualMoeGirlVol3.apk
+true
+beautiful design	find	many beautiful	find
+beautiful	find	many beautiful	find
+beauty	find	many beautiful	find
+beautiful photo	find	many beautiful	find
+
+com.ana.gezenesor.apk
+false
+
+com.freeall.webtoon2013.apk
+false
+
+com.freetheapps.findsexoffenders.apk
+false
+
+com.unlocker.netcom.apk
+false
+
+com.fluentfactory.moodyRadio.apk
+false
+
+com.cityjams.calculators.loan.apk
+false
+
+com.treemolabs.apps.cbsnews.apk
+true
+music video	share	favorite story video	share
+
+com.dimensionsco.dinamaniexpress.apk
+false
+
+com.jetblue.JetBlueAndroid.apk
+false
+
+app.simpled.freetool.apk
+true
+music library	manage	music	manage
+music today	manage	music	manage
+favorite music	manage	music	manage
+music	manage	music	manage
+music video	manage	music	manage
+
+com.rocky.cutezodiacclockwidget.apk
+false
+
+com.meenakshi.ghost.apk
+false
+
+com.eat24.app.apk
+true
+video chat	live	chat feature	live
+
+com.threebirds.pptreader.apk
+true
+file	press	file	press
+video file	press	file	press
+pdf file	press	file	press
+file format	press	file	press
+file folder	press	file	press
+audio file	press	file	press
+file manager	press	file	press
+
+com.gn.android.compass.apk
+false
+
+com.wallpaper.Humanacupointchartcf.apk
+false
+
+com.appspot.swisscodemonkeys.warp.apk
+true
+funny moment	create	funny	create
+funny ringtones	create	funny	create
+funny photo	create	funny	create
+funny	create	funny	create
+
+com.wyse.pocketcloudfree.apk
+false
+
+com.whisperarts.kids.breastfeeding.apk
+true
+feed video	record	feeding	record
+
+appinventor.ai_nationalphotographicservices.SightMark.apk
+false
+
+com.dudhattechnologies.alllIndiaJobs.apk
+true
+photo sharing	make	share	make
+share photo	make	share	make
+
+org.freekidsfamily.ssa.apk
+true
+video player	provide	movie video	provide
+video clip	provide	movie video	provide
+video tutorial	provide	movie video	provide
+video format	provide	movie video	provide
+music video	provide	movie video	provide
+
+com.xomodigital.connections.apk
+false
+
+by.local.android.apk
+false
+
+com.domainvslogic.auto_upload.apk
+true
+file	make	file upload	make
+file format	make	file upload	make
+file folder	make	file upload	make
+file manager	make	file upload	make
+
+android_serialport_api.sample.apk
+false
+
+net.zhengzhong.v5.android.apk
+true
+favorite	bookmark	favorite restaurant	bookmark
+favorite news	bookmark	favorite restaurant	bookmark
+
+com.a0soft.gphone.aDataOnOff.apk
+true
+data usage	ensure	data	ensure
+
+com.conduit.app_b4d0940588954e75989bdaa0b054b2d3.app.apk
+false
+
+com.h18games.mygame06.apk
+false
+
+com.movieplanet.activities.apk
+false
+
+au.com.bizarmobile.msa.apk
+false
+
+com.andromo.dev15759.app15042.apk
+false
+
+com.dexetra.iris.apk
+true
+video chat	show	video	show
+video clip	show	video	show
+video file	show	video	show
+
+njsoft.studio.Anatomy3dTutorial.apk
+false
+
+com.spd01.g3d.apk
+true
+photo sharing	edit	photo	edit
+best photo	edit	photo	edit
+photo effect	edit	photo	edit
+photo collection	edit	photo	edit
+multiple photo	edit	photo	edit
+view photo	edit	photo	edit
+photo editing	edit	photo	edit
+share photo	edit	photo	edit
+original photo	edit	photo	edit
+photo	edit	photo	edit
+new photo	edit	photo	edit
+
+com.yahoo.mobile.client.android.mail.apk
+true
+file folder	search	folder	search
+
+com.es.lalinea.farmaciaguardialalinea.apk
+false
+
+com.yinzcam.nfl.texans.apk
+true
+team	catch	team	catch
+favorite team	catch	team	catch
+
+com.wdphotos.apk
+true
+best photo	turn	ultimate photo	turn
+original photo	turn	ultimate photo	turn
+photo	turn	ultimate photo	turn
+new photo	turn	ultimate photo	turn
+
+com.gelakinetic.mtgfam.apk
+true
+sd card	search	card	search
+gift card	search	card	search
+credit card	search	card	search
+flash card	search	card	search
+sim card	search	card	search
+memory card	search	card	search
+card	search	card	search
+
+com.scoompa.draw.apk
+false
+
+doremi.news.flipboard.apk
+false
+
+com.utorrent.client.apk
+true
+music library	download	music	download
+music today	download	music	download
+favorite music	download	music	download
+music	download	music	download
+music video	download	music	download
+
+lysesoft.andftp.apk
+false
+
+com.softek.ofxclmobile.partnersfcu.apk
+false
+
+org.rhorita777.unzipper.apk
+false
+
+com.code.vnproapps.nametones.apk
+true
+ringtones	include	name ringtones	include
+ringtone	include	name ringtones	include
+
+com.zeezonline.nclotto.apk
+false
+
+com.lgoptimusg.wall.wallpaper.lgoptimusgwallpaper.apk
+true
+favorite photo	download	favorite	download
+favorite artist	download	favorite	download
+favorite music	download	favorite	download
+
+com.Aksenovborsh.SonyEricssonXperiaPlayTheme.apk
+true
+hourly view	change	hour	change
+
+com.jiubang.goscreenlock.theme.thisisit.getjar.apk
+false
+
+com.paragk.cardiotrainer.apk
+true
+private data	fetch	data	fetch
+data plan	fetch	data	fetch
+data	fetch	data	fetch
+data usage	fetch	data	fetch
+data connection	fetch	data	fetch
+personal data	fetch	data	fetch
+
+com.appmink.deviceInfo.apk
+false
+
+dv52159849638d5.popsa_barcelona_wallpaper.apk
+false
+
+com.cubeapplications.lcarscubedemo.apk
+false
+
+com.frussom.gravure.girls.apk
+false
+
+com.andromo.dev256505.app240919.apk
+true
+team	catch	favorite team	catch
+favorite team	catch	favorite team	catch
+
+com.tony007.JWBible.apk
+false
+
+gov.nasa.jpl.spaceimages.android.apk
+false
+
+com.kfactormedia.prayr.apk
+false
+
+com.vnonegroup.tinhthanbien.apk
+false
+
+com.peachxandroid.lwpger.apk
+false
+
+com.istudio.newshdchannel.live.apk
+false
+
+com.evercrest.powerpatcherlite.apk
+false
+
+edu.nmsu.aPL6.apk
+false
+
+flyjam.InstantTraductor.apk
+false
+
+a2z.NADA.apk
+false
+
+com.guidewall.arrivalguides.apk
+false
+
+net.taskdesigns.android.mycomicreader.apk
+false
+
+uk51fd3226a0e22.popsa_barbie_cool_wallpaper.apk
+false
+
+com.etb.android.bs.apk
+false
+
+com.wkyt.android.weather.apk
+true
+language	reflect	overall language	reflect
+supported language	reflect	overall language	reflect
+english language	reflect	overall language	reflect
+overall language	reflect	overall language	reflect
+many language	reflect	overall language	reflect
+different language	reflect	overall language	reflect
+
+com.yinzcam.nfl.bills.apk
+true
+team	catch	team	catch
+favorite team	catch	team	catch
+
+com.jiubang.goscreenlock.theme.trifriends.getjar.apk
+false
+
+com.intsig.camscanner.apk
+true
+mp file	edit	file name	edit
+file	edit	file name	edit
+video file	edit	file name	edit
+file format	edit	file name	edit
+audio file	edit	file name	edit
+file manager	edit	file name	edit
+
+com.Antonova.PhineasandFerb.apk
+true
+hourly view	change	hour	change
+
+com.mikanisland.triptracker.apk
+false
+
+com.nosapps.android.bothermenotes.apk
+false
+
+com.PebblePal.apk
+false
+
+com.animewatch.animewatch.apk
+false
+
+com.instacollage.apk
+true
+collage	make	instant collage	make
+
+com.tspoon.BF4.apk
+false
+
+codeadore.textgram.apk
+true
+gallery	save	gallery	save
+photo gallery	save	gallery	save
+gallery view	save	gallery	save
+
+com.moonlight.pinkgirly.apk
+false
+
+com.cantcha.igotchat.apk
+true
+video chat	feature	group chat	feature
+
+com.pixeliondev.latinagirlasslivewallpaper.apk
+false
+
+com.saakshin.bachao.apk
+true
+video player	record	video	record
+video chat	record	video	record
+video clip	record	video	record
+video file	record	video	record
+video tutorial	record	video	record
+feed video	record	video	record
+video format	record	video	record
+music video	record	video	record
+
+com.whitecrow.metroid.apk
+false
+
+com.pyxismobile.SentaraMyChart.ui.activity.apk
+true
+twitter facebook	include	facebook	include
+facebook twitter	include	facebook	include
+
+com.stumbleupon.android.app.apk
+false
+
+com.Aksenovborsh.LGOptimusOneImages.apk
+true
+hourly view	change	hour	change
+
+com.lifesofts.photo.lovewedframe.apk
+false
+
+com.Bathary.WeightTraining.apk
+true
+format	present	application format	present
+
+com.backstone.instant.collage.apk
+true
+photo sharing	edit	photo	edit
+best photo	edit	photo	edit
+photo effect	edit	photo	edit
+photo collection	edit	photo	edit
+multiple photo	edit	photo	edit
+view photo	edit	photo	edit
+photo editing	edit	photo	edit
+share photo	edit	photo	edit
+original photo	edit	photo	edit
+photo	edit	photo	edit
+new photo	edit	photo	edit
+
+com.dub.app.middlesexcommunitycollege.apk
+false
+
+de.hafas.android.eurail.apk
+false
+
+com.meetmoi.firstbase.apk
+false
+
+com.morrison.gallerylocklite.apk
+true
+video player	manage	photo video	manage
+video format	manage	photo video	manage
+music video	manage	photo video	manage
+
+com.cellfish.livewallpaper.family_guy.apk
+false
+
+com.app_sportmart1.layout.apk
+false
+
+com.areyouinterested.android.apk
+false
+
+my.bobmarley.rings.first.apk
+false
+
+com.wlox.android.weather.apk
+true
+language	reflect	overall language	reflect
+supported language	reflect	overall language	reflect
+english language	reflect	overall language	reflect
+overall language	reflect	overall language	reflect
+many language	reflect	overall language	reflect
+different language	reflect	overall language	reflect
+
+com.ksfy.android.weather.apk
+true
+language	reflect	overall language	reflect
+supported language	reflect	overall language	reflect
+english language	reflect	overall language	reflect
+overall language	reflect	overall language	reflect
+many language	reflect	overall language	reflect
+different language	reflect	overall language	reflect
+
+cx.hoohol.silanoid.apk
+false
+
+ru.dwerty.android.anonymouschat.apk
+false
+
+com.ipum.app1197.apk
+false
+
+com.Mp3Editor.apk
+false
+
+com.buddypoke.buddypoke.apk
+false
+
+com.tmarki.comicmaker.apk
+true
+comic	save	comic	save
+comic book	save	comic	save
+
+com.kamtjatka.mmasummit.apk
+true
+favorite artist	select	favorite	select
+favorite song	select	favorite	select
+
+com.vembu.storegrid.apk
+false
+
+com.daniel.elephantnotes.apk
+false
+
+apps.hyper.tv.dominican.apk
+false
+
+com.outsitenetworks.jsexpressstoprewards.apk
+false
+
+kr.co.samsung.galaxys3.apk
+false
+
+com.app_brevofield.layout.apk
+false
+
+to.mediaconverter.apk
+true
+video format	select	video file	select
+
+pepid.android.apk
+false
+
+com.thefancy.app.apk
+false
+
+com.smartoapps.touch.galaxy.wolf.apk
+false
+
+com.Nacavainro.Maroon5background.apk
+false
+
+br.jmoreira.sonic.apk
+true
+ringtones	set	ringtone	set
+ringtone	set	ringtone	set
+
+appinventor.ai_vn_thangnd.learning_solidwork.apk
+false
+
+com.spotoption.android.tdoptions.apk
+false
+
+com.tndev.kidsframes.apk
+true
+photo sharing	decorate	photo	decorate
+best photo	decorate	photo	decorate
+photo effect	decorate	photo	decorate
+photo collection	decorate	photo	decorate
+multiple photo	decorate	photo	decorate
+view photo	decorate	photo	decorate
+photo editing	decorate	photo	decorate
+share photo	decorate	photo	decorate
+original photo	decorate	photo	decorate
+photo	decorate	photo	decorate
+new photo	decorate	photo	decorate
+
+com.conduit.app_d42c2ab1a7974d3d90ce9f643f945cb4.app.apk
+false
+
+net.blackenvelope.learnsomethingeveryday.apk
+false
+
+com.app_joelosteen.layout.apk
+false
+
+netgenius.bizcal.apk
+true
+multiple photo	delete	multiple event	delete
+
+com.gsoft.movsounds.apk
+true
+ringtones	sound	ringtones	sound
+ringtone	sound	ringtones	sound
+
+com.wb.mahadev.apk
+true
+ringtones	listen	ringtones	listen
+ringtone	listen	ringtones	listen
+
+com.unbound.android.cqhm.apk
+false
+
+sonakay.smallwallpaper1.apk
+false
+
+com.avai.amp.washington.apk
+false
+
+com.JasonRosenbaum.BusTrackDC.apk
+true
+favorite	make	favorite application	make
+favorite list	make	favorite application	make
+favorite place	make	favorite application	make
+favorite news	make	favorite application	make
+
+com.a1.HudSeeker.apk
+false
+
+com.live.lwp.galaxy.s4.ripple.s4waterripple.apk
+true
+favorite photo	download	favorite	download
+favorite artist	download	favorite	download
+favorite music	download	favorite	download
+
+com.clearhub.wl.apk
+false
+
+com.sappfusion.android.billreminder.trail.apk
+true
+relevant category	add	category	add
+
+com.cyberlink.remotecontrol_free.apk
+false
+
+com.fitnesskeeper.runkeeper.pro.apk
+false
+
+com.svox.langpack.installer.apk
+false
+
+com.a0soft.gphone.app2sd.apk
+false
+
+biz.binarysolutions.signature.apk
+false
+
+eddie.quintero.apk
+false
+
+com.hcg.codysimpson.apk
+true
+music library	chat	music	chat
+music today	chat	music	chat
+favorite music	chat	music	chat
+music	chat	music	chat
+music video	chat	music	chat
+
+tropical.ne.m.lovequotes.apk
+true
+sd card	save	sd card	save
+gift card	save	sd card	save
+credit card	save	sd card	save
+flash card	save	sd card	save
+sim card	save	sd card	save
+memory card	save	sd card	save
+card	save	sd card	save
+
+com.webroot.security.apk
+false
+
+afzkl.development.mVideoPlayer.apk
+true
+video player	save	video	save
+video clip	save	video	save
+video tutorial	save	video	save
+feed video	save	video	save
+video format	save	video	save
+music video	save	video	save
+
+com.sbs.lamusica.apk
+false
+
+com.wiziapp.app112200.apk
+false
+
+com.nemustech.regina.apk
+true
+file folder	create	folder	create
+
+com.jellytap.cooliconfinder.apk
+true
+sd card	save	sd card	save
+gift card	save	sd card	save
+credit card	save	sd card	save
+flash card	save	sd card	save
+sim card	save	sd card	save
+memory card	save	sd card	save
+card	save	sd card	save
+
+com.adobe.reader.apk
+true
+file folder	create	folder	create
+
+vsin.t16_funny_photo.apk
+true
+best photo	add	various photo	add
+photo effect	add	various photo	add
+photo collection	add	various photo	add
+multiple photo	add	various photo	add
+view photo	add	various photo	add
+photo editing	add	various photo	add
+original photo	add	various photo	add
+photo	add	various photo	add
+new photo	add	various photo	add
+
+appinventor.ai_ltamdee.ma0070.apk
+true
+cartoon	watch	cartoon	watch
+
+org.alliant.mobile.apk
+false
+
+com.bitzygames.car.alarm.apk
+false
+
+com.tommmi.topcamerastores.apk
+true
+private data	fetch	data	fetch
+data plan	fetch	data	fetch
+data	fetch	data	fetch
+data usage	fetch	data	fetch
+data connection	fetch	data	fetch
+personal data	fetch	data	fetch
+
+apps.crystal.hitmeup.android.apk
+false
+
+com.wshuo.shui.Aquariumd.apk
+false
+
+com.thanhtai.say2me.apk
+false
+
+uk51fd3226a0e22.popsa_kirby_cool_wallpaper.apk
+false
+
+com.audioaddict.jr.apk
+true
+favorite photo	find	favorite style	find
+favorite artist	find	favorite style	find
+favorite show	find	favorite style	find
+favorite music	find	favorite style	find
+favorite list	find	favorite style	find
+favorite location	find	favorite style	find
+
+com.touchlab.software.eye.retina.lock.screen.apk
+true
+sound volume	set	sound	set
+
+one.direction.star.best.hd.live.wallpaper.apk
+false
+
+org.coolapps.quicketsetting.apk
+false
+
+com.babyfirsttv.google.myfirstbooks.apk
+false
+
+com.bestappsforphone.howtoovercomefearphobiahowtoovercomeshynessfree3.apk
+false
+
+cn.voilet.videoplayer.apk
+true
+video player	save	video	save
+video clip	save	video	save
+video tutorial	save	video	save
+feed video	save	video	save
+video format	save	video	save
+music video	save	video	save
+
+com.cellbots.apk
+false
+
+atsoft.download.booster.apk
+false
+
+org.gaeproxy.apk
+false
+
+com.powerwallinc.Residentevil.wallpaper.apk
+false
+
+com.appking.jinquiz.apk
+false
+
+com.radicalthinking.mangacloud.apk
+false
+
+ph.com.sulit.app.apk
+true
+photo editing	manage	edit	manage
+
+qj520c6deb2a065.popsa_baltimore_ravens_pictures.apk
+false
+
+com.amazon.mp3.apk
+true
+music library	download	music	download
+music today	download	music	download
+favorite music	download	music	download
+music	download	music	download
+music video	download	music	download
+
+com.evensoftware.fwkframe.montajeninos.apk
+false
+
+de.darkbloodstudios.dubstepdrumpads.apk
+false
+
+com.musicplay.ttbox.apk
+true
+music library	create	music	create
+music today	create	music	create
+favorite music	create	music	create
+music	create	music	create
+
+appinventor.ai_nguyeniu451.Adobe_Photoshop_CS6_Tutorials.apk
+true
+photo sharing	create	group photo	create
+best photo	create	group photo	create
+photo effect	create	group photo	create
+photo collection	create	group photo	create
+view photo	create	group photo	create
+share photo	create	group photo	create
+original photo	create	group photo	create
+photo	create	group photo	create
+new photo	create	group photo	create
+
+starwar.videogame.hd.best.live.wallpaper.apk
+false
+
+air.slidemaker.apk
+true
+best photo	add	photo	add
+photo effect	add	photo	add
+photo collection	add	photo	add
+multiple photo	add	photo	add
+view photo	add	photo	add
+photo editing	add	photo	add
+original photo	add	photo	add
+photo	add	photo	add
+new photo	add	photo	add
+
+com.xfinity.tv.apk
+true
+favorite photo	find	favorite	find
+favorite artist	find	favorite	find
+favorite show	find	favorite	find
+favorite music	find	favorite	find
+favorite list	find	favorite	find
+favorite location	find	favorite	find
+
+com.campuscash.thepittnews.apk
+false
+
+com.robApps.postitwidget.apk
+false
+
+com.mobilerush.tulanefootballrush.apk
+true
+team	connect	team	connect
+favorite team	connect	team	connect
+
+com.asiainspection.apk
+false
+
+com.alert.tillys.apk
+false
+
+com.afffab.funnyadvice.apk
+false
+
+com.live365.mobile.android.apk
+true
+favorite music	find	music	find
+
+com.mobilebeez.noequipmentworkouts.apk
+false
+
+com.jaaotes.removeblackheads.apk
+false
+
+com.conduit.app_541f67e008814c91a4c8ec161c10b533.app.apk
+false
+
+com.feather.candymakinghome.AOUJLDXEJOYAWJBDN.apk
+false
+
+com.elift.hdplayer.apk
+true
+video player	support	music video	support
+video format	support	music video	support
+music video	support	music video	support
+
+slide.cameraZoom.pictureframes.apk
+true
+collage	create	stunning collage	create
+
+rev.app169.apk
+true
+video clip	download	song clip	download
+
+com.bumptech.bumpga.apk
+true
+photo sharing	move	photo	move
+best photo	move	photo	move
+photo effect	move	photo	move
+photo collection	move	photo	move
+multiple photo	move	photo	move
+view photo	move	photo	move
+photo editing	move	photo	move
+share photo	move	photo	move
+original photo	move	photo	move
+photo	move	photo	move
+new photo	move	photo	move
+
+com.susheelapps.ultimateweightwatchers.apk
+true
+private data	fetch	data	fetch
+data plan	fetch	data	fetch
+data	fetch	data	fetch
+data usage	fetch	data	fetch
+data connection	fetch	data	fetch
+personal data	fetch	data	fetch
+
+com.tennischannel.tceverywhere.apk
+false
+
+uk.co.senab.photup.apk
+true
+facebook page	upload	page	upload
+
+hr.apps.n66621161.apk
+false
+
+com.superfanu.tulane.apk
+false
+
+com.spyonyourboyfriend.apk
+false
+
+com.okythoos.android.turbodownloaderbeta.apk
+true
+mp file	download	file	download
+
+net.bytten.xkcdviewer.apk
+false
+
+cutie.monkey.cartoon.animals.apk
+false
+
+com.jiubang.goscreenlock.theme.zhope.apk
+true
+locker	instal	go locker	instal
+go locker	instal	go locker	instal
+
+com.edupad.app.grade6.math.apk
+true
+player stats	enable	player	enable
+music player	enable	player	enable
+
+com.doapps.android.mln.MLN_42b39fdb198522d2bfc6b1f64cd98365.apk
+false
+
+com.kauf.talking.baum.TalkingJamesSquirrel.apk
+true
+funny moment	find	funny joke	find
+funny ringtones	find	funny joke	find
+funny photo	find	funny joke	find
+funny	find	funny joke	find
+
+com.dedfox.skazka.kapriz.apk
+true
+mp file	delete	file	delete
+audio file	delete	file	delete
+
+com.a156787537851fb9d95b50a97a.a75241975a.apk
+false
+
+com.bopters.scarletletter.apk
+true
+file	add	audio file	add
+file format	add	audio file	add
+audio file	add	audio file	add
+file manager	add	audio file	add
+
+uk51fd3226a0e22.popsa_princess_cool_wallpaper.apk
+false
+
+org.astrid.apk
+true
+file	export	backup file	export
+file format	export	backup file	export
+file manager	export	backup file	export
+
+com.sknvibes.newsapp.beta.apk
+false
+
+cz.rosada.ks.apk
+false
+
+com.Abigail.CarlosPiggyLiveWallpaper.apk
+true
+share story	read	story	read
+
+com.easytool.signalbooster.apk
+false
+
+com.pgn.magiclip.apk
+true
+video clip	share	new clip	share
+
+com.shinms0315.gtoolspro.apk
+false
+
+com.baishisoft.photo.japan176girl.apk
+true
+photo sharing	collect	photo	collect
+best photo	collect	photo	collect
+photo effect	collect	photo	collect
+photo collection	collect	photo	collect
+multiple photo	collect	photo	collect
+view photo	collect	photo	collect
+photo editing	collect	photo	collect
+share photo	collect	photo	collect
+original photo	collect	photo	collect
+photo	collect	photo	collect
+new photo	collect	photo	collect
+
+com.ramzyameen.bbc.apk
+false
+
+com.yowza.apk
+false
+
+com.nextechclassifieds.android.apk
+false
+
+com.yammer.v1.apk
+false
+
+com.microsoft.office.lync15.apk
+false
+
+com.RSSplataforma.arquitectura.apk
+false
+
+com.eightwest.myrhinoplasty.apk
+false
+
+com.sancronringtones.soundeffectssb.apk
+false
+
+com.traxel.wethepeople.apk
+false
+
+tarot_card_readings_and_your_destiny.book.grasshopper.app.apk
+false
+
+com.zonewalker.acar.apk
+false
+
+mediavision.handwallet.apk
+false
+
+org.tasks.apk
+false
+
+com.ifs.banking.fiid1367.apk
+false
+
+com.ralicanalaf02.SpiderManTheme.apk
+false
+
+org.busbrothers.anystop.mtanewyorkcity.apk
+true
+favorite photo	find	favorite	find
+favorite artist	find	favorite	find
+favorite show	find	favorite	find
+favorite music	find	favorite	find
+favorite list	find	favorite	find
+favorite location	find	favorite	find
+
+com.azefsw.purchasedapps.apk
+false
+
+com.rtve.actualidaddos.apk
+false
+
+com.coreapps.android.followme.atce2013.apk
+false
+
+com.aetn.history.watch.apk
+false
+
+aa.a3.apk
+false
+
+com.consonancegroup.bannerpic.apk
+false
+
+com.appxy.tinyscanfree.apk
+true
+mp file	support	different file	support
+file	support	different file	support
+video file	support	different file	support
+pdf file	support	different file	support
+file format	support	different file	support
+file folder	support	different file	support
+audio file	support	different file	support
+file manager	support	different file	support
+
+com.researchNow.eRewardsPlus.apk
+true
+music video	capture	music	capture
+
+com.forumfoundry.planetminis.apk
+false
+
+com.mobilerush.olemissfootballrush.apk
+true
+team	connect	team	connect
+favorite team	connect	team	connect
+
+me.doubledutch.nbmbaa.apk
+false
+
+lebron.james.topstar.kings.apk
+false
+
+com.martin.SamsungGalaxyRingtones.apk
+true
+sd card	save	card	save
+gift card	save	card	save
+credit card	save	card	save
+flash card	save	card	save
+sim card	save	card	save
+memory card	save	card	save
+card	save	card	save
+
+com.app_abfc.layout.apk
+true
+photo sharing	download	photo	download
+photo effect	download	photo	download
+multiple photo	download	photo	download
+view photo	download	photo	download
+photo editing	download	photo	download
+share photo	download	photo	download
+
+com.assasinskinn.free.apk
+false
+
+com.gau.go.launcherex.theme.camping.apk
+false
+
+com.mfoundry.mb.android.mb_111906271.apk
+false
+
+com.mobileigniter.android.repwelch.apk
+false
+
+com.wiziapp.app116659.apk
+false
+
+com.primedia.apartmentguide.apk
+false
+
+com.key.guerra3DWaterfallLiveWallpaper.apk
+false
+
+com.fitue12.f14.apk
+false
+
+com.justforfunapps.music.apk
+true
+music library	manage	music	manage
+music today	manage	music	manage
+favorite music	manage	music	manage
+music	manage	music	manage
+music video	manage	music	manage
+
+br.com.zeroum.turmadagalinha.apk
+false
+
+com.smartwallinc.marvel.superheroes.apk
+false
+
+com.aide.ui.apk
+true
+file folder	create	file folder	create
+
+com.firstinterstatebank.mobile.android.apk
+false
+
+metal.animefan.hd.best.live.wallpaper.apk
+false
+
+pixelrush.xphonefree.apk
+false
+
+com.pinger.gif.chat.text.free.apk
+true
+video player	record	video	record
+video chat	record	video	record
+video clip	record	video	record
+video file	record	video	record
+video tutorial	record	video	record
+feed video	record	video	record
+video format	record	video	record
+music video	record	video	record
+
+com.kauf.sticker.funfacechangerproeffects.apk
+true
+photo sharing	select	photo	select
+best photo	select	photo	select
+photo effect	select	photo	select
+photo collection	select	photo	select
+multiple photo	select	photo	select
+view photo	select	photo	select
+photo editing	select	photo	select
+share photo	select	photo	select
+original photo	select	photo	select
+photo	select	photo	select
+new photo	select	photo	select
+
+com.blackhat.htmlparsingtest.apk
+true
+comic	save	comic	save
+comic book	save	comic	save
+
+com.vj.filemanager.apk
+false
+
+com.shiyoukeji.chengren.activity.apk
+false
+
+air.fourdWhiteboard.debug.apk
+true
+gallery	save	gallery	save
+photo gallery	save	gallery	save
+gallery view	save	gallery	save
+
+com.listia.Listia.apk
+false
+
+com.bybeardy.pixelot.apk
+true
+photo sharing	provide	photo	provide
+best photo	provide	photo	provide
+photo effect	provide	photo	provide
+multiple photo	provide	photo	provide
+photo editing	provide	photo	provide
+share photo	provide	photo	provide
+original photo	provide	photo	provide
+photo	provide	photo	provide
+new photo	provide	photo	provide
+
+com.firozansari.ansar.apk
+false
+
+net.asturdroid.felizcumpleanos.apk
+true
+sd card	send	card text	send
+gift card	send	card text	send
+credit card	send	card text	send
+flash card	send	card text	send
+sim card	send	card text	send
+memory card	send	card text	send
+card	send	card text	send
+
+com.vergeretail.connect.breaktime.apk
+false
+
+appinventor.ai_garrymiles_GM.QRCodeMinistryAid.apk
+false
+
+com.defense.corporation.FlashBlinkingOnCallAndSMS.apk
+false
+
+com.elibera.android.findmycar.apk
+true
+video file	record	file	record
+audio file	record	file	record
+
+com.mobisystems.msdict.embedded.wireless.mcgrawhill.ems.apk
+false
+
+com.kauf.sticker.funfacechangerextremefree.apk
+true
+photo sharing	select	photo	select
+best photo	select	photo	select
+photo effect	select	photo	select
+photo collection	select	photo	select
+multiple photo	select	photo	select
+view photo	select	photo	select
+photo editing	select	photo	select
+share photo	select	photo	select
+original photo	select	photo	select
+photo	select	photo	select
+new photo	select	photo	select
+
+com.rosemartin.app3.apk
+false
+
+com.andromo.dev86290.app238591.apk
+false
+
+lcdi.edu.lookcd.apk
+true
+sd card	save	sd card	save
+gift card	save	sd card	save
+credit card	save	sd card	save
+flash card	save	sd card	save
+sim card	save	sd card	save
+memory card	save	sd card	save
+card	save	sd card	save
+
+com.appsbar.PRCPerth238296.apk
+false
+
+com.movoto.movoto.apk
+false
+
+com.andromo.dev9576.app166775.apk
+false
+
+com.dianxinos.dxbs.apk
+false
+
+com.truestapps.seniorsmeet.apk
+true
+private data	fetch	data	fetch
+data plan	fetch	data	fetch
+data	fetch	data	fetch
+data usage	fetch	data	fetch
+data connection	fetch	data	fetch
+personal data	fetch	data	fetch
+
+com.androidsx.checkspelling.apk
+false
+
+com.linmedia.newstouch.wwlp.apk
+false
+
+com.wiziapp.app115173.apk
+false
+
+ait.podka.apk
+false
+
+com.kriv.android.weather.apk
+true
+language	reflect	overall language	reflect
+supported language	reflect	overall language	reflect
+english language	reflect	overall language	reflect
+overall language	reflect	overall language	reflect
+many language	reflect	overall language	reflect
+different language	reflect	overall language	reflect
+
+com.adhd.apk
+false
+
+com.hcg.lilboosie.apk
+true
+music library	chat	music	chat
+music today	chat	music	chat
+favorite music	chat	music	chat
+music	chat	music	chat
+music video	chat	music	chat
+
+com.kaja.openmbta.apk
+false
+
+com.whoshere.whoshere.apk
+false
+
+cc.malcolmm.filekicker.apk
+true
+mp file	send	file	send
+video file	send	file	send
+file folder	send	file	send
+audio file	send	file	send
+
+com.custom.lwp.FREE_PinkILoveYou.apk
+false
+
+com.cu.apk
+false
+
+fr.atlassi.babynightlight.apk
+false
+
+sexybustygirlxxx.cmon.com.apk
+true
+private data	transmit	user data	transmit
+data plan	transmit	user data	transmit
+data	transmit	user data	transmit
+data connection	transmit	user data	transmit
+personal data	transmit	user data	transmit
+
+com.farmingsimulation2013rewiew.apk
+false
+
+com.mbapp.video.apk
+true
+video player	manage	video	manage
+video file	manage	video	manage
+video format	manage	video	manage
+music video	manage	video	manage
+
+com.andromo.dev86290.app235165.apk
+false
+
+com.wall.galaxys3.wallpaper.galaxys.apk
+true
+favorite photo	download	favorite	download
+favorite artist	download	favorite	download
+favorite music	download	favorite	download
+
+com.sureshotapps.onlinemoviewatchfree.apk
+true
+private data	fetch	data	fetch
+data plan	fetch	data	fetch
+data	fetch	data	fetch
+data usage	fetch	data	fetch
+data connection	fetch	data	fetch
+personal data	fetch	data	fetch
+
+com.minus.android.apk
+false
+
+qe51fdab8e5c5f8.popsa_captain_america_cool_photo.apk
+false
+
+com.Laser.Light3DRoseLiveWallpaper.apk
+false
+
+com.gau.go.touchhelperex.theme.hexagon.apk
+false
+
+com.mobile.mp4.player.apk
+false
+
+com.getshine.shine.apk
+false
+
+org.reyfasoft.reinavalera1960.apk
+false
+
+com.appdevandroid.framework.cashregisterfree.apk
+true
+pdf file	export	pdf text	export
+
+com.gtp.nextlauncher.liverpaper.bulbex.apk
+false
+
+it.pinenuts.technews.apk
+false
+
+com.gau.go.launcherex.theme.swan.apk
+false
+
+com.nuance.balerion.apk
+true
+favorite team	catch	favorite show	catch
+
+net.weathernation.mobile.victoryrides.apk
+true
+private data	export	route data	export
+data plan	export	route data	export
+data	export	route data	export
+data connection	export	route data	export
+personal data	export	route data	export
+
+com.stothek.wellnoted.apk
+false
+
+com.app_bswann.layout.apk
+false
+
+com.globalsolutions.soliq.apk
+false
+
+com.krugism.registroid.apk
+false
+
+com.infomarvel.istorybooks.apk
+true
+sd card	save	sd card	save
+gift card	save	sd card	save
+credit card	save	sd card	save
+flash card	save	sd card	save
+sim card	save	sd card	save
+memory card	save	sd card	save
+card	save	sd card	save
+
+com.rosberry.splitpic.newproject.apk
+true
+photo sharing	make	photo	make
+best photo	make	photo	make
+photo effect	make	photo	make
+photo collection	make	photo	make
+multiple photo	make	photo	make
+view photo	make	photo	make
+photo editing	make	photo	make
+share photo	make	photo	make
+original photo	make	photo	make
+photo	make	photo	make
+new photo	make	photo	make
+
+com.droid27.d3flipclockweather.apk
+true
+favorite artist	select	favorite location	select
+favorite song	select	favorite location	select
+
+bnb.com.bo.bnbmovil.apk
+false
+
+com.BHTV.apk
+true
+favorite photo	find	favorite show	find
+favorite artist	find	favorite show	find
+favorite show	find	favorite show	find
+favorite music	find	favorite show	find
+favorite list	find	favorite show	find
+favorite location	find	favorite show	find
+
+com.solarspark.scdownloader.apk
+true
+favorite photo	download	favorite music	download
+music today	download	favorite music	download
+favorite music	download	favorite music	download
+music	download	favorite music	download
+
+com.mmg.mydiettracker.apk
+true
+photo sharing	manage	photo	manage
+best photo	manage	photo	manage
+photo effect	manage	photo	manage
+photo collection	manage	photo	manage
+view photo	manage	photo	manage
+photo editing	manage	photo	manage
+share photo	manage	photo	manage
+original photo	manage	photo	manage
+photo	manage	photo	manage
+new photo	manage	photo	manage
+
+com.hcg.kendricklamar.apk
+true
+music library	chat	music	chat
+music today	chat	music	chat
+favorite music	chat	music	chat
+music	chat	music	chat
+music video	chat	music	chat
+
+com.mediafriends.chime.apk
+true
+photo sharing	turn	photo	turn
+best photo	turn	photo	turn
+photo effect	turn	photo	turn
+photo collection	turn	photo	turn
+multiple photo	turn	photo	turn
+view photo	turn	photo	turn
+photo editing	turn	photo	turn
+share photo	turn	photo	turn
+original photo	turn	photo	turn
+photo	turn	photo	turn
+new photo	turn	photo	turn
+
+com.librotecstar.audiolibro.hablozaratustra.apk
+true
+memory	load	device memory	load
+
+com.thorntons.finder.apk
+true
+favorite place	make	thornton favorite place	make
+
+edu.maryville.m.apk
+false
+
+com.pnn.obdcardoctor.apk
+false
+
+com.Bathary.HowtoMakeaPaperCraneOrigami.apk
+true
+format	present	application format	present
+
+com.mobilerush.alabamafootballrush.apk
+true
+team	connect	team	connect
+favorite team	connect	team	connect
+
+com.boxeelab.healthlete.bpwatch.apk
+false
+
+org.prowl.recorder.apk
+true
+file format	make	format	make
+
+com.tamtris.fertilityfriend.apk
+false
+
+com.webalo.ua.mdx.apk
+false
+
+com.popularcrowd.picpaint.apk
+false
+
+ban.card.payanywhere.apk
+false
+
+com.ape.apps.lies.apk
+false
+
+com.earthflare.android.medhelper.lite.apk
+false
+
+com.acerolamob.android.ecuadornoticias.apk
+true
+photo sharing	click	share	click
+share photo	click	share	click
+
+appinventor.ai_cooolappss.arjona.apk
+false
+
+com.hybridforge.miamipls.apk
+false
+
+com.abclocal.kfsn.news.apk
+true
+facebook page	give	facebook	give
+
+marvin.gaye.ringtones.marvin.gaye.ringtone.apk
+false
+
+com.spellsoft.lwpdd_heroes.apk
+false
+
+com.artamus.chat_memes.apk
+false
+
+com.thinkyeah.quicktouch.apk
+false
+
+com.danilkins.MyLittlePonyThemes.apk
+false
+
+com.paintle.apk
+false
+
+com.bti.myGuitar.apk
+false
+
+gamefans.elder.scrolls.hd.best.live.wallpaper.apk
+false
+
+com.getfreegadgets.animalcrossingnewleafguide.apk
+false
+
+com.subzeroapps.akhbaraknet.apk
+false
+
+com.wofl.android.weather.apk
+false
+
+com.techandroso.quiz.vii.apk
+false
+
+com.livelink.nrha.apk
+false
+
+com.devmj.wiizmmusicplayer.apk
+true
+music video	provide	music	provide
+
+com.prowresnet.android.apk
+false
+
+com.dataifx.global.apk
+false
+
+com.limmercreative.srtengine.lastminute.paramedic.apk
+false
+
+com.tapatalk.forumgrasscitycom.apk
+false
+
+net.fft.map199803113.apk
+false
+
+com.usnaviguide.radar_now_classic4.apk
+false
+
+de.bapps.sexyboobs.apk
+false
+
+com.associatedbank.mobilebanking.apk
+false
+
+com.snfandroid.snfspiwp.apk
+false
+
+com.gau.go.weatherex.appbilling.dynamicsbg.classic.apk
+false
+
+com.skava.hybridapp.gap.apk
+false
+
+com.unlocker.att.apk
+false
+
+com.skillapps.comics.apk
+true
+private data	fetch	data	fetch
+data plan	fetch	data	fetch
+data	fetch	data	fetch
+data usage	fetch	data	fetch
+data connection	fetch	data	fetch
+personal data	fetch	data	fetch
+
+com.amirnaor.happybday.apk
+true
+sd card	send	original card	send
+gift card	send	original card	send
+credit card	send	original card	send
+flash card	send	original card	send
+sim card	send	original card	send
+memory card	send	original card	send
+card	send	original card	send
+
+com.comcast.plaxo.familyconnect.app.apk
+false
+
+twogirlswashcar.csllc.com.apk
+true
+private data	transmit	user data	transmit
+data plan	transmit	user data	transmit
+data	transmit	user data	transmit
+data connection	transmit	user data	transmit
+personal data	transmit	user data	transmit
+
+com.tigertext.apk
+true
+mp file	send	file	send
+video file	send	file	send
+file folder	send	file	send
+audio file	send	file	send
+
+com.edwardkim.android.screenshotitfree.apk
+false
+
+com.gogobot.gogodroid.apk
+true
+twitter facebook	love	facebook	love
+facebook page	love	facebook	love
+facebook twitter	love	facebook	love
+
+appinventor.ai_danixp121.pinkbox.apk
+false
+
+com.hotheart.VisualMoeGirlVol1.apk
+true
+beautiful design	find	many beautiful	find
+beautiful	find	many beautiful	find
+beauty	find	many beautiful	find
+beautiful photo	find	many beautiful	find
+
+com.icecoldapps.photoeditorultimatefree.apk
+true
+photo sharing	edit	photo	edit
+best photo	edit	photo	edit
+photo effect	edit	photo	edit
+photo collection	edit	photo	edit
+multiple photo	edit	photo	edit
+view photo	edit	photo	edit
+photo editing	edit	photo	edit
+share photo	edit	photo	edit
+original photo	edit	photo	edit
+photo	edit	photo	edit
+new photo	edit	photo	edit
+
+com.pompeiicity.funpic.apk
+true
+photo sharing	comment	photo	comment
+best photo	comment	photo	comment
+photo effect	comment	photo	comment
+photo collection	comment	photo	comment
+multiple photo	comment	photo	comment
+view photo	comment	photo	comment
+photo editing	comment	photo	comment
+share photo	comment	photo	comment
+original photo	comment	photo	comment
+photo	comment	photo	comment
+new photo	comment	photo	comment
+
+io.vov.vitamio.apk
+true
+format	support	many external embedded subtitle format	support
+
+acr.browser.barebones.apk
+false
+
+appinventor.ai_herit14.TIGRES_FC.apk
+false
+
+com.paullipnyagov.electrodrumpads24.apk
+false
+
+com.ibsys.app.pns_jax.apk
+false
+
+com.blio.androidreader.apk
+false
+
+com.qihoo360.launcher.apk
+false
+
+com.dal.barney.apk
+true
+cartoon	watch	cartoon video	watch
+
+com.mylocaltv.wral.apk
+false
+
+com.trimble.outdoors.cabelas.fish.apk
+false
+
+com.Postupovroma01.AppleiPhone3GHDPictures.apk
+true
+hourly view	change	hour	change
+
+com.docbookmd.docbookandroid.apk
+false
+
+com.nll.screenrecorder.apk
+true
+audio file	record	audio	record
+audio	record	audio	record
+
+com.sportskeeda.johncena.apk
+false
+
+com.andromo.dev256505.app241130.apk
+true
+team	catch	favorite team	catch
+favorite team	catch	favorite team	catch
+
+com.i2e.docuscan.apk
+false
+
+com.dream.collage.maker.apk
+true
+collage	make	instant collage	make
+
+com.guardian.apk
+true
+view photo	add	view	add
+
+com.mobilerush.arizonastatefootballrush.apk
+true
+conference	compete	pacific conference	compete
+conference standing	compete	pacific conference	compete
+
+com.bswim.workshiftsfree.apk
+true
+photo editing	add	edit	add
+
+com.Samsonjulla.WoodCarvingimages.apk
+true
+hourly view	change	hour	change
+
+com.speed.light.free.ebiciehpbgzx.apk
+false
+
+com.wifr.android.weather.apk
+true
+language	reflect	overall language	reflect
+supported language	reflect	overall language	reflect
+english language	reflect	overall language	reflect
+overall language	reflect	overall language	reflect
+many language	reflect	overall language	reflect
+different language	reflect	overall language	reflect
+
+com.datatrac.android.driver.apk
+false
+
+com.ancient.tech.reborn.pic.anime2.free.apk
+true
+sd card	save	sd card	save
+gift card	save	sd card	save
+credit card	save	sd card	save
+flash card	save	sd card	save
+sim card	save	sd card	save
+memory card	save	sd card	save
+card	save	sd card	save
+
+jp.naver.line.android.apk
+true
+favorite photo	find	favorite character	find
+favorite artist	find	favorite character	find
+favorite show	find	favorite character	find
+favorite music	find	favorite character	find
+favorite list	find	favorite character	find
+favorite location	find	favorite character	find
+
+com.ventoaureo.HighSpeedDownloader.apk
+true
+mp file	download	file	download
+
+com.itunestoppodcastplayer.app.apk
+true
+sd card	save	sd card	save
+gift card	save	sd card	save
+credit card	save	sd card	save
+flash card	save	sd card	save
+sim card	save	sd card	save
+memory card	save	sd card	save
+card	save	sd card	save
+
+com.imgur.mobile.apk
+false
+
+com.Synapse.LEX18.apk
+false
+
+com.lifetopia.RIC.apk
+false
+
+com.yakaz.apk
+false
+
+com.eastbk.playboy.apk
+true
+photo sharing	download	photo	download
+photo effect	download	photo	download
+multiple photo	download	photo	download
+view photo	download	photo	download
+photo editing	download	photo	download
+share photo	download	photo	download
+
+botweb.transparent.screen.apk
+false
+
+com.mobilerush.southalabamafootballrush.apk
+true
+team	connect	team	connect
+favorite team	connect	team	connect
+
+com.andromo.dev54199.app229624.apk
+true
+video chat	feature	video	feature
+video clip	feature	video	feature
+video file	feature	video	feature
+video tutorial	feature	video	feature
+video format	feature	video	feature
+
+sdinc.BlueBeacon.apk
+false
+
+com.conceptworks.spontacts.apk
+false
+
+com.orozdesign.detodoenpublicidad.apk
+false
+
+com.gau.go.launcherex.theme.ZCute.apk
+true
+file folder	design	folder	design
+
+com.strek.whistle.cat.apk
+false
+
+com.yamaha.av.avcontroller.apk
+true
+favorite song	change	song	change
+song	change	song	change
+
+com.yinzcam.nfl.titans.apk
+true
+team	catch	team	catch
+favorite team	catch	team	catch
+
+com.edamam.recipesearch.apk
+false
+
+com.ignite.hearthstonespeelbook.apk
+true
+sd card	search	card	search
+gift card	search	card	search
+credit card	search	card	search
+flash card	search	card	search
+sim card	search	card	search
+memory card	search	card	search
+card	search	card	search
+
+com.vemma.apk
+false
+
+com.skout.android.apk
+false
+
+com.NizTelecom.plbl.tourcall.apk
+false
+
+com.sphyllis.lovely.babes.apk
+true
+favorite photo	find	favorite kind	find
+favorite artist	find	favorite kind	find
+favorite show	find	favorite kind	find
+favorite music	find	favorite kind	find
+favorite list	find	favorite kind	find
+favorite location	find	favorite kind	find
+
+com.usa.epoints.view.apk
+false
+
+com.quickmobile.ilta.annual2013.apk
+false
+
+com.adcall.VolumeEqualizer.apk
+true
+sound volume	set	volume	set
+
+com.unbound.android.cqddi.apk
+false
+
+com.gau.go.launcherex.theme.fd.mars.fourinone.apk
+true
+file folder	design	folder	design
+
+com.appotastic.TerrorHouseSPA.apk
+false
+
+com.articraft.server.apk
+false
+
+com.carmax.carmax.apk
+false
+
+org.forbes.sport.ro.apk
+false
+
+com.app_eti.layout.apk
+false
+
+com.appexpress.pandlfireprotectioninc.apk
+false
+
+com.ezdrivingtest.oh.bdl.app.android.apk
+true
+relevant category	write	different category	write
+
+alexcrusher.just6weeks.apk
+false
+
+com.driversed.driversed.apk
+false
+
+com.twisconapps.robotvoice.apk
+true
+sound volume	record	sound	record
+
+com.zalebox.accent.wall.ideas.ai1.apk
+true
+photo sharing	decorate	photo	decorate
+best photo	decorate	photo	decorate
+photo effect	decorate	photo	decorate
+photo collection	decorate	photo	decorate
+multiple photo	decorate	photo	decorate
+view photo	decorate	photo	decorate
+photo editing	decorate	photo	decorate
+share photo	decorate	photo	decorate
+original photo	decorate	photo	decorate
+photo	decorate	photo	decorate
+new photo	decorate	photo	decorate
+
+com.poeticsystems.ach.apk
+false
+
+com.waigi.gogousa.apk
+false
+
+it.messagenet.mtalk.apk
+false
+
+com.iandrobot.andromouse.lite.apk
+false
+
+com.mparag.endocrinegland.apk
+true
+r feed	collect	feed video	collect
+twitter feed	collect	feed video	collect
+feed video	collect	feed video	collect
+feed	collect	feed video	collect
+
+com.tabletcalling.apk
+false
+
+com.news360.news360app.apk
+true
+best photo	combine	text photo	combine
+original photo	combine	text photo	combine
+photo	combine	text photo	combine
+new photo	combine	text photo	combine
+
+com.camsam.apk
+false
+
+com.edupad.app.grade4.languagearts.apk
+true
+player stats	enable	player	enable
+music player	enable	player	enable
+
+com.silver.virtualWeed.apk
+false
+
+air.com.nbcuni.com.telemundo.envivo.apk
+false
+
+com.beautysoft.photo.korean2girl.apk
+false
+
+com.ibsys.app.pns_orlpn.apk
+false
+
+com.dynamicg.timerecording.apk
+false
+
+com.superdroid.ssf.apk
+false
+
+de.mobileeventguide.ic2013.apk
+false
+
+com.pligor.myxer_searcher.apk
+false
+
+com.bestapproach.greatriver.apk
+false
+
+com.alides.cgk.apk
+false
+
+com.app_evergreentractor.layout.apk
+false
+
+com.jawbone.up.apk
+false
+
+com.gau.go.launcherex.theme.gotheme.magma.fourinone.apk
+true
+file folder	design	folder	design
+
+com.myappengine.pffcu.apk
+false
+
+com.appspot.wrightrocket.kmlkmz.apk
+true
+mp file	create	kmz file	create
+pdf file	create	kmz file	create
+file folder	create	kmz file	create
+audio file	create	kmz file	create
+
+com.boyahoy.android.apk
+false
+
+com.dm3photo52.apk
+false
+
+com.sekse7sy.happystory1.apk
+false
+
+mobi.infolife.ezweather.apk
+false
+
+com.oceansteam5.oned.apk
+false
+
+com.geteit.andwobble.browser.apk
+false
+
+com.tejeirodev.flowerlove.frames.apk
+true
+photo sharing	decorate	photo	decorate
+best photo	decorate	photo	decorate
+photo effect	decorate	photo	decorate
+photo collection	decorate	photo	decorate
+multiple photo	decorate	photo	decorate
+view photo	decorate	photo	decorate
+photo editing	decorate	photo	decorate
+share photo	decorate	photo	decorate
+original photo	decorate	photo	decorate
+photo	decorate	photo	decorate
+new photo	decorate	photo	decorate
+
+off.guide.maps.peru.apk
+false
+
+com.zegoggles.smssync.apk
+false
+
+com.zappotvapple.apk
+true
+video chat	feature	video	feature
+video clip	feature	video	feature
+video file	feature	video	feature
+video tutorial	feature	video	feature
+video format	feature	video	feature
+
+com.jvckenwood.kmc.apk
+true
+music video	support	music	support
+
+com.apps4fun.soundeffectsringtones.apk
+true
+ringtones	set	ringtone anyone	set
+ringtone	set	ringtone anyone	set
+
+com.blackboard.mosaic.lasalle.apk
+true
+ncaa score	check	score	check
+
+com.iwombit.shaped.apk
+false
+
+net.orizinal.subway.apk
+false
+
+com.overlook.android.fing.apk
+false
+
+com.codesector.indrive.apk
+true
+sound volume	set	ringtone volume	set
+ringtones	set	ringtone volume	set
+ringtone	set	ringtone volume	set
+
+com.ivoox.app.apk
+true
+audio file	make	audio	make
+
+com.andromo.dev84358.app115045.apk
+false
+
+com.a126863641150d775f1ba40c4a.a96849525a.apk
+false
+
+tvrusia.droidmanagement.apk
+false
+
+net.fft.map20201001.apk
+false
+
+com.launcher.kon.kof.apk
+false
+
+com.sigfig.sigfig.apk
+false
+
+my.tracker.apk
+true
+daily basis	track	daily	track
+daily life	track	daily	track
+daily deal	track	daily	track
+
+com.electricsheep.paintpro.apk
+false
+
+com.Insta.instapunjabi.apk
+false
+
+de.kemiro.marinenavigator.apk
+false
+
+com.fbphotosapp.fbphotos.apk
+false
+
+com.sec.chaton.apk
+false
+
+com.kolo0.Seattlewallpaper.apk
+false
+
+com.theme.paid.hellokitty.apk
+false
+
+org.researchmd.voice.apk
+true
+mp file	search	mp music	search
+mp	search	mp music	search
+mp music	search	mp music	search
+
+com.tnk.ds.apk
+false
+
+com.bitcasa.android.apk
+true
+photo sharing	access	photo	access
+best photo	access	photo	access
+photo effect	access	photo	access
+photo collection	access	photo	access
+multiple photo	access	photo	access
+view photo	access	photo	access
+photo editing	access	photo	access
+share photo	access	photo	access
+original photo	access	photo	access
+photo	access	photo	access
+new photo	access	photo	access
+
+com.diadev.crystaldownloaderweb.apk
+true
+video player	download	video	download
+video chat	download	video	download
+video clip	download	video	download
+video tutorial	download	video	download
+feed video	download	video	download
+music video	download	video	download
+
+com.monotype.android.font.dev.third.scroll.apk
+false
+
+com.sxj.app079.HelicopterGunships.apk
+true
+photo sharing	press	whole photo	press
+best photo	press	whole photo	press
+photo effect	press	whole photo	press
+photo collection	press	whole photo	press
+multiple photo	press	whole photo	press
+view photo	press	whole photo	press
+photo editing	press	whole photo	press
+share photo	press	whole photo	press
+original photo	press	whole photo	press
+photo	press	whole photo	press
+new photo	press	whole photo	press
+
+com.danishdesign.shanedawson.apk
+false
+
+ru.mw.apk
+false
+
+com.pic.stitch.creater.free.apk
+true
+collage	make	instant collage	make
+
+com.recetasdecocinamara.apk
+false
+
+mp3.music.downloader.shark.apk
+true
+mp file	listen	mp music	listen
+mp	listen	mp music	listen
+mp music	listen	mp music	listen
+
+net.kgmoney.TalkingCallerIDFree.apk
+false
+
+App.win.conforl3.apk
+false
+
+it.mrqzzz.comedysounds.skyrim.apk
+false
+
+net.bendele.runwalk.apk
+true
+photo editing	click	appropriate edit	click
+
+com.ivabcheb.ViberFreeMessages2.apk
+false
+
+com.superfanu.ships.apk
+false
+
+jp.naver.linetools.apk
+false
+
+com.ofb.photocompress.apk
+false
+
+com.tapatalk.rabbitsonlinenet.apk
+false
+
+com.looxcie.looxcieapp.android.apk
+true
+video player	live	video	live
+video chat	live	video	live
+video clip	live	video	live
+video file	live	video	live
+video tutorial	live	video	live
+feed video	live	video	live
+video format	live	video	live
+music video	live	video	live
+
+org.quantumbadger.redreader.apk
+false
+
+com.ylBackSound.apk
+true
+favorite photo	find	favorite	find
+favorite artist	find	favorite	find
+favorite show	find	favorite	find
+favorite music	find	favorite	find
+favorite list	find	favorite	find
+favorite location	find	favorite	find
+
+com.aksenufg.HowToDrawSpiderman.apk
+false
+
+com.focusmedica.ccfaqmenopause.apk
+true
+video format	support	animated video	support
+music video	support	animated video	support
+
+appinventor.ai_cooldevapps.XChat.apk
+true
+music today	create	favorite music	create
+favorite music	create	favorite music	create
+music	create	favorite music	create
+
+lifebox.app5012.apk
+false
+
+com.kodak.kodakprintmaker.apk
+false
+
+tvbrasil.droidmanagement.apk
+false
+
+com.hautelook.mcom.apk
+false
+
+bander.notepad.apk
+false
+
+com.protool.screenshot.apk
+false
+
+com.medisafe.android.client.apk
+true
+video file	send	excel file	send
+file folder	send	excel file	send
+audio file	send	excel file	send
+
+snapexwebcam.com.apk
+false
+
+skywritersoft.com.flybye6bfree.apk
+false
+
+com.enter.nankaishibuainvNew2.apk
+false
+
+com.htconexwallpaper.htconex.wallpaper.apk
+true
+favorite photo	download	favorite	download
+favorite artist	download	favorite	download
+favorite music	download	favorite	download
+
+com.criticalhitsoftware.policeradio.apk
+false
+
+com.nellymoser.android.womansday.apk
+false
+
+com.funforfones.android.dcmetro.apk
+true
+feed video	live	twitter feed	live
+
+com.galaxymega.wall.wallpaper.galaxymegawallpaper.apk
+true
+favorite photo	download	favorite	download
+favorite artist	download	favorite	download
+favorite music	download	favorite	download
+
+com.facts.femaleorg.apk
+false
+
+com.hsn.android.apk
+false
+
+com.mjs.android.apk
+false
+
+com.acs.android.apk
+false
+
+com.dong.VampireKnight.apk
+false
+
+com.smarterdroid.wififiletransfer.apk
+true
+mp file	upload	file	upload
+
+drippler.google.nexus7.apk
+false
+
+com.infraware.polarisoffice.entbiz.gd.viewer.apk
+true
+photo sharing	show	photo	show
+best photo	show	photo	show
+photo effect	show	photo	show
+photo collection	show	photo	show
+multiple photo	show	photo	show
+view photo	show	photo	show
+photo editing	show	photo	show
+share photo	show	photo	show
+original photo	show	photo	show
+photo	show	photo	show
+new photo	show	photo	show
+
+nau.edu.cn.bookmrcj.apk
+false
+
+com.b24es.mobilshark.apk
+true
+favorite photo	find	next favorite	find
+favorite artist	find	next favorite	find
+favorite show	find	next favorite	find
+favorite music	find	next favorite	find
+favorite list	find	next favorite	find
+favorite location	find	next favorite	find
+
+mobi.pixi.media.player.black.apk
+false
+
+com.ovelin.guitartuna.apk
+false
+
+com.launcher.cosplay.marvelheroesl.apk
+true
+locker	make	hellokitty theme locker	make
+go locker	make	hellokitty theme locker	make
+
+com.tonnark.coffeeshop.apk
+false
+
+com.bh.superflashcard.asvab.android.apk
+false
+
+com.funapps.love.wedding.photo.frame.apk
+true
+photo sharing	make	photo	make
+best photo	make	photo	make
+photo effect	make	photo	make
+photo collection	make	photo	make
+multiple photo	make	photo	make
+view photo	make	photo	make
+photo editing	make	photo	make
+share photo	make	photo	make
+original photo	make	photo	make
+photo	make	photo	make
+new photo	make	photo	make
+
+gov.nasa.gsfc.iswa.NASASpaceWeather.apk
+false
+
+au.com.dealsmap.lwp.cube.PackWaterDrops.apk
+false
+
+com.zmodo.zsight.activity.mobiview.apk
+false
+
+com.subzeroapps.elwatannewscom.apk
+false
+
+com.rosemartin.app7.apk
+false
+
+com.baishisoft.photo.japan174girl.apk
+true
+sd card	save	sd card	save
+gift card	save	sd card	save
+credit card	save	sd card	save
+flash card	save	sd card	save
+sim card	save	sd card	save
+memory card	save	sd card	save
+card	save	sd card	save
+
+com.afl.ucom.view.apk
+false
+
+com.perfectlady.PerfectLadyOutfit.apk
+false
+
+com.allstate.goodsam.apk
+false
+
+com.codand.quotes.apk
+false
+
+lifebox.app5043.apk
+false
+
+com.h6ah4i.android.music_visualizer2.apk
+true
+background color	add	negative color	add
+different color	add	negative color	add
+text color	add	negative color	add
+color effect	add	negative color	add
+color	add	negative color	add
+
+ly.appt.oldify.apk
+false
+
+factory.widgets.supertypoclock.apk
+false
+
+ag.mobile.conference.apk
+true
+twitter facebook	include	twitter	include
+facebook twitter	include	twitter	include
+
+com.movinapp.dict.enes.free.apk
+true
+favorite	bookmark	favorite translation	bookmark
+favorite show	bookmark	favorite translation	bookmark
+favorite list	bookmark	favorite translation	bookmark
+favorite place	bookmark	favorite translation	bookmark
+favorite news	bookmark	favorite translation	bookmark
+favorite location	bookmark	favorite translation	bookmark
+
+com.greatfiv.toolser.WiFiSPEEDUPPRANKBIS.apk
+false
+
+com.instasplitframes.apk
+true
+collage	make	instant collage	make
+
+alexcrusher.just6weeks.situps.apk
+false
+
+nl.sixpackapps.musictop100hits.apk
+true
+favorite artist	find	similar artist	find
+
+com.tendenciaandroid.apk
+false
+
+com.jiuyou.binary.cn.apk
+false
+
+ru.citypatrol.iam.apk
+true
+photo sharing	enable	share location	enable
+share photo	enable	share location	enable
+
+ro.pca.networkfixer.apk
+false
+
+com.limpenghoe.bootsshoesfootwear.apk
+true
+r feed	collect	feed video	collect
+twitter feed	collect	feed video	collect
+feed video	collect	feed video	collect
+feed	collect	feed video	collect
+
+com.mylocaltv.wfld.apk
+false
+
+com.coreapps.android.followme.dragoncon13.apk
+false
+
+com.amsxandroid.lwpger.apk
+false
+
+com.Lock.Wallpaper.zKittyLock.apk
+false
+
+com.discovery.news.apk
+false
+
+com.topapps.despicableminion.apk
+true
+photo sharing	edit	photo	edit
+best photo	edit	photo	edit
+photo effect	edit	photo	edit
+photo collection	edit	photo	edit
+multiple photo	edit	photo	edit
+view photo	edit	photo	edit
+photo editing	edit	photo	edit
+share photo	edit	photo	edit
+original photo	edit	photo	edit
+photo	edit	photo	edit
+new photo	edit	photo	edit
+
+com.androidvilla.addwatermark.free.apk
+true
+photo sharing	put	photo	put
+best photo	put	photo	put
+photo effect	put	photo	put
+photo collection	put	photo	put
+multiple photo	put	photo	put
+view photo	put	photo	put
+photo editing	put	photo	put
+share photo	put	photo	put
+original photo	put	photo	put
+photo	put	photo	put
+new photo	put	photo	put
+
+com.rootuninstaller.free.apk
+false
+
+com.devankit.whatsapplastseenhide.apk
+false
+
+com.localwisdom.weatherwise.apk
+false
+
+tr.com.muratgokce.spycamera.apk
+false
+
+com.ccgames.MMCHSB.apk
+true
+ringtones	save	ringtone notification	save
+ringtone	save	ringtone notification	save
+
+com.digidata.leapdrive.verizon.apk
+true
+file	view	file	view
+pdf file	view	file	view
+file format	view	file	view
+file folder	view	file	view
+file manager	view	file	view
+
+com.kytv.android.weather.apk
+true
+language	reflect	overall language	reflect
+supported language	reflect	overall language	reflect
+english language	reflect	overall language	reflect
+overall language	reflect	overall language	reflect
+many language	reflect	overall language	reflect
+different language	reflect	overall language	reflect
+
+com.havok.deal.racker.apk
+false
+
+com.gameartzone.specialrecipies.apk
+false
+
+com.eikosol.smartwatch.apk
+false
+
+com.customermobile.att.samsung.mega.apk
+false
+
+com.kodak.picflick.apk
+true
+photo sharing	zoom	photo	zoom
+best photo	zoom	photo	zoom
+photo effect	zoom	photo	zoom
+photo collection	zoom	photo	zoom
+multiple photo	zoom	photo	zoom
+view photo	zoom	photo	zoom
+photo editing	zoom	photo	zoom
+share photo	zoom	photo	zoom
+original photo	zoom	photo	zoom
+photo	zoom	photo	zoom
+new photo	zoom	photo	zoom
+
+tm.app.financialCalculator.apk
+false
+
+com.wofford.apk
+false
+
+cn.zning.desktoptouch.apk
+false
+
+com.np.news.usa.apk
+false
+
+com.sotg.surveys.apk
+false
+
+com.jaumo.apk
+false
+
+com.zx.tools.gallery.shinsangokumusou6ori.apk
+false
+
+com.alek.womanmag.apk
+true
+gallery	save	gallery	save
+photo gallery	save	gallery	save
+gallery view	save	gallery	save
+
+com.mobisystems.msdict.embedded.wireless.mcgrawhill.drugoverdose.apk
+false
+
+com.google.android.videos.apk
+false
+
+com.kfactormedia.mycalendar.apk
+false
+
+com.beatguide.app.apk
+false
+
+com.mds.ripplit.apk
+false
+
+cn.rtfsc.searchmanga.apk
+false
+
+com.sabhsar.john.cena.apk
+false
+
+me.doubledutch.socap.apk
+false
+
+org.ucb.collect.android.apk
+false
+
+com.synology.dsvideo.apk
+true
+photo collection	add	collection	add
+
+eu.thedarken.sdm.apk
+true
+file	search	dormant directory file	search
+file manager	search	dormant directory file	search
+
+ru.allwritestudio.oldnavycoupons.apk
+false
+
+br.eddj.modf.apk
+true
+photo editing	make	meme photo edition	make
+
+com.socratica.mobile.bones.apk
+false
+
+com.amazing_tattoo.apk
+false
+
+com.rb.info.nicki.minaj.apk
+false
+
+com.zumobi.nfl09.apk
+false
+
+com.pineapple4.protractor.apk
+true
+text size	adjust	protractor text	adjust
+text size	adjustable	protractor text	adjust
+text	adjustable	protractor text	adjust
+
+com.stylem.wallpapers.apk
+false
+
+com.svox.classic.apk
+false
+
+com.the7art.flowerparadewallpaper.apk
+false
+
+com.businesscellapps.ripleysnews.apk
+false
+
+nl.jayzonapps.huskytv.apk
+true
+video player	access	video	access
+video chat	access	video	access
+video clip	access	video	access
+video file	access	video	access
+video tutorial	access	video	access
+feed video	access	video	access
+video format	access	video	access
+
+com.lexapps.hunting2013.apk
+true
+file	set	ringtone file	set
+video file	set	ringtone file	set
+file format	set	ringtone file	set
+file folder	set	ringtone file	set
+audio file	set	ringtone file	set
+file manager	set	ringtone file	set
+
+com.timesgroup.timesjobs.apk
+false
+
+com.appsfoundry.scoopwl.id.fhm.apk
+false
+
+com.mtasubway.bus.apk
+false
+
+com.optoday.demo.apk
+false
+
+sra.videos.india.homeveda.apk
+true
+format	present	easy-to-follow format	present
+
+com.extreme.tattoo.wen.apk
+true
+gallery	save	gallery	save
+photo gallery	save	gallery	save
+gallery view	save	gallery	save
+
+com.mobilaurus.supershuttle.apk
+false
+
+com.ashleymadison.mobile.apk
+false
+
+com.mav.download.music2.apk
+true
+mp file	download	avi mp	download
+mp	download	avi mp	download
+mp music	download	avi mp	download
+
+air.com.appElevate.promoteApplication.apk
+false
+
+ru.ok.android.apk
+false
+
+ringhits.funny.ringtones.apk
+true
+ringtones	set	ringtone	set
+ringtone	set	ringtone	set
+
+com.photofeed.android.apk
+true
+backup	make	backup	make
+backup restore	make	backup	make
+
+com.mfoundry.mb.android.mb_CB143.apk
+false
+
+aspiration.studio.photo.painter.free.apk
+true
+photo frame	create	image filter frame	create
+frame	create	image filter frame	create
+
+com.kii.safe.apk
+true
+video player	hide	video photo	hide
+video clip	hide	video photo	hide
+video tutorial	hide	video photo	hide
+feed video	hide	video photo	hide
+video format	hide	video photo	hide
+music video	hide	video photo	hide
+
+com.txticonmain.apk
+false
+
+com.sunshine.photocollagelite.apk
+true
+best photo	bring	ultimate photo	bring
+original photo	bring	ultimate photo	bring
+photo	bring	ultimate photo	bring
+new photo	bring	ultimate photo	bring
+
+com.benoved.phr_lite.apk
+false
+
+com.nicegirls1n20386K12.apk
+false
+
+stu.softnj.HaWallpaper.apk
+true
+photo sharing	comment	photo	comment
+best photo	comment	photo	comment
+photo effect	comment	photo	comment
+photo collection	comment	photo	comment
+multiple photo	comment	photo	comment
+view photo	comment	photo	comment
+photo editing	comment	photo	comment
+share photo	comment	photo	comment
+original photo	comment	photo	comment
+photo	comment	photo	comment
+new photo	comment	photo	comment
+
+com.kauf.imagefaker.hairstylesstarlooksalon.apk
+true
+messenger	share	messenger tool	share
+
+com.jive.voip.apk
+false
+
+com.omnitize.android.apk
+false
+
+com.wlos.android.weather.apk
+true
+language	reflect	overall language	reflect
+supported language	reflect	overall language	reflect
+english language	reflect	overall language	reflect
+overall language	reflect	overall language	reflect
+many language	reflect	overall language	reflect
+different language	reflect	overall language	reflect
+
+com.motionportrait.ZombieBooth.apk
+true
+photo sharing	create	photo	create
+best photo	create	photo	create
+photo effect	create	photo	create
+photo collection	create	photo	create
+multiple photo	create	photo	create
+view photo	create	photo	create
+photo editing	create	photo	create
+share photo	create	photo	create
+original photo	create	photo	create
+photo	create	photo	create
+new photo	create	photo	create
+
+com.alsoftspb_nfl.cleveland.apk
+true
+conference	group	conference division	group
+conference standing	group	conference division	group
+
+com.wellpoint.consumer.EBCBS.apk
+false
+
+com.isoftinc.minecraft.creeper.apk
+false
+
+com.crowdcompass.crossfit2013.apk
+false
+
+uk51fd3226a0e22.popsa_mickey_mouse_cool_wallpaper.apk
+false
+
+com.browser.PornBrowser.apk
+false
+
+com.tokenfire.tokenfire.apk
+false
+
+com.zodinplex.lullabyrelaxandsleep.apk
+true
+ringtones	set	ringtone	set
+ringtone	set	ringtone	set
+
+com.chatforsnapchat.apk
+false
+
+com.wsandroid.suite.apk
+false
+
+com.rcreations.ipcamviewerBasic.apk
+false
+
+uk.ac.plymouth.madmutt.gpsnavigator.apk
+false
+
+com.nordstrom.android.apk
+false
+
+oms.mmc.gmother.baizihehun.apk
+false
+
+com.gaganjeetbhullar.workfromhomejobs.apk
+true
+r feed	collect	feed video	collect
+twitter feed	collect	feed video	collect
+feed video	collect	feed video	collect
+feed	collect	feed video	collect
+
+com.dynamixsoftware.printershare.apk
+true
+mp file	support	pixma mp	support
+
+com.replayit.apk
+true
+gallery	save	gallery	save
+photo gallery	save	gallery	save
+gallery view	save	gallery	save
+
+com.gismart.guitar.apk
+false
+
+com.quotes.jesus.christ.apk
+false
+
+com.wlb.android.apk
+false
+
+com.snowbound.pockettool.free.apk
+false
+
+com.ebay.classifieds.apk
+true
+photo sharing	combine	photo	combine
+best photo	combine	photo	combine
+photo effect	combine	photo	combine
+photo collection	combine	photo	combine
+multiple photo	combine	photo	combine
+view photo	combine	photo	combine
+photo editing	combine	photo	combine
+share photo	combine	photo	combine
+original photo	combine	photo	combine
+photo	combine	photo	combine
+new photo	combine	photo	combine
+
+com.alsoftspb_nfl.sanfrancisco.apk
+true
+conference	group	conference division	group
+conference standing	group	conference division	group
+
+com.gau.go.launcherex.theme.the.moment.fourinone.apk
+false
+
+es.dcarvajal.fotografiame.apk
+true
+photo sharing	make	photo	make
+best photo	make	photo	make
+photo effect	make	photo	make
+photo collection	make	photo	make
+multiple photo	make	photo	make
+view photo	make	photo	make
+photo editing	make	photo	make
+share photo	make	photo	make
+original photo	make	photo	make
+photo	make	photo	make
+new photo	make	photo	make
+
+com.popsicleFL.apk
+false
+
+com.elitech.all.us.newspapers.apk
+false
+
+com.lemonde.androidapp.apk
+false
+
+com.fitue12.f1.apk
+false
+
+com.amazon.clouddrive.photos.apk
+false
+
+ng.com.myschool.apk
+false
+
+com.app_wilbournsisters.layout.apk
+false
+
+com.dlink.mydlink.apk
+true
+video player	live	video	live
+video chat	live	video	live
+video clip	live	video	live
+video file	live	video	live
+video tutorial	live	video	live
+feed video	live	video	live
+video format	live	video	live
+music video	live	video	live
+
+com.planeth.gstomperdemo.apk
+false
+
+com.edupad.app.grade8.math.apk
+true
+player stats	enable	player	enable
+music player	enable	player	enable
+
+com.perfectapps.trackit.apk
+false
+
+com.select.family.apk
+false
+
+com.htq.puzzle.Hunt.apk
+true
+great selection	edit	selection rule	edit
+wide selection	edit	selection rule	edit
+selection	edit	selection rule	edit
+select	edit	selection rule	edit
+
+com.glamourfone.stooges3.apk
+false
+
+com.squaretownmobile.countryringtones.apk
+true
+ringtones	set	country ringtones	set
+ringtone	set	country ringtones	set
+
+com.je.yelp.apk
+false
+
+com.sds.android.ttpod.apk
+false
+
+com.iarex.smartlaser.apk
+false
+
+com.cheatdatabase.android.apk
+true
+favorite show	find	favorite video	find
+favorite list	find	favorite video	find
+
+com.techspawn.hospitalfinder.apk
+false
+
+me.piebridge.bible.apk
+false
+
+com.angelsapp.thortrailer.apk
+true
+video player	provide	youtube video	provide
+video chat	provide	youtube video	provide
+video clip	provide	youtube video	provide
+video file	provide	youtube video	provide
+video tutorial	provide	youtube video	provide
+video format	provide	youtube video	provide
+music video	provide	youtube video	provide
+
+com.ashberrysoft.leadertask.apk
+false
+
+net.fft.map19980201ee.apk
+false
+
+com.unlocker.optus.apk
+false
+
+net.fft.maqaz1qq1qwwwq.apk
+false
+
+vidmob.kimary.freeok.apk
+false
+
+com.deseretbook.bookshelf.apk
+false
+
+com.appspot.swisscodemonkeys.fxbooth.apk
+false
+
+comgowithmyflow.workout.apk
+false
+
+appinventor.ai_apptropolis.Rip_That_Music_MHH.apk
+true
+file	make	audio file	make
+file format	make	audio file	make
+audio file	make	audio file	make
+file manager	make	audio file	make
+
+com.conduit.app_211eb0cbf20d44dfabb2779c234f9e13.app.apk
+false
+
+com.dhqsolutions.enjoyphoto.apk
+true
+photo sharing	make	good photo	make
+best photo	make	good photo	make
+photo effect	make	good photo	make
+photo collection	make	good photo	make
+view photo	make	good photo	make
+share photo	make	good photo	make
+original photo	make	good photo	make
+photo	make	good photo	make
+new photo	make	good photo	make
+
+com.dendronet.mobitaxi.apk
+false
+
+com.bitknights.dict.engspa.free.apk
+false
+
+com.ucr.aldikosync.apk
+true
+data usage	ensure	wrong data	ensure
+
+com.mobisystems.msdict.embedded.wireless.mcgrawhill.investopedia.apk
+false
+
+com.sexstory.sse.apk
+false
+
+com.salliemae.android.apk
+false
+
+com.oceansteam5.ringtone4.apk
+true
+ringtones	set	ringtone	set
+ringtone	set	ringtone	set
+
+com.Chenenkoalla02.LightningsWallpapers.apk
+true
+hourly view	change	hour	change
+
+com.Nacavainro.DetroitLionsbackground.apk
+false
+
+com.compusystems.csattendee.e580.apk
+false
+
+vn.netlink.nguoiduatin.apk
+true
+offline viewing	read	offline	read
+offline	read	offline	read
+offline reading	read	offline	read
+work offline	read	offline	read
+
+com.cfinc.iconkisekae.apk
+false
+
+kr.co.samsung.galaxy.note10_1.apk
+false
+
+com.Aksenovborsh.NokiaC7Wallpapers.apk
+true
+hourly view	change	hour	change
+
+com.usatek.pelis.gratis.apk
+false
+
+com.bubblesoft.android.bubbleupnp.apk
+true
+facebook album	download	track full album	download
+photo album	download	track full album	download
+album	download	track full album	download
+
+com.kajda.fuelio.apk
+false
+
+com.librotecstar.audiocuentosdeamor.apk
+true
+memory	load	device memory	load
+
+com.mfa_inc.android.agronomyguide.apk
+false
+
+com.therundownlive.android.therundown.apk
+false
+
+com.hillman.ctatracker.apk
+false
+
+com.xcandroider.bookstore.apk
+false
+
+org.mobpage.qrcode.apk
+false
+
+com.hotel.booking.nepal.pisces.apk
+false
+
+com.callfaker.app.apk
+false
+
+andr.coolgame.mwhd.walls.apk
+false
+
+com.sakshi.apk
+true
+video player	share	photo video	share
+video clip	share	photo video	share
+video tutorial	share	photo video	share
+feed video	share	photo video	share
+video format	share	photo video	share
+music video	share	photo video	share
+
+de.carcharge.apk
+false
+
+com.khmer_news.apk
+false
+
+com.verizon.messaging.vzmsgs.apk
+true
+sd card	save	sd card	save
+gift card	save	sd card	save
+credit card	save	sd card	save
+flash card	save	sd card	save
+sim card	save	sd card	save
+memory card	save	sd card	save
+card	save	sd card	save
+
+stostory.ub.orgasm.AOUJGFHXASUONWHMJ.apk
+false
+
+com.inditex.zara.apk
+false
+
+com.indian.college.beauty.girls.video.apk
+false
+
+com.freewood.calroadreport.apk
+false
+
+appinventor.ai_LindaStalker1955.ReviewsUSBBatteryCharger.apk
+false
+
+com.yahoo.mobile.client.android.imvideo.apk
+false
+
+com.gau.go.launcherex.theme.fd.meow.fourinone.apk
+true
+file folder	design	folder	design
+
+com.newssynergy.kokiweather.apk
+true
+video format	provide	automatic video	provide
+music video	provide	automatic video	provide
+
+com.corus360.dars.apk
+false
+
+com.abe.ChesterfieldUnitedApp.apk
+false
+
+com.romkuapps.tickers.apk
+true
+multiple photo	create	multiple	create
+
+com.nimaxy.hiphopradiostations.apk
+false
+
+com.parfield.prayers.lite.apk
+true
+audio file	make	audio	make
+
+com.dionhardy.traveltickets.apk
+false
+
+com.farmingsimulation2013video.trang.apk
+false
+
+com.worldcup2014.englandworldcup2014brazil.apk
+false
+
+com.google.android.apps.magazines.apk
+false
+
+com.corusen.accupedo.te.apk
+false
+
+com.kensoftware.alawnehexchange.apk
+false
+
+mobi.pixi.media.player.orange.apk
+false
+
+com.androidlove1999.jigsaw2.apk
+false
+
+com.etoolkit.inaturephoto.apk
+true
+photo sharing	make	photo	make
+best photo	make	photo	make
+photo effect	make	photo	make
+photo collection	make	photo	make
+multiple photo	make	photo	make
+view photo	make	photo	make
+photo editing	make	photo	make
+share photo	make	photo	make
+original photo	make	photo	make
+photo	make	photo	make
+new photo	make	photo	make
+
+com.prestamos.calc.apk
+false
+
+com.appshare4life.houseforrentapp.apk
+true
+video player	provide	youtube video	provide
+video chat	provide	youtube video	provide
+video clip	provide	youtube video	provide
+video file	provide	youtube video	provide
+video tutorial	provide	youtube video	provide
+video format	provide	youtube video	provide
+music video	provide	youtube video	provide
+
+com.theappco.archdaily.apk
+false
+
+com.aol.mobile.aim.apk
+true
+photo sharing	start	share image	start
+share photo	start	share image	start
+
+com.cannywill.mangareader.apk
+false
+
+zy.puzzle.jigsaw.app060.nail.artist.apk
+true
+photo sharing	press	whole photo	press
+best photo	press	whole photo	press
+photo effect	press	whole photo	press
+photo collection	press	whole photo	press
+multiple photo	press	whole photo	press
+view photo	press	whole photo	press
+photo editing	press	whole photo	press
+share photo	press	whole photo	press
+original photo	press	whole photo	press
+photo	press	whole photo	press
+new photo	press	whole photo	press
+
+com.definitionstudio.beercitizen.apk
+true
+facebook page	read	page	read
+
+com.swaminarayanArtiThal.apk
+false
+
+com.galaxys4mini.wall.wallpaper.galaxys4miniwallpaper.apk
+true
+favorite photo	download	favorite	download
+favorite artist	download	favorite	download
+favorite music	download	favorite	download
+
+com.oth.propertyvalues.apk
+true
+view photo	give	view	give
+
+drowning.zebra.tracamswidgetdemo.apk
+false
+
+com.Fragmob.ViDroid.apk
+false
+
+com.lihuats.player.apk
+true
+video player	support	video	support
+video file	support	video	support
+video format	support	video	support
+music video	support	video	support
+
+epic.mychart.android.apk
+false
+
+com.andromo.dev248101.app233339.apk
+false
+
+com.go.abclocal.kabc.android.weather.apk
+true
+video format	live	weather video	live
+music video	live	weather video	live
+
+com.monotype.android.font.dev.fashion.apk
+false
+
+org.busbrothers.anystop.sanfranciscomuni.apk
+true
+favorite photo	find	favorite	find
+favorite artist	find	favorite	find
+favorite show	find	favorite	find
+favorite music	find	favorite	find
+favorite list	find	favorite	find
+favorite location	find	favorite	find
+
+com.meredith.redplaid.apk
+false
+
+com.funpokes.wtfpics.apk
+false
+
+com.tripomatic.losangeles.apk
+false
+
+com.xyz.my.apk
+false
+
+com.aetn.lifetime.watch.apk
+false
+
+com.raaga.android.apk
+false
+
+com.magicgames.volume.booster.apk
+false
+
+com.movablesounds.ruderingtones.apk
+true
+ringtones	set	rude ringtones	set
+ringtone	set	rude ringtones	set
+
+com.olympians.random.chat.apk
+true
+video chat	provide	chatting experience	provide
+
+com.socialnmobile.dictdata.dictionary.english.wordnet3.apk
+false
+
+com.nianticproject.scout.apk
+false
+
+com.pedrocorp.punchyourfriend.apk
+false
+
+com.istudio.pakhdchannel.live.apk
+false
+
+soundboard.ringtones.notification.whats.line.sms.email.sonidos.notificaciones.free.apk
+true
+mp file	download	mp format	download
+mp	download	mp format	download
+mp music	download	mp format	download
+
+com.blackboard.android.central.csupomona.apk
+false
+
+com.adobe.psmobile.apk
+false
+
+com.raiders.android.apk
+true
+video player	provide	video	provide
+video chat	provide	video	provide
+video clip	provide	video	provide
+video file	provide	video	provide
+video tutorial	provide	video	provide
+video format	provide	video	provide
+music video	provide	video	provide
+
+com.russpuppy.alphabettoddlerlite.apk
+false
+
+com.leadershipquotes.lwp.leadershiplivewallpaper.apk
+true
+memory	ensure	memory	ensure
+
+com.onedroid.schoolhelper.apk
+false
+
+com.appredeem.apk
+false
+
+com.ucai.phototravel.apk
+true
+best photo	add	photo	add
+photo effect	add	photo	add
+photo collection	add	photo	add
+multiple photo	add	photo	add
+view photo	add	photo	add
+photo editing	add	photo	add
+original photo	add	photo	add
+photo	add	photo	add
+new photo	add	photo	add
+
+com.apcurium.MK.Taxi303.apk
+true
+booking	save	future booking	save
+book	save	future booking	save
+
+nl.jayzonapps.ssundeetv.apk
+true
+video chat	show	new video	show
+video clip	show	new video	show
+video file	show	new video	show
+
+com.bodybuilding.apk
+true
+photo sharing	tag	photo	tag
+best photo	tag	photo	tag
+photo effect	tag	photo	tag
+photo collection	tag	photo	tag
+multiple photo	tag	photo	tag
+view photo	tag	photo	tag
+photo editing	tag	photo	tag
+share photo	tag	photo	tag
+original photo	tag	photo	tag
+photo	tag	photo	tag
+new photo	tag	photo	tag
+
+com.erg1.austin.apk
+true
+video player	post	video	post
+video chat	post	video	post
+video clip	post	video	post
+video file	post	video	post
+video tutorial	post	video	post
+video format	post	video	post
+music video	post	video	post
+
+com.maroc2mtv.apk
+true
+video player	provide	youtube video	provide
+video chat	provide	youtube video	provide
+video clip	provide	youtube video	provide
+video file	provide	youtube video	provide
+video tutorial	provide	youtube video	provide
+video format	provide	youtube video	provide
+music video	provide	youtube video	provide
+
+com.texterity.android.DogsInReview.apk
+false
+
+marysuzk.akane.colmary.apk
+false
+
+com.MelodyAflam.apk
+false
+
+com.conduit.app_4e5e040e870740a794cf1c6e748a0a9c.app.apk
+false
+
+com.borisov.strelok.apk
+true
+mp file	move	file	move
+file	move	file	move
+video file	move	file	move
+pdf file	move	file	move
+file format	move	file	move
+file folder	move	file	move
+audio file	move	file	move
+file manager	move	file	move
+
+com.wear.android.weather.apk
+true
+language	reflect	overall language	reflect
+supported language	reflect	overall language	reflect
+english language	reflect	overall language	reflect
+overall language	reflect	overall language	reflect
+many language	reflect	overall language	reflect
+different language	reflect	overall language	reflect
+
+com.radio.station.KRYP.FM.apk
+true
+video clip	feature	clip list	feature
+
+com.appking.ruhan.apk
+false
+
+com.skillapps.drivingmap.apk
+true
+r feed	collect	feed video	collect
+twitter feed	collect	feed video	collect
+feed video	collect	feed video	collect
+feed	collect	feed video	collect
+
+hr.apps.n149031648.apk
+false
+
+org.mayoclinic.MayoClinicOnPregnancy.apk
+true
+baby bus	give	baby	give
+baby	give	baby	give
+
+net.RollMeOver.RollMeOverTrial.apk
+false
+
+de.androidcrowd.tacho.apk
+false
+
+com.swa.swataichiguides1sj.apk
+false
+
+net.fft.map199802012.apk
+false
+
+appinventor.ai_positiveapptitude.NYGiantsFan.apk
+false
+
+com.Dridnvcerhapluss.BambiMovie.apk
+true
+cartoon	watch	favorite cartoon	watch
+
+com.customermobile.att.motorola.x.apk
+false
+
+com.app_colloquium.layout.apk
+false
+
+com.custom.BeautifulAssOfSexyGirls.apk
+true
+sd card	save	sd card	save
+gift card	save	sd card	save
+credit card	save	sd card	save
+flash card	save	sd card	save
+sim card	save	sd card	save
+memory card	save	sd card	save
+card	save	sd card	save
+
+org.kivy.pygame.apk
+false
+
+com.tripomatic.bruges.apk
+false
+
+bigbootygirl.csllc.com.apk
+true
+private data	transmit	user data	transmit
+data plan	transmit	user data	transmit
+data	transmit	user data	transmit
+data connection	transmit	user data	transmit
+personal data	transmit	user data	transmit
+
+org.irmavep.app.kino.apk
+false
+
+com.hd.live.wallpaper.racing.car.apk
+true
+sd card	save	sd card	save
+gift card	save	sd card	save
+credit card	save	sd card	save
+flash card	save	sd card	save
+sim card	save	sd card	save
+memory card	save	sd card	save
+card	save	sd card	save
+
+com.airwatch.admin.samsung.apk
+false
+
+com.amiapps.businessletterformat.apk
+true
+private data	fetch	data	fetch
+data plan	fetch	data	fetch
+data	fetch	data	fetch
+data usage	fetch	data	fetch
+data connection	fetch	data	fetch
+personal data	fetch	data	fetch
+
+com.arabictv.channelsliveapp.apk
+true
+relevant category	divide	major category	divide
+
+llc.auroraappdesign.tvf.apk
+false
+
+com.wallpaper.HowtoDrawMyLittlePony.apk
+false
+
+com.flufflydelusions.app.enotesclassiclite.apk
+true
+video player	record	video	record
+video chat	record	video	record
+video clip	record	video	record
+video file	record	video	record
+video tutorial	record	video	record
+feed video	record	video	record
+video format	record	video	record
+music video	record	video	record
+
+com.hazelapps.downloadmp3free.apk
+true
+audio file	find	exceptional various audio	find
+
+slide.cameraZoom.propspack.apk
+true
+collage	create	stunning collage	create
+
+com.blgenie.android.apk
+true
+relevant category	divide	several category	divide
+
+com.pplive.androidphone.apk
+true
+video clip	set	pps video	set
+video file	set	pps video	set
+music video	set	pps video	set
+
+com.wtvm.android.weather.apk
+true
+language	reflect	overall language	reflect
+supported language	reflect	overall language	reflect
+english language	reflect	overall language	reflect
+overall language	reflect	overall language	reflect
+many language	reflect	overall language	reflect
+different language	reflect	overall language	reflect
+
+com.studynet.apk
+false
+
+com.malaysianchatrooms.apk
+false
+
+com.browan.freeppmobile.android.apk
+true
+mp file	send	file	send
+video file	send	file	send
+file folder	send	file	send
+audio file	send	file	send
+
+egyptbox.app49.apk
+false
+
+com.linmedia.newstouch.wavy.apk
+false
+
+com.crowdtorch.bmwcarclub.apk
+false
+
+com.knk.camerafilter.apk
+false
+
+com.gau.go.launcherex.theme.cogul.aliccinweirdwonderland.fourinone.apk
+false
+
+com.csms.plugin.bgprayer.apk
+false
+
+com.pjp.qvprep.microbiology.lite.apk
+true
+multiple photo	click	multiple	click
+
+com.nunyafree.todolist.apk
+false
+
+com.xormedia.utransit.seattle.apk
+false
+
+com.dreamlife.scanner.apk
+false
+
+com.svpply.svpply.apk
+false
+
+com.livewallpaper3d.locker.butterflyblue.cubeblueiibutterfly.apk
+true
+camera effect	set	camera distance	set
+front camera	set	camera distance	set
+camera	set	camera distance	set
+
+com.outfit7.talkingtom.apk
+true
+video player	record	video	record
+video chat	record	video	record
+video clip	record	video	record
+video file	record	video	record
+video tutorial	record	video	record
+feed video	record	video	record
+video format	record	video	record
+music video	record	video	record
+
+com.appsbar.WesleyMemphis481269.apk
+false
+
+air.VideoChatterbox.apk
+false
+
+com.mylocaltv.kctvdroid.apk
+false
+
+com.rdminfinity.maxton.apk
+false
+
+com.mininurse.fyi.apk
+false
+
+my.adios.textract.apk
+true
+pdf file	convert	pdf file	convert
+
+com.androidauthority.apk
+false
+
+com.rocky.bearclockwidget.apk
+false
+
+com.v1.rightviewpro.apk
+false
+
+com.nbadigital.gametimelite.apk
+true
+video player	live	game video	live
+video format	live	game video	live
+music video	live	game video	live
+
+appinventor.ai_vn_solidworks.Revit.apk
+false
+
+com.dolphin.browser.engine.apk
+false
+
+com.gmail.qkzoo1978.qwhereami.apk
+true
+file	export	google earth kml file	export
+
+com.audrey.book1.apk
+false
+
+com.lakay.bubbleguppies.apk
+true
+cartoon	watch	kid cartoon	watch
+
+com.wintao.android.demo.apk
+false
+
+com.Aksenovborsh.SonyXperiaSTheme.apk
+true
+hourly view	change	hour	change
+
+com.wbrc.android.weather.apk
+true
+language	reflect	overall language	reflect
+supported language	reflect	overall language	reflect
+english language	reflect	overall language	reflect
+overall language	reflect	overall language	reflect
+many language	reflect	overall language	reflect
+different language	reflect	overall language	reflect
+
+com.bestappsforphone.christmasrecipeschristmascookieschristmascupcakes3.apk
+false
+
+org.zooper.zwfree.apk
+true
+sd card	save	sd card	save
+gift card	save	sd card	save
+credit card	save	sd card	save
+flash card	save	sd card	save
+sim card	save	sd card	save
+memory card	save	sd card	save
+card	save	sd card	save
+
+com.co_mm.apk
+true
+cool sticker	add	sticker	add
+
+com.adrianalimagallerycelebs.wallpaper.apk
+true
+sd card	save	sd card	save
+gift card	save	sd card	save
+credit card	save	sd card	save
+flash card	save	sd card	save
+sim card	save	sd card	save
+memory card	save	sd card	save
+card	save	sd card	save
+
+com.qinghua.sounds.apk
+false
+
+com.amc.apk
+false
+
+com.gau.go.launcherex.theme.just.dunk.fourinone.apk
+true
+file folder	design	folder	design
+
+com.groupon.redemption.apk
+false
+
+com.treemolabs.apps.cnet.apk
+true
+favorite photo	find	favorite	find
+favorite artist	find	favorite	find
+favorite show	find	favorite	find
+favorite music	find	favorite	find
+favorite list	find	favorite	find
+favorite location	find	favorite	find
+
+com.groggy.cleanjokes.free.apk
+false
+
+com.anspear.language.englishiap.apk
+false
+
+com.picture.quotes.sayings.wallpaper.love.apk
+true
+photo sharing	open	many new photo	open
+best photo	open	many new photo	open
+photo effect	open	many new photo	open
+photo collection	open	many new photo	open
+multiple photo	open	many new photo	open
+view photo	open	many new photo	open
+photo editing	open	many new photo	open
+share photo	open	many new photo	open
+original photo	open	many new photo	open
+photo	open	many new photo	open
+new photo	open	many new photo	open
+
+com.nll.asr.apk
+true
+multiple photo	merge	multiple	merge
+
+com.victoriassecret.pinknation.apk
+false
+
+com.desenvemax.naturesoundsrelaxandsleep.apk
+true
+sound volume	listen	natural sound	listen
+
+jp.co.hitachi_maxell_PJ.PJQuickConnection.apk
+true
+photo sharing	enable	photo	enable
+photo collection	enable	photo	enable
+view photo	enable	photo	enable
+share photo	enable	photo	enable
+
+com.newbook.wuxia.apk
+false
+
+com.tinymission.dailycardioworkoutfree.apk
+false
+
+mobi.infolife.app2sd.apk
+true
+sd card	backup	sd card	backup
+gift card	backup	sd card	backup
+credit card	backup	sd card	backup
+flash card	backup	sd card	backup
+sim card	backup	sd card	backup
+memory card	backup	sd card	backup
+card	backup	sd card	backup
+
+com.ringtone.collection.rcDJmusic.apk
+true
+favorite photo	download	favorite effect	download
+favorite artist	download	favorite effect	download
+favorite music	download	favorite effect	download
+
+com.andromo.dev70441.app72369.apk
+true
+favorite team	show	favorite show	show
+
+com.btwp5.greenforest.apk
+false
+
+com.scoompa.voicechanger.apk
+true
+funny voice	change	voice	change
+voice	change	voice	change
+
+com.gtp.nextlauncher.trial.apk
+false
+
+com.rahul.DownloadEverythingNext.apk
+true
+file	search	indexed shared file	search
+file manager	search	indexed shared file	search
+
+com.unitedtaps.tdlamv2.apk
+false
+
+com.vialsoft.radares_es_lite.apk
+false
+
+com.lsn.localnews37.apk
+false
+
+com.islamic.ringtones.islamicringtone.apk
+true
+ringtones	set	contact ringtone	set
+ringtone	set	contact ringtone	set
+
+com.mparag.wisdomtoothextraction.apk
+true
+r feed	collect	feed video	collect
+twitter feed	collect	feed video	collect
+feed video	collect	feed video	collect
+feed	collect	feed video	collect
+
+com.make.hair.d.apk
+false
+
+com.mylocaltv.wiscwx.apk
+false
+
+com.symantec.android.spot.apk
+false
+
+com.ifun.seethru.apk
+false
+
+com.webmd.baby.apk
+true
+video chat	feature	video	feature
+video clip	feature	video	feature
+video file	feature	video	feature
+video tutorial	feature	video	feature
+video format	feature	video	feature
+
+com.likeapp.bible.apk
+false
+
+com.mfoundry.mb.android.mb_493.apk
+true
+photo sharing	make	photo	make
+best photo	make	photo	make
+photo effect	make	photo	make
+photo collection	make	photo	make
+multiple photo	make	photo	make
+view photo	make	photo	make
+photo editing	make	photo	make
+share photo	make	photo	make
+original photo	make	photo	make
+photo	make	photo	make
+new photo	make	photo	make
+
+tv.ustream.ustream.apk
+true
+video player	live	live video	live
+video chat	live	live video	live
+video clip	live	live video	live
+video file	live	live video	live
+video tutorial	live	live video	live
+feed video	live	live video	live
+video format	live	live video	live
+music video	live	live video	live
+
+com.noticesoftware.SaintsNation.apk
+false
+
+llc.auroraappdesign.votd.apk
+true
+background color	set	text color	set
+different color	set	text color	set
+text color	set	text color	set
+color effect	set	text color	set
+color	set	text color	set
+
+com.inturnex.safecam.apk
+false
+
+net.fft.map19980112.apk
+false
+
+com.bluefirereader.apk
+false
+
+com.mailchimp.mailchimp.apk
+false
+
+com.wvec.android.weather.apk
+true
+language	reflect	overall language	reflect
+supported language	reflect	overall language	reflect
+english language	reflect	overall language	reflect
+overall language	reflect	overall language	reflect
+many language	reflect	overall language	reflect
+different language	reflect	overall language	reflect
+
+com.zzq.Puzzle.CrazySkydive.apk
+true
+great selection	edit	selection rule	edit
+wide selection	edit	selection rule	edit
+selection	edit	selection rule	edit
+select	edit	selection rule	edit
+
+nl.appsmook.gtafive.apk
+false
+
+com.techahead.ExpenseManager.apk
+true
+relevant category	add	different category	add
+
+com.MobileTek.Droid.Installer.apk
+false
+
+com.netcosports.andqualifiers.apk
+false
+
+naveen.Transparent.apk
+false
+
+moreapps.app103.apk
+false
+
+com.caringbridge.app.apk
+false
+
+com.Markovtr.BentleyContinentalGTTheme.apk
+true
+hourly view	change	hour	change
+
+com.mylocaltv.wgcldroid.apk
+false
+
+com.topstcn.eq.apk
+true
+private data	export	data	export
+data plan	export	data	export
+data	export	data	export
+data usage	export	data	export
+data connection	export	data	export
+personal data	export	data	export
+
+com.neces.mbta.apk
+false
+
+yuanfan.wallpaper.Anime.apk
+false
+
+com.ap.denverpost.apk
+false
+
+com.intermediaware.electromaker.apk
+true
+song	create	hit song	create
+
+com.navan.applocker.apk
+false
+
+jp.co.toshiba.ome.android.USRemo.apk
+false
+
+com.h18games.mygame13.apk
+false
+
+com.Aksenovborsh.NokiaLumia900Wallpapers.apk
+true
+hourly view	change	hour	change
+
+com.evernote.hello.apk
+false
+
+com.mobisystems.msdict.embedded.wireless.oxford.azgrammarandpunctuation.apk
+false
+
+com.hashprompt.cleancontacts.apk
+false
+
+com.kibartiq.xxxorgasmporn.apk
+false
+
+football.superstar.cron.messi.apk
+false
+
+com.Lock.ScreenLoveLockScreenWallpaper.apk
+false
+
+com.getloaded.android.apk
+false
+
+com.librotecstar.libroelmagooz.AOTRWEQAASDGKBWZ.apk
+true
+text size	adjust	text size	adjustable
+text size	adjustable	text size	adjustable
+text	adjustable	text size	adjustable
+
+com.frames.kid.travel.birthday.apk
+true
+photo frame	select	beautiful frame	select
+frame rate	select	beautiful frame	select
+frame	select	beautiful frame	select
+
+com.pixlr.express.apk
+true
+photo sharing	edit	photo	edit
+best photo	edit	photo	edit
+photo effect	edit	photo	edit
+photo collection	edit	photo	edit
+multiple photo	edit	photo	edit
+view photo	edit	photo	edit
+photo editing	edit	photo	edit
+share photo	edit	photo	edit
+original photo	edit	photo	edit
+photo	edit	photo	edit
+new photo	edit	photo	edit
+
+com.a4526434052094d5b6eb1d2a.a21764364a.apk
+false
+
+com.statefarm.rightlane.apk
+false
+
+com.beautyandroidgirl.massagevideolessons.apk
+false
+
+com.a44178086852171d8fd563b7a.a69513517a.apk
+false
+
+com.royalcaribbean.rccl.apk
+false
+
+com.a160704451252162a24566912a.a28812394a.apk
+false
+
+com.ohapps.fastfood.apk
+false
+
+og.android.tether.apk
+false
+
+com.rbcode.infernodanbrown.apk
+false
+
+com.androdb.fxb.apk
+false
+
+com.Password_Door_Unlock_1207231.apk
+false
+
+com.ifs.mobilebanking.fiid5113.apk
+false
+
+llc.auroraappdesign.wotd.apk
+false
+
+com.mangaapp9.app.apk
+false
+
+com.ape.apps.carfinder.apk
+false
+
+com.populace.CVBDublin.apk
+false
+
+com.a28198093151719f749541b2a.a99264651a.apk
+false
+
+com.helium2.hungrysharkslivewallpaper.apk
+false
+
+eu.zomtec.android.delivery.apk
+false
+
+sk.radarguru.android.saopaulo.apk
+false
+
+com.blackvibes.averysisterspr.apk
+false
+
+com.FPOS.apps.SaharaMediterraneanGrill.apk
+false
+
+electrikz.dragonballztrunkslwp.apk
+false
+
+com.bollingerbands.TechnicalChart.apk
+false
+
+es.eltiempo.weatherapp.apk
+false
+
+com.icestone.Emoji.apk
+false
+
+com.fitnessmobileapps.donnakelly.apk
+false
+
+codestudio.namoindia.apk
+false
+
+com.armida.fireflieslivewallpaper.apk
+false
+
+com.jb.gosms.popup.theme.getjar.glareplanet.apk
+false
+
+me.cosmodro.app.rhombus.apk
+true
+sd card	read	card	read
+gift card	read	card	read
+credit card	read	card	read
+flash card	read	card	read
+sim card	read	card	read
+memory card	read	card	read
+card	read	card	read
+
+com.inlimboapp.inlimbo.apk
+false
+
+com.a43107034151745d2baf12d6a.a09974956a.apk
+false
+
+com.adamantsoft.android.virtmirror.apk
+false
+
+blurayinfotech.livewallpaper.illutionlwp.apk
+false
+
+com.a19645079315211fbee65b6e1a.a00740245a.apk
+true
+video player	provide	youtube video	provide
+video chat	provide	youtube video	provide
+video clip	provide	youtube video	provide
+video file	provide	youtube video	provide
+video tutorial	provide	youtube video	provide
+video format	provide	youtube video	provide
+music video	provide	youtube video	provide
+
+us.parknow.apk
+true
+multiple photo	add	multiple	add
+
+com.ingluu.apk
+false
+
+com.tmobile.moreforme.apk
+false
+
+com.discolight.apk
+false
+
+com.molskness.crewmatebeta.apk
+false
+
+com.mshift.envisioncu.apk
+false
+
+com.Printergize.CurtisGEMIF.apk
+false
+
+com.tubizi.loadlog.apk
+false
+
+com.piyushgaur.pisms.apk
+true
+wifi connection	send	connection	send
+
+com.mdroid.fairylivewallpaper.apk
+false
+
+dev03.app138.apk
+false
+
+com.proqpon.app.apk
+false
+
+com.naeem.batterystatusnotification.apk
+false
+
+com.a1661268238521acd215825a8a.a40726515a.apk
+false
+
+com.vps.batmanlivewallpapers.apk
+false
+
+com.afklm.mobile.android.gomobile.af.apk
+false
+
+com.adaffix.cia.glb.android.apk
+false
+
+com.smp.hourlyweatherwidget.apk
+false
+
+com.pricegrabber.PGAndroid.apk
+false
+
+com.ball3dsupereurope.italyinter.apk
+false
+
+com.dominospizza.apk
+false
+
+com.realsex.apk
+true
+background color	make	colorful illustration	make
+different color	make	colorful illustration	make
+text color	make	colorful illustration	make
+color effect	make	colorful illustration	make
+color	make	colorful illustration	make
+
+com.bvr.jbieber.apk
+false
+
+com.datemenow.Naughty.apk
+false
+
+rune.AntiNumberAds.apk
+false
+
+com.citysearch.deals.apk
+false
+
+com.rhinocorn.vicecitystrategies.apk
+true
+video player	provide	youtube video	provide
+video chat	provide	youtube video	provide
+video clip	provide	youtube video	provide
+video file	provide	youtube video	provide
+video tutorial	provide	youtube video	provide
+video format	provide	youtube video	provide
+music video	provide	youtube video	provide
+
+com.chris.android.mydaysfree.apk
+false
+
+com.a214258226522a74452cc2b0a.a06762006a.apk
+false
+
+com.Menalabz.smstranslator1.apk
+false
+
+com.protrade.sportacular.apk
+false
+
+com.townwizard.brooklyn.apk
+false
+
+com.a1droidstudio.signalbooster.apk
+false
+
+com.jdroid.tchainz.apk
+false
+
+com.gigglepop.android.apk
+false
+
+com.androborobo.jumpingfinnturbo.apk
+false
+
+com.mshift.fccu.apk
+false
+
+com.a204415215551fcb813801fa8a.a22559438a.apk
+false
+
+com.greatdanedevgroup.topshop.apk
+false
+
+zodiac.livewallpaper.lostlovehd.apk
+false
+
+in.free.videochat.apk
+true
+data usage	ensure	data	ensure
+
+com.type2designs.watchyourbac.apk
+false
+
+com.lite.up.wifitether.free.apk
+false
+
+com.kzkn.poems.lonely.apk
+false
+
+com.malauzai.customers.apk
+false
+
+com.turtlemob.bibliaaudio.apk
+false
+
+com.laterchat.apk
+false
+
+com.powertoonsapps.sas.apk
+false
+
+com.appsdev.ghostradarplus.apk
+false
+
+uk.co.roboticode.wiseproverbs.apk
+false
+
+de.toar.livewallpaper.mountaingate.free.apk
+false
+
+com.enrasoft.camera.ghost.detector.apk
+false
+
+com.TonkeeTwills.apk
+false
+
+com.wBidNow.apk
+true
+sd card	save	gift card	save
+gift card	save	gift card	save
+credit card	save	gift card	save
+flash card	save	gift card	save
+sim card	save	gift card	save
+memory card	save	gift card	save
+card	save	gift card	save
+
+com.doctoralia.apk
+false
+
+com.Biplan.ChateauCherbourgLite.apk
+false
+
+com.deskclockfree.mehilo.apk
+false
+
+ca.cumulonimbus.barometernetwork.apk
+false
+
+com.palta.earthquake.apk
+false
+
+com.dd.minecraftseced.apk
+false
+
+com.gejos.android.digitizerbooster.apk
+false
+
+ke.dangacorp.scrollviewerapp.apk
+false
+
+com.ionix.flashlight.apk
+false
+
+com.legobatman2dcreview.tuan.apk
+false
+
+com.driftwood.wallpaper.wombat.apk
+false
+
+com.a81500203551dabcda2b0e10a.a53767534a.apk
+false
+
+com.samsunggalaxys3tips.galaxys3.tips.apk
+false
+
+com.whiz.wtxl.apk
+false
+
+com.vm.minecr2.apk
+false
+
+com.innout.apk
+false
+
+com.custom.lwp.MagicwaveWhitetigerattackone.apk
+false
+
+com.macropinch.pearl.apk
+false
+
+rosacreative.hot_sexyanime2lwp.apk
+false
+
+com.pocketools.currency.apk
+false
+
+com.sebmorand.brightcom.apk
+false
+
+pregnancy.disc.app.apk
+false
+
+inversus.webnativa.imagenesconfrasesdeamor.apk
+true
+text size	find	text	find
+
+com.yuwei.gps.apk
+false
+
+dev03.app155.apk
+false
+
+com.littleiapps.ndcmcalendar.apk
+false
+
+com.abc.gma.apk
+false
+
+com.rcplus.apk
+false
+
+com.a209520814752190238862962a.a86539132a.apk
+false
+
+com.scoutmob.ile.apk
+false
+
+air.com.montagetalent.catechnologies.apk
+true
+video player	provide	video	provide
+video chat	provide	video	provide
+video clip	provide	video	provide
+video file	provide	video	provide
+video tutorial	provide	video	provide
+video format	provide	video	provide
+music video	provide	video	provide
+
+com.stwalkerster.android.apps.strobelight.apk
+false
+
+com.manzy.bellaftervib.apk
+false
+
+com.alokmandavgane.sunrisesunset.apk
+false
+
+com.projectggk.FlashNotificationApp.apk
+false
+
+com.a57294796851f5e664a48183a.a51143791a.apk
+true
+photo sharing	give	photo	give
+photo effect	give	photo	give
+photo collection	give	photo	give
+multiple photo	give	photo	give
+view photo	give	photo	give
+photo editing	give	photo	give
+share photo	give	photo	give
+
+tools.thermometer.electro.apk
+false
+
+com.callpod.android_apps.keeper.apk
+false
+
+com.fullcool.sexsounds.apk
+true
+ringtones	set	ringtone	set
+ringtone	set	ringtone	set
+
+net.one97.paytm.apk
+true
+photo collection	bring	best collection	bring
+
+net.cwfk.ig88.gpswidget.apk
+false
+
+com.ashwin.apnea.apk
+false
+
+p46.GPSTracking.Android.i.apk
+false
+
+com.WhistlePhoneLocator.apk
+true
+ringtones	find	custom ringtone	find
+ringtone	find	custom ringtone	find
+
+trackthisout_compass.com.apk
+false
+
+com.comdata.comdatamobile.apk
+false
+
+ia.umkc.studentunionslider.apk
+false
+
+com.apksoftware.compass.apk
+false
+
+com.itbenefit.android.calendar.apk
+false
+
+com.a1214305069505a19c04459d7a.a10378087a.apk
+false
+
+com.indobrains.kprkalkulator.apk
+false
+
+com.raycom.wcsc.apk
+false
+
+com.chatous.chatous.apk
+false
+
+com.cdot.mobile.apk
+false
+
+com.asiweb.ssbne.mobilebanking.apk
+false
+
+com.speedymarks.android.windfree.apk
+false
+
+com.skava.toysrus.toysrusUS.apk
+false
+
+com.allcool.onedirection.apk
+false
+
+com.adyclock.apk
+false
+
+com.omecha.interstate.apk
+false
+
+com.geekyouup.android.widgets.battery.apk
+false
+
+com.a11107760985016c10230e338a.a66830165a.apk
+false
+
+com.betterapsd.speakerboosterpro.apk
+false
+
+com.fitnessmobileapps.heatbootcamp.apk
+false
+
+ammar.craigslist.craigslistviewer.apk
+false
+
+com.greatdanedevgroup.aldo.apk
+false
+
+com.horizonsoftware.mypaymentsplus.apk
+false
+
+imoblife.memorybooster.lite.apk
+false
+
+com.esd.diseasedictionary.apk
+false
+
+com.sumit.sleeping.apk
+false
+
+com.zenapps.zenvocabbuilderfree.apk
+false
+
+com.justhurricanes.app.ant.apk
+false
+
+com.despica_ble_me2_clock.apk
+false
+
+com.freelancer.procoder.alarmme.apk
+false
+
+com.shutdownevery.apk
+false
+
+com.androborobo.cuttheropetravel.apk
+false
+
+cresents.fairytailtoucheffectlwp.apk
+false
+
+com.conductiv.mobileshell.apk
+false
+
+com.youngmedia.wkrn.apk
+false
+
+com.greatdanedevgroup.ralphlauren.apk
+false
+
+com.mobiletrendsinc.dent.pdadentist.apk
+false
+
+com.wFreeCreditReportApp.apk
+false
+
+com.ericdodson.kaitlynlwp.apk
+false
+
+com.a1606748998512e4e99131977a.a45773769a.apk
+false
+
+com.a919314067520d93f4873bd3a.a28923799a.apk
+false
+
+com.jerkic.livewallpaper.thesimpsons.apk
+false
+
+com.zite.apk
+false
+
+lipton.bubblesneon1lwp.apk
+false
+
+com.unips.livewallpaper.surf.apk
+false
+
+com.hearst.wapthurricanes.apk
+false
+
+com.flightradar24free.apk
+false
+
+com.tfsolutions.weatherlove.apk
+false
+
+net.cacheux.soundboost.apk
+false
+
+com.happy.quiz.ged.apk
+false
+
+tw.ucnet.yellowdk.apk
+false
+
+com.macropinch.axe.apk
+false
+
+com.automotiontv.youngertoyota.apk
+false
+
+com.FNBPA.mobilebanking.apk
+false
+
+wbfire.zodiac.pisces.apk
+false
+
+com.gsmappstabs.oldphonedialer.apk
+false
+
+com.threeheadmonkey.mirrormirrorev.apk
+false
+
+net.groceryshopping.FoodCity.apk
+false
+
+remote.universl.usefl.apk
+false
+
+com.mattlangdev.sexychat.apk
+false
+
+com.matreshka.red.apk
+false
+
+com.myleaderboard.GolfChannel.apk
+true
+music video	cover	instructional video	cover
+
+com.MinnieMouseHDLiveWallpaper.apk
+true
+photo sharing	show	photo	show
+best photo	show	photo	show
+photo effect	show	photo	show
+photo collection	show	photo	show
+multiple photo	show	photo	show
+view photo	show	photo	show
+photo editing	show	photo	show
+share photo	show	photo	show
+original photo	show	photo	show
+photo	show	photo	show
+new photo	show	photo	show
+
+com.worldofbilly.quickmuni.apk
+false
+
+com.tinfoilninja.redsky.apk
+false
+
+com.mfreedial.bd.apk
+false
+
+com.tonyjon2013.labor.apk
+false
+
+com.sexybbabvids.apk
+false
+
+com.epro.dx.apk
+false
+
+ch.smalltech.ledflashlight.free.apk
+false
+
+com.katecca.screenofflock.apk
+false
+
+com.jb.gosms.theme.YouRight.apk
+true
+baby bus	design	sweetie baby	design
+baby	design	sweetie baby	design
+
+com.newholland.agriculture.android.nhweather.apk
+false
+
+com.headcode.ourgroceries.apk
+false
+
+com.wHotChatTonight.apk
+false
+
+erbbysam.PVTABusTracker.apk
+false
+
+com.ohapps.clothing.apk
+false
+
+com.safeway.client.android.dominicks.apk
+false
+
+com.biblia.latina.apk
+false
+
+electrikz.dragonballzshenronlwp.apk
+false
+
+com.sheperdsguide.apk
+false
+
+com.cognizantenterprisemobility.Rabobank.apk
+false
+
+com.gangstarcitireview.tuan.apk
+false
+
+hacker.phone.hack.hacker.tools.apk
+false
+
+org.goldprice.app.apk
+true
+favorite music	turn	favorite	turn
+
+com.magnushealth.apk
+false
+
+com.dikkar.ifind.apk
+false
+
+com.krawa.speedlimitwidget.apk
+false
+
+com.smartPhones.clockwidget.ncaa.live.texas_AND.apk
+false
+
+com.manticpoint.android.viewtrip.apk
+false
+
+com.chiching.merchant.apk
+false
+
+com.radaris.watch.apk
+false
+
+com.a17960460925213b5223b5902a.a83649815a.apk
+false
+
+com.schiztech.swapps.apk
+false
+
+com.jdroid.asapjj.apk
+true
+music today	share	music	share
+music	share	music	share
+music video	share	music	share
+
+com.mobileeduapps.OfficeWorkOuts.apk
+true
+photo frame	add	frame	add
+frame rate	add	frame	add
+frame	add	frame	add
+
+ober37.cycletraderfree.apk
+false
+
+com.mstream.e2t.apk
+false
+
+net.authorize.mobilemerchantandroid.apk
+false
+
+com.adsense_secretss.apk
+false
+
+com.meddiclite.medicinedictionarylite.apk
+false
+
+com.appsettings.ac_util.apk
+false
+
+com.lyoncwcc.zendayacolemanlwp.apk
+false
+
+com.muslimtoolbox.app.android.prayertimes.apk
+false
+
+com.visinor.phonewarrior.apk
+false
+
+com.a3334998665199485cf06df9a.a82169215a.apk
+false
+
+com.ras.oneclickdocshare.apk
+true
+video format	share	format	share
+
+com.fitnessmobileapps.zooga.apk
+false
+
+com.nyctrans.it.apk
+false
+
+com.heal.yourself.apk
+false
+
+carrie.underwood.songs.apk
+false
+
+com.mfoundry.mb.android.mb_x2zsmbpm.apk
+false
+
+com.newinnov.android.apk
+false
+
+com.macropinch.swan.apk
+true
+multiple photo	add	multiple location	add
+
+net.mercurysoftware.imagenesconfraseslindas.apk
+false
+
+com.webcellence.urlapp.IDABJQ68.apk
+false
+
+blacksun.studio.movies.apk
+false
+
+pl.amax.lovetreelivewallpaper.apk
+false
+
+org.newearth.apk
+false
+
+com.zodiac.cobra.apk
+false
+
+com.musiclwps.sleepingsirens.apk
+false
+
+com.rushcard.android.apk
+false
+
+alice.smith.footmehndi.apk
+false
+
+com.webcellence.urlapp.ID22LQ6W.apk
+false
+
+com.contapps.android.widget.apk
+false
+
+com.a2084058517520567dab21d85a.a40374374a.apk
+false
+
+com.ohapps.coffee.apk
+false
+
+net.everythingandroid.smspopup.apk
+false
+
+com.klye.ime.latin.apk
+false
+
+com.androborobo.airnavyfighters.apk
+false
+
+com.farmingsimulator2012.trang.apk
+true
+video player	hold	player	hold
+
+air.com.KickstandTech.JeepWeather.apk
+false
+
+com.finestandroid.tunner.apk
+false
+
+com.darshancomputing.BatteryIndicator.apk
+false
+
+com.locationlabs.cni.sprint.apk
+false
+
+com.frenys.chistesparaninos.apk
+true
+favorite artist	select	favorite	select
+favorite song	select	favorite	select
+
+com.a41078199151ee46a08d7387a.a62704452a.apk
+false
+
+com.tonyjon2013.mickeymouse.apk
+false
+
+com.icechen1.notable.apk
+false
+
+com.frenys.coleccion1010464.apk
+true
+favorite artist	select	favorite	select
+favorite song	select	favorite	select
+
+com.a7027898745212ac566fa797a.a29345335a.apk
+false
+
+com.epic.haiku.android.apk
+false
+
+com.a153095253652174a9032aeb6a.a34356379a.apk
+false
+
+com.itzkow.licenceplatereader.apk
+false
+
+com.voilaweb.mobile.sobrietycounter.apk
+false
+
+com.thebes.fastbatterychargerfree.apk
+false
+
+com.MidCenturyMedia.Shopper.light.apk
+false
+
+com.mshift.android.lfcuv2.apk
+false
+
+com.mah.rainbow.dialer.apk
+true
+background color	add	color	add
+font color	add	color	add
+different color	add	color	add
+text color	add	color	add
+color effect	add	color	add
+color	add	color	add
+
+com.dasat.oktoberfestguide.apk
+false
+
+com.webcellence.urlapp.ID7ZSZH8.apk
+false
+
+com.SubwaySurfersFreeCheats.bds.apk
+false
+
+com.a10729550975223255352aa21a.a27836760a.apk
+false
+
+finarea.MobileVoip.apk
+false
+
+com.ifs.banking.fiid5039.apk
+false
+
+boston.Bus.Map.apk
+false
+
+com.splickit.moes.apk
+false
+
+com.Wedding_Counting_Down_108073.apk
+false
+
+com.spudpickles.grc.apk
+false
+
+com.monotype.android.font.fonts4fun.calligraphy.apk
+false
+
+com.wolfsoft.dotd.apk
+false
+
+com.despicablemereview.tuan.apk
+false
+
+com.recharge.mischief.apk
+false
+
+com.ball3dsupereurope.italymilan.apk
+false
+
+com.mobilenicheapps.iqr.apk
+false
+
+com.malauzai.westernvista.apk
+false
+
+sermon.free.howto62.apk
+false
+
+com.bravo.galaxy.s3.apk
+false
+
+com.wBurwellLivestockMarketInc.apk
+false
+
+com.safer_taxi.apk
+false
+
+com.andromo.dev216254.app235066.apk
+false
+
+com.hearst.kccitornado.apk
+false
+
+com.secdev.pokoyoizle.apk
+false
+
+com.healthapps.penisfacts.apk
+false
+
+com.dwolla.dwolla.apk
+false
+
+cn.feilfly.android.drive.theory.us.lite.apk
+false
+
+com.Morse_Code_Helper_207233.apk
+false
+
+com.moneysavingexpert.android.ebaydeals.apk
+true
+photo collection	search	collection	search
+
+com.avantar.yp.apk
+false
+
+com.weddingwire.user.apk
+false
+
+org.kp.m.apk
+false
+
+com.futurepos.TuscanySquare.apk
+false
+
+cellfish.smurfs.apk
+false
+
+com.jumia.android.apk
+false
+
+com.schneeloch.mta.apk
+false
+
+com.cjriverstone.apps.RxTime.apk
+false
+
+fr.snapp.fidme.apk
+true
+sd card	create	card	create
+gift card	create	card	create
+credit card	create	card	create
+flash card	create	card	create
+sim card	create	card	create
+memory card	create	card	create
+card	create	card	create
+
+com.FIMobile.BeaconFCU.apk
+false
+
+com.samsunggalaxys4tips.galaxys4.tips.apk
+false
+
+com.abswc.apk
+false
+
+com.qualtrics.offlinesurveys.apk
+false
+
+com.worldmate.apk
+false
+
+com.widget.sms3d.apk
+false
+
+com.contacts1800.ecomapp.apk
+false
+
+com.dimav.topcountrysongs2013.apk
+false
+
+com.wcchu.sharingan.apk
+false
+
+com.adam4adam.radar2.apk
+false
+
+com.watchtv.channelslive.apk
+false
+
+com.quotes.love.romantic.best.freedownload.apk
+false
+
+at.maui.cheapcast.apk
+false
+
+xdebugx.partyLightA.apk
+false
+
+com.aircrunch.shopalerts.apk
+true
+favorite photo	find	favorite	find
+favorite artist	find	favorite	find
+favorite show	find	favorite	find
+favorite music	find	favorite	find
+favorite list	find	favorite	find
+favorite location	find	favorite	find
+
+me.kevinwells.darxen.apk
+false
+
+com.smartPhones.clockwidget.ncaa.live.tennessee_AND.apk
+false
+
+com.BrightestLightStrobe.apk
+false
+
+com.simple.thermometre.jltools.apk
+false
+
+com.enfiled.anywheretransit.apk
+false
+
+inputmethod.latin.ported.apk
+false
+
+com.devuni.flashlight.apk
+false
+
+com.appmakerworld.prank.fb.apk
+false
+
+net.kernelxp.freetether.apk
+false
+
+com.anmob.crattack.apk
+false
+
+com.frcolejr.android.apps.weddingcakesideabook.apk
+false
+
+com.mgna.mbta.bus.checker.apk
+false
+
+dev03.app120.apk
+false
+
+com.malauzai.CAT14934.apk
+false
+
+video.mt.apk
+false
+
+com.a10834887485200bbd19b8548a.a36291266a.apk
+false
+
+com.Finger_Scan_for_Health_106134.apk
+false
+
+com.a67076463651fe253ab56441a.a47383512a.apk
+true
+photo sharing	give	photo	give
+photo effect	give	photo	give
+photo collection	give	photo	give
+multiple photo	give	photo	give
+view photo	give	photo	give
+photo editing	give	photo	give
+share photo	give	photo	give
+
+com.terrylau.goldsilvermonitor.apk
+false
+
+com.bengaltigerlivewallpaper.apk
+true
+photo collection	give	collection	give
+

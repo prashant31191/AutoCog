@@ -106,9 +106,9 @@ def parseapps(filename):
             continue
     return apps
 
-
-respath='/home/zyqu/semant2/evaluation/49183res/'
-validpath='/home/zyqu/semant2/evaluation/valiation/'
+proj_path=os.path.abspath('../..')
+respath=proj_path+'/evaluation/49183res/'
+validpath=proj_path+'/evaluation/valiation/'
 
 rootDir=respath
 list_dirs=os.walk(rootDir)
@@ -139,20 +139,9 @@ for root, dirs, files in list_dirs:
             print len(allresdict)
             goodapps=[]
             badapps=[]
-            #goodapps=parseapps('good_write_contacts.txt')
-            #badapps=parseapps('bad_write_contacts.txt')
-            #allapps=parseapps('allcontacts.txt')
-            #for apk in allapps:
-                #if apk not in goodapps and apk not in badapps:
-                    #print apk
 
-            #if targetperm=='android.permission.RECORD_AUDIO':
-                #goodapps=parseapps('good_record_audio.txt')
-                #badapps=parseapps('bad_record_audio.txt')
 
-            #if targetperm=='android.permission.READ_CONTACTS':
-                #goodapps=parseapps('good_read_contacts.txt')
-                #badapps=parseapps('bad_read_contacts.txt')
+
 
             if targetperm=='android.permission.READ_CALENDAR':
                 goodapps=parseapps('good_read_calendar.txt')

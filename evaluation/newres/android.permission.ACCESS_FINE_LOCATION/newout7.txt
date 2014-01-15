@@ -1,0 +1,6715 @@
+com.strategik.deadpoolwallpaper2013.apk
+false
+
+hr.apps.n53735446.apk
+false
+
+com.picoedit.smooth.camera.apk
+true
+detailed information	give	detail	give
+detail	give	detail	give
+
+com.chase.sig.android.apk
+true
+mobile deposit	make	deposit	make
+
+com.wvit.android.weather.apk
+true
+weather alert	send	weather	send
+
+com.babyshowercake.tuan.apk
+false
+
+com.pinchit.marcopolo.apk
+true
+gps location	share	location	share
+location	share	location	share
+current location	share	location	share
+
+com.tinymission.dailylegworkoutfree.apk
+true
+daily basis	check	daily workout	check
+daily life	check	daily workout	check
+daily deal	check	daily workout	check
+daily	check	daily workout	check
+
+com.untappdllc.app.apk
+true
+location service	find	near location	find
+gps location	find	near location	find
+location	find	near location	find
+current location	find	near location	find
+
+com.ohapps.pizza.apk
+false
+
+com.instacollagefx.android.apk
+false
+
+au.com.michaelsoft.vehiclelogger.apk
+false
+
+com.reverbnation.artistapp.i831131.apk
+false
+
+appinventor.ai_MatthewQuelette.GetLucky.apk
+true
+hot girl	chat	hot	chat
+
+com.mcom.firstcitizenssc.apk
+true
+private data	charge	data	charge
+data plan	charge	data	charge
+data	charge	data	charge
+mobile data	charge	data	charge
+data usage	charge	data	charge
+data connection	charge	data	charge
+personal data	charge	data	charge
+weather data	charge	data	charge
+
+com.appypie.appypie625948ffd6d0.apk
+false
+
+com.nomadmobileguides.android.brpa.apk
+true
+location service	include	service	include
+
+com.mobvi.metaldetector.apk
+false
+
+sextube.sexygirls.sexpositions.sexposition69.apk
+true
+sex life	show	sex position	show
+sex position	show	sex position	show
+sex photo	show	sex position	show
+sex	show	sex position	show
+
+com.loves.finder.apk
+true
+local store	find	near store	find
+store	find	near store	find
+grocery store	find	near store	find
+play store	find	near store	find
+store locator	find	near store	find
+
+com.glm.trainerlite.apk
+false
+
+com.Nacavainro.YouTubebackground.apk
+false
+
+com.RideAlly.apk
+false
+
+com.mastercard.paypass.apk
+true
+gps location	locate	close paypass location	locate
+location	locate	close paypass location	locate
+
+com.MobiSoft.Fly.apk
+true
+map display	live	map	live
+map view	live	map	live
+interactive map	live	map	live
+map	live	map	live
+route map	live	map	live
+offline map	live	map	live
+google map	live	map	live
+
+com.gannett.local.library.news.wxia.apk
+false
+
+com.conduit.app_28a4a8f895c341faa24303b4ad2769f7.app.apk
+true
+favorite store	save	favorite look	save
+
+com.mobilebeez.sculptabetterbutt.apk
+false
+
+com.unips.livewallpaper.leopard.apk
+false
+
+horoscope.myvd.apk
+true
+daily basis	check	daily horoscope	check
+daily life	check	daily horoscope	check
+daily deal	check	daily horoscope	check
+daily	check	daily horoscope	check
+
+com.appfab.jokes.crude.apk
+false
+
+appinventor.ai_loveartapps.ZK.apk
+false
+
+de.gavitec.android.apk
+true
+mobile apps	deliver	mobile device	deliver
+mobile access	deliver	mobile device	deliver
+mobile data	deliver	mobile device	deliver
+mobile	deliver	mobile device	deliver
+mobile internet	deliver	mobile device	deliver
+mobile banking	deliver	mobile device	deliver
+
+com.jbapps.contact.theme.leopard.apk
+true
+search	type	search field	type
+search point	type	search field	type
+search result	type	search field	type
+
+com.tripadvisor.android.apps.cityguide.sandiego.apk
+true
+city	list	city	list
+city guide	list	city	list
+city break	list	city	list
+
+net.parentlink.liverpool.apk
+false
+
+me.tidesnear.free.apk
+false
+
+com.itrustcambodia.hdmovie.apk
+false
+
+com.fengshuifortunes.apk
+false
+
+com.appmachine.p9624DG.apk
+false
+
+com.zoosk.zoosk.main.apk
+true
+online	make	online dating	make
+
+com.wrcb.android.weather.apk
+true
+map display	vertical	map display	vertical
+map view	vertical	map display	vertical
+interactive map	vertical	map display	vertical
+map	vertical	map display	vertical
+route map	vertical	map display	vertical
+offline map	vertical	map display	vertical
+google map	vertical	map display	vertical
+
+com.unips.livewallpaper.dinosaur.apk
+false
+
+com.Synapse.KRGVFootball.apk
+false
+
+com.yasabe.ys5.apk
+true
+mobile data	enhance	data	enhance
+
+com.pbn.trophycase.apk
+true
+map display	give	gps map	give
+map view	give	gps map	give
+interactive map	give	gps map	give
+map	give	gps map	give
+route map	give	gps map	give
+offline map	give	gps map	give
+
+com.dsrsol.satellitemaps.apk
+true
+r feed	collect	feed video	collect
+twitter feed	collect	feed video	collect
+feed	collect	feed video	collect
+
+com.SubwaySurfBeijingCheats.ncd.apk
+false
+
+org.busbrothers.anystop.denverrtd.apk
+true
+route	find	route stop	find
+
+com.newnycway.apk
+true
+location information	base	location	base
+location service	base	location	base
+gps location	base	location	base
+location	base	location	base
+current location	base	location	base
+
+com.gaganjeetbhullar.propertyforrent.apk
+true
+low price	find	exact price	find
+
+com.sunnymediagroup.baptist.apk
+false
+
+com.cube.arc.hfa.apk
+true
+current location	show	current	show
+current position	show	current	show
+
+com.diseaseapps.diseasedictionary.apk
+false
+
+com.unips.livewallpaper.tornado.apk
+false
+
+com.jb.gosms.theme.bwpinkzebrafree.apk
+false
+
+com.adultswim.videoapp.android.apk
+false
+
+com.chartcross.gpstest.apk
+true
+informational purpose	show	gps information	show
+location information	show	gps information	show
+additional information	show	gps information	show
+information	show	gps information	show
+advertisement information	show	gps information	show
+following information	show	gps information	show
+news information	show	gps information	show
+useful information	show	gps information	show
+
+com.sinyee.babybus.kartRacing.apk
+false
+
+com.zc.android.apk
+false
+
+com.dmn.pressengine.apk
+true
+informational purpose	give	local news information	give
+additional information	give	local news information	give
+information	give	local news information	give
+advertisement information	give	local news information	give
+late information	give	local news information	give
+following information	give	local news information	give
+news information	give	local news information	give
+useful information	give	local news information	give
+
+com.app_fivehap.layout.apk
+false
+
+org.reuters.sport.ro.apk
+true
+local store	support	store	support
+store	support	store	support
+grocery store	support	store	support
+play store	support	store	support
+favorite store	support	store	support
+store locator	support	store	support
+
+ban.card.phoneswipe.apk
+true
+local business	manage	business	manage
+business	manage	business	manage
+
+com.sygic.aura.apk
+false
+
+com.nil.zendaya.apk
+false
+
+com.marimangames.volume.booster.apk
+true
+alert notification	notifications	notification	notifications
+
+pandamonium.noaaweather.apk
+true
+weather forecast	provide	unique point forecast	provide
+
+appinventor.ai_b_joappz.Flirting.apk
+true
+profile	date	profile	date
+
+com.androids.main.apk
+true
+location information	determine	location	determine
+location service	determine	location	determine
+gps location	determine	location	determine
+location	determine	location	determine
+current location	determine	location	determine
+
+winesecretary.com.apk
+false
+
+com.asiweb.csbgalva.mobilebanking.apk
+true
+check-in	deposit	check	deposit
+check	deposit	check	deposit
+
+com.sureshotapps.fibroidtumors.apk
+true
+r feed	collect	feed video	collect
+twitter feed	collect	feed video	collect
+feed	collect	feed video	collect
+
+com.okcupid.cbd.apk
+false
+
+com.tripadvisor.android.apps.cityguide.paris.apk
+true
+city	list	city	list
+city guide	list	city	list
+city break	list	city	list
+
+com.eatstreet.android.apk
+false
+
+com.powerwallinc.superman.wallpaper.apk
+false
+
+com.mhedia.fingerprintlock.apk
+false
+
+com.speaktoit.assistant.apk
+false
+
+com.sinyee.education.color_new.apk
+false
+
+com.adamcox.rapbeats.apk
+false
+
+com.mywebgrocer.ShopRiteCircular.apk
+true
+current location	add	current	add
+
+com.mcom.firstmerit.apk
+true
+branch atm	locate	near firstmerit atm	locate
+
+com.limpenghoe.gpsnavigation.apk
+true
+direct link	find	direction	find
+direction	find	direction	find
+one direction	find	direction	find
+
+com.wegmans.wegmansapp.apk
+true
+location information	base	location	base
+location service	base	location	base
+gps location	base	location	base
+location	base	location	base
+current location	base	location	base
+
+com.passportparking.mobile.apk
+true
+mobile banking	offer	mobile	offer
+
+com.Aksenovborsh.BlackBerry9900Wallpapers.apk
+true
+hour	change	hour	change
+hourly view	change	hour	change
+
+sandhills.hosteddealerapp.americantrucksalesandsalvage.apk
+false
+
+com.onedir_clock.apk
+false
+
+com.ftp47.mas.apk
+true
+hot girl	watch	girl	watch
+
+com.tribtv.ktla2.apk
+true
+google map	watch	news live	watch
+
+com.ot.iac.apk
+false
+
+com.doapps.android.mln.MLN_ce2cdd37d7c806daa94278be9c1aee36.apk
+true
+local weather	provide	live weather	provide
+weather	provide	live weather	provide
+severe weather	provide	live weather	provide
+weather industry	provide	live weather	provide
+news weather	provide	live weather	provide
+weather condition	provide	live weather	provide
+weather alert	provide	live weather	provide
+current weather	provide	live weather	provide
+weather information	provide	live weather	provide
+weather data	provide	live weather	provide
+weather forecast	provide	live weather	provide
+
+com.jpc.lovequotes.apk
+true
+favorite store	save	favorite	save
+
+com.ap.adval.apk
+false
+
+com.difang.photoeffects.apk
+false
+
+com.aquaclara.survey.apk
+false
+
+com.ekaaconsultancy.carpool.apk
+true
+map display	set	map	set
+map view	set	map	set
+interactive map	set	map	set
+map	set	map	set
+route map	set	map	set
+offline map	set	map	set
+
+com.urbanforex.forextradingfmacstrategy.apk
+true
+informational purpose	give	information	give
+additional information	give	information	give
+information	give	information	give
+advertisement information	give	information	give
+detailed information	give	information	give
+late information	give	information	give
+following information	give	information	give
+news information	give	information	give
+useful information	give	information	give
+
+com.successquotes.lwp.successlivewallpaper.apk
+true
+search	live	search monetization	live
+search result	live	search monetization	live
+search monetization	live	search monetization	live
+
+com.conduit.app_bf7f11ec22d64e5ba4ee5f07358a5882.app.apk
+false
+
+com.chron.android.apk
+false
+
+com.baishisoft.photo.japan95girl.apk
+false
+
+com.subsplash.thechurchapp.crossroadstv.apk
+true
+location service	find	location	find
+gps location	find	location	find
+location	find	location	find
+current location	find	location	find
+
+com.mobilelife.tctrips.krakow.jewish.standard.apk
+true
+trip	provide	trip	provide
+
+com.purple.hearts.live.wallpaper.apk
+false
+
+com.conduit.app_3acf5f46785747c893bf26e07f7d57e5.app.apk
+false
+
+cui.health.heartrate.apk
+false
+
+sportonnet.com.sporttvorg.apk
+true
+google map	watch	live	watch
+
+com.everimaging.photoeffectstudio.apk
+false
+
+com.hcg.treysongz.apk
+true
+legal representative	produce	representative	produce
+
+com.andromo.dev137436.app234459.apk
+false
+
+com.telenor.hu.vigyelhaza.apk
+false
+
+com.rich.wallpapers.sexy_girls.apk
+false
+
+com.vagaro.apk
+false
+
+com.ally.MobileBanking.apk
+true
+branch atm	find	nearby atm	find
+
+com.Appsygna.TangoMobile.apk
+true
+city	add	additional city	add
+city break	add	additional city	add
+
+com.krgv.android.weather.apk
+true
+map display	vertical	map display	vertical
+map view	vertical	map display	vertical
+interactive map	vertical	map display	vertical
+map	vertical	map display	vertical
+route map	vertical	map display	vertical
+offline map	vertical	map display	vertical
+google map	vertical	map display	vertical
+
+com.amiapps.freesongdownloadapp.apk
+true
+r feed	collect	feed video	collect
+twitter feed	collect	feed video	collect
+feed	collect	feed video	collect
+
+com.tilzmatictech.mobile.navigation.delhimetronavigator.apk
+false
+
+com.Aksenovborsh.BLUWallpapers.apk
+true
+hour	change	hour	change
+hourly view	change	hour	change
+
+com.saverr.apk
+true
+grocery store	find	best grocery	find
+
+com.ifs.banking.fiid1456.apk
+true
+account balance	check	balance	check
+
+org.secumd.m.prod.apk
+true
+bank account	log	online banking	log
+bank	log	online banking	log
+online	log	online banking	log
+banking	log	online banking	log
+online banking	log	online banking	log
+
+com.swishly.gap.apk
+false
+
+com.sabhsar.hot.sara.jean.apk
+false
+
+com.lib.cwmoney.apk
+true
+gps location	require	view location	require
+location	require	view location	require
+
+com.pinchio.queue.apk
+false
+
+com.baishisoft.photo.japan5girl.apk
+false
+
+com.java.ads.apk
+true
+informational purpose	give	information	give
+additional information	give	information	give
+information	give	information	give
+advertisement information	give	information	give
+detailed information	give	information	give
+late information	give	information	give
+following information	give	information	give
+news information	give	information	give
+useful information	give	information	give
+
+com.usaa.mobile.android.usaa.apk
+true
+check-in	deposit	check	deposit
+check	deposit	check	deposit
+
+com.teks.myfirstworden.apk
+false
+
+com.firstsdachurch.firstsdachurch403.apk
+false
+
+de.j4velin.notificationToggle.apk
+false
+
+com.carstations.mobile.apk
+true
+radio station	find	station	find
+gas station	find	station	find
+station	find	station	find
+
+com.mapmyhike.android2.apk
+true
+route	search	route	search
+
+com.tialawl.routerunner.apk
+true
+route	calculate	random route	calculate
+
+com.conduit.app_444cdaa789d94e888cac9732b483950d.app.apk
+false
+
+net.ijustapp.ijust.apk
+false
+
+com.ohranger.parkfinder.android.apk
+true
+location service	find	location	find
+gps location	find	location	find
+location	find	location	find
+current location	find	location	find
+
+com.truestapps.soulfoodrecipesap.apk
+true
+private data	fetch	data	fetch
+data plan	fetch	data	fetch
+data	fetch	data	fetch
+mobile data	fetch	data	fetch
+data usage	fetch	data	fetch
+data connection	fetch	data	fetch
+personal data	fetch	data	fetch
+weather data	fetch	data	fetch
+
+net.mercurysoftware.imagenesdediosconfrases.apk
+false
+
+com.legostarwars2.trang.apk
+true
+price	check	best price	check
+best price	check	best price	check
+low price	check	best price	check
+
+com.planetsnstarslivewallpaper.rainbowapp.apk
+false
+
+com.dfckc.abmw.apk
+true
+account	check	account balance	check
+account balance	check	account balance	check
+
+com.grapeword.apk
+false
+
+com.spartanbits.gochat.yahoomessenger.apk
+false
+
+com.arc.studios.windows8.apk
+false
+
+com.readabl.paperkarma.apk
+false
+
+com.boobs.bigboobs.halfnaked.hotgirls.freedownload.apk
+false
+
+com.forfone.sip.apk
+false
+
+com.tripadvisor.android.apps.cityguide.losangeles.apk
+true
+city	list	city	list
+city guide	list	city	list
+city break	list	city	list
+
+com.mobincube.android.sc_KLUGL.apk
+false
+
+com.mayorlazer.lazergram.apk
+false
+
+com.a187605332451daa4bde8efa3a.a93890308a.apk
+true
+daily stream	stop	daily stream	stop
+daily	stop	daily stream	stop
+
+com.drawcoolman.net.guns.apk
+false
+
+eu.asteryx.transportlocator.apk
+true
+map display	update	map	update
+map view	update	map	update
+interactive map	update	map	update
+map	update	map	update
+route map	update	map	update
+offline map	update	map	update
+google map	update	map	update
+
+com.mm.views.apk
+true
+search result	enter	coupon search	enter
+
+whatsapp.activity.apk
+false
+
+com.gallusgolf.c302.android.radrickfarms.apk
+false
+
+com.zumba.commerce.android.apk
+true
+location information	search	location	search
+location service	search	location	search
+gps location	search	location	search
+location	search	location	search
+current location	search	location	search
+
+com.ohapps.baby.apk
+false
+
+com.tokasiki.android.voicerecorder.apk
+false
+
+com.zappallas.android.tarotcardreading.apk
+false
+
+com.softek.ofxclmobile.educatorscu.apk
+true
+account balance	check	balance	check
+
+com.dteenergy.mydte.apk
+true
+location service	find	location	find
+gps location	find	location	find
+location	find	location	find
+current location	find	location	find
+
+com.greenworksmobile.funnyringtones.apk
+false
+
+my.volume.booster.niet.apk
+false
+
+indian.porn.desi.bhabhi.videos.prank.app.apk
+false
+
+com.asiministries.asiapp.apk
+true
+schedule	create	personalized schedule	create
+
+com.cliffwork.TMUSNavyGalleryP.apk
+false
+
+rosacreative.papoylwp.apk
+false
+
+com.flirtchallenge.apk
+false
+
+com.halloween.sounds.ringtones.apk
+false
+
+com.skyproductivity.android.mobiletracker.apk
+true
+gps location	view	location information	view
+location	view	location information	view
+
+com.mobimate.cwttogo.apk
+true
+place	view	place	view
+new place	view	place	view
+best place	view	place	view
+right place	view	place	view
+
+com.newssynergy.chicagosuntimes.apk
+true
+alert notification	break	news alert	break
+alert	break	news alert	break
+critical alert	break	news alert	break
+news alert	break	news alert	break
+weather alert	break	news alert	break
+
+com.ezentertmt.dreamreader.apk
+false
+
+com.dezineapps.placefinder.apk
+false
+
+com.a22405931351fe7a7b9c3665a.a27157147a.apk
+false
+
+com.app_autoremedy.layout.apk
+false
+
+com.one.direction.match.apk
+false
+
+com.windalert.android.apk
+false
+
+com.pilotfishmediainc.hypnoticspiral.apk
+true
+direct link	change	direction	change
+direction	change	direction	change
+one direction	change	direction	change
+
+com.businesscellapps.airasiagohotels.apk
+false
+
+com.air.callreceiving.apk
+false
+
+com.appgiraffe.B90X.apk
+false
+
+com.popular.android.mibanco.apk
+true
+bank account	enrol	online bank	enroll
+bank account	enroll	online bank	enroll
+bank	enrol	online bank	enroll
+bank	enroll	online bank	enroll
+online	enrol	online bank	enroll
+online	enroll	online bank	enroll
+banking	enrol	online bank	enroll
+banking	enroll	online bank	enroll
+online banking	enrol	online bank	enroll
+online banking	enroll	online bank	enroll
+
+com.emoji.keyboard.awsome.cool.apk
+false
+
+com.avantar.wny.apk
+true
+direct link	drive	direction	drive
+direction	drive	direction	drive
+one direction	drive	direction	drive
+
+com.geekadoo.mta.subwaytimeforandroid.apk
+false
+
+com.wifiagent.free.apk
+false
+
+com.tamilantechnogies.samayalkuripukal.apk
+false
+
+com.cellit.forrentlite.apk
+false
+
+com.zodiac.lwp7d.apk
+false
+
+com.omecha.truckstop.apk
+true
+map display	map	android map	map
+map view	map	android map	map
+interactive map	map	android map	map
+map	map	android map	map
+route map	map	android map	map
+offline map	map	android map	map
+google map	map	android map	map
+
+com.heartoflouisiana.mobile.apk
+true
+account	check	account balance	check
+account balance	check	account balance	check
+
+com.shopperempowerment.simple.apk
+false
+
+com.yellowpages.androidtablet.ypmobile.apk
+true
+discount hotel	search	hotel	search
+luxury hotel	search	hotel	search
+boutique hotel	search	hotel	search
+hotel offer	search	hotel	search
+listed hotel	search	hotel	search
+hotel booking	search	hotel	search
+hotel room	search	hotel	search
+hotel deal	search	hotel	search
+budget hotel	search	hotel	search
+hotel	search	hotel	search
+
+com.goodbarber.vidafm.apk
+false
+
+com.theappmonkey.hotdoglegswallpapernews.apk
+false
+
+com.nespresso.activities.apk
+false
+
+com.arcusweather.dashclock.apk
+false
+
+ideasforbest.navigation.system.apk
+false
+
+com.discovery.petfinder.apk
+true
+detailed information	select	detail	select
+
+com.harlandfs.ofx.mobile.fiid271071415.apk
+true
+mobile apps	enroll	mobile	enrol
+mobile access	enroll	mobile	enrol
+mobile deposit	enroll	mobile	enrol
+mobile	enroll	mobile	enrol
+mobile internet	enroll	mobile	enrol
+mobile banking	enroll	mobile	enrol
+
+com.gps.position.apk
+false
+
+com.ishiptech.radio.gospel.apk
+false
+
+com.unips.livewallpaper.surfer.apk
+false
+
+com.app.creator.painting.hd.apk
+false
+
+com.mshift.android.alaskausa.apk
+false
+
+com.mFacebookMobileUltra.apk
+false
+
+com.zappotvlg.apk
+true
+mobile deposit	include	mobile	include
+mobile carrier	include	mobile	include
+
+jpost.webActivity.apk
+false
+
+com.katyHoustonTexans.apk
+false
+
+com.volume.booster.all.sounds.sholva.entertainment.pro.apk
+true
+alert notification	notifications	notification	notifications
+
+com.transcore.android.commuterLink.apk
+false
+
+com.ap.star.apk
+false
+
+com.FirefliesLiveWallpapersfree.apk
+false
+
+com.jp.taipei.apk
+true
+location service	find	location	find
+gps location	find	location	find
+location	find	location	find
+current location	find	location	find
+
+com.goodrx.apk
+false
+
+shoptacular.coupons.apk
+false
+
+net.anei.cadpage.apk
+true
+map display	locate	map	locate
+map view	locate	map	locate
+interactive map	locate	map	locate
+map	locate	map	locate
+route map	locate	map	locate
+offline map	locate	map	locate
+google map	locate	map	locate
+
+com.tinder.apk
+false
+
+com.bna.dogwhistle.apk
+false
+
+com.smg.reporting.apk
+false
+
+imoblife.blink.apk
+false
+
+com.mm.security.androidhider1.apk
+false
+
+com.neelamapps.eyediseases.apk
+false
+
+kr.co.saramin.vertical.gangsa.apk
+true
+location information	move	location	move
+location service	move	location	move
+gps location	move	location	move
+location	move	location	move
+current location	move	location	move
+
+com.tech8.smartwifitether.apk
+false
+
+com.omnego.scrubsandbeyond4u.apk
+false
+
+com.baseball.wallpapers.apk
+false
+
+com.shopgate.android.app11807.apk
+false
+
+fr.LevelMatchCity.apk
+false
+
+com.acclaim.mobimbr.mobimbr.uwnmobile.apk
+false
+
+com.coyote.go.apk
+false
+
+cn.jobsowen.puffpro.apk
+true
+search point	bring	search shortcut	bring
+search shortcut	bring	search shortcut	bring
+
+com.birthdaycakeideas.photo.apk
+false
+
+com.touchtunes.android.apk
+true
+location service	find	location	find
+gps location	find	location	find
+location	find	location	find
+current location	find	location	find
+
+com.mayoclinic.patient.apk
+true
+direct link	provide	direction	provide
+direction	provide	direction	provide
+one direction	provide	direction	provide
+
+com.textart.collage.apk
+false
+
+com.call_gps_sms_tracker.apk
+true
+private data	track	message call location data	track
+data plan	track	message call location data	track
+data	track	message call location data	track
+data connection	track	message call location data	track
+personal data	track	message call location data	track
+
+ru.mobilenav.tourmap.apk
+false
+
+com.hipmunk.android.apk
+true
+discount hotel	book	hotel	book
+luxury hotel	book	hotel	book
+boutique hotel	book	hotel	book
+hotel offer	book	hotel	book
+listed hotel	book	hotel	book
+hotel booking	book	hotel	book
+hotel room	book	hotel	book
+hotel deal	book	hotel	book
+budget hotel	book	hotel	book
+hotel	book	hotel	book
+
+com.a143280864650941cf3118131a.a11842205a.apk
+true
+best deal	find	body deal	find
+deal	find	body deal	find
+great deal	find	body deal	find
+
+com.ccs.crosscountryjobs.apk
+true
+location information	search	location	search
+location service	search	location	search
+gps location	search	location	search
+location	search	location	search
+current location	search	location	search
+
+com.wrex.android.weather.apk
+true
+map display	vertical	map display	vertical
+map view	vertical	map display	vertical
+interactive map	vertical	map display	vertical
+map	vertical	map display	vertical
+route map	vertical	map display	vertical
+offline map	vertical	map display	vertical
+google map	vertical	map display	vertical
+
+com.bhupi.bhupihealthyshoppingbh1.apk
+false
+
+com.htconetips.htcone.tips.apk
+false
+
+com.torwarn2F.app.apk
+false
+
+com.mieditoonsapps.o.apk
+true
+wind speed	configure	speed	configure
+
+com.sinyee.babybus.lovehealthy.apk
+false
+
+appinventor.ai_JaniceNElam.Go_Hookup.apk
+true
+search point	enter	search	enter
+search result	enter	search	enter
+quick search	enter	search	enter
+
+com.campmobile.launcher.apk
+false
+
+com.gpshopper.express.android.apk
+false
+
+com.Jutiaha.AliLarterbackground.apk
+false
+
+one.music.onedirectioncondonew.apk
+false
+
+com.koaa.android.weather.apk
+false
+
+com.wallpaper.HowtoDrawCartoonCharactersIII.apk
+false
+
+com.smartwallinc.ironman.wallpaper.apk
+false
+
+com.gzone.tkolaredo.apk
+false
+
+com.arcusweather.darksky.apk
+true
+location service	base	service	base
+
+com.blendr.mobile.apk
+false
+
+com.pannous.voice.actions.free.apk
+false
+
+com.wmbf.android.weather.apk
+true
+alert notification	watch	alert	watch
+alert	watch	alert	watch
+critical alert	watch	alert	watch
+news alert	watch	alert	watch
+weather alert	watch	alert	watch
+
+com.key.guerraGalaxyS5LiveWallpaper.apk
+false
+
+com.limpenghoe.hilariousfunnyknockjokes.apk
+true
+r feed	collect	feed video	collect
+twitter feed	collect	feed video	collect
+feed	collect	feed video	collect
+
+com.aidem.android.daytracker.apk
+true
+map display	show	map	show
+map view	show	map	show
+interactive map	show	map	show
+map	show	map	show
+route map	show	map	show
+offline map	show	map	show
+
+com.unnull.apps.carperformancefree.apk
+false
+
+com.jkorah.sportchatter.apk
+true
+sport news	provide	sport game	provide
+sport	provide	sport game	provide
+
+gps.coordinates.software.apk
+true
+map display	view	map	view
+map view	view	map	view
+interactive map	view	map	view
+map	view	map	view
+route map	view	map	view
+offline map	view	map	view
+google map	view	map	view
+
+com.spothero.spothero.apk
+false
+
+com.tripomatic.sanfrancisco.apk
+true
+trip	edit	trip	edit
+
+com.ibm.lotus.connections.mobile.apk
+false
+
+com.frame.birthdayframe.apk
+false
+
+com.mobileapploader.aid218979.apk
+true
+best deal	find	best deal	find
+deal	find	best deal	find
+great deal	find	best deal	find
+
+com.aimmediatexas.oavarsity.apk
+false
+
+appinventor.ai_WorldDevApps98.NoStringsAttached.apk
+true
+hot girl	meet	hot	meet
+
+com.afl.maleforce.android.apk
+false
+
+com.ifs.androidmobilebanking.fiid3023.apk
+true
+mobile apps	store	mobile device	store
+mobile access	store	mobile device	store
+mobile	store	mobile device	store
+mobile internet	store	mobile device	store
+mobile banking	store	mobile device	store
+
+com.tomofun.lifecrumbs.apk
+false
+
+com.Lock.ScreenWolvesLockScreenWallpaper.apk
+false
+
+com.monotype.android.font.abfuck.girlyfont.apk
+false
+
+com.ridecell.com.unicorn.apk
+true
+map display	track	map	track
+map view	track	map	track
+interactive map	track	map	track
+map	track	map	track
+route map	track	map	track
+offline map	track	map	track
+
+com.barcode_scanner.apk
+false
+
+com.creditunion.cuviewer.apk
+false
+
+com.rubicon21.freestuffbymail.apk
+false
+
+com.a1655359495178c3a354d572a.a29041174a.apk
+false
+
+com.mfoundry.mb.android.mb_731.apk
+true
+account balance	check	balance	check
+
+com.dishweather.Weather.apk
+true
+local weather	provide	severe weather	provide
+weather	provide	severe weather	provide
+severe weather	provide	severe weather	provide
+weather industry	provide	severe weather	provide
+news weather	provide	severe weather	provide
+weather condition	provide	severe weather	provide
+current weather	provide	severe weather	provide
+weather information	provide	severe weather	provide
+weather forecast	provide	severe weather	provide
+
+com.justdialinc.search.apk
+false
+
+photo.editing.tips.and.tricks.apk
+false
+
+com.jadenforex.android.forex.mt4droidtrader.apk
+true
+data usage	provide	market data	provide
+weather data	provide	market data	provide
+
+com.cbgsolutions.mfprotrial.apk
+false
+
+com.palmarysoft.forecaweather.apk
+true
+gps location	track	current location	track
+location	track	current location	track
+current location	track	current location	track
+
+com.Kirsanovgjaplykk.DownloadsHDPictures.apk
+true
+hour	change	hour	change
+hourly view	change	hour	change
+
+jp.naver.linecamera.android.apk
+false
+
+com.NavfreeOnOff.apk
+false
+
+tool.music.ringtonemaker.apk
+false
+
+com.glic.group.ga.mobile.apk
+false
+
+com.bitdefender.smartbattery.apk
+false
+
+com.Vertifi.DeposZip.P314089681.apk
+true
+account balance	check	balance	check
+
+com.bitsmedia.android.muslimpro.apk
+true
+current	base	current location	base
+gps location	base	current location	base
+location	base	current location	base
+current location	base	current location	base
+
+com.sendsms.nearestplacesandmaps.apk
+true
+place	search	place	search
+new place	search	place	search
+best place	search	place	search
+right place	search	place	search
+
+com.Aksenovborsh.HTCDesireHDPictures.apk
+true
+hour	change	hour	change
+hourly view	change	hour	change
+
+com.SoberSinglesPHX.oo.apk
+false
+
+com.moneypass.apk
+true
+branch atm	find	moneypass atm	find
+
+sermon.free.howto61.apk
+false
+
+com.custom.lwp.HBengalTiger.apk
+true
+search point	bring	search shortcut	bring
+search shortcut	bring	search shortcut	bring
+
+facebook.widget.status.update.android.fwidget.fidget.apk
+false
+
+com.hillman.mtatracker.apk
+false
+
+com.bluestar.doraemonhd.apk
+false
+
+com.free.wallpapers.backgrounds.hd.apk
+false
+
+com.jbapps.weather.theme.trans.apk
+false
+
+com.topgolf.mobile.apk
+true
+event	check	event	check
+important event	check	event	check
+special event	check	event	check
+
+com.a1715615967520723540ba787a.a02521321a.apk
+false
+
+com.avanessya.Accordionwallpaper.apk
+false
+
+com.funnycartoonsoundss.apk
+true
+mobile banking	offer	mobile	offer
+
+com.Deynekovmi.SpiderManpuzzle.apk
+false
+
+dev03.app154.apk
+false
+
+tcp.me.an.apk
+true
+recent transaction	perform	clock transaction	perform
+transaction	perform	clock transaction	perform
+transaction history	perform	clock transaction	perform
+
+com.navyduck.skinmakerforminecraft.apk
+false
+
+com.lowestmed.android.apk
+true
+low price	find	low price	find
+
+com.mfoundry.mb.android.mb_cfcu.apk
+true
+bank account	enrol	online banking	enroll
+bank account	enroll	online banking	enroll
+bank	enrol	online banking	enroll
+bank	enroll	online banking	enroll
+online	enrol	online banking	enroll
+online	enroll	online banking	enroll
+banking	enrol	online banking	enroll
+banking	enroll	online banking	enroll
+online banking	enrol	online banking	enroll
+online banking	enroll	online banking	enroll
+
+com.baronservices.mobilemet.kelo.apk
+true
+location information	base	location	base
+location service	base	location	base
+gps location	base	location	base
+location	base	location	base
+current location	base	location	base
+
+dev03.app100.apk
+false
+
+touchgirl.undress.adult.apk
+false
+
+com.pacv.elm327en.apk
+true
+current location	show	current	show
+current position	show	current	show
+
+com.asiweb.dundee.mobilebanking.apk
+true
+branch atm	find	atm	find
+
+com.sabhsar.the.bella.twins.apk
+true
+place	discover	place	discover
+new place	discover	place	discover
+best place	discover	place	discover
+right place	discover	place	discover
+
+com.app_cntrpggwg.layout.apk
+false
+
+com.mitevi.speakerbooster.apk
+false
+
+com.kcrg.android.weather.apk
+true
+map display	vertical	map display	vertical
+map view	vertical	map display	vertical
+interactive map	vertical	map display	vertical
+map	vertical	map display	vertical
+route map	vertical	map display	vertical
+offline map	vertical	map display	vertical
+google map	vertical	map display	vertical
+
+com.hearst.android.wlky.apk
+true
+map display	move	map	move
+map view	move	map	move
+interactive map	move	map	move
+map	move	map	move
+route map	move	map	move
+offline map	move	map	move
+google map	move	map	move
+
+org.myklos.citytraffic.apk
+true
+gps location	update	recent location	update
+location	update	recent location	update
+
+com.dong.BlackButlerWallPapers.apk
+false
+
+com.Password_Door_Screen_Lock_107231.apk
+false
+
+com.app.esycab.apk
+false
+
+com.beautyandroidgirl.sadlovequotes.apk
+false
+
+com.sdi.pollenallergyalert.apk
+false
+
+com.loopnet.android.apk
+false
+
+com.chirpme.swipe.apk
+false
+
+com.uhg.mobile.health4me.apk
+true
+account balance	check	optum bank health saving account balance	check
+
+jp.pioneer.mbg.appradio.AppRadioLauncher.apk
+true
+map display	access	map	access
+map view	access	map	access
+interactive map	access	map	access
+map	access	map	access
+route map	access	map	access
+offline map	access	map	access
+
+com.LaMeraMera.apk
+false
+
+thecouponsapp.coupon3.apk
+true
+local store	search	store	search
+store	search	store	search
+grocery store	search	store	search
+play store	search	store	search
+store locator	search	store	search
+
+com.Aksenovborsh.HTCSensationImages.apk
+true
+hour	change	hour	change
+hourly view	change	hour	change
+
+net.isitvegan.androidfree.apk
+false
+
+com.stopthepress.motorcyclesounds.apk
+false
+
+com.Chenenkoalla02.LanternsHDPictures.apk
+true
+hour	change	hour	change
+hourly view	change	hour	change
+
+ctl.com.muckleshotcasino.apk
+false
+
+com.u360mobile.asacollege.apk
+false
+
+com.androidlab.videoroad.apk
+false
+
+volumas.boosteris.nu.apk
+false
+
+com.fidelity.wi.activity.apk
+false
+
+com.oitc.android.egyptnews.apk
+false
+
+prescription.discounts.apk
+true
+gps location	click	phamracy locator	click
+location	click	phamracy locator	click
+current location	click	phamracy locator	click
+
+com.difang.photoeditor.apk
+false
+
+mobi.firedepartment.apk
+true
+current location	view	current	view
+
+st.alr.mqttitude.apk
+false
+
+com.gpshopper.bebe.android.apk
+false
+
+com.jp.puntacana.apk
+true
+map display	provide	hotel information review map	provide
+map view	provide	hotel information review map	provide
+interactive map	provide	hotel information review map	provide
+map	provide	hotel information review map	provide
+route map	provide	hotel information review map	provide
+offline map	provide	hotel information review map	provide
+
+com.galaxysilock.galaxys4.ilocker.iphonelocker.apk
+false
+
+com.yinzcam.nfl.buccaneers.apk
+true
+city break	catch	breaking news	catch
+
+com.tips.android.masterdesign.apk
+true
+google map	visit	website search google	visit
+
+zz.rings.r_1_rcs.apk
+false
+
+sex.latina.girls.prank.porno.nude.videos.noidea.apk
+false
+
+com.rfi.sams.android.apk
+false
+
+com.washingtonpost.android.apk
+true
+local weather	include	capital weather	include
+weather	include	capital weather	include
+news weather	include	capital weather	include
+current weather	include	capital weather	include
+weather information	include	capital weather	include
+weather forecast	include	capital weather	include
+
+wallapps.sexyanime.wallpapershd.apk
+false
+
+com.achaeans.seawolf.apk
+false
+
+com.appshub.desxvid.apk
+false
+
+com.conduit.app_3f74cf99844e426fa51c238ff7feeebd.app.apk
+false
+
+com.Wright.GeorNails.apk
+false
+
+com.app_localcoupon.layout.apk
+true
+local business	search	business	search
+business	search	business	search
+
+com.sfgate.android.apk
+false
+
+com.visicom.visicomnavigator.apk
+true
+map display	provide	map	provide
+map view	provide	map	provide
+interactive map	provide	map	provide
+map	provide	map	provide
+route map	provide	map	provide
+offline map	provide	map	provide
+
+com.sherpaoutdoorapp.noaaweatherbuoys.apk
+false
+
+com.noticesoftware.FanSided.apk
+false
+
+com.aetn.history.android.historyhere.apk
+true
+gps location	share	location	share
+location	share	location	share
+current location	share	location	share
+
+com.dieboldcu.apk
+true
+bank account	manage	bank account	manage
+bank	manage	bank account	manage
+banking	manage	bank account	manage
+online banking	manage	bank account	manage
+
+com.mobli.apk
+false
+
+com.kakao.album.apk
+false
+
+com.app.weather.creator.apk
+true
+current	find	current	find
+current location	find	current	find
+current position	find	current	find
+
+votetawifihacker.wifihacker.apk
+false
+
+com.iloiacono.what2wear.apk
+false
+
+com.yellowpages.android.ypmobile.apk
+true
+discount hotel	search	hotel	search
+luxury hotel	search	hotel	search
+boutique hotel	search	hotel	search
+hotel offer	search	hotel	search
+listed hotel	search	hotel	search
+hotel booking	search	hotel	search
+hotel room	search	hotel	search
+hotel deal	search	hotel	search
+budget hotel	search	hotel	search
+hotel	search	hotel	search
+
+com.superphunlabs.speedgauge.apk
+false
+
+com.lagoo.alger.apk
+false
+
+com.bredir.boopsie.plano.apk
+true
+multiple account	check	account	check
+account information	check	account	check
+account	check	account	check
+account balance	check	account	check
+
+org.rabold.android.clock.apk
+true
+current location	show	current	show
+current position	show	current	show
+
+com.androidsecondspring.tvshow.activities.apk
+false
+
+com.twicular.weeklyapp.apk
+true
+favorite store	save	store	save
+
+com.conduit.app_e441520c48b44e04bb6298bf55829eb5.app.apk
+false
+
+com.mywebgrocer.WeisMarketsCircular.apk
+true
+local store	find	store	find
+store	find	store	find
+grocery store	find	store	find
+play store	find	store	find
+store locator	find	store	find
+
+com.xtopoly.android.regencytheatres.apk
+true
+gps location	offer	location	offer
+location	offer	location	offer
+
+gpsh.android.mnb.apk
+false
+
+com.Kivicouma.BeyonceWallpapersbackground.apk
+false
+
+bostone.android.hireadroid.apk
+true
+location service	enter	location	enter
+gps location	enter	location	enter
+location	enter	location	enter
+current location	enter	location	enter
+
+com.lsn.localnews324.apk
+true
+map display	weather	map	weather
+map view	weather	map	weather
+interactive map	weather	map	weather
+map	weather	map	weather
+route map	weather	map	weather
+offline map	weather	map	weather
+google map	weather	map	weather
+
+com.mindifi.personaldevelopmenthypnosis.apk
+false
+
+com.denny.despicablemecheatsandtips.apk
+false
+
+com.appspot.swisscodemonkeys.camerafx.apk
+false
+
+com.way2apps.sulekha.apk
+false
+
+com.legostarwars3.trang.apk
+false
+
+com.kspr.android.weather.apk
+true
+map display	vertical	map display	vertical
+map view	vertical	map display	vertical
+interactive map	vertical	map display	vertical
+map	vertical	map display	vertical
+route map	vertical	map display	vertical
+offline map	vertical	map display	vertical
+google map	vertical	map display	vertical
+
+com.sagacom.thefox1049.apk
+false
+
+com.alltrails.alltrails.apk
+true
+map display	download	topo map	download
+map view	download	topo map	download
+interactive map	download	topo map	download
+map	download	topo map	download
+route map	download	topo map	download
+offline map	download	topo map	download
+
+vat2go.droid.apk
+false
+
+com.hcg.beyonce.apk
+true
+legal representative	produce	representative	produce
+
+com.rich.wallpapers.ronaldo.apk
+false
+
+gov.ga.readyga.apk
+false
+
+com.howtosavemoney.apk
+false
+
+retailedornot.coupon.apk
+true
+price	give	full price	give
+best price	give	full price	give
+low price	give	full price	give
+
+com.travelzoo.android.apk
+true
+best deal	find	great deal	find
+deal	find	great deal	find
+great deal	find	great deal	find
+
+com.ScreenCapture22.apk
+false
+
+com.zoosk.zoosk.asian.filipino.apk
+true
+online	make	online dating	make
+
+com.wGoMapaz.apk
+false
+
+com.weightwatchers.mobile.apk
+false
+
+de.bytewiese.liveware.extension.gpsmap.apk
+true
+map display	show	google map	show
+map view	show	google map	show
+interactive map	show	google map	show
+map	show	google map	show
+route map	show	google map	show
+offline map	show	google map	show
+
+com.apporder.CalTrans.apk
+true
+gps location	include	photo precise location	include
+location	include	photo precise location	include
+
+com.bswhaney.OaklandMiniGuide.apk
+true
+direct link	search	direction	search
+direction	search	direction	search
+one direction	search	direction	search
+
+com.FMGINC.QuestChatApp.apk
+false
+
+best.booster.internet.g3g.apk
+false
+
+com.vpsinfotechnologies.katy.apk
+false
+
+com.doapps.android.mln.MLN_75e6c261ce355d2caf60cbf8fd4326a7.apk
+false
+
+com.sinyee.babybus.lovehealthy.ko.apk
+false
+
+org.echolink.android.apk
+false
+
+alice.smith.shreenathjii.apk
+false
+
+com.grandtheftauto4.trang.apk
+false
+
+com.oodle.marketplace.apk
+false
+
+com.jeff.android.atracker.apk
+true
+map display	send	map server	send
+map view	send	map server	send
+interactive map	send	map server	send
+map	send	map server	send
+offline map	send	map server	send
+
+com.timleg.egoTimerLight.apk
+false
+
+biz.app4mobile.app_5a8a3f227a2547a1b3d75f900487be3a.app.apk
+true
+social medium	check	social medium	check
+
+com.mind.nflcheerleaders.apk
+false
+
+com.tvalabama.android.weather.apk
+true
+map display	vertical	map display	vertical
+map view	vertical	map display	vertical
+interactive map	vertical	map display	vertical
+map	vertical	map display	vertical
+route map	vertical	map display	vertical
+offline map	vertical	map display	vertical
+google map	vertical	map display	vertical
+
+com.a146377217151a458b8dc7764a.a58264501a.apk
+true
+daily stream	stop	daily stream	stop
+daily	stop	daily stream	stop
+
+com.karasesair.HowToDrawSpongeBob.apk
+false
+
+com.most.livewallpaper.naruto.apk
+false
+
+com.jb.gokeyboard.theme.pinkflame.apk
+false
+
+com.vacationrentals.homeaway.apk
+true
+map display	tap	map section	tap
+map view	tap	map section	tap
+interactive map	tap	map section	tap
+map	tap	map section	tap
+route map	tap	map section	tap
+offline map	tap	map section	tap
+google map	tap	map section	tap
+
+com.a1205260378520e46e2c52a56a.a61485852a.apk
+false
+
+com.benderapp.brenda.apk
+true
+hot girl	chat	girl	chat
+
+com.mobilebeez.expertswhousedtobeoverweight.apk
+false
+
+com.ifs.mobilebanking.fiid3164.apk
+true
+branch atm	locate	atm	locate
+
+com.a47201365051f659e692b664a.a99037896a.apk
+false
+
+com.mparag.carbonmonoxidepoisoning.apk
+true
+r feed	collect	feed video	collect
+twitter feed	collect	feed video	collect
+feed	collect	feed video	collect
+
+com.mobapp.izwee.apk
+false
+
+com.medpreps.app.prep.ptcb.apk
+true
+current location	update	current	update
+
+com.appsontoast.ultimatecardock.apk
+false
+
+com.baishisoft.photo.japan169girl.apk
+false
+
+com.superfanu.bbnation.apk
+true
+event	check	event	check-in
+important event	check	event	check-in
+special event	check	event	check-in
+
+com.sunnyleonegalleryfreewall.wallpapers.apk
+false
+
+com.a1873649499520ddbb9a21978a.a12409962a.apk
+false
+
+com.appbuilder.u227965p560489.apk
+false
+
+com.onetwentythree.skynav.apk
+true
+local weather	provide	weather update	provide
+weather	provide	weather update	provide
+severe weather	provide	weather update	provide
+weather industry	provide	weather update	provide
+news weather	provide	weather update	provide
+weather condition	provide	weather update	provide
+current weather	provide	weather update	provide
+weather information	provide	weather update	provide
+
+com.wdtinc.android.WREGXW.apk
+true
+interactive radar	view	interactive radar	view
+radar	view	interactive radar	view
+
+com.mokriya.craigslist.apk
+true
+city	find	select city	find
+
+com.kangarooexpress.finder.apk
+true
+local store	find	close store	find
+store	find	close store	find
+grocery store	find	close store	find
+play store	find	close store	find
+store locator	find	close store	find
+
+com.aawesh.taximeter.apk
+true
+map display	give	gps google map	give
+map view	give	gps google map	give
+interactive map	give	gps google map	give
+map	give	gps google map	give
+route map	give	gps google map	give
+offline map	give	gps google map	give
+
+br.com.tribotech.trackpack.apk
+true
+mobile carrier	include	carrier website	include
+
+com.doapps.android.mln.MLN_676585eae37f40a91777a02fc2c688ac.apk
+true
+local weather	provide	late weather	provide
+weather	provide	late weather	provide
+severe weather	provide	late weather	provide
+weather industry	provide	late weather	provide
+news weather	provide	late weather	provide
+weather condition	provide	late weather	provide
+weather alert	provide	late weather	provide
+current weather	provide	late weather	provide
+weather information	provide	late weather	provide
+weather data	provide	late weather	provide
+weather forecast	provide	late weather	provide
+
+ariana.meldev.apk
+false
+
+com.ad.android.ridetraq.slushuttle.apk
+false
+
+com.wfrv.android.weather.apk
+true
+map display	vertical	map display	vertical
+map view	vertical	map display	vertical
+interactive map	vertical	map display	vertical
+map	vertical	map display	vertical
+route map	vertical	map display	vertical
+offline map	vertical	map display	vertical
+google map	vertical	map display	vertical
+
+com.chooseethanol.ethanol.apk
+true
+gas station	locate	close station	locate
+station	locate	close station	locate
+
+com.mobincube.android.sc_K4D9C.apk
+false
+
+vdes.ashque.wtchs.apk
+false
+
+com.rbinfo.flashalerts.apk
+false
+
+com.app_casagrande.layout.apk
+false
+
+com.angelsapp.superstars.apk
+false
+
+org.satok.gweather.apk
+false
+
+com.app_perfects.layout.apk
+false
+
+com.magnoo3vsr.chatrooms.apk
+false
+
+com.proxy.voiceanswerfree.apk
+false
+
+com.widdit.FacebookLockScreen.apk
+false
+
+com.a194714817851fbfa0e0861b3a.a52827324a.apk
+false
+
+com.oxagile.speedtrackerfree.apk
+true
+trip	remember	trip	remember
+
+com.apptivateme.chicagoblackhawks.apk
+true
+detail	show	detail	show
+
+com.brewgene.apk
+false
+
+com.jiubang.goscreenlock.theme.bluelight.getjar.apk
+false
+
+com.photo.sketch.picture.paint.pro.apk
+false
+
+selenagomez.music.selenagomezcondonew.apk
+false
+
+com.mylocaltv.wfxt.apk
+false
+
+com.usatek.acelerator2new.apk
+true
+mobile deposit	make	mobile	make
+
+com.subsplash.thechurchapp.victory.apk
+true
+social medium	connect	social medium	connect
+
+com.fotolr.photoshake.apk
+false
+
+net.bikerouteplanner.apk
+true
+location information	show	location	show
+gps location	show	location	show
+location	show	location	show
+current location	show	location	show
+
+jzgallery.best.selected.ronaldo.apk
+false
+
+com.kxtv.android.weather.apk
+true
+map display	vertical	map display	vertical
+map view	vertical	map display	vertical
+interactive map	vertical	map display	vertical
+map	vertical	map display	vertical
+route map	vertical	map display	vertical
+offline map	vertical	map display	vertical
+google map	vertical	map display	vertical
+
+com.clubpenguincheats.apk
+false
+
+com.hieu.batteryshow.apk
+false
+
+com.a1987830426520f99270507a0a.a77190894a.apk
+false
+
+com.ypdroid.apk
+false
+
+com.monkeystation.filmringtones.apk
+false
+
+nz.co.whitepages.android.apk
+false
+
+com.ilock.lgoptimusp725ilock.ilocker.lgoptimusp725iphonelocker.apk
+false
+
+mobilerathi.daniel.pokemongameplay.apk
+false
+
+com.a101931801520a4a82e9cc72a.a80449680a.apk
+false
+
+com.Chenenkoalla02.LipsWallpapers.apk
+true
+hour	change	hour	change
+hourly view	change	hour	change
+
+edu.jccc.jcccmobile.apk
+false
+
+hr.apps.n153009172.apk
+false
+
+com.thesims3review.tuan.apk
+false
+
+com.ilock.galaxys4miniilock.ilocker.galaxys4miniiphonelocker.apk
+false
+
+com.notifysolutions.notify.apk
+false
+
+com.room77.android.apk
+true
+discount hotel	search	perfect hotel	search
+luxury hotel	search	perfect hotel	search
+boutique hotel	search	perfect hotel	search
+hotel offer	search	perfect hotel	search
+listed hotel	search	perfect hotel	search
+hotel booking	search	perfect hotel	search
+hotel room	search	perfect hotel	search
+hotel deal	search	perfect hotel	search
+budget hotel	search	perfect hotel	search
+hotel	search	perfect hotel	search
+
+com.jb.gosms.theme.bwzebralovefree.apk
+false
+
+com.Sygicspeakdrive.apk
+true
+place	launch	place	launch
+new place	launch	place	launch
+best place	launch	place	launch
+right place	launch	place	launch
+
+com.alphabetalabs.wifibooster.apk
+false
+
+com.heart.unique.quotes.ui.apps.apk
+true
+battery life	ensure	battery	ensure
+battery consumption	ensure	battery	ensure
+battery saver	ensure	battery	ensure
+battery	ensure	battery	ensure
+battery power	ensure	battery	ensure
+low battery	ensure	battery	ensure
+battery level	ensure	battery	ensure
+
+com.skype.android.access.apk
+false
+
+hot.fonibh.ariana.apk
+false
+
+com.monotype.android.font.fonts4fun.graffiti.apk
+false
+
+com.csscorp.truevalue.license.apk
+false
+
+com.drawgames.biz.angels.apk
+false
+
+com.raycom.hnn.apk
+true
+informational purpose	forecast	information	forecast
+location information	forecast	information	forecast
+additional information	forecast	information	forecast
+information	forecast	information	forecast
+advertisement information	forecast	information	forecast
+personal information	forecast	information	forecast
+detailed information	forecast	information	forecast
+late information	forecast	information	forecast
+following information	forecast	information	forecast
+news information	forecast	information	forecast
+useful information	forecast	information	forecast
+
+com.absbm.truckerapp.apk
+true
+direct link	turn	turn direction	turn
+direction	turn	turn direction	turn
+one direction	turn	turn direction	turn
+
+com.jb.gosms.theme.smokecolors.apk
+true
+account information	check	developer account	check
+account	check	developer account	check
+
+com.radio.station.KINK.FM.apk
+true
+radio station	hear	radio	hear
+
+com.baddaddy.time2fishfree.apk
+false
+
+com.decrux.android.latconv.apk
+true
+gps location	share	location	share
+location	share	location	share
+current location	share	location	share
+
+com.outthinking.spaceeffects.apk
+false
+
+com.tencent.ibibo.mtt.apk
+false
+
+net.milastudio.tutorial.hackwpawps.apk
+false
+
+com.kbb.mobile.apk
+true
+price	give	car pricing	give
+best price	give	car pricing	give
+
+com.cinemark.mobile.apk
+false
+
+com.cardinalcommerce.rushcardlive.apk
+true
+branch atm	find	moneypass atm	find
+
+com.skillapps.freedrugrehab.apk
+true
+r feed	collect	feed video	collect
+twitter feed	collect	feed video	collect
+feed	collect	feed video	collect
+
+org.androworks.meteor.apk
+false
+
+com.bestfriendforever.unique.quotes.ui.app.apk
+true
+battery life	ensure	battery memory	ensure
+battery consumption	ensure	battery memory	ensure
+battery saver	ensure	battery memory	ensure
+battery	ensure	battery memory	ensure
+battery power	ensure	battery memory	ensure
+low battery	ensure	battery memory	ensure
+battery level	ensure	battery memory	ensure
+
+com.pixeliondev.eroticassjigglelwp.apk
+true
+search icon	receive	icon	receive
+
+com.tommmi.makeupshopaps.apk
+true
+private data	fetch	data	fetch
+data plan	fetch	data	fetch
+data	fetch	data	fetch
+mobile data	fetch	data	fetch
+data usage	fetch	data	fetch
+data connection	fetch	data	fetch
+personal data	fetch	data	fetch
+weather data	fetch	data	fetch
+
+com.usasportsclocks.uspoak.apk
+false
+
+bside.extremeambient.net.apk
+true
+radio station	find	station	find
+gas station	find	station	find
+station	find	station	find
+
+com.ifs.banking.fiid3561.apk
+false
+
+com.CartoonCameraPhotoFrames.apk
+false
+
+sands.mapCoordinates.android.apk
+true
+map display	provide	map	provide
+map view	provide	map	provide
+interactive map	provide	map	provide
+map	provide	map	provide
+route map	provide	map	provide
+offline map	provide	map	provide
+
+com.sesameplace.mobile.apk
+true
+branch atm	find	atm	find
+
+alice.smith.ambemaa.apk
+false
+
+com.maylim.boutique.apk
+false
+
+com.discountbransonshowtickets.android.apk
+true
+discount hotel	offer	discount	offer
+
+com.andromo.dev53373.app238747.apk
+false
+
+org.mobilestudiodroid.wifirouter.apk
+false
+
+com.skillapps.videoedit.apk
+true
+private data	fetch	data	fetch
+data plan	fetch	data	fetch
+data	fetch	data	fetch
+mobile data	fetch	data	fetch
+data usage	fetch	data	fetch
+data connection	fetch	data	fetch
+personal data	fetch	data	fetch
+weather data	fetch	data	fetch
+
+com.app_chemdryglow.layout.apk
+false
+
+com.app_tradingpub.layout.apk
+false
+
+appinventor.ai_pavementpilot.AxleWeightCalc.apk
+false
+
+com.himumsaiddad.armyfit.apk
+false
+
+com.frame.love.flower.wedding.apk
+false
+
+com.baishisoft.photo.japan30girl.apk
+false
+
+com.snipsnap.snipsnapapp.apk
+true
+location information	base	location	base
+location service	base	location	base
+gps location	base	location	base
+location	base	location	base
+current location	base	location	base
+
+com.coupons.ciapp.apk
+true
+favorite store	save	store	save
+
+com.mylocaltv.wtvt.apk
+false
+
+alice.smith.bestlandscape.apk
+false
+
+com.freetheapps.framesfree.apk
+false
+
+com.bbldriver.android.apk
+true
+convenience	combine	power convenience	combine
+convenient way	combine	power convenience	combine
+
+com.mylocaltv.tsusports.apk
+true
+alert notification	break	game alert	break
+alert	break	game alert	break
+critical alert	break	game alert	break
+news alert	break	game alert	break
+
+com.cellfire.apk
+false
+
+com.alphasys.amenities.free.Washington_DC.apk
+true
+branch atm	locate	atm	locate
+
+com.ditang.funnycamera.apk
+false
+
+mobi.SyndicateApps.ICSv2.apk
+true
+search partner	provide	search	provide
+
+com.dslr.dashboard.apk
+false
+
+com.Aksenovborsh.AppleiPhone5Theme.apk
+true
+hour	change	hour	change
+hourly view	change	hour	change
+
+cn.chat.sexpositionpro.apk
+true
+hour	entertain	hour	entertain
+hourly view	entertain	hour	entertain
+
+com.gac.yellowcustomerapp.apk
+true
+location information	select	location	select
+location service	select	location	select
+gps location	select	location	select
+location	select	location	select
+current location	select	location	select
+
+com.skythorapps.farmville2cheats.apk
+false
+
+com.thehomedepot.proapp.apk
+true
+favorite store	save	favorite store	save
+
+com.tweetdark.wjddesigns.free.apk
+false
+
+com.Fusimir.DaddyYankeebackground.apk
+false
+
+com.angels.wallpapers.logos.superman.apk
+false
+
+flamingo306.se.DanceMoms.apk
+false
+
+com.chapslife.nyc.traffic.free.apk
+true
+location service	find	location	find
+gps location	find	location	find
+location	find	location	find
+current location	find	location	find
+
+com.tiantang.baby.apk
+false
+
+com.payless.apk
+true
+local store	find	store	find
+store	find	store	find
+grocery store	find	store	find
+play store	find	store	find
+store locator	find	store	find
+
+com.sportslivewps.kyrie.apk
+false
+
+com.webmd.paincoach.apk
+false
+
+air.com.dollar.mobile.apk
+false
+
+com.katyCarolinaPanthers.apk
+false
+
+com.superfanu.usa.apk
+true
+event	check	event	check-in
+important event	check	event	check-in
+special event	check	event	check-in
+
+com.linmedia.newstouch.wish.apk
+true
+local weather	provide	weather sport	provide
+weather	provide	weather sport	provide
+severe weather	provide	weather sport	provide
+news weather	provide	weather sport	provide
+weather condition	provide	weather sport	provide
+current weather	provide	weather sport	provide
+weather information	provide	weather sport	provide
+sport news	provide	weather sport	provide
+sport	provide	weather sport	provide
+
+batterywidget.mikuapp.mikulabo.apk
+false
+
+com.asim.prayertimehd.apk
+false
+
+com.subsplash.thechurchapp.billygrahamevangelisticassociation.apk
+true
+hour	include	weekly hour	include
+hourly view	include	weekly hour	include
+
+com.vashn.wsf.app.apk
+true
+route	save	favorite route	save
+
+com.zoosk.zoosk.russian.free.apk
+true
+online	make	online dating	make
+
+com.kicksend.android.apk
+false
+
+com.remax.remaxmobile.apk
+true
+favorite store	save	favorite listing	save
+
+com.fabernovel.ratp.apk
+true
+route	calculate	route	calculate
+
+org.busbrothers.anystop.septa.apk
+true
+route	find	route stop	find
+
+com.tecnoteca.comune.pordenone.apk
+false
+
+org.asiministries.asievangelism.apk
+false
+
+com.nes1erova.MinecraftWallpapers.apk
+true
+full list	publish	full release	publish
+full support	publish	full release	publish
+full	publish	full release	publish
+
+com.google.android.apps.plus.apk
+true
+location service	view	location	view
+gps location	view	location	view
+location	view	location	view
+current location	view	location	view
+
+com.kolesnik.pregnancy.apk
+true
+detailed information	give	detail	give
+detail	give	detail	give
+
+com.grene.bluedog.apk
+false
+
+com.sitrusyllc.herobrinePrank.apk
+false
+
+com.moroccohotelbooking.one.apk
+true
+discount hotel	book	best hotel	book
+luxury hotel	book	best hotel	book
+boutique hotel	book	best hotel	book
+hotel offer	book	best hotel	book
+listed hotel	book	best hotel	book
+hotel booking	book	best hotel	book
+hotel room	book	best hotel	book
+hotel deal	book	best hotel	book
+budget hotel	book	best hotel	book
+hotel	book	best hotel	book
+
+com.Aksenovborsh.MotorolaDroidXTheme.apk
+true
+hour	change	hour	change
+hourly view	change	hour	change
+
+com.myxer.android.unicorn.apk
+false
+
+org.wikilovesmonuments.apk
+true
+city	find	city	find
+city break	find	city	find
+
+com.katyCincinnatiBengals.apk
+false
+
+com.spellsoft.lwpdd_superhero.apk
+false
+
+com.tweakersoft.aroundme.apk
+false
+
+com.ilock.htcones.htconesilock.htciphonelocker.apk
+false
+
+com.mylocaltv.khqwx.apk
+true
+weather forecast	share	weather information	share
+
+com.nexus7wallpaper.nexus7.wallpaper.apk
+false
+
+com.mobiguap.flatrate.apk
+false
+
+com.gamefly.android.gamecenter.apk
+false
+
+com.dream.unique.quotes.ui.apps.apk
+true
+battery life	ensure	battery	ensure
+battery consumption	ensure	battery	ensure
+battery saver	ensure	battery	ensure
+battery	ensure	battery	ensure
+battery power	ensure	battery	ensure
+low battery	ensure	battery	ensure
+battery level	ensure	battery	ensure
+
+com.app_yamaha.layout.apk
+false
+
+com.usatek.aceleratornew.apk
+false
+
+mil.anc.mobile.android.ext.apk
+true
+gps location	receive	location	receive
+location	receive	location	receive
+current location	receive	location	receive
+
+fi.eye.android.apk
+false
+
+local.sex.search.apk
+false
+
+org.me.mobiexpensifyg.apk
+false
+
+com.rhomobile.wordans.apk
+false
+
+com.blackboard.android.central.texasam.apk
+false
+
+com.sportlwps.mariano.apk
+false
+
+inutilsoft.ADHDTest.apk
+false
+
+com.cloudacl.apk
+false
+
+com.golfgameskeeper.mobile.apk
+false
+
+com.outthinking.photo.frames.apk
+false
+
+com.newssynergy.wsyr.apk
+false
+
+com.ilock.galaxynoteIIilock.ilocker.iphonelocker.apk
+false
+
+com.icq.mobile.client.apk
+true
+gps location	share	location	share
+location	share	location	share
+current location	share	location	share
+
+com.blackboard.android.central.liu.apk
+true
+place	discover	new place	discover
+new place	discover	new place	discover
+best place	discover	new place	discover
+right place	discover	new place	discover
+
+com.wLocalDatingApp.apk
+true
+hot girl	chat	local girl	chat
+
+com.app_freenetworkingapp.layout.apk
+true
+city	create	city	create
+city break	create	city	create
+
+com.androidlord.barcodescanner.apk
+false
+
+hr.apps.n147067859.apk
+false
+
+com.kab.kabnaturalsportsnutritionn12.apk
+true
+sport news	provide	sport nutrition	provide
+sport	provide	sport nutrition	provide
+
+com.seattleclouds.creation.apk
+false
+
+com.wfila.android.weather.apk
+true
+map display	vertical	map display	vertical
+map view	vertical	map display	vertical
+interactive map	vertical	map display	vertical
+map	vertical	map display	vertical
+route map	vertical	map display	vertical
+offline map	vertical	map display	vertical
+google map	vertical	map display	vertical
+
+com.whbq.android.weather.apk
+true
+map display	vertical	map display	vertical
+map view	vertical	map display	vertical
+interactive map	vertical	map display	vertical
+map	vertical	map display	vertical
+route map	vertical	map display	vertical
+offline map	vertical	map display	vertical
+google map	vertical	map display	vertical
+
+com.a1320777340519b146c3c84f5a.a38288081a.apk
+true
+best deal	find	best deal	find
+deal	find	best deal	find
+great deal	find	best deal	find
+
+com.bluegrass.pocketgeek.android.apk
+false
+
+com.ishiptech.radio.sport.apk
+true
+radio station	provide	radio information	provide
+
+com.go.abclocal.ktrk.android.weather.apk
+true
+convenience	combine	convenient application	combine
+convenient way	combine	convenient application	combine
+
+com.a133425607051994ed416a349a.a22681914a.apk
+true
+best deal	find	best deal	find
+deal	find	best deal	find
+great deal	find	best deal	find
+
+com.celltick.lockscreen.apk
+false
+
+com.signup4.app5008.apk
+false
+
+Muli.touch.Sex10001.apk
+false
+
+com.allstate.view.apk
+true
+current	find	current	find
+current location	find	current	find
+current position	find	current	find
+
+com.nxt.nongqingtong.apk
+true
+local weather	provide	weather information	provide
+weather	provide	weather information	provide
+severe weather	provide	weather information	provide
+weather industry	provide	weather information	provide
+news weather	provide	weather information	provide
+weather condition	provide	weather information	provide
+weather alert	provide	weather information	provide
+current weather	provide	weather information	provide
+weather information	provide	weather information	provide
+weather data	provide	weather information	provide
+weather forecast	provide	weather information	provide
+
+com.blogspot.msandroid.mynextbus.apk
+false
+
+com.andromo.dev248677.app232196.apk
+true
+radio station	hear	station	hear
+
+com.Like.photoSexyGirlLiveWallpaper2.apk
+false
+
+com.coveiro.fairy.apk
+false
+
+com.androborobo.wheeloffortune.apk
+false
+
+com.guess.newpornceleb.apk
+false
+
+com.raycom.wave.apk
+true
+informational purpose	forecast	information	forecast
+location information	forecast	information	forecast
+additional information	forecast	information	forecast
+information	forecast	information	forecast
+advertisement information	forecast	information	forecast
+personal information	forecast	information	forecast
+detailed information	forecast	information	forecast
+late information	forecast	information	forecast
+following information	forecast	information	forecast
+news information	forecast	information	forecast
+useful information	forecast	information	forecast
+
+com.andromo.dev250676.app234192.apk
+true
+late information	give	late news	give
+
+com.doapps.android.mln.MLN_04a7d5453645333814797f7653739861.apk
+false
+
+com.flashplayerviewerlite.apk
+false
+
+mobi.mgeek.TunnyBrowser.apk
+true
+mobile deposit	access	mobile	access
+
+com.mictale.gpsessentials.apk
+true
+map display	view	map	view
+map view	view	map	view
+interactive map	view	map	view
+map	view	map	view
+route map	view	map	view
+offline map	view	map	view
+google map	view	map	view
+
+com.meijer.mobile.meijer.apk
+true
+route	find	fast route	find
+
+com.shopgate.android.app11760.apk
+false
+
+com.omecha.diners.apk
+true
+map display	locate	map search	locate
+map view	locate	map search	locate
+interactive map	locate	map search	locate
+map	locate	map search	locate
+route map	locate	map search	locate
+offline map	locate	map search	locate
+google map	locate	map search	locate
+
+com.pnn.cyd.apk
+false
+
+com.app_lolala.layout.apk
+true
+mobile banking	offer	mobile	offer
+
+com.swa.swavegetariandietguidesj.apk
+false
+
+com.jp.virginiabeach.apk
+true
+map display	provide	hotel information review map	provide
+map view	provide	hotel information review map	provide
+interactive map	provide	hotel information review map	provide
+map	provide	hotel information review map	provide
+route map	provide	hotel information review map	provide
+offline map	provide	hotel information review map	provide
+
+com.seesmic.apk
+true
+location service	add	service	add
+
+com.discipleskies.android.polarisnavigation.apk
+true
+google map	view	aerial	view
+
+com.heidiklumgallerycelebs.wallpaper.apk
+false
+
+com.versaedge.android.uowaits.apk
+false
+
+tech.municipioapp.apk
+false
+
+com.aura.ringtones.aurafunnysayings.apk
+false
+
+pl.com.digita.BikeComputer.apk
+true
+trip	save	trip	save
+
+com.booking.southafrica.apk
+true
+location service	find	location	find
+gps location	find	location	find
+location	find	location	find
+current location	find	location	find
+
+com.incoming.au.apk
+true
+google map	watch	incoming tv	watch
+
+com.ngs.android.apptemp.demo.apk
+true
+mobile deposit	bring	mobile audience	bring
+
+org.wescom.ibranch.apk
+true
+branch atm	find	close atm	find
+
+org.busbrothers.anystop.browardcountytransit.apk
+true
+route	find	route stop	find
+
+com.appsmarttech.ut90.apk
+false
+
+com.gates.apk
+false
+
+net.parentlink.parent.apk
+false
+
+com.manhattan.wbus.apk
+true
+map display	find	map	find
+map view	find	map	find
+interactive map	find	map	find
+map	find	map	find
+route map	find	map	find
+offline map	find	map	find
+
+com.gallusgolf.c308.android.devilslake.apk
+false
+
+com.sobrioapp.android.apk
+false
+
+com.appfab.jokes.man.apk
+false
+
+com.a826336808521ea1688afa95a.a57654784a.apk
+true
+gps location	open	first jacksonville location	open
+location	open	first jacksonville location	open
+current location	open	first jacksonville location	open
+
+com.Jutiaha.Skypebackground.apk
+false
+
+pl.dto.thunder.apk
+true
+google map	check	map	check
+
+com.app_fitnesssuperpass.layout.apk
+false
+
+com.baidu.BaiduMap.apk
+false
+
+com.grinasys.threekfree.apk
+false
+
+com.mylocaltv.wjbk.apk
+true
+local weather	include	weather forecast	include
+weather	include	weather forecast	include
+local forecast	include	weather forecast	include
+day forecast	include	weather forecast	include
+news weather	include	weather forecast	include
+current weather	include	weather forecast	include
+weather information	include	weather forecast	include
+weather forecast	include	weather forecast	include
+forecast	include	weather forecast	include
+
+com.wkaq.android.weather.apk
+true
+map display	vertical	map display	vertical
+map view	vertical	map display	vertical
+interactive map	vertical	map display	vertical
+map	vertical	map display	vertical
+route map	vertical	map display	vertical
+offline map	vertical	map display	vertical
+google map	vertical	map display	vertical
+
+co.happybits.anyvideo.apk
+false
+
+com.mobile.android.celtics.apk
+false
+
+org.solazo.apk
+false
+
+com.joshclemm.android.apps.projectlawn.apk
+true
+alert	push	notification alert	push
+critical alert	push	notification alert	push
+news alert	push	notification alert	push
+
+com.Aksenovborsh.HuaweiAscendP2Theme.apk
+true
+hour	change	hour	change
+hourly view	change	hour	change
+
+com.a6877042251466446a61e41a.a91251665a.apk
+false
+
+com.app_terryhs.layout.apk
+false
+
+com.fmg.StadjuharDaxs.apk
+false
+
+com.apcurium.MK.BostonCab.apk
+false
+
+com.kelvin.autumnframes.one.apk
+false
+
+com.sunlightweather.free.ics.ultimatesettingstoolswidget.notification.apk
+false
+
+com.app_murrieta.layout.apk
+true
+map display	access	city map	access
+map view	access	city map	access
+interactive map	access	city map	access
+map	access	city map	access
+route map	access	city map	access
+offline map	access	city map	access
+
+com.andromo.dev247932.app235116.apk
+false
+
+com.cellit.forrent.apk
+false
+
+com.goodbarber.airsoftnews.apk
+false
+
+air.com.ldevelop.weather.apk
+false
+
+com.gaganjeetbhullar.watchonlinemovies.apk
+true
+private data	fetch	data	fetch
+data plan	fetch	data	fetch
+data	fetch	data	fetch
+mobile data	fetch	data	fetch
+data usage	fetch	data	fetch
+data connection	fetch	data	fetch
+personal data	fetch	data	fetch
+weather data	fetch	data	fetch
+
+com.softek.ofxclmobile.htmcu.apk
+true
+account balance	check	balance	check
+
+com.paypal.android.p2pmobile.apk
+true
+account balance	check	balance	check
+
+gov.nps.nama.apk
+true
+hour	include	hour	include
+hourly view	include	hour	include
+
+com.skillapps.forextradingtraining.apk
+true
+private data	fetch	data	fetch
+data plan	fetch	data	fetch
+data	fetch	data	fetch
+mobile data	fetch	data	fetch
+data usage	fetch	data	fetch
+data connection	fetch	data	fetch
+personal data	fetch	data	fetch
+weather data	fetch	data	fetch
+
+com.asai24.golf.apk
+false
+
+com.conduit.app_5dfb4e6ae8e34151b12a0db0f8cebbd3.app.apk
+false
+
+com.Markovtr.FordEscapeTestDrive.apk
+false
+
+com.monotype.android.font.root.font500000.apk
+false
+
+com.nesro.paktv.apk
+false
+
+com.fs.snoopify.apk
+false
+
+com.magellangps.SmartGPS.apk
+true
+location information	show	location	show
+gps location	show	location	show
+location	show	location	show
+current location	show	location	show
+
+dev03.app151.apk
+false
+
+com.smarteragent.android.c21.apk
+true
+favorite store	save	favorite home	save
+
+com.mxdata.tube.Market.apk
+true
+r feed	provide	twitter feed	provide
+twitter feed	provide	twitter feed	provide
+feed	provide	twitter feed	provide
+
+com.kutubApps.SweetMessagesForMobile.apk
+false
+
+lean.manufacturing.principles.apk
+true
+location information	guide	information	guide
+
+com.qzone.apk
+false
+
+com.unips.livewallpaper.naturalmonster.apk
+false
+
+com.weht.android.weather.apk
+true
+map display	vertical	map display	vertical
+map view	vertical	map display	vertical
+interactive map	vertical	map display	vertical
+map	vertical	map display	vertical
+route map	vertical	map display	vertical
+offline map	vertical	map display	vertical
+google map	vertical	map display	vertical
+
+cn.qing.sexposition.apk
+true
+sex life	enlighten	sex life	enlighten
+sex position	enlighten	sex life	enlighten
+sex photo	enlighten	sex life	enlighten
+sex	enlighten	sex life	enlighten
+
+com.papajohns.android.apk
+false
+
+com.kololipaper.hulklwp.apk
+false
+
+com.prepconnectmobile.nyarlingtonlite.apk
+false
+
+net.lyoness.mobile.apk
+true
+location information	search	location	search
+location service	search	location	search
+gps location	search	location	search
+location	search	location	search
+current location	search	location	search
+
+com.mfoundry.mb.android.mb_beb187.apk
+true
+account balance	check	balance	check
+
+com.boost.volumebooster.apk
+false
+
+com.FootBallLiveStreamAndroid.apk
+false
+
+com.mobileriders.pregnancy.stages.apk
+false
+
+com.oracle.AxiomAnywhere.apk
+false
+
+andisoft.HighSchoollwp.apk
+false
+
+com.bookinghotel.holidaybeaches.one.apk
+true
+trip	plan	honeymoon trip	plan
+
+com.Aksenovborsh.NokiaLumia510Theme.apk
+true
+hour	change	hour	change
+hourly view	change	hour	change
+
+com.Aksenovborsh.Nokia6300Wallpapers.apk
+true
+hour	change	hour	change
+hourly view	change	hour	change
+
+com.hhkbfdc.tubedownloader.apk
+false
+
+com.HiddenCuisine.apk
+false
+
+com.hcg.pinkfloyd.apk
+true
+legal representative	produce	representative	produce
+
+com.wLiveSportStream.apk
+false
+
+com.rcoms.datefordate.apk
+false
+
+com.rich.wallpapers.asiangirls.apk
+false
+
+joelosteen.android.phone.JOMApp.apk
+false
+
+com.Aksenovborsh.SamsungGalaxyMegaTheme.apk
+true
+hour	change	hour	change
+hourly view	change	hour	change
+
+com.yinzcam.nfl.ravens.apk
+true
+city break	catch	breaking news	catch
+
+com.mobilelife.tctrips.amsterdam.standard.apk
+true
+route	find	route	find
+
+com.univision.noticias.apk
+true
+favorite store	save	favorite article	save
+
+ghojah.training.do200situps.apk
+false
+
+com.rtes.reader.app10070.apk
+false
+
+com.jiubang.goscreenlock.theme.sky.getjar.apk
+false
+
+com.letin.gainweight.apk
+false
+
+com.banapps.freevisualanatomy.apk
+true
+private data	fetch	data	fetch
+data plan	fetch	data	fetch
+data	fetch	data	fetch
+mobile data	fetch	data	fetch
+data usage	fetch	data	fetch
+data connection	fetch	data	fetch
+personal data	fetch	data	fetch
+weather data	fetch	data	fetch
+
+com.adaptiveblue.GetGlue.apk
+false
+
+com.app_beachb.layout.apk
+false
+
+com.lidaye.frame.apk
+false
+
+com.mshift.traviscu.apk
+true
+mobile deposit	include	new mobile	include
+mobile carrier	include	new mobile	include
+
+com.stkiconcepts.hurricaneHound.free.apk
+true
+weather forecast	show	track forecast	show
+
+com.kutubApps.EducationDictationInArabic.apk
+false
+
+com.usatekbi.btcharger2.apk
+false
+
+com.simplicityweb.apk
+false
+
+com.cellphone.gpstracker.lite.apk
+false
+
+com.al.crimsontide.android.apk
+true
+late information	give	late	give
+
+com.ilock.htconex.htconexilock.htcxiphonelocker.apk
+true
+mobile deposit	make	mobile	make
+
+in.tank.corp.proximity.apk
+true
+direct link	search	direction	search
+direction	search	direction	search
+one direction	search	direction	search
+
+com.mobilebeez.homeweightexercise.apk
+false
+
+net.monthorin.rttraffic16.apk
+true
+map display	show	map	show
+map view	show	map	show
+interactive map	show	map	show
+map	show	map	show
+route map	show	map	show
+offline map	show	map	show
+
+com.sina.weibo4en.apk
+false
+
+com.innerfence.ccterminal.apk
+false
+
+com.argandev.bokehbluefx.apk
+false
+
+get.fast.internet.professional.ukdevs.apk
+false
+
+com.Finger_Scan_Unlocker_107231.apk
+false
+
+com.clc.hotellocator.android.apk
+true
+discount hotel	map	network hotel	map
+luxury hotel	map	network hotel	map
+boutique hotel	map	network hotel	map
+hotel offer	map	network hotel	map
+listed hotel	map	network hotel	map
+hotel booking	map	network hotel	map
+hotel room	map	network hotel	map
+hotel deal	map	network hotel	map
+budget hotel	map	network hotel	map
+hotel	map	network hotel	map
+
+com.a98915954152123b012e2ae6a.a47119157a.apk
+false
+
+com.goodapp.appv53.apk
+false
+
+com.mtag.att.codescanner.apk
+true
+low price	find	product price	find
+
+com.spantechdevapps.cdsx.apk
+true
+hot girl	meet	girl	meet
+
+com.web360pointer.Ross_Lynch.lwp.apk
+false
+
+com.miniongame.cheatswithchat.apk
+false
+
+com.wakeupnowassociatetraining.apk
+false
+
+com.webmap.apk
+false
+
+com.hcg.onedir.apk
+true
+legal representative	produce	representative	produce
+
+com.malisoloele01.ModernCombat4ZeroHourWallpapers.apk
+false
+
+com.ubercab.apk
+true
+map display	set	map	set
+map view	set	map	set
+interactive map	set	map	set
+map	set	map	set
+route map	set	map	set
+offline map	set	map	set
+
+com.health.netsexposition.apk
+true
+search partner	teach	partner	teach
+
+com.ghostreconadvanced.tuan.apk
+false
+
+com.pixo.ams_gps.apk
+false
+
+com.nadmm.airports.apk
+true
+current	determine	current location	determine
+gps location	determine	current location	determine
+location	determine	current location	determine
+current location	determine	current location	determine
+
+com.mylocaltv.krdo.apk
+false
+
+com.duanstar.cta.apk
+false
+
+cz.ninjanuts.carhud.apk
+false
+
+bestlwp.ferrari.racing.car.hd.live.wallpaper.apk
+false
+
+com.andromo.dev58263.app71191.apk
+false
+
+com.friendshipquotes.lwp.friendshiplivewallpaper.apk
+true
+search	live	search monetization	live
+search result	live	search monetization	live
+search monetization	live	search monetization	live
+
+com.monotype.android.font.strong.conmicpack.apk
+false
+
+de.bytewiese.smartwatch2.gpsmap2.apk
+true
+map display	show	open street map	show
+map view	show	open street map	show
+interactive map	show	open street map	show
+map	show	open street map	show
+route map	show	open street map	show
+offline map	show	open street map	show
+
+spinninghead.carhome.apk
+false
+
+net.parentlink.paplv.apk
+false
+
+com.Synapse.KATC.apk
+false
+
+com.booking.apk
+true
+search	refine	search	refine
+search point	refine	search	refine
+search partner	refine	search	refine
+search icon	refine	search	refine
+search result	refine	search	refine
+search engine	refine	search	refine
+quick search	refine	search	refine
+search shortcut	refine	search	refine
+search monetization	refine	search	refine
+search bar	refine	search	refine
+
+com.Lock.Wallpaper.iPhoneLockUtilsLockScreen.apk
+false
+
+wecht.all.stckers.apk
+false
+
+com.sinyee.babybus.magichouse.apk
+false
+
+com.musiclwps.ciara.apk
+false
+
+com.hearst.android.wmur.apk
+true
+map display	move	map	move
+map view	move	map	move
+interactive map	move	map	move
+map	move	map	move
+route map	move	map	move
+offline map	move	map	move
+google map	move	map	move
+
+ger.boooster.apk
+false
+
+com.appspot.scruffapp.apk
+false
+
+com.novaspirit.minecraftskin.apk
+false
+
+com.superchargeintl.tradingtips4.apk
+false
+
+com.app_mobileata.layout.apk
+true
+special offer	receive	special	receive
+special someone	receive	special	receive
+special	receive	special	receive
+
+com.bookinghotel.holidaybeaches.two.apk
+true
+trip	plan	honeymoon trip	plan
+
+com.accuratecompass.accuratecompass.apk
+true
+direct link	provide	direction	provide
+direction	provide	direction	provide
+one direction	provide	direction	provide
+
+de.bplaced.tapwater.apk
+false
+
+com.chrysler.vehicleinfo.jeep.apk
+false
+
+com.medco.medcopharmacy.apk
+false
+
+com.simtechnos.LingerieBabes.apk
+false
+
+com.bvr.onediretion.apk
+false
+
+com.ourcast.minutely.distribution.apk
+true
+informational purpose	give	information	give
+additional information	give	information	give
+information	give	information	give
+advertisement information	give	information	give
+detailed information	give	information	give
+late information	give	information	give
+following information	give	information	give
+news information	give	information	give
+useful information	give	information	give
+
+music.ringtones.freeringtones1millionsweetlove.apk
+false
+
+fr.aperto.android.ustides.apk
+true
+gps location	find	close location	find
+location	find	close location	find
+
+com.wallpaper.Koreanfoodrecipescf.apk
+false
+
+com.masseeffect.vt.apk
+false
+
+com.kibartiq.gaypornapp.apk
+false
+
+com.a1387169429520b95bd8f5b88a.a42424784a.apk
+false
+
+com.telerik.PointsCalculator.apk
+false
+
+com.kibartiq.xxxlesbianporn.apk
+false
+
+com.kab.kabmicrosoftwindowsxpn12.apk
+false
+
+hot.fonibh.diggy.apk
+false
+
+com.neces.apk
+true
+route	find	route	find
+
+net.groceryshopping.SproutsFarmersMarket.apk
+false
+
+com.wafb.android.weather.apk
+true
+favorite store	save	favorite location	save
+
+com.srb.app.wfd.apk
+false
+
+ua.com.apec.qsmart.iptv.apk
+false
+
+com.megadevs.hubi.apk
+false
+
+com.symapp.autumnclock.apk
+false
+
+com.blackboard.android.apk
+false
+
+wsm.wifimousefree.apk
+true
+current location	change	current	change
+
+com.sprike.ferrariwallpapers.apk
+false
+
+com.kauf.talking.talkingcatvsmouse.apk
+false
+
+appinventor.ai_nguyeniu451.Autodesk_Inventer_tutorials_2014.apk
+false
+
+com.happ.marvel.apk
+false
+
+factory.widgets.PaintMeDigitalWeatherClock.apk
+false
+
+ru.gelin.android.weather.notification.apk
+false
+
+com.zumobi.android.popsci.apk
+false
+
+com.zitanemio.mo03.apk
+false
+
+com.wifi.hotspot.apk
+false
+
+com.mirasoftapps.nudescanner.apk
+false
+
+com.xgamertag.mcpeskins.apk
+false
+
+com.wordLearner.Free.apk
+false
+
+com.np.wp7msg.apk
+false
+
+com.creacionescalientes.DisneyJuniorVideos.apk
+false
+
+com.youse.lifehouse.apk
+false
+
+com.jigood.andro.bulkmsg.apk
+false
+
+egyptbox.app37.apk
+false
+
+appinventor.ai_Zapeta31.TechBrowser.apk
+false
+
+com.nmwco.mobility.client.apk
+true
+mobile deposit	include	mobile	include
+mobile carrier	include	mobile	include
+
+mahmed.net.synctuneswirelessfree.apk
+false
+
+tropical.ne.kalamonsewar.apk
+false
+
+com.lunagames.am_MyBaby.apk
+false
+
+com.visualmobile.beautifulhairstyles.apk
+false
+
+com.sabatini.satt_question_free.apk
+false
+
+com.gaychat.apk
+false
+
+com.haibison.android.lib.filechooser.demo.apk
+false
+
+com.bechmanns.rueckenschmerz.manager.lite.apk
+false
+
+com.creativeappsgroup.shutup.apk
+false
+
+com.logos.androidvyrso.apk
+false
+
+com.ixellence.ixmat.android.community.apk
+true
+location service	find	location	find
+gps location	find	location	find
+location	find	location	find
+current location	find	location	find
+
+com.angsoft.ang.jorgeramospodcasttv.apk
+false
+
+com.everewoody.collagemaker.apk
+false
+
+free.creationandfrniture.apk
+false
+
+com.danax.book.AOUJJBYANXLCXCVW.apk
+false
+
+com.ivideon.client.apk
+false
+
+sp.app.myWorkClock.apk
+false
+
+com.DramaProductions.Einkaufen5.apk
+false
+
+info.guardianproject.otr.app.im.apk
+true
+mobile deposit	make	secure mobile	make
+
+wook.app.sexystar.apk
+true
+hot girl	provide	hot	provide
+
+com.newspaperdirect.bostonglobe.android.hc.apk
+true
+favorite store	click	store	click
+
+mdr.markets.apk
+false
+
+softick.android.photoframe.apk
+false
+
+com.rarepebble.apk
+false
+
+com.elpis.fijiradio.apk
+false
+
+Nextvid.mobile.player.apk
+false
+
+kr.mcpe.mods2.apk
+false
+
+com.sedevelop.dict.enrufl.free.apk
+false
+
+com.jiubang.goscreenlock.theme.zmc.apk
+false
+
+com.hoscomm.apk
+false
+
+com.onelouder.baconreader.apk
+false
+
+com.netgate.apk
+false
+
+com.cfinc.petapic.apk
+false
+
+com.rapidcyber.intelliim.android.apk
+true
+gps location	include	office location	include
+location	include	office location	include
+
+com.htq.puzzle.BMX.apk
+false
+
+com.anddoes.notifier.apk
+true
+data usage	provide	notification data	provide
+weather data	provide	notification data	provide
+
+com.librotecstar.tecnicasdeventas.AOTSSGEFOHZBEAGGP.apk
+false
+
+ringtonerocket.funny.apk
+false
+
+slide.cameraZoom.composites.apk
+false
+
+com.mobilerush.uscfootballrush.apk
+false
+
+com.bestappsforphone.workfromhomeworkathome3.apk
+false
+
+com.hp.pregnancy.lite.apk
+false
+
+com.appspot.swisscodemonkeys.love.apk
+false
+
+com.synergystratecore.recoveryapp.apk
+false
+
+com.swoopt.apk
+false
+
+com.sancronringtones.androidfunsb.apk
+false
+
+com.piweb_gage.apk
+false
+
+io.vov.vitamio.v6.apk
+false
+
+com.veteknoloji.com.apk
+false
+
+com.teamandroid.mmanews.apk
+false
+
+com.koushikdutta.desktopsms.apk
+false
+
+mcoprod.livewallpaper.WaterRipplesEffect.LionFREE.apk
+false
+
+com.dailyhoroscopes.net.apk
+false
+
+com.mobidia.android.mdm.apk
+true
+private data	track	data usage	track
+data plan	track	data usage	track
+data	track	data usage	track
+data usage	track	data usage	track
+data connection	track	data usage	track
+personal data	track	data usage	track
+weather data	track	data usage	track
+
+com.skynetlabs.duc.apk
+true
+favorite store	save	favorite	save
+
+com.tapatalk.androidforumscom.apk
+false
+
+com.unidevsolutions.timesheet.apk
+false
+
+com.etoolkit.ivintagephoto.apk
+false
+
+com.system.tool.increase.wireless.strength.apk
+false
+
+com.ravphotoandroid.wallpacom.apk
+true
+local store	find	play store	find
+store	find	play store	find
+grocery store	find	play store	find
+play store	find	play store	find
+store locator	find	play store	find
+
+com.medicaljoyworks.prognosis.diabetes.apk
+true
+current	base	current	base
+current location	base	current	base
+
+com.jason.tarheels.soundboard.apk
+false
+
+com.audiotech.apps.scannerradio2.apk
+true
+local weather	provide	weather radio	provide
+weather	provide	weather radio	provide
+radio station	provide	weather radio	provide
+news weather	provide	weather radio	provide
+
+com.phonetools.recorder.apk
+false
+
+com.mobisystems.msdict.embedded.wireless.elsevier.dorlandsillustrated.apk
+false
+
+com.aydangostar.mesharj.apk
+false
+
+com.designeradventure.supremelwp.apk
+false
+
+com.tabtale.fantasypuzzle.apk
+false
+
+com.szyk.myheart.apk
+true
+data plan	track	key blood pressure data	track
+data	track	key blood pressure data	track
+personal data	track	key blood pressure data	track
+
+qe51fdab8e5c5f8.popsa_hello_kitty_3d_cool_photo.apk
+false
+
+com.anamik.gothemes.vampireknight.apk
+false
+
+tunein.player.apk
+false
+
+com.crowdcompass.appAG3sNnyLlE.apk
+false
+
+androix.com.android.NightVisionCam.apk
+false
+
+com.tivophone.android.apk
+false
+
+com.flashlight.app.apk
+false
+
+com.brother.ptouch.sdk.apk
+false
+
+com.shafiq.cnn.meast.apk
+false
+
+com.getidealyzer.pro.apk
+false
+
+com.ericdodson.johnnymanziellwp.apk
+false
+
+org.awallet.free.apk
+false
+
+com.google.android.inputmethod.pinyin.apk
+false
+
+com.remind4u2.sounds.of.rain.apk
+false
+
+com.amazon.kindle.apk
+true
+google map	tap	google	tap
+
+com.mfoundry.mb.android.mb_ibc.apk
+true
+location information	discover	location	discover
+location service	discover	location	discover
+gps location	discover	location	discover
+location	discover	location	discover
+current location	discover	location	discover
+
+com.elegance.mkb.apk
+false
+
+info.mkplan.lineCuteStamp.apk
+false
+
+com.xe.currency.apk
+false
+
+com.phonetools.flashlight.apk
+false
+
+com.scoompa.talkingfriends.apk
+false
+
+com.calls.yemenfon.apk
+false
+
+com.xellentapps.videotube.apk
+false
+
+iddqd.gatm.apk
+false
+
+com.cr.waveCall.apk
+false
+
+com.musixmatch.android.lyrify.apk
+true
+favorite store	save	favorite	save
+
+goodapps1.scarystories.apk
+false
+
+com.itechnepal.yellownepal.apk
+true
+location information	base	information	base
+
+kr.co.nnngomstudio.jphoto.googlemarket.apk
+false
+
+com.km.draw.photoeffects.apk
+false
+
+nu.tommie.inbrowser.apk
+false
+
+bna.freesms.apk
+true
+informational purpose	give	information	give
+additional information	give	information	give
+information	give	information	give
+advertisement information	give	information	give
+detailed information	give	information	give
+late information	give	information	give
+following information	give	information	give
+news information	give	information	give
+useful information	give	information	give
+
+com.kbroad.filemanager.apk
+false
+
+com.aging.album.face.apk
+false
+
+com.viber.guide.apk
+false
+
+com.advancedprocessmanager.apk
+false
+
+com.bestappsforphone.glutenfreedukandietcabbagesoupdiet17daydiet3.apk
+false
+
+sexyhotlesbians.cmon.com.apk
+false
+
+com.arabpcom.sunews.apk
+false
+
+com.spcorp.fotomacdroid.apk
+false
+
+com.google.android.ytremote.apk
+false
+
+com.jqdroid.EqPlayer.apk
+false
+
+com.socialfirst.lockscreen.apk
+false
+
+co.vine.android.apk
+false
+
+org.joa.zipperplus7v2.apk
+false
+
+com.wellnessfoundry.meallogger.android.apk
+false
+
+net.kaos.apk
+false
+
+com.moders.pink.apk
+false
+
+com.quoord.tapatalkbimmer.activity.apk
+false
+
+appinventor.ai_vn_thangnd.solidwork1.apk
+false
+
+com.nikoloco.vintagebikes.apk
+false
+
+nl.jayzonapps.kermittv.apk
+false
+
+com.nantaphop.pantipfanapp.apk
+false
+
+com.skkndev.quotes.piq.apk
+false
+
+com.dramatv.android.freedrama1.apk
+false
+
+com.andromo.dev249143.app235956.apk
+true
+location service	add	service	add
+
+com.zhu.ba.jie.apk
+false
+
+com.ramkystech.android.multiplicationtable.apk
+false
+
+com.yinzcam.PenguinsMobile.apk
+true
+city break	catch	breaking news	catch
+
+com.dutadev.lwp.nexusfree.apk
+false
+
+com.netsmart.daily.apk
+false
+
+com.appsbar.TheCoffeeStop486960.apk
+false
+
+org.withouthat.acalendar.apk
+false
+
+com.givewaygames.audiovocoder.apk
+false
+
+com.andromo.dev247020.app239673.apk
+false
+
+com.hacking.tech.apk
+false
+
+com.popularAndroid.apk
+false
+
+org.sopcast.android.apk
+false
+
+com.anamik.gothemes.hellokitty.apk
+false
+
+com.bydeluxe.d3.android.program.starz.apk
+false
+
+com.andromo.dev216254.app233845.apk
+false
+
+com.netplayed.app.music.apk
+false
+
+com.teachersparadise.scratchdraw.apk
+false
+
+net.p4p.absen.apk
+false
+
+com.xfinity.streampix.apk
+false
+
+de.stefanpledl.teres.apk
+false
+
+com.extreamsd.aemobiledemo.apk
+false
+
+com.ThumbFly.FastestSms.apk
+false
+
+com.hsnn.expensemanager.apk
+false
+
+com.queppelin.patrika.apk
+false
+
+com.darkhorse.digital.apk
+false
+
+air.FootballDoodFree.apk
+false
+
+com.bbi.national_multiple_sclerosis_society.apk
+false
+
+com.chat.dddmorjan1.apk
+false
+
+mzines.mtsumagazine.apk
+false
+
+appinventor.ai_afutia74.InfantJesus.apk
+false
+
+appinventor.ai_vn_thangnd.wrireframe_modeling.apk
+true
+location information	determine	location	determine
+location service	determine	location	determine
+gps location	determine	location	determine
+location	determine	location	determine
+current location	determine	location	determine
+
+com.device.security.analytics.androidsecurityanalytics.apk
+false
+
+com.intervigil.micdroid.apk
+false
+
+com.htq.puzzle.Animals.apk
+false
+
+com.easyandroid.free.mms.apk
+false
+
+com.bb.iphone5.apk
+false
+
+com.ScanAloud.apk
+false
+
+com.fivepixels.mp3downloaderpro.apk
+false
+
+com.maxistar.mangabrowser.apk
+false
+
+com.copy.apk
+false
+
+com.plaindealer.android.prod.apk
+false
+
+com.librotecstar.libelgrangrimorio.AOTUKEWUTHVIALWZ.apk
+false
+
+wondeful.manga.world.apk
+false
+
+com.caodeveloping.eyetrainer.apk
+false
+
+com.zoonapp.free.deskclock.apk
+false
+
+org.simon_cozens.Tertius.apk
+false
+
+com.sm3.myRingTune.apk
+false
+
+com.gau.go.launcherex.theme.waterxxx.fourinone.apk
+false
+
+com.tndev.funnyframes.apk
+false
+
+org.espen.maf.apk
+false
+
+com.modelmakertools.simplemindfree.apk
+true
+map display	move	mind map	move
+map view	move	mind map	move
+interactive map	move	mind map	move
+map	move	mind map	move
+route map	move	mind map	move
+offline map	move	mind map	move
+google map	move	mind map	move
+
+com.mobilatapps.labs.rabe3a_egypt.apk
+false
+
+jun.ace.piecontrol.apk
+false
+
+com.fancamera.despicablemecamera.apk
+false
+
+com.duckduckgo.mobile.android.apk
+false
+
+com.skyscape.packagecardiosourcekthreevtwodata.android.voucher.ui.apk
+true
+mobile deposit	bring	cardiosource mobile	bring
+
+com.swann.www.apk
+true
+mobile data	contribute	phone data	contribute
+
+com.hypeflute.hindistatus.apk
+false
+
+com.cbs.sportsapp.android.seha.apk
+false
+
+com.askfm.apk
+false
+
+com.gravity.pragnency.apk
+false
+
+com.gau.go.launcherex.theme.fd.magicbox.fourinone.apk
+false
+
+com.bd.gitlab.apk
+false
+
+com.anydo.apk
+false
+
+com.tiffany.engagement.apk
+false
+
+com.StarburstSoftware.FatFingers.apk
+false
+
+com.siri.budgetdemo.apk
+true
+multiple account	check	particular account	check
+account information	check	particular account	check
+account	check	particular account	check
+account balance	check	particular account	check
+
+com.photo.funnycams.apk
+false
+
+appinventor.ai_kevinlexsanders.elk.apk
+false
+
+com.ericom.accesstogobyericom.apk
+false
+
+com.totmarketing.lg.p659.training.apk
+false
+
+com.mobilemedia.betscores.apk
+true
+low price	find	best price	find
+
+com.ad960009.app.MicToSpeaker.apk
+false
+
+com.tecxten.andropaint.free.apk
+false
+
+com.rodale.WHLiteWorkouts.apk
+true
+google map	view	average	view
+
+evie.evan.apk
+false
+
+com.andromo.dev205137.app232352.apk
+false
+
+lipton.hellokittycoollivewallpaper.apk
+false
+
+pe.icanoticias.android.apk
+false
+
+com.mydiabetes.apk
+true
+hour	set	hour	set
+hourly view	set	hour	set
+
+com.birdSoundzz.apk
+false
+
+com.driversed.state.california.apk
+false
+
+com.pplive.androidphone.sport.apk
+false
+
+comic.akatsuki.best.hd.live.wallpaper.apk
+false
+
+com.reigndesign.biblepromisesfree.apk
+false
+
+org.myklos.btautoconnect.apk
+false
+
+pl.pleng.german.apk
+false
+
+com.amazon.student.android.apk
+true
+price	check	price	check
+best price	check	price	check
+low price	check	price	check
+
+com.songbirdnest.mediaplayer.apk
+false
+
+com.mobilerush.conneticutfootballrush.apk
+false
+
+com.domobile.iworkout.back.apk
+false
+
+com.xfinity.playnow.apk
+false
+
+lcdi.edu.lucybabyqwfdk.apk
+false
+
+com.viki.android.apk
+false
+
+com.rhapsody.apk
+false
+
+com.ewtn.truthandlife.apk
+false
+
+com.mobilerush.greenbayfootballrush.apk
+false
+
+air.com.yudu.ReaderAIR3900224.apk
+true
+mobile data	present	major mobile	present
+
+net.fft.map19980113.apk
+false
+
+com.kauf.talking.account1.TalkingandAnsweringJennaBot.apk
+false
+
+com.care.android.careview.apk
+true
+account balance	access	account	access
+
+lifebox.app5014.apk
+false
+
+com.subzeroapps.almogazcom.apk
+false
+
+com.rocketraise.apk
+false
+
+com.ksl.android.apk
+true
+local weather	include	weather	include
+weather	include	weather	include
+news weather	include	weather	include
+current weather	include	weather	include
+weather information	include	weather	include
+weather forecast	include	weather	include
+
+uk.co.dedmondson.whitenoise.lite.apk
+false
+
+com.gotquestions.gqandapp.apk
+false
+
+org.Keku.apk
+false
+
+object.psd.client.apk
+false
+
+com.moders.cookbook.apk
+true
+detailed information	give	detail	give
+detail	give	detail	give
+
+kr.co.GoodTVBible.apk
+false
+
+com.funny.haha.jokes.yomomma.apk
+false
+
+com.caramelizedapple.apps.Picasso.apk
+false
+
+Cn.sasj.rb.ring.apk
+false
+
+com.cast.android.facttv.apk
+false
+
+com.graingersoftwaresolutions.cattlemarketmobile.apk
+false
+
+com.adpdealerservices.scmobile.apk
+true
+location information	base	location	base
+location service	base	location	base
+gps location	base	location	base
+location	base	location	base
+current location	base	location	base
+
+com.jrummy.busybox.installer.apk
+false
+
+gabriel.audioslower.lite.apk
+false
+
+com.alphafoxapps.tmz.apk
+false
+
+com.fuzebox.fuze.android.apk
+true
+mobile banking	start	mobile	start
+
+com.telibrahma.Karaoke.apk
+false
+
+org.chad.jeejah.library.apk
+false
+
+com.socialnmobile.dictdata.cmuaes.apk
+false
+
+com.snapwood.smugfolio.apk
+false
+
+com.riverstonelabs.timemachine.apk
+true
+location information	map	location	map
+location service	map	location	map
+gps location	map	location	map
+location	map	location	map
+current location	map	location	map
+
+com.spcorp.fanatikdroid.apk
+false
+
+com.guokr_google.android.apk
+false
+
+appinventor.ai_apptropolis.Romantic_Gifts.apk
+false
+
+appinventor.ai_mohamedballouch.Lady_Gaga_Applause_Lyrics.apk
+false
+
+br.com.rodrigokolb.musicequalizer.apk
+false
+
+com.livewallpaper3d.locker.tiger.cubetiger.apk
+false
+
+my.dubstep.rings.first.apk
+false
+
+com.brandonharold.theamazingworldofgumballwp.apk
+false
+
+com.digibix.fiba.apk
+false
+
+com.tabtale.littlemermaid.apk
+false
+
+com.payneservices.LifeReminders.apk
+false
+
+com.oldmanshoe.tour1gallery.apk
+false
+
+com.nwalex.meditation.apk
+false
+
+com.imvu.imvu2go.apk
+false
+
+rideas.chat2talkbeta.apk
+false
+
+com.Smart_Scientific_Calculator_208072.apk
+false
+
+com.muratkilic.tvgoo.apk
+false
+
+georgercainjr.bsaonthego.apk
+false
+
+com.wackiapps.piranhaplaylwp.apk
+false
+
+com.librotecstar.audiolibroelmagooz.apk
+false
+
+com.hanajobs.flashlight6.apk
+false
+
+com.flashfly.dot.net.apk
+false
+
+com.outfit7.talkinggingerfree.apk
+false
+
+si.simplabs.diet2go.apk
+false
+
+com.appe4u.detik.apk
+false
+
+com.htq.puzzle.Skateboarding.apk
+true
+map display	show	full map	show
+map view	show	full map	show
+interactive map	show	full map	show
+map	show	full map	show
+route map	show	full map	show
+offline map	show	full map	show
+
+appinventor.ai_nitiphatnianjit.xbox360games.apk
+false
+
+com.samsung.cares.apk
+true
+local store	find	store location	find
+store	find	store location	find
+grocery store	find	store location	find
+play store	find	store location	find
+store locator	find	store location	find
+
+com.kosik.ebook.EEB.apk
+false
+
+com.oldmanshoe.nbagallery.apk
+false
+
+com.aerowx.app.apk
+false
+
+com.cbs.sportsapp.android.alab.apk
+false
+
+com.soldev.android.diabete.apk
+false
+
+com.shafiq.manila.times.apk
+false
+
+com.inturi.net.android.MetricsConversion.apk
+false
+
+zsj.android.uninstall.apk
+false
+
+com.fortune.uninstaller.apk
+false
+
+com.dal.kidssongs.apk
+false
+
+com.liulishuo.engzo.apk
+false
+
+com.appidio.radarlivelite.apk
+false
+
+com.monotype.android.font.dev.beauty.apk
+false
+
+com.mysms.android.mirror.apk
+false
+
+com.dmovies.movies.apk
+false
+
+apps.edgesolutions.HamsterSticker.apk
+false
+
+com.logos.androidbiblia.apk
+false
+
+com.monotype.android.font.pack.quill.apk
+false
+
+mysjp.qinghua.kakao.apk
+false
+
+appinventor.ai_positiveapptitude.CowboysFan.apk
+false
+
+lcdi.edu.lookcenu.apk
+false
+
+com.easyandroid.free.contacts.apk
+false
+
+com.signnow.android.apk
+false
+
+Nate.Math.apk
+false
+
+com.supreme.photosaver.apk
+false
+
+com.pskpartha.bilaltubechat.apk
+false
+
+com.jb.gosms.theme.getjar.lovepetal.apk
+false
+
+com.appredeem.apptrailers.apk
+false
+
+com.aagroup.topfunny.apk
+false
+
+semsix.fingerprintlovetest.apk
+false
+
+com.nulltree.roundbell.apk
+false
+
+ch.papers.policeLight.apk
+false
+
+com.wts.outlookmoney.apk
+false
+
+com.picomat.magickeyboardfree.apk
+false
+
+mcoprod.livewallpaper.WaterRipplesEffect.DolphinSunsetFREE.apk
+false
+
+com.fullsocialconnect.sepfep.cr.apk
+false
+
+com.programmingthomas.keepcalm.apk
+false
+
+com.andromo.dev1805.app132069.apk
+false
+
+net.articlebox.prays.apk
+false
+
+com.sonelli.juicessh.apk
+false
+
+com.alkarmatvapps.alkarmatv.apk
+false
+
+com.artyapphouse.squareit.apk
+false
+
+voxxer.walkie.talkie.apk
+false
+
+com.isoftinc.minecraft.holidayskins.apk
+false
+
+com.kauf.botv3.talkingpocketbotlucy.apk
+false
+
+com.fulminesoftware.mirror.apk
+false
+
+com.mx.dm.tae.apk
+false
+
+com.esphur.toptrendingstickersemoji.apk
+false
+
+com.tennewfreeebk.app001.apk
+false
+
+com.jiubang.goscreenlock.theme.fourkey.apk
+false
+
+horoscope.l4.apk
+false
+
+lifebox.app1025.apk
+false
+
+com.limfy.dogsounds.apk
+false
+
+com.almor.androidstethoscope.apk
+false
+
+com.photocam.asketch.apk
+false
+
+com.adantes.migraine.AOUJKDPBKXYFVACEQ.apk
+false
+
+com.phandroid.droidpress.apk
+false
+
+com.gau.go.launcherex.theme.fd.moonstone.fourinone.apk
+false
+
+mobi.infolife.itag.apk
+false
+
+com.softigniter.android.fractal.free.activity.apk
+false
+
+appinventor.ai_xeno194.NYPD1923.apk
+false
+
+com.hp.printercontrol.apk
+false
+
+com.hemisphere3.tarot.apk
+false
+
+com.jiubang.goscreenlock.theme.break_.getjar.apk
+false
+
+com.germansxandroid.lwpger.apk
+false
+
+com.andromo.dev20674.app234448.apk
+false
+
+coffe.android.app.comicpic.dqnhinho.apk
+false
+
+com.contextlogic.wish.apk
+false
+
+com.sufian.image.apk
+false
+
+ru.sports.ukraine.apk
+false
+
+oydevelopers.all_note.apk
+false
+
+com.rdio.android.ui.apk
+false
+
+com.gmycinstudio.top200drugs.apk
+false
+
+com.Watch.Barney.apk
+false
+
+com.lakshmi.stockmarket.apk
+false
+
+com.archos.mediacenter.videofree.apk
+false
+
+com.sonyericsson.trackid.apk
+false
+
+com.northdigital.playapprewards.apk
+false
+
+com.txtr.android.mmm.apk
+false
+
+com.handyapps.billsreminder.apk
+false
+
+com.emsprotocols.demotxatcemsprotocols.apk
+false
+
+ccg.asl.smart.apk
+false
+
+com.manilla.apk
+true
+pay bill	manage	bill	manage
+billing	manage	bill	manage
+bill pay	manage	bill	manage
+bill payment	manage	bill	manage
+bill	manage	bill	manage
+
+com.app.vodio.apk
+false
+
+com.gunpodo.newsbrunch.apk
+false
+
+com.gau.go.weatherex.appbilling.systemwidgetskin.pearinspaceskin.apk
+false
+
+com.ifangzu.shibajiashowapp.apk
+false
+
+it.mrqzzz.comedysounds.meme01.apk
+false
+
+ru.zdevs.zarchiver.apk
+false
+
+com.tango.tips.apk
+false
+
+com.itlogy.awardwallet.apk
+false
+
+com.vwapps.advanceautopartsmobile.apk
+false
+
+com.voicetranslator.SpeakAndTranslateFree.apk
+true
+favorite store	save	favorite	save
+
+com.goethe.f50languages.apk
+false
+
+princess.diana.apk
+false
+
+the.pdfviewer3.apk
+false
+
+com.nextgenfantasy.nflschedule.apk
+true
+trip	plan	plan business trip	plan
+
+iSA.common.apk
+false
+
+com.fourricegroup.mc.apk
+false
+
+com.rayg.blings.apk
+false
+
+com.cjq20130603.feather.apk
+false
+
+br.com.golmobile.nypost.apk
+false
+
+com.redlinelabs.wakeme.apk
+false
+
+com.wombatix.splitcam2.apk
+false
+
+com.loonapix.apk
+false
+
+com.nfl.nflrushfantasy.apk
+false
+
+com.bubblergps.bmr.apk
+false
+
+com.fishmy.android.apk
+false
+
+com.otipo.apk
+false
+
+appinventor.ai_chenriquezc.ICC.apk
+false
+
+com.hbstudios.dspmanagerfree.apk
+false
+
+com.excelatlife.panic.apk
+false
+
+com.kauf.talking.baum.TalkingEmilyBaby.apk
+false
+
+com.google.android.calendar.apk
+false
+
+com.listen5.gif.apk
+false
+
+com.kosik.ebook.TDT.apk
+false
+
+com.instanote.pro.apk
+false
+
+com.brennasoft.drudgeondroids.apk
+false
+
+insta.fitit.free.apk
+false
+
+com.pauloslf.cloudprint.apk
+false
+
+julion.alvarez.y.su.norteno.band.ringtones.julion.alvarez.ringtone.apk
+false
+
+com.scg.apk
+false
+
+gpc.myweb.hinet.net.PopupVideo.apk
+false
+
+com.kauf.soundboard.baum.FartSoundBoard.apk
+false
+
+com.jjinx.dropboxdownloader.apk
+false
+
+com.wackiapps.ghostriderfireflameslwpremix.apk
+false
+
+lifebox.app5019.apk
+false
+
+ta.namethatgameconsole2.apk
+false
+
+net.audiko2.apk
+false
+
+com.hackreports.v1.apk
+false
+
+com.crowdcompass.appks3OILuifz.apk
+false
+
+com.google.android.apps.onetoday.apk
+false
+
+com.higherone.mobile.android.apk
+true
+account	check	account balance	check
+account balance	check	account balance	check
+
+com.google.android.music.apk
+true
+favorite store	save	favorite	save
+
+lmontt.cl.apk
+false
+
+com.scribd.app.reader0.apk
+false
+
+com.LorexMobileEdge.apk
+false
+
+com.extreme.hair.design.apk
+false
+
+nl.com.tunester.apk
+false
+
+com.cfinc.decopic.apk
+false
+
+net.tsapps.appsales.apk
+false
+
+com.plants.vs.zombies.cheats.apk
+false
+
+in.zamurai.superherowallpapers.apk
+false
+
+com.isoftinc.houseideasminecraft.apk
+false
+
+com.pogoplug.android.apk
+false
+
+com.kns.db01.apk
+false
+
+com.buzlylabs.chinesehoro.apk
+false
+
+com.yahoo.mobile.client.android.fantasybaseball.apk
+false
+
+com.evancharlton.mileage.apk
+false
+
+com.jb.gosms.theme.getjar.osseven.apk
+false
+
+com.koushikdutta.tether.apk
+false
+
+com.bitbar.justfabulous.apk
+true
+price	give	price	give
+best price	give	price	give
+low price	give	price	give
+
+com.modivmedia.scanitgl.apk
+false
+
+com.fls.scanner.apk
+false
+
+com.louis.japanese.sexy.girls.apk
+false
+
+com.gau.go.launcherex.theme.Zfrog.apk
+false
+
+com.ting.baijiajiangtan.apk
+false
+
+com.WIFI_Hotspot_Scanner_207231.apk
+true
+informational purpose	show	information	show
+location information	show	information	show
+additional information	show	information	show
+information	show	information	show
+advertisement information	show	information	show
+following information	show	information	show
+news information	show	information	show
+useful information	show	information	show
+
+com.staticfish.septainstant.apk
+true
+map display	live	vector map	live
+map view	live	vector map	live
+interactive map	live	vector map	live
+map	live	vector map	live
+route map	live	vector map	live
+offline map	live	vector map	live
+google map	live	vector map	live
+
+com.grace.microphone.apk
+false
+
+com.ibelievemagazine.smilefm.apk
+false
+
+com.nhn.android.naverdic.apk
+false
+
+com.thinkyeah.smslocker.apk
+false
+
+io.gamechanger.apk
+true
+location information	change	information	change
+
+wallpapers.tapety.manga_anime.apk
+false
+
+com.bianor.ams.apk
+false
+
+com.maxmpz.audioplayer.apk
+false
+
+com.funshion.video.apk
+false
+
+com.bruno.myapps.droidwallet.apk
+false
+
+com.earthcam.liveCamsFree.apk
+false
+
+com.aviary.android.feather.apk
+false
+
+air.com.stardoll.access.apk
+false
+
+com.intersog.android.schedule.apk
+false
+
+com.huashao.Chimes.apk
+false
+
+com.hipxel.ghost.box.spirit.evp.e1.free.apk
+false
+
+kr.kymedia.kywe.apk
+false
+
+com.analogapps.powerballscanner.lite.apk
+false
+
+com.neon.keyboard.theme.pro.skin.apk
+false
+
+com.quoord.tapatalkpgfree.activity.apk
+false
+
+com.bestappsforphone.halfmarathontrainingschedulerunningtips3.apk
+false
+
+com.topnet999.android.painter.apk
+false
+
+com.ezdrivingtest.az.bdl.app.android.apk
+false
+
+com.real.RealPlayer.apk
+false
+
+com.appspot.swisscodemonkeys.dirty.apk
+false
+
+com.ringtoneappz.sounds.startrek.apk
+false
+
+com.armida.hummingbirdfeederlivewallpaper.apk
+false
+
+com.igeniusdev.swahilidictionary.apk
+false
+
+com.benjaminholfeld.speakgermanfree.apk
+false
+
+com.lasi.phone.getmd.apk
+false
+
+com.kaja.instantwatcher.apk
+false
+
+com.czajnik.collage.apk
+false
+
+com.agric.artc.AOUKAFRXKQZQCVCKE.apk
+false
+
+tmn.mp3converter.apk
+false
+
+air.TOSAssistant.apk
+false
+
+com.bangbaoguan.daili.yijianfangqiang.apk
+false
+
+com.grocery.shoppinglist.lite.apk
+true
+current location	add	current list	add
+
+com.sherpa.bjilvaug2013.apk
+false
+
+atpwta.live.apk
+false
+
+com.national.news.app.apk
+false
+
+nba.michael.jordan.hd.best.live.wallpaper.apk
+false
+
+com.lineten.thegtabase.apk
+false
+
+com.jason.sooners.soundboard.apk
+false
+
+com.bestappsforphone.livegolfscoresgolfresults3.apk
+true
+google map	check	live	check
+
+com.murtos.android.peopleofwalmart.apk
+false
+
+fanapplwp.injusticefanapplwp.apk
+false
+
+com.ajsapps247.sounds.country3.apk
+false
+
+com.mali.AttackOnTitans.apk
+false
+
+com.scanbizcards.apk
+false
+
+com.KansasSecuredTitle.KansasSecuredTitle.apk
+false
+
+com.asq.robert.apk
+false
+
+com.mobisystems.msdict.embedded.wireless.mcgrawhill.csg.apk
+false
+
+com.Bathary.HowtoDrawTattooSkulls.apk
+false
+
+trc.nmcd.apk
+false
+
+com.edupad.app.grade5.math.apk
+false
+
+com.smsfontbundle5.mociniapps.apk
+false
+
+com.dcc.register.apk
+false
+
+com.activision.elite.apk
+false
+
+lifebox.app5037.apk
+false
+
+com.sheado.lite.stopmotion.apk
+false
+
+com.grocerysmarts.grocerylist.apk
+true
+favorite store	save	store	save
+
+jp.kirei_r.sp.diary_free.apk
+false
+
+com.gooutnplay.weedlivewallpaper.apk
+false
+
+com.baviux.pillreminder.apk
+true
+current location	check	current	check
+
+com.ubuntuone.android.files.apk
+true
+private data	track	data	track
+data plan	track	data	track
+data	track	data	track
+data usage	track	data	track
+data connection	track	data	track
+personal data	track	data	track
+weather data	track	data	track
+
+net.danbock.instantradarna.apk
+true
+location service	enter	location	enter
+gps location	enter	location	enter
+location	enter	location	enter
+current location	enter	location	enter
+
+appinventor.ai_vn_thangnd.thinking.apk
+true
+informational purpose	show	information	show
+location information	show	information	show
+additional information	show	information	show
+information	show	information	show
+advertisement information	show	information	show
+following information	show	information	show
+news information	show	information	show
+useful information	show	information	show
+
+com.smartmobilesoftware.phototranslatorlight.apk
+false
+
+com.cast.android.newsshow.apk
+false
+
+com.monotype.android.font.dev.cartoon.apk
+false
+
+com.photofacer.apk
+false
+
+com.jiubang.goscreenlock.theme.thefrogprince.choi.apk
+false
+
+com.appspot.swisscodemonkeys.bald.apk
+false
+
+air.ParentEducation.apk
+false
+
+com.pureengineering.amazoncom.apk
+false
+
+com.appking.kai.apk
+false
+
+com.drugscom.app.apk
+false
+
+mcoprod.livewallpaper.Animated.PeaceWeedFREE.apk
+false
+
+com.renewapps.routerkeys.apk
+true
+hour	change	hour	change
+hourly view	change	hour	change
+
+com.greenleaf.android.translator.enru.c.apk
+false
+
+com.DroiDownloader.apk
+false
+
+com.google.android.apps.gesturesearch.apk
+true
+search	refine	search result	refine
+search point	refine	search result	refine
+search partner	refine	search result	refine
+search result	refine	search result	refine
+search engine	refine	search result	refine
+quick search	refine	search result	refine
+search shortcut	refine	search result	refine
+search monetization	refine	search result	refine
+search bar	refine	search result	refine
+
+com.hook.callrecorder.apk
+false
+
+com.uievolution.android.apk
+false
+
+com.samapp.excelcontacts.excelcontactslite.apk
+false
+
+com.espn.bcs.apk
+true
+alert notification	break	news alert	break
+alert	break	news alert	break
+critical alert	break	news alert	break
+news alert	break	news alert	break
+weather alert	break	news alert	break
+
+gov.bbg.mbn.apk
+false
+
+com.rayg.sirens.apk
+true
+favorite store	save	favorite	save
+
+com.etrade.mobilepro.activity.apk
+false
+
+com.smartPhones.clockwidget.ncaa.live.alabama_AND.apk
+false
+
+com.beirutit.sip.apk
+false
+
+com.kakao.group.apk
+false
+
+com.domobile.iworkout.home.apk
+false
+
+cn.voilet.musicplaypro.apk
+false
+
+appinventor.ai_nori_kuni0826.PaintVessel.apk
+false
+
+org.kivy.showcase.apk
+false
+
+com.onemanwithcamerainsta.apk
+false
+
+com.edicon.video.free.apk
+false
+
+com.vistaconceptsllc.lawofattractionbible.AOUJTBNVKSRAHBFWJK.apk
+false
+
+com.dailylovehoroscopes.net.apk
+false
+
+com.greatdanedevgroup.panera.apk
+false
+
+net.openvpn.openvpn.apk
+false
+
+com.minecraft.houses.apk
+false
+
+com.speakingpal.speechtrainer.sp.apk
+false
+
+mobi.espier.launcher7.apk
+false
+
+com.easytool.increase.wifibooster.apk
+false
+
+flashlight.led.clock.apk
+false
+
+cellfish.nfl2014.apk
+false
+
+com.tcs.emsummit.apk
+true
+map display	provide	venue map	provide
+map view	provide	venue map	provide
+interactive map	provide	venue map	provide
+map	provide	venue map	provide
+route map	provide	venue map	provide
+offline map	provide	venue map	provide
+
+com.ford.mustangcustomizer.apk
+false
+
+com.andromo.dev45074.app239982.apk
+false
+
+com.km.draw.paperartist.apk
+false
+
+com.acr.screenshothd.apk
+false
+
+dev18.comic.ui.apk
+false
+
+com.optionapps.optionapps.apk
+false
+
+com.fluidimages.sooner.source.apk
+false
+
+com.gau.go.launcherex.theme.rainbownight.apk
+false
+
+mobi.lockscreen.magiclocker.theme.free.ml.sence3.apk
+false
+
+com.nahasapps.CallFlash.apk
+false
+
+com.digiwebworks.principlesofattraction.AOUJOCIGPJFJXXIXB.apk
+false
+
+com.jiqiren.zatoufahuazhuangtwo.apk
+false
+
+all.tattoo.girl.designs.apk
+false
+
+com.winktheapp.android.apk
+false
+
+com.silver.WaterRingtones.apk
+false
+
+com.kinetixapps.howtosignlanguage3.apk
+false
+
+com.alsoftspb_nfl.seattle.apk
+false
+
+com.alportela.battery_booster.apk
+false
+
+com.mobilerush.washingtonfootballrushncaa.apk
+false
+
+wsj.reader_sp.apk
+true
+favorite store	save	favorite	save
+
+com.benjaminholfeld.speakchinesefree.apk
+false
+
+us.vernonbook.ebook.SOI.apk
+false
+
+com.fusionprojects.edmodo.apk
+false
+
+air.cz.cfc.androidgp.AnimatedPuzzleLite.apk
+false
+
+pl.com.pics.grid.stich.apk
+false
+
+com.ravensinc.Musictube.apk
+false
+
+com.generalgoodswholesale.customerapp.apk
+false
+
+com.vlfree.film47.apk
+false
+
+com.acrodesign.acrobiblekjv.apk
+false
+
+com.splashpadmobile.cheatcodes2.apk
+false
+
+com.likeapp.topwallpaper.vol1.apk
+false
+
+com.ting.lanrentingxinwen.apk
+false
+
+com.james.SmartUninstaller.apk
+false
+
+net.idt.pennytalk.android.corp.apk
+false
+
+oops.snipershotcamera.apk
+false
+
+com.danvelazco.fbwrapper.apk
+false
+
+in.notworks.flashcards.apk
+false
+
+com.gsamlabs.bbm.apk
+true
+detailed information	detail	wakelock detail	detail
+
+com.rhomobile.rxrelief.apk
+false
+
+com.hala01.wifimanager.apk
+true
+map display	show	graphical map	show
+map view	show	graphical map	show
+interactive map	show	graphical map	show
+map	show	graphical map	show
+route map	show	graphical map	show
+offline map	show	graphical map	show
+
+com.goseet.VidTrim.apk
+false
+
+com.alexpp.mpa.apk
+true
+current position	show	position	show
+
+com.andromo.dev28487.app184186.apk
+true
+informational purpose	give	information	give
+additional information	give	information	give
+information	give	information	give
+advertisement information	give	information	give
+detailed information	give	information	give
+late information	give	information	give
+following information	give	information	give
+news information	give	information	give
+useful information	give	information	give
+
+gov.opm.status.apk
+true
+current	provide	current status	provide
+current location	provide	current status	provide
+
+com.ballerapps.slidingexplorer.apk
+false
+
+wave9.led.flashlight.apk
+false
+
+com.t2.vas.apk
+false
+
+com.bro.network.apk
+false
+
+com.calculadoraebay2.apk
+true
+location information	base	information	base
+
+de.arvidg.onlineradio.apk
+false
+
+com.zero8timetracking.timesheeter.apk
+false
+
+com.tbig.playerpro.widgetpack.apk
+false
+
+com.cast.android.onebangbang.apk
+false
+
+com.alsoftspb_nfl.tampabay.apk
+false
+
+polis.app.callrecorder.apk
+false
+
+com.librotecstar.libroannakar.AOTRMELAHFDAWCJMM.apk
+false
+
+com.wiziapp.app104340.apk
+true
+map display	download	minecraft pocket edition map	download
+map view	download	minecraft pocket edition map	download
+interactive map	download	minecraft pocket edition map	download
+map	download	minecraft pocket edition map	download
+route map	download	minecraft pocket edition map	download
+offline map	download	minecraft pocket edition map	download
+
+com.almalence.panorama.smoothpanorama_free.apk
+false
+
+com.soundfactory.mortalkombat.apk
+false
+
+com.goldenchecklists.gta4.keytothecity.apk
+false
+
+com.qlipso.views.apk
+false
+
+com.jiubang.go.mini.launcher.apk
+false
+
+com.acerolamob.android.surinamenieuws.apk
+false
+
+com.mobilerush.smufootballrush.apk
+false
+
+com.trs.auvio.apk
+false
+
+patil.rakesh.image2pdf.apk
+false
+
+com.live.lwp.galaxy.s3.ripple.s3waterripple.apk
+false
+
+us.mathlab.android.apk
+false
+
+com.tvt.apk
+false
+
+com.analogapps.megamillionsscanner.lite.apk
+false
+
+com.fyq.puzzle.app003.hair.design.apk
+false
+
+com.quickoffice.android.apk
+false
+
+sumsum.freeworkout.apk
+false
+
+com.mdhelper.cardiojournal.apk
+false
+
+mzines.ideasbeedie.apk
+false
+
+com.LiteDroidStudios.fll.naturesfury.apk
+false
+
+com.campussoapbox.soapbox.apk
+false
+
+com.ap.philly.apk
+false
+
+com.znqmobile.onepieceringtones.apk
+false
+
+ShareBuilderMobile.android.apk
+false
+
+edu.sfsu.cs.orange.ocr.apk
+true
+google map	power	google	power
+
+appinventor.ai_tonysaff.babylook.apk
+false
+
+net.ploosh.farm.apk
+false
+
+com.youdao.translator.apk
+false
+
+com.potatotree.myemoticons.apk
+false
+
+com.appwiz.instantsearch.apk
+false
+
+praana.appl.advreminder.apk
+false
+
+com.poker10.poker.apk
+false
+
+com.modiface.nails.apk
+false
+
+jv520c6deaf0e8e.popsa_green_bay_packers_wallpaper.apk
+false
+
+lifebox.app1044.apk
+false
+
+com.socialnmobile.dictdata.dictionary.english.thesaurus.apk
+false
+
+com.potente.apk.installer.apk
+false
+
+com.campmobile.android.screenshot.apk
+false
+
+com.focusmedica.ccfaqheartfailure.apk
+false
+
+com.agilesoftresource.apk
+false
+
+com.mk.iNeedToDo.apk
+false
+
+com.dailymotion.dailymotion.apk
+false
+
+com.tabtale.hitechmomstorybook.apk
+false
+
+com.gtp.nextlauncher.liverpaper.spacestation.apk
+false
+
+com.smartician.wordpic.japanese.apk
+false
+
+com.welovetattoos.app.apk
+false
+
+com.itspark.globaldirectory.apk
+false
+
+com.IdanS.binocularsfree.apk
+false
+
+air.mobi.kidsacademy.gp.num.tracing.lite.apk
+false
+
+com.yijizoom.fasiyy.apk
+false
+
+com.mobilerush.mississippistatefootballrush.apk
+false
+
+com.joko.photile.apk
+false
+
+mp3.zing.vn.apk
+false
+
+com.baylandblue.sounds.horrormovies.apk
+false
+
+com.sec.spp.push.apk
+false
+
+com.acidremap.PPPAllegianceAmbulance.apk
+false
+
+com.zumobi.android.motleyfool.apk
+false
+
+cn.wodong.houses_furniture.apk
+false
+
+com.slavjoy.tattooart.apk
+false
+
+appinventor.ai_ghadeer_olwan1.imagesmnwa3a.apk
+false
+
+org.aap.apk
+false
+
+mcoprod.livewallpaper.Animated.SmokeWeedFREE.apk
+false
+
+com.girlsgames.MyVirtualPet.apk
+false
+
+fi.ohra.impetus.apk
+false
+
+com.reuters.android.activities.apk
+true
+late information	give	late	give
+
+com.gau.go.launcherex.apk
+false
+
+com.jiubang.goscreenlock.theme.ForeverLove.ling.apk
+false
+
+com.mobilerush.tulsafootballrush.apk
+false
+
+com.seancolombo.fodmap.apk
+false
+
+com.qihoo.security.apk
+true
+mobile deposit	make	mobile	make
+
+com.oprek.android.apk
+false
+
+com.surfmaster.mmorpg.apk
+false
+
+com.acme.finance.apk
+true
+account balance	access	moneydesktop account	access
+
+com.shafiq.inquirer.apk
+false
+
+ch.blinkenlights.android.vanilla.apk
+false
+
+com.rainpackaging.hopsteiner.apk
+false
+
+com.dragonflow.apk
+false
+
+com.gtp.nextlauncher.widget.music.apk
+false
+
+com.skollabs.quotes.apk
+false
+
+appinventor.ai_ibcgroup_vn.Max3d.apk
+false
+
+com.studioirregular.pop.apk
+false
+
+embware.phoneblocker.apk
+false
+
+sebatech.soundoflovelivewallpaperlwp.apk
+false
+
+atsoft.utility.swfplay.apk
+false
+
+com.ootpapps.saving.made.simple.apk
+false
+
+pic.play.post.resource.apk
+false
+
+com.itandroid.cedict.apk
+false
+
+com.zodinplex.abc.kids.letters.educational.activities.baby.apk
+false
+
+com.tmnlab.autoresponder.apk
+true
+special someone	send	special	send
+special	send	special	send
+
+com.exerciseinc.apk
+false
+
+com.jacobsmedia.wape.apk
+true
+special someone	send	special	send
+special	send	special	send
+
+com.mobilicos.funnyphotoframes.apk
+false
+
+com.zodinplex.whitenoise.apk
+false
+
+com.huashao.threeD.apk
+false
+
+harveypayne.com.myDietJournal.apk
+false
+
+com.perfection.RRLangel.apk
+false
+
+com.digital_and_dreams.android.swiss_army_knife.apk
+true
+location information	save	information	save
+
+air.com.tinychat.mobile.apk
+false
+
+com.gallery.cloud.sync.apk
+true
+google map	check	google drive	check
+
+mobi.beyondpod.apk
+false
+
+com.tf.thinkdroid.zimbra.apk
+true
+mobile data	activate	thinkfree mobile	activate
+
+com.andronicus.torch.apk
+false
+
+com.mobilenicheapps.gastricbypass.apk
+false
+
+com.kidoz.apk
+false
+
+com.tradeking.mobile.apk
+true
+account balance	access	account	access
+
+youtubeapi.multimedia.freemickeymousee.apk
+false
+
+com.runtastic.android.pedometer.lite.apk
+false
+
+com.misnglesdateapp.apk
+true
+single	date	single	date
+local single	date	single	date
+
+com.ericdodson.williamlevylwp.apk
+false
+
+imagepro.hdtattoodesignspro.apk
+false
+
+hundred.five.easybassbooster.apk
+false
+
+atclic.android.en.babycounter.free.apk
+true
+location information	track	information	track
+
+com.rnsoft.orangecurrency.apk
+true
+location information	exchange	information	exchange
+
+com.reuters.apk
+false
+
+com.pennfoster.studyplan.apk
+false
+
+com.pixign.premiumwallpapers.apk
+false
+
+com.quartertone.medcalc.apk
+false
+
+com.huffingtonpost.android.apk
+false
+
+com.dasur.slideit.skin.custom.apk
+false
+
+com.inagurasi.fcbarcelonanews.apk
+false
+
+mysjp.qinghua.whatsapp.apk
+false
+
+skillet.ringtone.skillet.ringtones.apk
+false
+
+com.guides.minecraftnewm.pe.apk
+false
+
+com.zodinplex.ocean.sounds.relax.sleep.apk
+false
+
+jp.naver.linebrush.android.apk
+false
+
+com.jiubang.goscreenlock.theme.LuckyCat.apk
+false
+
+com.troy1103.callblocker.apk
+false
+
+com.salon.salonapp.apk
+false
+
+cellfish.ironman3wp.apk
+true
+alert notification	activate	alert notification	activate
+alert	activate	alert notification	activate
+critical alert	activate	alert notification	activate
+news alert	activate	alert notification	activate
+weather alert	activate	alert notification	activate
+
+cng.software.linggraffiti.apk
+false
+
+com.digitalpalette.pizap.apk
+false
+
+com.dell.kace.k1mobile.apk
+true
+location service	update	service	update
+
+com.onemanwithcamera.instasketch.apk
+false
+
+com.fight.contents.lovequotes.pro.apk
+false
+
+com.mobisystems.editor.office_with_reg.apk
+true
+local store	share	local cloud stored	share
+store	share	local cloud stored	share
+play store	share	local cloud stored	share
+
+com.localtvllc.fourwarnme.apk
+true
+r feed	provide	live video feed	provide
+twitter feed	provide	live video feed	provide
+feed	provide	live video feed	provide
+
+com.quickenloans.mortgagecalculator.apk
+true
+favorite store	save	favorite	save
+
+com.atino.muvibob.apk
+false
+
+com.mrnumber.blocker.apk
+true
+informational purpose	give	information	give
+additional information	give	information	give
+information	give	information	give
+advertisement information	give	information	give
+detailed information	give	information	give
+late information	give	information	give
+following information	give	information	give
+news information	give	information	give
+useful information	give	information	give
+
+com.neqoo.superkidscoloring.lite.apk
+false
+
+com.andorange.thunder.apk
+false
+
+com.vivox.bobsled.apk
+false
+
+com.staradvertiser.sanewsapp.apk
+true
+weather alert	break	news weather	break
+
+com.wifipasswordrecovery.apk
+false
+
+com.nixpa.kik.video.apk
+false
+
+com.statpump.statpump.apk
+false
+
+com.gtp.nextlauncher.liverpaper.nextbase.apk
+false
+
+hs.shopping.cumparaturi.apk
+false
+
+com.vn.animewallpaper.apk
+false
+
+com.mincorp.chinhsuaanh.apk
+false
+
+com.appsverse.photon.apk
+true
+local store	find	google play store	find
+store	find	google play store	find
+play store	find	google play store	find
+store locator	find	google play store	find
+
+champion.gnuroot.apk
+false
+
+com.gicamp.invisible.apk
+false
+
+com.alsoftspb.nflapps.apk
+false
+
+dbz2010widget.main.apk
+false
+
+com.gaodeditu.binary.cn.apk
+false
+
+org.grothedev.snapsaver.apk
+false
+
+com.fever.skrillexsoundboardmixer.apk
+false
+
+lifebox.app5013.apk
+false
+
+com.tg1p.assassass.apk
+false
+
+com.appquestllc.rtcom.apk
+false
+
+com.librotecstar.audiolibrodracula.apk
+false
+
+com.greatdanedevgroup.saks.apk
+false
+
+com.gau.go.launcherex.theme.cogul.letsgoplay.fourinone.apk
+false
+
+com.seya.plugmusic.apk
+false
+
+com.mobillion.jukebox.apk
+false
+
+mobi.infolife.uninstaller.apk
+false
+
+com.metosphere.moviefree.apk
+false
+
+org.bible.remember_me.apk
+false
+
+com.dynamic.curriculum.vitae.apk
+true
+location information	change	information	change
+
+com.jaison.church.Namaskaram.apk
+false
+
+com.tmarki.mp3amplifier.apk
+false
+
+com.cartoon.club.com.apk
+false
+
+no.elgiganten.jottacloud.android.client.apk
+false
+
+com.uieasier.cashflowlite.apk
+false
+
+com.AAndroid.ListenMySMS.apk
+false
+
+com.hootsuite.droid.full.apk
+false
+
+com.hallmark.cardrewards.apk
+false
+
+com.mongopod.android.lite.apk
+false
+
+mmapps.mirror.free.apk
+false
+
+com.application.fotodanz.apk
+false
+
+air.vats.smoking.calculator.apk
+true
+data usage	provide	real data	provide
+weather data	provide	real data	provide
+
+com.ypyproductions.face360.apk
+false
+
+com.xixihaha.subting.lanrentingyinyu.apk
+false
+
+com.kauf.talking.TalkingBirdsOnAWire.apk
+false
+
+com.mobileisure.liga.bbva.apk
+false
+
+com.trick_photography.apk
+false
+
+com.androidity.wallpaper.funny2.apk
+false
+
+app.gerardo.ortiz.com.apk
+false
+
+com.appspot.swisscodemonkeys.waterfx.apk
+false
+
+androidcafe.self_timer.camera.apk
+false
+
+com.popularapp.periodcalendar.apk
+false
+
+com.urbancloutmobiletv.app.apk
+false
+
+com.angsoft.ang.razadeportiva.apk
+false
+
+com.bittorrent.sync.apk
+false
+
+asp.emoticons.app.apk
+false
+
+com.aid242134.a30.apk
+false
+
+com.honeybee.android.kidsnumberslite.apk
+false
+
+com.jdmdeveloper.hechizos_amor.apk
+false
+
+com.nomachetejuggling.ssl.apk
+false
+
+com.cyclonite.addmefree.apk
+false
+
+com.zodinplex.naturesound.apk
+false
+
+com.groggy.knockknock.apk
+false
+
+com.lite.uninstaller.activity.apk
+true
+search	type	search bar	type
+search point	type	search bar	type
+search result	type	search bar	type
+
+com.kauf.imagefaker.funphotoboothfakeimages.apk
+false
+
+com.greatdanedevgroup.ehow.apk
+false
+
+it.mrqzzz.comedysounds.comedy01.apk
+false
+
+com.bechmanns.schmerz.manager.lite.apk
+false
+
+com.absi.tfctv.apk
+false
+
+com.r22software.splitcaml.apk
+false
+
+com.datapath.july_account_access.apk
+true
+account balance	check	balance	check
+
+com.siirol.notesmanager.apk
+false
+
+com.alexvas.dvr.apk
+false
+
+com.southlabs.android.SharePlusLite.apk
+true
+check-in	check	check	check
+check	check	check	check
+
+net.app.passport.apk
+false
+
+com.zoodles.kidmode.apk
+false
+
+com.rbo.apk
+false
+
+com.beautifulapps.superkeyboard.free.apk
+false
+
+com.intermediaware.dubstep.apk
+false
+
+com.kama.journey.apk
+false
+
+com.estrongs.android.pop.cupcake.apk
+false
+
+com.jp.free.windowsphone81.apk
+false
+
+com.jqrapps.slowmotionvideo.apk
+false
+
+com.volacent.webtogoserver.apk
+false
+
+com.gau.go.launcherex.theme.Robot.dante.fourinone.apk
+false
+
+com.hd.live.android.wallpapers.desktop.cute.fairy.apk
+false
+
+com.anod.calendar.apk
+true
+local weather	show	weather forecast	show
+weather	show	weather forecast	show
+severe weather	show	weather forecast	show
+weather industry	show	weather forecast	show
+news weather	show	weather forecast	show
+weather condition	show	weather forecast	show
+current weather	show	weather forecast	show
+weather information	show	weather forecast	show
+weather forecast	show	weather forecast	show
+
+com.comfi.android.apk
+false
+
+com.ValkA.subwoofer.apk
+false
+
+com.ibsys.app.pns_hou.apk
+false
+
+obg1.FaceBlender.apk
+false
+
+com.caribwatch.apk
+false
+
+com.androiddevelopermx.blogspot.muscle.apk
+false
+
+com.gau.go.launcherex.theme.summerbeach.choi.apk
+false
+
+com.killermobile.totalrecall.apk
+false
+
+mcoprod.livewallpaper.WaterRipplesEffect.WolfGalaxyFREE.apk
+false
+
+com.aid242134.a24.apk
+false
+
+com.caiguda.hdwallpapers.apk
+false
+
+appinventor.ai_positiveapptitude.PatriotsFan.apk
+false
+
+us.yapp.android.apk
+false
+
+com.pjp.qvprep.lite.grade3.apk
+false
+
+com.andromo.dev58853.app166882.apk
+false
+
+com.oldman.suicidegirls.apk
+false
+
+b4a.zephyr.apk
+true
+traffic	avoid	heavy traffic	avoid
+
+com.yaji.viewfinder.apk
+false
+
+net.fft.map199804113.apk
+false
+
+com.outfit7.tomsmessengerfree.apk
+false
+
+com.andromo.dev205137.app229978.apk
+false
+
+com.ericdodson.juicycouturelwp.apk
+false
+
+com.dqminh.manga.apk
+true
+favorite store	save	favorite	save
+
+com.rubycell.pianisthd.apk
+false
+
+com.nbz.wpaper.f5.apk
+false
+
+com.foo.project166.apk
+false
+
+com.adaer.torque.fuelefficiency.apk
+false
+
+com.weirsoftware.stockscreener.apk
+false
+
+com.lighthouse1.mobilebenefits.dbi.apk
+true
+account information	provide	important account	provide
+account	provide	important account	provide
+
+com.xor.photoeditor.apk
+false
+
+com.mydreamhome.app.apk
+false
+
+com.riteshsahu.SMSBackupRestore.apk
+false
+
+com.adamhogan.android.chemtutor.apk
+false
+
+org.baole.app.blacklist.apk
+false
+
+com.fb.glovebox.apk
+false
+
+com.cat.free.theme.ie11.apk
+false
+
+com.jb.gosms.popup.theme.getjar.opticalcard.apk
+false
+
+com.jb.gokeyboard.theme.iphone.getjar.apk
+false
+
+com.piviandco.baldbooth.apk
+false
+
+com.xothemes.contact.pinkzebra.apk
+false
+
+com.buzzpia.aqua.launcher.apk
+false
+
+appinventor.ai_mikedell83.KevinHartSoundboard.apk
+false
+
+lifebox.app2048.apk
+false
+
+com.mobilerush.ucffootballrush.apk
+false
+
+com.otakumode.otakucamera.apk
+false
+
+com.focusmedica.ccfaqstroke.apk
+false
+
+com.kitco.android.free.activities.apk
+false
+
+com.futerox.fbvideos.apk
+false
+
+com.phoenixapp.phoenixpokemoncheatsrbsp.apk
+false
+
+com.mdb.android.fakeiphone.apk
+false
+
+com.xynotec.dictdroid.enes.apk
+false
+
+com.p1.chompsms.apk
+false
+
+net.taskdesigns.android.mymangareaderfree.apk
+false
+
+com.musicapp.android.apk
+false
+
+com.dog.theme.free.iphone5s.apk
+false
+
+com.wuxiastudio.notebooklite.apk
+false
+
+com.Anak1developpement.draguersurbadoo.apk
+false
+
+com.keepsafe.sms.apk
+false
+
+com.tabtale.noahark.google.apk
+false
+
+ru.liogames.hairstyle.apk
+false
+
+com.motorola.migrate.apk
+false
+
+halloween.free.live.wallpaper.apk
+false
+
+com.htq.puzzle.KristenStewart.apk
+false
+
+appinventor.ai_kkfedeapp.entrenamientogluteos.apk
+false
+
+com.gau.go.launcherex.theme.fd.yaki.fourinone.apk
+false
+
+kr.sira.flash.apk
+false
+
+com.miteksystems.android.mobiledeposit.brandable.schoolsfirstfcu.apk
+true
+online	log	schoolsfirst fcu online	log
+online banking	log	schoolsfirst fcu online	log
+
+me.chattie.apk
+false
+
+com.hippoandfriends.helpdiabetes.apk
+true
+private data	measure	ingredient data	measure
+data plan	measure	ingredient data	measure
+data	measure	ingredient data	measure
+data connection	measure	ingredient data	measure
+personal data	measure	ingredient data	measure
+
